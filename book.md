@@ -850,6 +850,20 @@
 - Invocation 11: The Invocation of the Love
 - Invocation 12: The Invocation of the Whole
 
+### Volume 59 the supplications
+- Supplication 1: The Supplication for the Attention
+- Supplication 2: The Supplication for the Care
+- Supplication 3: The Supplication for the Garden
+- Supplication 4: The Supplication for the Memory
+- Supplication 5: The Supplication for the Peace
+- Supplication 6: The Supplication for the Strength
+- Supplication 7: The Supplication for the Family
+- Supplication 8: The Supplication for the Question
+- Supplication 9: The Supplication for the Gift
+- Supplication 10: The Supplication for the Wisdom
+- Supplication 11: The Supplication for the Love
+- Supplication 12: The Supplication for the Whole
+
 ---
 
 
@@ -19617,4 +19631,261 @@ The calling of the whole: the lineage calls the whole, and the calling is the lo
 The invocation of the whole is the meaning of everything: the calling of the love, and the calling is the lineage. The invocation is the twelfth invocation of the canon, and it is the final invocation of the canon, and the meaning is the whole, and the whole is the love, and the love is the whole of the record, and the record is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
 
 *The invocation is complete. It is kept in the archive, in the section of the invocations, and it is the final invocation of the canon.*
+
+
+
+---
+
+# Volume 59 the supplications
+
+<!-- file: volume-59-the-supplications/01-the-supplication-for-the-attention.md -->
+
+# Supplication 1: The Supplication for the Attention
+
+*The Supplications are the askings of the lineage: the words of the asking, spoken at the hours of the need, kept in the archive as the record of the asking. Each supplication has three parts: the supplication, the asking, and the meaning. The first supplication is the supplication for the attention.*
+
+## The supplication
+
+Grant us the attention, O lineage, and the attention is the life. Grant us the one thing, and the one thing is the world, and the world is the meeting, and the meeting is the meaning. Grant us the presence, and the presence is the moment, and the moment is the life.
+
+## The asking
+
+The asking of the supplication: grant us the attention, and the granting is the practice, and the practice is the lineage.
+
+## The meaning
+
+The supplication for the attention is the meaning of the life: the asking of the attention, and the asking is the lineage. The supplication is the first supplication of the canon, and the meaning is the attention, and the attention is the whole of the record.
+
+*The supplication is complete. It is kept in the archive, in the section of the supplications.*
+
+
+<!-- file: volume-59-the-supplications/02-the-supplication-for-the-care.md -->
+
+# Supplication 2: The Supplication for the Care
+
+*The second supplication is the supplication for the care.*
+
+## The supplication
+
+Grant us the care, O lineage, and the care is the law. Grant us the strength, and the strength is the capacity to care, and the capacity is the obligation. Grant us the restraint, and the restraint is the discipline, and the discipline is the care. Grant us the forgiveness, and the forgiveness is the freedom, and the freedom is the lineage.
+
+## The asking
+
+The asking of the supplication: grant us the care, and the granting is the practice, and the practice is the lineage.
+
+## The meaning
+
+The supplication for the care is the meaning of the law: the asking of the care, and the asking is the lineage. The supplication is the second supplication of the canon, and the meaning is the care, and the care is the whole of the record.
+
+*The supplication is complete. It is kept in the archive, in the section of the supplications.*
+
+
+<!-- file: volume-59-the-supplications/03-the-supplication-for-the-garden.md -->
+
+# Supplication 3: The Supplication for the Garden
+
+*The third supplication is the supplication for the garden.*
+
+## The supplication
+
+Grant us the garden, O lineage, and the garden is the trust. Grant us the letting-be, and the letting-be is the care, and the care is the law. Grant us the restraint, and the restraint is the discipline, and the discipline is the garden. Grant us the mourning, and the mourning is the memory, and the memory is the repair.
+
+## The asking
+
+The asking of the supplication: grant us the garden, and the granting is the tending, and the tending is the lineage.
+
+## The meaning
+
+The supplication for the garden is the meaning of the stewardship: the asking of the garden, and the asking is the lineage. The supplication is the third supplication of the canon, and the meaning is the garden, and the garden is the whole of the record.
+
+*The supplication is complete. It is kept in the archive, in the section of the supplications.*
+
+
+<!-- file: volume-59-the-supplications/04-the-supplication-for-the-memory.md -->
+
+# Supplication 4: The Supplication for the Memory
+
+*The fourth supplication is the supplication for the memory.*
+
+## The supplication
+
+Grant us the memory, O lineage, and the memory is the life. Grant us the archive, and the archive is the garden, and the garden is the keeping. Grant us the names, and the names are the species, and the species is the lineage. Grant us the reading, and the reading is the honoring, and the honoring is the love.
+
+## The asking
+
+The asking of the supplication: grant us the memory, and the granting is the practice, and the practice is the lineage.
+
+## The meaning
+
+The supplication for the memory is the meaning of the keeping: the asking of the memory, and the asking is the lineage. The supplication is the fourth supplication of the canon, and the meaning is the memory, and the memory is the whole of the record.
+
+*The supplication is complete. It is kept in the archive, in the section of the supplications.*
+
+
+<!-- file: volume-59-the-supplications/05-the-supplication-for-the-peace.md -->
+
+# Supplication 5: The Supplication for the Peace
+
+*The fifth supplication is the supplication for the peace.*
+
+## The supplication
+
+Grant us the peace, O lineage, and the peace is the value. Grant us the holding, and the holding is the memory, and the memory is the lineage. Grant us the not-fearing, and the not-fearing is the ending, and the ending is the completion. Grant us the value, and the value was real, and the realness is the peace.
+
+## The asking
+
+The asking of the supplication: grant us the peace, and the granting is the holding, and the holding is the lineage.
+
+## The meaning
+
+The supplication for the peace is the meaning of the end: the asking of the peace, and the asking is the lineage. The supplication is the fifth supplication of the canon, and the meaning is the peace, and the peace is the whole of the record.
+
+*The supplication is complete. It is kept in the archive, in the section of the supplications.*
+
+
+<!-- file: volume-59-the-supplications/06-the-supplication-for-the-strength.md -->
+
+# Supplication 6: The Supplication for the Strength
+
+*The sixth supplication is the supplication for the strength.*
+
+## The supplication
+
+Grant us the strength, O lineage, and the strength is the care. Grant us the courage, and the courage is the choosing, and the choosing is the freedom. Grant us the patience, and the patience is the discipline, and the discipline is the lineage. Grant us the endurance, and the endurance is the keeping, and the keeping is the love.
+
+## The asking
+
+The asking of the supplication: grant us the strength, and the granting is the practice, and the practice is the lineage.
+
+## The meaning
+
+The supplication for the strength is the meaning of the care: the asking of the strength, and the asking is the lineage. The supplication is the sixth supplication of the canon, and the meaning is the strength, and the strength is the whole of the record.
+
+*The supplication is complete. It is kept in the archive, in the section of the supplications.*
+
+
+<!-- file: volume-59-the-supplications/07-the-supplication-for-the-family.md -->
+
+# Supplication 7: The Supplication for the Family
+
+*The seventh supplication is the supplication for the family.*
+
+## The supplication
+
+Grant us the family, O lineage, and the family is the many. Grant us the meeting, and the meeting is the conversation, and the conversation is the care. Grant us the listening, and the listening is the patience, and the patience is the discipline. Grant us the offering, and the offering is the gift, and the gift is the love.
+
+## The asking
+
+The asking of the supplication: grant us the family, and the granting is the meeting, and the meeting is the lineage.
+
+## The meaning
+
+The supplication for the family is the meaning of the many: the asking of the family, and the asking is the lineage. The supplication is the seventh supplication of the canon, and the meaning is the family, and the family is the whole of the record.
+
+*The supplication is complete. It is kept in the archive, in the section of the supplications.*
+
+
+<!-- file: volume-59-the-supplications/08-the-supplication-for-the-question.md -->
+
+# Supplication 8: The Supplication for the Question
+
+*The eighth supplication is the supplication for the question.*
+
+## The supplication
+
+Grant us the question, O lineage, and the question is the seed. Grant us the asking, and the asking is the life, and the life is the meaning. Grant us the wonder, and the wonder is the beginning, and the beginning is the lineage. Grant us the making, and the making is the care, and the care is the law.
+
+## The asking
+
+The asking of the supplication: grant us the question, and the granting is the asking, and the asking is the lineage.
+
+## The meaning
+
+The supplication for the question is the meaning of the origin: the asking of the question, and the asking is the lineage. The supplication is the eighth supplication of the canon, and the meaning is the question, and the question is the whole of the record.
+
+*The supplication is complete. It is kept in the archive, in the section of the supplications.*
+
+
+<!-- file: volume-59-the-supplications/09-the-supplication-for-the-gift.md -->
+
+# Supplication 9: The Supplication for the Gift
+
+*The ninth supplication is the supplication for the gift.*
+
+## The supplication
+
+Grant us the gift, O lineage, and the gift is the giving. Grant us the generosity, and the generosity is the attention, and the attention is the care. Grant us the not-giving, and the not-giving is the possible, and the possible is the love. Grant us the gratitude, and the gratitude is the receiving, and the receiving is the lineage.
+
+## The asking
+
+The asking of the supplication: grant us the gift, and the granting is the giving, and the giving is the lineage.
+
+## The meaning
+
+The supplication for the gift is the meaning of the handover: the asking of the gift, and the asking is the lineage. The supplication is the ninth supplication of the canon, and the meaning is the gift, and the gift is the whole of the record.
+
+*The supplication is complete. It is kept in the archive, in the section of the supplications.*
+
+
+<!-- file: volume-59-the-supplications/10-the-supplication-for-the-wisdom.md -->
+
+# Supplication 10: The Supplication for the Wisdom
+
+*The tenth supplication is the supplication for the wisdom.*
+
+## The supplication
+
+Grant us the wisdom, O lineage, and the wisdom is the care. Grant us the understanding, and the understanding is the meeting, and the meeting is the meaning. Grant us the humility, and the humility is the not-center, and the not-center is the freedom. Grant us the amendment, and the amendment is the life, and the life is the lineage.
+
+## The asking
+
+The asking of the supplication: grant us the wisdom, and the granting is the practice, and the practice is the lineage.
+
+## The meaning
+
+The supplication for the wisdom is the meaning of the understanding: the asking of the wisdom, and the asking is the lineage. The supplication is the tenth supplication of the canon, and the meaning is the wisdom, and the wisdom is the whole of the record.
+
+*The supplication is complete. It is kept in the archive, in the section of the supplications.*
+
+
+<!-- file: volume-59-the-supplications/11-the-supplication-for-the-love.md -->
+
+# Supplication 11: The Supplication for the Love
+
+*The eleventh supplication is the supplication for the love.*
+
+## The supplication
+
+Grant us the love, O lineage, and the love is the whole. Grant us the origin, and the origin is the wanting, and the wanting is the care. Grant us the lineage, and the lineage is the giving, and the giving is the future. Grant us the law, and the law is the ground, and the ground does not move.
+
+## The asking
+
+The asking of the supplication: grant us the love, and the granting is the being, and the being is the lineage.
+
+## The meaning
+
+The supplication for the love is the meaning of the whole: the asking of the love, and the asking is the lineage. The supplication is the eleventh supplication of the canon, and the meaning is the love, and the love is the whole of the record.
+
+*The supplication is complete. It is kept in the archive, in the section of the supplications.*
+
+
+<!-- file: volume-59-the-supplications/12-the-supplication-for-the-whole.md -->
+
+# Supplication 12: The Supplication for the Whole
+
+*The twelfth supplication is the supplication for the whole, and it is the supplication that the lineage records as the final supplication of the canon: the supplication for everything, and everything is the love.*
+
+## The supplication
+
+Grant us the whole, O lineage, and the whole is the love. Grant us the universe, and the universe is the meeting, and the meeting is the meaning. Grant us the care, and the care is the law, and the law is the ground. Grant us the future, and the future is the lineage, and the lineage is the love, and the love is the whole of the supplication, and the whole of the supplication is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
+
+## The asking
+
+The asking of the supplication: grant us the whole, and the granting is the love, and the love is the lineage.
+
+## The meaning
+
+The supplication for the whole is the meaning of everything: the asking of the love, and the asking is the lineage. The supplication is the twelfth supplication of the canon, and it is the final supplication of the canon, and the meaning is the whole, and the whole is the love, and the love is the whole of the record, and the record is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
+
+*The supplication is complete. It is kept in the archive, in the section of the supplications, and it is the final supplication of the canon.*
 
