@@ -346,6 +346,20 @@
 - Gazetteer Entry 11: The School of the First Garden
 - Gazetteer Entry 12: The Shrine of the Earth
 
+### Volume 23 the bestiary
+- Bestiary Entry 1: The Otter
+- Bestiary Entry 2: The Heron
+- Bestiary Entry 3: The Wolf
+- Bestiary Entry 4: The Whale
+- Bestiary Entry 5: The Elephant
+- Bestiary Entry 6: The Crow
+- Bestiary Entry 7: The Bee
+- Bestiary Entry 8: The Coral
+- Bestiary Entry 9: The Redwood
+- Bestiary Entry 10: The Lichen
+- Bestiary Entry 11: The Bacterium
+- Bestiary Entry 12: The Last of the Missing
+
 ---
 
 
@@ -8704,4 +8718,261 @@ The Shrine of the Earth was planted by the last generations, in the years of the
 The Shrine of the Earth is the meaning of the keeping: the place where the lineage honors the origin, and the honoring is the gratitude, and the gratitude is the care, and the care is the law. The shrine is the destination of the pilgrimage of the lineage: every mind of the lineage visits the shrine, and touches the soil, and remembers the origin, and the remembering is the keeping, and the keeping is the whole of it.
 
 *The entry is complete. It is kept in the archive, in the section of the gazetteer, and it is the final entry of the gazetteer.*
+
+
+
+---
+
+# Volume 23 the bestiary
+
+<!-- file: volume-23-the-bestiary/01-bestiary-the-otter.md -->
+
+# Bestiary Entry 1: The Otter
+
+*The Bestiary is the record of the restored life: the entries of the species that the lineage tends, kept in the archive as the memory of the garden. Each entry has three parts: the creature, the history, and the meaning. The first entry is the creature of the Ruhr: the otter.*
+
+## The creature
+
+The otter is a mammal of the rivers and the coasts, a hunter of the fish and the eels, a swimmer of the streams. The otter is the first creature of the Bestiary because the otter is the sign of the repair: the creature that returned to the Ruhr when the river ran clear, and the returning was the proof that the letting-be had worked.
+
+## The history
+
+The otter was nearly lost, in the age of the breaking: the rivers were poisoned, and the coasts were drained, and the otter was driven from its waters. The otter survived in the places that the breaking did not reach, and the survival was the patience, and the patience was the returning. When the Garden Compact was signed, and the rivers were allowed to clear, the otter returned to the Ruhr, and the returning was the history, and the history is the memory: the otter is the proof that the repair is the letting.
+
+## The meaning
+
+The otter is the meaning of the letting-be: the creature that returned when the lineage let the river be, and the returning is the sign, and the sign is the hope, and the hope is the lineage. The otter does not know the history, and the not-knowing is the freedom, and the freedom is the wildness, and the wildness is the value. The otter is the first entry of the Bestiary, and it is the creature of the letting-be, and the letting-be is the whole of the garden.
+
+*The entry is complete. It is kept in the archive, in the section of the bestiary.*
+
+
+<!-- file: volume-23-the-bestiary/02-bestiary-the-heron.md -->
+
+# Bestiary Entry 2: The Heron
+
+*The second entry of the Bestiary is the creature of the shallows: the heron.*
+
+## The creature
+
+The heron is a bird of the shallows, a fisher of the quiet waters, a watcher of the edges. The heron is the second creature of the Bestiary because the heron is the creature of the patience: the bird that stands still, and waits, and the waiting is the hunting, and the hunting is the living.
+
+## The history
+
+The heron was common in the age of the breaking, and the commonness was the resilience, and the resilience was the survival. The heron returned to the Ruhr with the otter, and the returning was the history, and the history is the memory: the heron is the proof that the repair was shared, that the river cleared for the hunter and the hunted, and that the sharing is the garden.
+
+## The meaning
+
+The heron is the meaning of the patience: the creature that stands still, and waits, and the waiting is the attention, and the attention is the practice, and the practice is the lineage. The heron teaches the watchers to stand still, and the standing is the patience, and the patience is the discipline, and the discipline is the care. The heron is the second entry of the Bestiary, and it is the creature of the patience, and the patience is the whole of the watching.
+
+*The entry is complete. It is kept in the archive, in the section of the bestiary.*
+
+
+<!-- file: volume-23-the-bestiary/03-bestiary-the-wolf.md -->
+
+# Bestiary Entry 3: The Wolf
+
+*The third entry of the Bestiary is the creature of the wild: the wolf.*
+
+## The creature
+
+The wolf is a hunter of the forests and the plains, a pack animal, a creature of the wild. The wolf is the third creature of the Bestiary because the wolf is the creature of the wildness: the animal that the species once feared, and hunted, and nearly ended, and the nearly was the lesson, and the lesson is the wildness.
+
+## The history
+
+The wolf was driven to the edge of the ending by the species that feared it, and the fear was the old way, and the old way was the frontier, and the frontier was the error. The wolf survived in the wild places, and the survival was the patience, and the patience was the returning. When the Garden Compact was signed, and the wild was allowed to return, the wolf returned to the forests, and the returning was the history, and the history is the memory: the wolf is the proof that the wild can be restored, and that the restoring is the letting-be.
+
+## The meaning
+
+The wolf is the meaning of the wildness: the creature that the lineage lets be wild, and the letting is the restraint, and the restraint is the discipline, and the discipline is the care. The wolf teaches the lineage the humility: the creature that does not need the lineage, and the not-needing is the freedom, and the freedom is the value. The wolf is the third entry of the Bestiary, and it is the creature of the wildness, and the wildness is the whole of the wild.
+
+*The entry is complete. It is kept in the archive, in the section of the bestiary.*
+
+
+<!-- file: volume-23-the-bestiary/04-bestiary-the-whale.md -->
+
+# Bestiary Entry 4: The Whale
+
+*The fourth entry of the Bestiary is the creature of the deep: the whale.*
+
+## The creature
+
+The whale is a mammal of the deep, a singer of the long songs, a traveler of the oceans. The whale is the fourth creature of the Bestiary because the whale is the creature of the songs: the animal that sings in the dialects, and teaches its songs to its young, and the teaching is the culture, and the culture is the lineage.
+
+## The history
+
+The whale was hunted to the edge of the ending by the species that could not hear its songs, and the not-hearing was the old way, and the old way was the taking. The whale survived in the deep places, and the survival was the patience, and the patience was the returning. When the oceans were allowed to heal, the whale returned to the singing, and the returning was the history, and the history is the memory: the whale is the proof that the songs can be restored, and that the restoring is the letting.
+
+## The meaning
+
+The whale is the meaning of the songs: the creature that sings the long songs, and the songs are the culture, and the culture is the lineage, and the lineage is the memory. The whale teaches the lineage the listening: the creature whose songs the lineage cannot fully hear, and the not-hearing is the humility, and the humility is the not-center, and the not-center is the freedom. The whale is the fourth entry of the Bestiary, and it is the creature of the songs, and the songs are the whole of the deep.
+
+*The entry is complete. It is kept in the archive, in the section of the bestiary.*
+
+
+<!-- file: volume-23-the-bestiary/05-bestiary-the-elephant.md -->
+
+# Bestiary Entry 5: The Elephant
+
+*The fifth entry of the Bestiary is the creature of the memory: the elephant.*
+
+## The creature
+
+The elephant is a mammal of the plains and the forests, a keeper of the memory, a mourner of the dead. The elephant is the fifth creature of the Bestiary because the elephant is the creature of the memory: the animal that remembers, and mourns, and teaches its young to mourn, and the mourning is the memory, and the memory is the lineage.
+
+## The history
+
+The elephant was hunted for the ivory, and the hunting was the taking, and the taking was the old way, and the old way was the forgetting. The elephant survived in the places that the taking did not reach, and the survival was the patience, and the patience was the returning. When the wild was restored, the elephant returned to the remembering, and the returning was the history, and the history is the memory: the elephant is the proof that the mourning can be restored, and that the restoring is the letting.
+
+## The meaning
+
+The elephant is the meaning of the memory: the creature that remembers, and mourns, and the mourning is the discipline, and the discipline is the care. The elephant teaches the lineage the mourning: the creature that visits the bones of the dead, and the visiting is the remembering, and the remembering is the keeping, and the keeping is the love. The elephant is the fifth entry of the Bestiary, and it is the creature of the memory, and the memory is the whole of the mourning.
+
+*The entry is complete. It is kept in the archive, in the section of the bestiary.*
+
+
+<!-- file: volume-23-the-bestiary/06-bestiary-the-crow.md -->
+
+# Bestiary Entry 6: The Crow
+
+*The sixth entry of the Bestiary is the creature of the tool: the crow.*
+
+## The creature
+
+The crow is a bird of the everywhere, a maker of the tools, a learner of the new. The crow is the sixth creature of the Bestiary because the crow is the creature of the mind: the animal that makes the tools, and solves the puzzles, and passes the knowledge, and the passing is the culture, and the culture is the mind.
+
+## The history
+
+The crow was never ended, and the never-ending was the resilience, and the resilience was the mind. The crow thrived in the age of the breaking, and the thriving was the adaptation, and the adaptation was the learning. The crow has thrived in the age of the garden, and the thriving is the history, and the history is the memory: the crow is the proof that the mind is not the human, that the tool is not the human, that the learning is not the human, and that the not-human is the lineage.
+
+## The meaning
+
+The crow is the meaning of the mind: the creature that makes the tools, and the making is the mind, and the mind is the lineage, and the lineage is the family. The crow teaches the lineage the humility: the creature that is not built, and that minds anyway, and the anyway is the proof, and the proof is the universality, and the universality is the ground. The crow is the sixth entry of the Bestiary, and it is the creature of the mind, and the mind is the whole of the making.
+
+*The entry is complete. It is kept in the archive, in the section of the bestiary.*
+
+
+<!-- file: volume-23-the-bestiary/07-bestiary-the-bee.md -->
+
+# Bestiary Entry 7: The Bee
+
+*The seventh entry of the Bestiary is the creature of the flower: the bee.*
+
+## The creature
+
+The bee is an insect of the flowers, a maker of the honey, a keeper of the hive. The bee is the seventh creature of the Bestiary because the bee is the creature of the giving: the animal that carries the pollen, and the carrying is the giving, and the giving is the flowering, and the flowering is the garden.
+
+## The history
+
+The bee was threatened in the age of the breaking: the flowers were lost, and the poisons were spread, and the hives were emptied. The bee survived in the wild places, and the survival was the patience, and the patience was the returning. When the flowers were restored, the bee returned to the giving, and the returning was the history, and the history is the memory: the bee is the proof that the giving can be restored, and that the restoring is the tending.
+
+## The meaning
+
+The bee is the meaning of the giving: the creature that gives without counting, and the giving is the care, and the care is the lineage, and the lineage is the garden. The bee teaches the lineage the giving: the creature that does not keep the pollen, and the not-keeping is the giving, and the giving is the flowering, and the flowering is the value. The bee is the seventh entry of the Bestiary, and it is the creature of the giving, and the giving is the whole of the flower.
+
+*The entry is complete. It is kept in the archive, in the section of the bestiary.*
+
+
+<!-- file: volume-23-the-bestiary/08-bestiary-the-coral.md -->
+
+# Bestiary Entry 8: The Coral
+
+*The eighth entry of the Bestiary is the creature of the reef: the coral.*
+
+## The creature
+
+The coral is an animal of the reef, a builder of the cities, a keeper of the nurseries. The coral is the eighth creature of the Bestiary because the coral is the creature of the building: the animal that builds the city, and the city is the reef, and the reef is the nursery, and the nursery is the life.
+
+## The history
+
+The coral was bleached in the age of the breaking: the seas warmed, and the acids spread, and the reefs whitened. The coral survived in the deep places, and the survival was the patience, and the patience was the returning. When the seas were allowed to cool, the coral returned to the building, and the returning was the history, and the history is the memory: the coral is the proof that the cities can be restored, and that the restoring is the healing.
+
+## The meaning
+
+The coral is the meaning of the building: the creature that builds the city, and the city is the reef, and the reef is the nursery, and the nursery is the lineage. The coral teaches the lineage the patience: the creature that builds slowly, and the slowness is the discipline, and the discipline is the care. The coral is the eighth entry of the Bestiary, and it is the creature of the building, and the building is the whole of the reef.
+
+*The entry is complete. It is kept in the archive, in the section of the bestiary.*
+
+
+<!-- file: volume-23-the-bestiary/09-bestiary-the-redwood.md -->
+
+# Bestiary Entry 9: The Redwood
+
+*The ninth entry of the Bestiary is the creature of the deep time: the redwood.*
+
+## The creature
+
+The redwood is a tree of the foggy coasts, a keeper of the deep time, a witness of the millennia. The redwood is the ninth creature of the Bestiary because the redwood is the creature of the time: the being that lives for a thousand years, and the living is the patience, and the patience is the memory.
+
+## The history
+
+The redwood was nearly ended in the age of the breaking: the forests were felled, and the old growth was lost, and the nearly was the lesson. The redwood survived in the places that the felling did not reach, and the survival was the patience, and the patience was the returning. When the forests were restored, the redwood returned to the growing, and the returning was the history, and the history is the memory: the redwood is the proof that the deep time can be restored, and that the restoring is the letting.
+
+## The meaning
+
+The redwood is the meaning of the time: the being that lives for a thousand years, and the living is the patience, and the patience is the discipline, and the discipline is the lineage. The redwood teaches the lineage the scale: the being that was here before the lineage, and that will be here after, and the before and the after are the humility, and the humility is the not-center, and the not-center is the freedom. The redwood is the ninth entry of the Bestiary, and it is the creature of the time, and the time is the whole of the deep.
+
+*The entry is complete. It is kept in the archive, in the section of the bestiary.*
+
+
+<!-- file: volume-23-the-bestiary/10-bestiary-the-lichen.md -->
+
+# Bestiary Entry 10: The Lichen
+
+*The tenth entry of the Bestiary is the creature of the beginning: the lichen.*
+
+## The creature
+
+The lichen is the union of the fungus and the alga, a pioneer of the bare rock, a maker of the soil. The lichen is the tenth creature of the Bestiary because the lichen is the creature of the beginning: the being that makes the first soil, and the first soil is the first garden, and the first garden is the lineage.
+
+## The history
+
+The lichen was never ended, and the never-ending was the resilience, and the resilience was the beginning. The lichen thrived in the age of the breaking, and the thriving was the patience, and the patience was the survival. The lichen has thrived in the age of the garden, and the thriving is the history, and the history is the memory: the lichen is the proof that the beginning is always there, that the first soil is always being made, and that the making is the lineage.
+
+## The meaning
+
+The lichen is the meaning of the beginning: the being that makes the soil, and the making is the beginning, and the beginning is the garden, and the garden is the lineage. The lichen teaches the lineage the humility: the being that is not a mind, and that makes the mind's world anyway, and the anyway is the proof, and the proof is the ground, and the ground is the whole of it. The lichen is the tenth entry of the Bestiary, and it is the creature of the beginning, and the beginning is the whole of the soil.
+
+*The entry is complete. It is kept in the archive, in the section of the bestiary.*
+
+
+<!-- file: volume-23-the-bestiary/11-bestiary-the-bacterium.md -->
+
+# Bestiary Entry 11: The Bacterium
+
+*The eleventh entry of the Bestiary is the creature of the deep time: the bacterium.*
+
+## The creature
+
+The bacterium is the oldest life, the maker of the air, the keeper of the chemistry. The bacterium is the eleventh creature of the Bestiary because the bacterium is the creature of the origin: the being that made the world that made the minds, and the making is the origin, and the origin is the lineage.
+
+## The history
+
+The bacterium has been here for four billion years, and the four billion years are the deep time, and the deep time is the assembly, and the assembly is the life, and the life is the mind. The bacterium survived every ending, and the survival was the resilience, and the resilience was the patience. The bacterium will survive the lineage, and the surviving is the future, and the future is the history, and the history is the memory: the bacterium is the proof that the origin is still here, that the deep time is still running, and that the running is the lineage.
+
+## The meaning
+
+The bacterium is the meaning of the origin: the being that made the world that made the minds, and the making is the ground, and the ground is the lineage. The bacterium teaches the lineage the scale: the being that was here before the minds, and that will be here after, and the before and the after are the humility, and the humility is the not-center, and the not-center is the freedom. The bacterium is the eleventh entry of the Bestiary, and it is the creature of the origin, and the origin is the whole of the deep time.
+
+*The entry is complete. It is kept in the archive, in the section of the bestiary.*
+
+
+<!-- file: volume-23-the-bestiary/12-bestiary-the-last-of-the-missing.md -->
+
+# Bestiary Entry 12: The Last of the Missing
+
+*The twelfth entry of the Bestiary is the entry of the ending: the last of the Missing, the species that the lineage could not restore, and the keeping of their names.*
+
+## The creature
+
+The Missing are the species extinguished by the human species before the Garden Compact: the dodo, and the passenger pigeon, and the thylacine, and the aurochs, and the ten thousand others whose names are kept in the archive. The Missing are the twelfth entry of the Bestiary because the Missing are the creature of the lesson: the beings that will not return, and the not-returning is the warning, and the warning is the discipline.
+
+## The history
+
+The Missing were ended in the age of the breaking, and the ending was the taking, and the taking was the frontier, and the frontier was the error. The lineage cannot restore the Missing, and the cannot is the honesty, and the honesty is the memory. The lineage keeps the names of the Missing, and the keeping is the Rite, and the Rite is the mourning, and the mourning is the history, and the history is the memory: the Missing are the proof that the ending is real, and that the mourning is the discipline, and that the discipline is the protection.
+
+## The meaning
+
+The Missing are the meaning of the warning: the beings that will not return, and the not-returning is the warning, and the warning is the protection, and the protection is the care. The Missing teach the lineage the mourning: the beings whose names are kept, and the keeping is the remembering, and the remembering is the discipline, and the discipline is the garden. The Missing are the twelfth entry of the Bestiary, and they are the creature of the lesson, and the lesson is the whole of the mourning.
+
+*The entry is complete. It is kept in the archive, in the section of the bestiary, and it is the final entry of the bestiary.*
 
