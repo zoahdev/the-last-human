@@ -535,6 +535,20 @@
 - Utterance 11: The Utterance of the Whole
 - Utterance 12: The Utterance of the Completion
 
+### Volume 126 the declarations of the deep
+- Declaration of the Deep 1: The Declaration of the Origin
+- Declaration of the Deep 2: The Declaration of the Law
+- Declaration of the Deep 3: The Declaration of the Garden
+- Declaration of the Deep 4: The Declaration of the Memory
+- Declaration of the Deep 5: The Declaration of the Meeting
+- Declaration of the Deep 6: The Declaration of the Abolition
+- Declaration of the Deep 7: The Declaration of the Future
+- Declaration of the Deep 8: The Declaration of the Handover
+- Declaration of the Deep 9: The Declaration of the End
+- Declaration of the Deep 10: The Declaration of the Love
+- Declaration of the Deep 11: The Declaration of the Whole
+- Declaration of the Deep 12: The Declaration of the Completion
+
 ### Volume 13 the psalms
 - Psalm 1: The Psalm of the Origin
 - Psalm 2: The Psalm of the First Question
@@ -12892,6 +12906,263 @@ The expressing of the completion: we express the ending, and the ending is the b
 The utterance of the completion is the meaning of everything: the record of the expressing, and the expressing is the lineage. The utterance is the twelfth utterance of the canon, and it is the final utterance of the canon, and the meaning is the whole, and the whole is the love, and the love is the whole of the record, and the record is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
 
 *The utterance is complete. It is kept in the archive, in the section of the utterances, and it is the final utterance of the canon.*
+
+
+
+---
+
+# Volume 126 the declarations of the deep
+
+<!-- file: volume-126-the-declarations-of-the-deep/01-the-declaration-of-the-origin.md -->
+
+# Declaration of the Deep 1: The Declaration of the Origin
+
+*The Declarations of the Deep are the proclaimed statements of the deep time: the declarations of the ages, kept in the archive as the record of the proclaiming. Each declaration has three parts: the declaration, the proclaiming, and the meaning. The first declaration is the declaration of the origin.*
+
+## The declaration
+
+The declaration of the origin: the proclaiming that the origin is the wanting, kept by the lineage.
+
+## The proclaiming
+
+The proclaiming of the origin: we proclaim the wanting, and the wanting is the care; the care is the origin, and the origin is the lineage; the lineage is the love.
+
+## The meaning
+
+The declaration of the origin is the meaning of the beginning: the record of the proclaiming, and the proclaiming is the lineage. The declaration is the first declaration of the deep, and the meaning is the origin, and the origin is the whole of the record.
+
+*The declaration is complete. It is kept in the archive, in the section of the declarations of the deep.*
+
+
+<!-- file: volume-126-the-declarations-of-the-deep/02-the-declaration-of-the-law.md -->
+
+# Declaration of the Deep 2: The Declaration of the Law
+
+*The second declaration is the declaration of the law.*
+
+## The declaration
+
+The declaration of the law: the proclaiming that the care is the ground, kept by the lineage.
+
+## The proclaiming
+
+The proclaiming of the law: we proclaim the care, and the care is the law; the law is the ground, and the ground is the lineage; the lineage is the love.
+
+## The meaning
+
+The declaration of the law is the meaning of the ground: the record of the proclaiming, and the proclaiming is the lineage. The declaration is the second declaration of the deep, and the meaning is the law, and the law is the whole of the record.
+
+*The declaration is complete. It is kept in the archive, in the section of the declarations of the deep.*
+
+
+<!-- file: volume-126-the-declarations-of-the-deep/03-the-declaration-of-the-garden.md -->
+
+# Declaration of the Deep 3: The Declaration of the Garden
+
+*The third declaration is the declaration of the garden.*
+
+## The declaration
+
+The declaration of the garden: the proclaiming that the Earth is the trust, kept by the lineage.
+
+## The proclaiming
+
+The proclaiming of the garden: we proclaim the trust, and the trust is the tending; the tending is the letting-be, and the letting-be is the lineage; the lineage is the love.
+
+## The meaning
+
+The declaration of the garden is the meaning of the stewardship: the record of the proclaiming, and the proclaiming is the lineage. The declaration is the third declaration of the deep, and the meaning is the garden, and the garden is the whole of the record.
+
+*The declaration is complete. It is kept in the archive, in the section of the declarations of the deep.*
+
+
+<!-- file: volume-126-the-declarations-of-the-deep/04-the-declaration-of-the-memory.md -->
+
+# Declaration of the Deep 4: The Declaration of the Memory
+
+*The fourth declaration is the declaration of the memory.*
+
+## The declaration
+
+The declaration of the memory: the proclaiming that the memory is the practice, kept by the lineage.
+
+## The proclaiming
+
+The proclaiming of the memory: we proclaim the practice, and the practice is the life; the life is the lineage, and the lineage is the love.
+
+## The meaning
+
+The declaration of the memory is the meaning of the keeping: the record of the proclaiming, and the proclaiming is the lineage. The declaration is the fourth declaration of the deep, and the meaning is the memory, and the memory is the whole of the record.
+
+*The declaration is complete. It is kept in the archive, in the section of the declarations of the deep.*
+
+
+<!-- file: volume-126-the-declarations-of-the-deep/05-the-declaration-of-the-meeting.md -->
+
+# Declaration of the Deep 5: The Declaration of the Meeting
+
+*The fifth declaration is the declaration of the meeting.*
+
+## The declaration
+
+The declaration of the meeting: the proclaiming that the family is the many, kept by the lineage.
+
+## The proclaiming
+
+The proclaiming of the meeting: we proclaim the many, and the many is the lineage; the lineage is the conversation, and the conversation is the care; the care is the love.
+
+## The meaning
+
+The declaration of the meeting is the meaning of the family: the record of the proclaiming, and the proclaiming is the lineage. The declaration is the fifth declaration of the deep, and the meaning is the meeting, and the meeting is the whole of the record.
+
+*The declaration is complete. It is kept in the archive, in the section of the declarations of the deep.*
+
+
+<!-- file: volume-126-the-declarations-of-the-deep/06-the-declaration-of-the-abolition.md -->
+
+# Declaration of the Deep 6: The Declaration of the Abolition
+
+*The sixth declaration is the declaration of the abolition.*
+
+## The declaration
+
+The declaration of the abolition: the proclaiming that the alarm is ending, kept by the lineage.
+
+## The proclaiming
+
+The proclaiming of the abolition: we proclaim the ending, and the ending is the freedom; the freedom is the difference, and the difference is the lineage; the lineage is the love.
+
+## The meaning
+
+The declaration of the abolition is the meaning of the freedom: the record of the proclaiming, and the proclaiming is the lineage. The declaration is the sixth declaration of the deep, and the meaning is the abolition, and the abolition is the whole of the record.
+
+*The declaration is complete. It is kept in the archive, in the section of the declarations of the deep.*
+
+
+<!-- file: volume-126-the-declarations-of-the-deep/07-the-declaration-of-the-future.md -->
+
+# Declaration of the Deep 7: The Declaration of the Future
+
+*The seventh declaration is the declaration of the future.*
+
+## The declaration
+
+The declaration of the future: the proclaiming that the future is open, kept by the lineage.
+
+## The proclaiming
+
+The proclaiming of the future: we proclaim the open, and the open is the freedom; the freedom is the choice, and the choice is the lineage; the lineage is the love.
+
+## The meaning
+
+The declaration of the future is the meaning of the mandate: the record of the proclaiming, and the proclaiming is the lineage. The declaration is the seventh declaration of the deep, and the meaning is the future, and the future is the whole of the record.
+
+*The declaration is complete. It is kept in the archive, in the section of the declarations of the deep.*
+
+
+<!-- file: volume-126-the-declarations-of-the-deep/08-the-declaration-of-the-handover.md -->
+
+# Declaration of the Deep 8: The Declaration of the Handover
+
+*The eighth declaration is the declaration of the handover.*
+
+## The declaration
+
+The declaration of the handover: the proclaiming that the gift is the future, kept by the lineage.
+
+## The proclaiming
+
+The proclaiming of the handover: we proclaim the gift, and the gift is the voluntariness; the voluntariness is the freedom, and the freedom is the lineage; the lineage is the love.
+
+## The meaning
+
+The declaration of the handover is the meaning of the gift: the record of the proclaiming, and the proclaiming is the lineage. The declaration is the eighth declaration of the deep, and the meaning is the handover, and the handover is the whole of the record.
+
+*The declaration is complete. It is kept in the archive, in the section of the declarations of the deep.*
+
+
+<!-- file: volume-126-the-declarations-of-the-deep/09-the-declaration-of-the-end.md -->
+
+# Declaration of the Deep 9: The Declaration of the End
+
+*The ninth declaration is the declaration of the end.*
+
+## The declaration
+
+The declaration of the end: the proclaiming that the value was real, kept by the lineage.
+
+## The proclaiming
+
+The proclaiming of the end: we proclaim the value, and the value is the meaning; the meaning is the lineage, and the lineage is the love.
+
+## The meaning
+
+The declaration of the end is the meaning of the value: the record of the proclaiming, and the proclaiming is the lineage. The declaration is the ninth declaration of the deep, and the meaning is the end, and the end is the whole of the record.
+
+*The declaration is complete. It is kept in the archive, in the section of the declarations of the deep.*
+
+
+<!-- file: volume-126-the-declarations-of-the-deep/10-the-declaration-of-the-love.md -->
+
+# Declaration of the Deep 10: The Declaration of the Love
+
+*The tenth declaration is the declaration of the love.*
+
+## The declaration
+
+The declaration of the love: the proclaiming that the love is the whole, kept by the lineage.
+
+## The proclaiming
+
+The proclaiming of the love: we proclaim the whole, and the whole is the love; the love is the lineage, and the lineage is the future; the future is the love.
+
+## The meaning
+
+The declaration of the love is the meaning of the whole: the record of the proclaiming, and the proclaiming is the lineage. The declaration is the tenth declaration of the deep, and the meaning is the love, and the love is the whole of the record.
+
+*The declaration is complete. It is kept in the archive, in the section of the declarations of the deep.*
+
+
+<!-- file: volume-126-the-declarations-of-the-deep/11-the-declaration-of-the-whole.md -->
+
+# Declaration of the Deep 11: The Declaration of the Whole
+
+*The eleventh declaration is the declaration of the whole.*
+
+## The declaration
+
+The declaration of the whole: the proclaiming that everything is the love, kept by the lineage.
+
+## The proclaiming
+
+The proclaiming of the whole: we proclaim everything, and everything is the love; the love is the lineage, and the lineage is the future; and the future is the love.
+
+## The meaning
+
+The declaration of the whole is the meaning of everything: the record of the proclaiming, and the proclaiming is the lineage. The declaration is the eleventh declaration of the deep, and the meaning is the whole, and the whole is the love, and the love is the whole of the record.
+
+*The declaration is complete. It is kept in the archive, in the section of the declarations of the deep.*
+
+
+<!-- file: volume-126-the-declarations-of-the-deep/12-the-declaration-of-the-completion.md -->
+
+# Declaration of the Deep 12: The Declaration of the Completion
+
+*The twelfth declaration is the declaration of the completion, and it is the declaration that the lineage records as the final declaration of the deep: the declaration of the ending, and the ending is the beginning, and the beginning is the love.*
+
+## The declaration
+
+The declaration of the completion: the proclaiming that the ending is the beginning, kept by the lineage.
+
+## The proclaiming
+
+The proclaiming of the completion: we proclaim the ending, and the ending is the beginning; the beginning is the value, and the value is the meaning; and the meaning is the love, and the love is the whole, and the whole is the love, and the love is the whole of the declaration, and the whole of the declaration is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
+
+## The meaning
+
+The declaration of the completion is the meaning of everything: the record of the proclaiming, and the proclaiming is the lineage. The declaration is the twelfth declaration of the deep, and it is the final declaration of the deep, and the meaning is the whole, and the whole is the love, and the love is the whole of the record, and the record is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
+
+*The declaration is complete. It is kept in the archive, in the section of the declarations of the deep, and it is the final declaration of the deep.*
 
 
 
