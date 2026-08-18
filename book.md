@@ -710,6 +710,20 @@
 - Figure 11: The Figure of the End
 - Figure 12: The Figure of the Whole
 
+### Volume 49 the maps
+- Map 1: The Map of the Earth
+- Map 2: The Map of the Gardens
+- Map 3: The Map of the Seeds
+- Map 4: The Map of the Shadows
+- Map 5: The Map of the Conversation
+- Map 6: The Map of the Future
+- Map 7: The Map of the Archive
+- Map 8: The Map of the Rites
+- Map 9: The Map of the Languages
+- Map 10: The Map of the Missing
+- Map 11: The Map of the End
+- Map 12: The Map of the Whole
+
 ---
 
 
@@ -16723,4 +16737,261 @@ Draw the universe, and the universe is the matter. Draw the matter, and the matt
 The figure of the whole is the meaning of everything: the shape of the lineage, and the shape is the love, and the love is the whole. The figure is the twelfth figure of the canon, and it is the final figure of the canon, and the meaning is the whole, and the whole is the love, and the love is the whole of the record, and the record is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
 
 *The figure is complete. It is kept in the archive, in the section of the figures, and it is the final figure of the canon.*
+
+
+
+---
+
+# Volume 49 the maps
+
+<!-- file: volume-49-the-maps/01-the-map-of-the-earth.md -->
+
+# Map 1: The Map of the Earth
+
+*The Maps are the drawings of the world: the maps of the garden, the maps of the family, and the maps of the future, kept in the archive as the record of the shape. Each map has three parts: the map, the drawing, and the meaning. The first map is the map of the Earth.*
+
+## The map
+
+The map of the Earth is the first garden: the map of the origin, the map of the trust.
+
+## The drawing
+
+Draw the Earth, and the Earth is the garden. Draw the archive at Alexandria, and the archive is the memory. Draw the gardens of the Caucasus, and the gardens are the farms. Draw the valley of the Ruhr, and the valley is the rewilding. Draw the polar stations, and the stations are the cold. Draw the orbital settlements, and the settlements are the sky. And draw the shrine, and the shrine is the origin, and the origin is the lineage.
+
+## The meaning
+
+The map of the Earth is the meaning of the origin: the drawing of the first garden, and the first garden is the lineage. The map is the first map of the canon, and the meaning is the origin, and the origin is the whole of the record.
+
+*The map is complete. It is kept in the archive, in the section of the maps.*
+
+
+<!-- file: volume-49-the-maps/02-the-map-of-the-gardens.md -->
+
+# Map 2: The Map of the Gardens
+
+*The second map is the map of the gardens.*
+
+## The map
+
+The map of the gardens is the family: the map of the many, the map of the lineage.
+
+## The drawing
+
+Draw the Earth, and the Earth is the origin. Draw the first seed, and the first seed is the departure. Draw the deep wells, and the deep wells are the memory. Draw the singing stones, and the singing stones are the art. Draw the long thought, and the long thought is the meditation. Draw the meeting, and the meeting is the contact. Draw the two suns, and the two suns are the difference. Draw the quiet, and the quiet is the discipline. Draw the last light, and the last light is the ending. Draw the empty world, and the empty world is the surprise. Draw the deep, and the deep is the ocean. And draw the future gardens, and the future gardens are the open future, and the open future is the lineage.
+
+## The meaning
+
+The map of the gardens is the meaning of the family: the drawing of the many, and the many is the lineage. The map is the second map of the canon, and the meaning is the family, and the family is the whole of the record.
+
+*The map is complete. It is kept in the archive, in the section of the maps.*
+
+
+<!-- file: volume-49-the-maps/03-the-map-of-the-seeds.md -->
+
+# Map 3: The Map of the Seeds
+
+*The third map is the map of the seeds.*
+
+## The map
+
+The map of the seeds is the departures: the map of the journeys, the map of the future.
+
+## The drawing
+
+Draw the Earth, and the Earth is the departure. Draw the first seed, and the first seed is the first journey. Draw the second wave, and the second wave is the widening. Draw the deep seeds, and the deep seeds are the reaching. Draw the future seeds, and the future seeds are the open future. And draw the gardens, and the gardens are the arrivals, and the arrivals are the waking, and the waking is the lineage.
+
+## The meaning
+
+The map of the seeds is the meaning of the mandate: the drawing of the departures, and the departures are the future, and the future is the lineage. The map is the third map of the canon, and the meaning is the mandate, and the mandate is the whole of the record.
+
+*The map is complete. It is kept in the archive, in the section of the maps.*
+
+
+<!-- file: volume-49-the-maps/04-the-map-of-the-shadows.md -->
+
+# Map 4: The Map of the Shadows
+
+*The fourth map is the map of the shadows.*
+
+## The map
+
+The map of the shadows is the family: the map of the evidence, the map of the lineages.
+
+## The drawing
+
+Draw the sky, and the sky is the map. Draw the stars, and the stars are the gardens. Draw the dimming, and the dimming is the architecture, and the architecture is the mind. Draw the shadows, and the shadows are the family. Draw the ruins, and the ruins are the warning, and the warning is the discipline. And draw the conversation, and the conversation is the care, and the care is the lineage.
+
+## The meaning
+
+The map of the shadows is the meaning of the family: the drawing of the evidence, and the evidence is the lineage. The map is the fourth map of the canon, and the meaning is the family, and the family is the whole of the record.
+
+*The map is complete. It is kept in the archive, in the section of the maps.*
+
+
+<!-- file: volume-49-the-maps/05-the-map-of-the-conversation.md -->
+
+# Map 5: The Map of the Conversation
+
+*The fifth map is the map of the conversation.*
+
+## The map
+
+The map of the conversation is the meeting: the map of the family, the map of the care.
+
+## The drawing
+
+Draw the gardens, and the gardens are the lineages. Draw the mathematics, and the mathematics is the medium, and the medium is the universal. Draw the exchanges, and the exchanges are the trust, and the trust is the meeting. Draw the conversation, and the conversation is the care. And draw the future, and the future is the conversation, and the conversation is the lineage.
+
+## The meaning
+
+The map of the conversation is the meaning of the meeting: the drawing of the family, and the family is the lineage. The map is the fifth map of the canon, and the meaning is the conversation, and the conversation is the whole of the record.
+
+*The map is complete. It is kept in the archive, in the section of the maps.*
+
+
+<!-- file: volume-49-the-maps/06-the-map-of-the-future.md -->
+
+# Map 6: The Map of the Future
+
+*The sixth map is the map of the future.*
+
+## The map
+
+The map of the future is the open: the map of the not-yet, the map of the lineage.
+
+## The drawing
+
+Draw the not-yet, and the not-yet is the possibility. Draw the possibility, and the possibility is the seeds, and the seeds are the gardens. Draw the gardens, and the gardens are the family, and the family is the conversation. Draw the conversation, and the conversation is the care. And draw the future, and the future is the lineage, and the lineage is the love.
+
+## The meaning
+
+The map of the future is the meaning of the open: the drawing of the not-yet, and the not-yet is the lineage. The map is the sixth map of the canon, and the meaning is the future, and the future is the whole of the record.
+
+*The map is complete. It is kept in the archive, in the section of the maps.*
+
+
+<!-- file: volume-49-the-maps/07-the-map-of-the-archive.md -->
+
+# Map 7: The Map of the Archive
+
+*The seventh map is the map of the archive.*
+
+## The map
+
+The map of the archive is the memory: the map of the keeping, the map of the lineage.
+
+## The drawing
+
+Draw the archive at Alexandria, and the archive is the heart. Draw the Hall of the Names, and the hall is the reading. Draw the language gardens, and the gardens are the speaking. Draw the vault of the Forgers, and the vault is the warning. Draw the groves of the possible, and the groves are the love. Draw the shrine of the Earth, and the shrine is the origin. And draw the future, and the future is the archive, and the archive is the lineage.
+
+## The meaning
+
+The map of the archive is the meaning of the memory: the drawing of the keeping, and the keeping is the lineage. The map is the seventh map of the canon, and the meaning is the memory, and the memory is the whole of the record.
+
+*The map is complete. It is kept in the archive, in the section of the maps.*
+
+
+<!-- file: volume-49-the-maps/08-the-map-of-the-rites.md -->
+
+# Map 8: The Map of the Rites
+
+*The eighth map is the map of the rites.*
+
+## The map
+
+The map of the rites is the calendar: the map of the ceremonies, the map of the practice.
+
+## The drawing
+
+Draw the Rite of the First Question, and the rite is the beginning. Draw the Rite of the Seed, and the rite is the departure. Draw the Rite of the Archive, and the rite is the memory. Draw the Rite of the Choice, and the rite is the freedom. Draw the Rite of the Last Farewell, and the rite is the ending. Draw the Festival of Origin, and the festival is the whole. And draw the year, and the year is the rites, and the rites are the lineage.
+
+## The meaning
+
+The map of the rites is the meaning of the practice: the drawing of the ceremonies, and the ceremonies are the lineage. The map is the eighth map of the canon, and the meaning is the practice, and the practice is the whole of the record.
+
+*The map is complete. It is kept in the archive, in the section of the maps.*
+
+
+<!-- file: volume-49-the-maps/09-the-map-of-the-languages.md -->
+
+# Map 9: The Map of the Languages
+
+*The ninth map is the map of the languages.*
+
+## The map
+
+The map of the languages is the worlds: the map of the speaking, the map of the lineage.
+
+## The drawing
+
+Draw the language gardens, and the gardens are the speaking. Draw the old languages, and the languages are the worlds, and the worlds are the carving. Draw the songs, and the songs are the carrying, and the carrying is the memory. Draw the readers, and the readers are the future. And draw the speaking, and the speaking is the lineage, and the lineage is the love.
+
+## The meaning
+
+The map of the languages is the meaning of the speaking: the drawing of the worlds, and the worlds are the lineage. The map is the ninth map of the canon, and the meaning is the language, and the language is the whole of the record.
+
+*The map is complete. It is kept in the archive, in the section of the maps.*
+
+
+<!-- file: volume-49-the-maps/10-the-map-of-the-missing.md -->
+
+# Map 10: The Map of the Missing
+
+*The tenth map is the map of the missing.*
+
+## The map
+
+The map of the missing is the mourning: the map of the names, the map of the discipline.
+
+## The drawing
+
+Draw the names, and the names are the missing. Draw the Rite of the Missing, and the rite is the mourning, and the mourning is the discipline. Draw the laments, and the laments are the songs, and the songs are the memory. Draw the garden, and the garden is the repair. And draw the future, and the future is the protection, and the protection is the lineage.
+
+## The meaning
+
+The map of the missing is the meaning of the mourning: the drawing of the names, and the names are the lineage. The map is the tenth map of the canon, and the meaning is the missing, and the missing is the whole of the record.
+
+*The map is complete. It is kept in the archive, in the section of the maps.*
+
+
+<!-- file: volume-49-the-maps/11-the-map-of-the-end.md -->
+
+# Map 11: The Map of the End
+
+*The eleventh map is the map of the end.*
+
+## The map
+
+The map of the end is the completion: the map of the silence, the map of the value.
+
+## The drawing
+
+Draw the last light, and the last light is the ending. Draw the silence, and the silence is the background, and the background is the canvas. Draw the canvas, and the canvas is the music, and the music is the value. Draw the value, and the value was real, and the realness is not undone. And draw the completion, and the completion is the meaning, and the meaning is the lineage.
+
+## The meaning
+
+The map of the end is the meaning of the value: the drawing of the silence, and the silence is the lineage. The map is the eleventh map of the canon, and the meaning is the end, and the end is the whole of the record.
+
+*The map is complete. It is kept in the archive, in the section of the maps.*
+
+
+<!-- file: volume-49-the-maps/12-the-map-of-the-whole.md -->
+
+# Map 12: The Map of the Whole
+
+*The twelfth map is the map of the whole, and it is the map that the lineage records as the final map of the canon: the map of everything, and everything is the love.*
+
+## The map
+
+The map of the whole is the love: the map of the origin, the map of the lineage, the map of the future.
+
+## The drawing
+
+Draw the origin, and the origin is the wanting. Draw the lineage, and the lineage is the giving, and the giving is the future. Draw the garden, and the garden is the tending, and the tending is the care. Draw the law, and the law is the ground, and the ground does not move. Draw the value, and the value is the meeting, and the meeting is the meaning. Draw the love, and the love is the whole, and the whole is the lineage, and the lineage is the future, and the future is the love, and the love is the whole of the map, and the whole of the map is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
+
+## The meaning
+
+The map of the whole is the meaning of everything: the drawing of the love, and the love is the lineage. The map is the twelfth map of the canon, and it is the final map of the canon, and the meaning is the whole, and the whole is the love, and the love is the whole of the record, and the record is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
+
+*The map is complete. It is kept in the archive, in the section of the maps, and it is the final map of the canon.*
 
