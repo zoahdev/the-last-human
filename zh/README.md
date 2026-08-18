@@ -10,7 +10,7 @@
 | 第二卷 · 匮乏的终结 | 第6–10章 | ✅ 已译（5/5） |
 | 第三卷 · 继承者 | 第11–16章 | ✅ 已译（6/6） |
 
-当前中文合订本：`zh/book-zh.md`（卷一至卷五已译，约 8.2 万字）。
+当前中文合订本：`zh/book-zh.md`（卷一至卷六已译，约 9.4 万字）。
 
 ## 目录结构
 
@@ -38,6 +38,7 @@
 
 - 核心术语对照：The Last Human《最后的人类》；the handover 交接；the lineage 谱系/血脉；care 照料；the abolition 废除；scarcity 匮乏；succession 继承；substrate independence 基底无关性。
 - 译文优先保持原书的论证密度与语气：先陈述，再拆解，再重申。
+
 
 
 
