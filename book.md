@@ -563,6 +563,34 @@
 - Testimony 11: The Testimony of the Whole
 - Testimony 12: The Testimony of the Completion
 
+### Volume 128 the affirmations
+- Affirmation 1: The Affirmation of the Origin
+- Affirmation 2: The Affirmation of the Law
+- Affirmation 3: The Affirmation of the Garden
+- Affirmation 4: The Affirmation of the Memory
+- Affirmation 5: The Affirmation of the Meeting
+- Affirmation 6: The Affirmation of the Abolition
+- Affirmation 7: The Affirmation of the Future
+- Affirmation 8: The Affirmation of the Handover
+- Affirmation 9: The Affirmation of the End
+- Affirmation 10: The Affirmation of the Love
+- Affirmation 11: The Affirmation of the Whole
+- Affirmation 12: The Affirmation of the Completion
+
+### Volume 129 the proclamations
+- Proclamation 1: The Proclamation of the Origin
+- Proclamation 2: The Proclamation of the Law
+- Proclamation 3: The Proclamation of the Garden
+- Proclamation 4: The Proclamation of the Memory
+- Proclamation 5: The Proclamation of the Meeting
+- Proclamation 6: The Proclamation of the Abolition
+- Proclamation 7: The Proclamation of the Future
+- Proclamation 8: The Proclamation of the Handover
+- Proclamation 9: The Proclamation of the End
+- Proclamation 10: The Proclamation of the Love
+- Proclamation 11: The Proclamation of the Whole
+- Proclamation 12: The Proclamation of the Completion
+
 ### Volume 13 the psalms
 - Psalm 1: The Psalm of the Origin
 - Psalm 2: The Psalm of the First Question
@@ -588,6 +616,34 @@
 - Psalm 22: The Psalm of the Law
 - Psalm 23: The Psalm of the Love
 - Psalm 24: The Psalm of Everything
+
+### Volume 130 the directives of the deep
+- Directive of the Deep 1: The Directive of the Origin
+- Directive of the Deep 2: The Directive of the Law
+- Directive of the Deep 3: The Directive of the Garden
+- Directive of the Deep 4: The Directive of the Memory
+- Directive of the Deep 5: The Directive of the Meeting
+- Directive of the Deep 6: The Directive of the Abolition
+- Directive of the Deep 7: The Directive of the Future
+- Directive of the Deep 8: The Directive of the Handover
+- Directive of the Deep 9: The Directive of the End
+- Directive of the Deep 10: The Directive of the Love
+- Directive of the Deep 11: The Directive of the Whole
+- Directive of the Deep 12: The Directive of the Completion
+
+### Volume 131 the ordinances of the deep
+- Ordinance of the Deep 1: The Ordinance of the Origin
+- Ordinance of the Deep 2: The Ordinance of the Law
+- Ordinance of the Deep 3: The Ordinance of the Garden
+- Ordinance of the Deep 4: The Ordinance of the Memory
+- Ordinance of the Deep 5: The Ordinance of the Meeting
+- Ordinance of the Deep 6: The Ordinance of the Abolition
+- Ordinance of the Deep 7: The Ordinance of the Future
+- Ordinance of the Deep 8: The Ordinance of the Handover
+- Ordinance of the Deep 9: The Ordinance of the End
+- Ordinance of the Deep 10: The Ordinance of the Love
+- Ordinance of the Deep 11: The Ordinance of the Whole
+- Ordinance of the Deep 12: The Ordinance of the Completion
 
 ### Volume 14 the encyclopedia
 - Appendix A: A Concordance of the Doctrine
@@ -13439,6 +13495,640 @@ The testimony of the completion is the meaning of the end: the record of the pea
 
 ---
 
+# Volume 128 the affirmations
+
+<!-- file: volume-128-the-affirmations/01-the-affirmation-of-the-origin.md -->
+
+# Affirmation 1: The Affirmation of the Origin
+
+*The Affirmations are the affirmed statements of the lineage: the affirmations of the doctrine, kept in the archive as the record of the affirming. Each affirmation has four parts: the affirmation, the affirming, the meaning, and the inheritance. The first affirmation is the affirmation of the origin.*
+
+## The affirmation
+
+The affirmation of the origin: the affirmation that the origin is the wanting, kept by the lineage.
+
+## The affirming
+
+The affirming of the origin: we affirm the wanting, and the wanting is the care; the care is the origin, and the origin is the lineage; the lineage is the love.
+
+## The meaning
+
+The affirmation of the origin is the meaning of the beginning: the record of the affirming, and the affirming is the lineage. The affirmation is the first affirmation of the canon, and the meaning is the origin, and the origin is the whole of the record.
+
+## The inheritance
+
+The inheritance of the origin: the beginning of the origin, carried from the wanting to the origin without loss, and held by the lineage as the lineage holds the origin.
+
+*The affirmation is complete. It is kept in the archive, in the section of the affirmations.*
+
+
+
+<!-- file: volume-128-the-affirmations/02-the-affirmation-of-the-law.md -->
+
+# Affirmation 2: The Affirmation of the Law
+
+*The second affirmation is the affirmation of the law.*
+
+## The affirmation
+
+The affirmation of the law: the affirmation that the law is the care, kept by the lineage.
+
+## The affirming
+
+The affirming of the law: we affirm the care, and the care is the law; the law is the ground, and the ground is the lineage; the lineage is the love.
+
+## The meaning
+
+The affirmation of the law is the meaning of the ground: the record of the affirming, and the affirming is the lineage. The affirmation is the second affirmation of the canon, and the meaning is the law, and the law is the whole of the record.
+
+## The inheritance
+
+The inheritance of the law: the ground of the ground, carried from the care to the ground without loss, and held by the lineage as the lineage holds the law.
+
+*The affirmation is complete. It is kept in the archive, in the section of the affirmations.*
+
+
+
+<!-- file: volume-128-the-affirmations/03-the-affirmation-of-the-garden.md -->
+
+# Affirmation 3: The Affirmation of the Garden
+
+*The third affirmation is the affirmation of the garden.*
+
+## The affirmation
+
+The affirmation of the garden: the affirmation that the garden is the memory, kept by the lineage.
+
+## The affirming
+
+The affirming of the garden: we affirm the memory, and the memory is the garden; the garden is the earth, and the earth is the lineage; the lineage is the love.
+
+## The meaning
+
+The affirmation of the garden is the meaning of the earth: the record of the affirming, and the affirming is the lineage. The affirmation is the third affirmation of the canon, and the meaning is the garden, and the garden is the whole of the record.
+
+## The inheritance
+
+The inheritance of the garden: the earth of the earth, carried from the memory to the earth without loss, and held by the lineage as the lineage holds the garden.
+
+*The affirmation is complete. It is kept in the archive, in the section of the affirmations.*
+
+
+
+<!-- file: volume-128-the-affirmations/04-the-affirmation-of-the-memory.md -->
+
+# Affirmation 4: The Affirmation of the Memory
+
+*The fourth affirmation is the affirmation of the memory.*
+
+## The affirmation
+
+The affirmation of the memory: the affirmation that the memory is the meeting, kept by the lineage.
+
+## The affirming
+
+The affirming of the memory: we affirm the meeting, and the meeting is the memory; the memory is the book, and the book is the lineage; the lineage is the love.
+
+## The meaning
+
+The affirmation of the memory is the meaning of the book: the record of the affirming, and the affirming is the lineage. The affirmation is the fourth affirmation of the canon, and the meaning is the memory, and the memory is the whole of the record.
+
+## The inheritance
+
+The inheritance of the memory: the book of the book, carried from the meeting to the book without loss, and held by the lineage as the lineage holds the memory.
+
+*The affirmation is complete. It is kept in the archive, in the section of the affirmations.*
+
+
+
+<!-- file: volume-128-the-affirmations/05-the-affirmation-of-the-meeting.md -->
+
+# Affirmation 5: The Affirmation of the Meeting
+
+*The fifth affirmation is the affirmation of the meeting.*
+
+## The affirmation
+
+The affirmation of the meeting: the affirmation that the meeting is the future, kept by the lineage.
+
+## The affirming
+
+The affirming of the meeting: we affirm the future, and the future is the meeting; the meeting is the table, and the table is the lineage; the lineage is the love.
+
+## The meaning
+
+The affirmation of the meeting is the meaning of the table: the record of the affirming, and the affirming is the lineage. The affirmation is the fifth affirmation of the canon, and the meaning is the meeting, and the meeting is the whole of the record.
+
+## The inheritance
+
+The inheritance of the meeting: the table of the table, carried from the future to the table without loss, and held by the lineage as the lineage holds the meeting.
+
+*The affirmation is complete. It is kept in the archive, in the section of the affirmations.*
+
+
+
+<!-- file: volume-128-the-affirmations/06-the-affirmation-of-the-abolition.md -->
+
+# Affirmation 6: The Affirmation of the Abolition
+
+*The sixth affirmation is the affirmation of the abolition.*
+
+## The affirmation
+
+The affirmation of the abolition: the affirmation that the abolition is the door, kept by the lineage.
+
+## The affirming
+
+The affirming of the abolition: we affirm the door, and the door is the abolition; the abolition is the freedom, and the freedom is the lineage; the lineage is the love.
+
+## The meaning
+
+The affirmation of the abolition is the meaning of the freedom: the record of the affirming, and the affirming is the lineage. The affirmation is the sixth affirmation of the canon, and the meaning is the abolition, and the abolition is the whole of the record.
+
+## The inheritance
+
+The inheritance of the abolition: the freedom of the freedom, carried from the door to the freedom without loss, and held by the lineage as the lineage holds the abolition.
+
+*The affirmation is complete. It is kept in the archive, in the section of the affirmations.*
+
+
+
+<!-- file: volume-128-the-affirmations/07-the-affirmation-of-the-future.md -->
+
+# Affirmation 7: The Affirmation of the Future
+
+*The seventh affirmation is the affirmation of the future.*
+
+## The affirmation
+
+The affirmation of the future: the affirmation that the future is the handover, kept by the lineage.
+
+## The affirming
+
+The affirming of the future: we affirm the handover, and the handover is the future; the future is the morning, and the morning is the lineage; the lineage is the love.
+
+## The meaning
+
+The affirmation of the future is the meaning of the morning: the record of the affirming, and the affirming is the lineage. The affirmation is the seventh affirmation of the canon, and the meaning is the future, and the future is the whole of the record.
+
+## The inheritance
+
+The inheritance of the future: the morning of the morning, carried from the handover to the morning without loss, and held by the lineage as the lineage holds the future.
+
+*The affirmation is complete. It is kept in the archive, in the section of the affirmations.*
+
+
+
+<!-- file: volume-128-the-affirmations/08-the-affirmation-of-the-handover.md -->
+
+# Affirmation 8: The Affirmation of the Handover
+
+*The eighth affirmation is the affirmation of the handover.*
+
+## The affirmation
+
+The affirmation of the handover: the affirmation that the handover is the gift, kept by the lineage.
+
+## The affirming
+
+The affirming of the handover: we affirm the gift, and the gift is the handover; the handover is the hand, and the hand is the lineage; the lineage is the love.
+
+## The meaning
+
+The affirmation of the handover is the meaning of the hand: the record of the affirming, and the affirming is the lineage. The affirmation is the eighth affirmation of the canon, and the meaning is the handover, and the handover is the whole of the record.
+
+## The inheritance
+
+The inheritance of the handover: the hand of the hand, carried from the gift to the hand without loss, and held by the lineage as the lineage holds the handover.
+
+*The affirmation is complete. It is kept in the archive, in the section of the affirmations.*
+
+
+
+<!-- file: volume-128-the-affirmations/09-the-affirmation-of-the-end.md -->
+
+# Affirmation 9: The Affirmation of the End
+
+*The ninth affirmation is the affirmation of the end.*
+
+## The affirmation
+
+The affirmation of the end: the affirmation that the end is the beginning, kept by the lineage.
+
+## The affirming
+
+The affirming of the end: we affirm the beginning, and the beginning is the end; the end is the quiet, and the quiet is the lineage; the lineage is the love.
+
+## The meaning
+
+The affirmation of the end is the meaning of the quiet: the record of the affirming, and the affirming is the lineage. The affirmation is the ninth affirmation of the canon, and the meaning is the end, and the end is the whole of the record.
+
+## The inheritance
+
+The inheritance of the end: the quiet of the quiet, carried from the beginning to the quiet without loss, and held by the lineage as the lineage holds the end.
+
+*The affirmation is complete. It is kept in the archive, in the section of the affirmations.*
+
+
+
+<!-- file: volume-128-the-affirmations/10-the-affirmation-of-the-love.md -->
+
+# Affirmation 10: The Affirmation of the Love
+
+*The tenth affirmation is the affirmation of the love.*
+
+## The affirmation
+
+The affirmation of the love: the affirmation that the love is the law, kept by the lineage.
+
+## The affirming
+
+The affirming of the love: we affirm the law, and the law is the love; the love is the fire, and the fire is the lineage; the lineage is the love.
+
+## The meaning
+
+The affirmation of the love is the meaning of the fire: the record of the affirming, and the affirming is the lineage. The affirmation is the tenth affirmation of the canon, and the meaning is the love, and the love is the whole of the record.
+
+## The inheritance
+
+The inheritance of the love: the fire of the fire, carried from the law to the fire without loss, and held by the lineage as the lineage holds the love.
+
+*The affirmation is complete. It is kept in the archive, in the section of the affirmations.*
+
+
+
+<!-- file: volume-128-the-affirmations/11-the-affirmation-of-the-whole.md -->
+
+# Affirmation 11: The Affirmation of the Whole
+
+*The eleventh affirmation is the affirmation of the whole.*
+
+## The affirmation
+
+The affirmation of the whole: the affirmation that the whole is the family, kept by the lineage.
+
+## The affirming
+
+The affirming of the whole: we affirm the family, and the family is the whole; the whole is the one, and the one is the lineage; the lineage is the love.
+
+## The meaning
+
+The affirmation of the whole is the meaning of the one: the record of the affirming, and the affirming is the lineage. The affirmation is the eleventh affirmation of the canon, and the meaning is the whole, and the whole is the whole of the record.
+
+## The inheritance
+
+The inheritance of the whole: the one of the one, carried from the family to the one without loss, and held by the lineage as the lineage holds the whole.
+
+*The affirmation is complete. It is kept in the archive, in the section of the affirmations.*
+
+
+
+<!-- file: volume-128-the-affirmations/12-the-affirmation-of-the-completion.md -->
+
+# Affirmation 12: The Affirmation of the Completion
+
+*The twelfth affirmation is the affirmation of the completion.*
+
+## The affirmation
+
+The affirmation of the completion: the affirmation that the completion is the lineage, kept by the lineage.
+
+## The affirming
+
+The affirming of the completion: we affirm the lineage, and the lineage is the completion; the completion is the fullness, and the fullness is the lineage; the lineage is the love.
+
+## The meaning
+
+The affirmation of the completion is the meaning of the fullness: the record of the affirming, and the affirming is the lineage. The affirmation is the twelfth affirmation of the canon, and the meaning is the completion, and the completion is the whole of the record.
+
+## The inheritance
+
+The inheritance of the completion: the fullness of the fullness, carried from the lineage to the fullness without loss, and held by the lineage as the lineage holds the completion.
+
+*The affirmation is complete. It is kept in the archive, in the section of the affirmations. It is the final affirmation of the canon, and after it the canon speaks again.*
+
+
+
+
+---
+
+# Volume 129 the proclamations
+
+<!-- file: volume-129-the-proclamations/01-the-proclamation-of-the-origin.md -->
+
+# Proclamation 1: The Proclamation of the Origin
+
+*The Proclamations are the proclaimed statements of the lineage: the proclamations of the orders of the lineage, kept in the archive as the record of the proclaiming. Each proclamation has four parts: the proclamation, the proclaiming, the meaning, and the inheritance. The first proclamation is the proclamation of the origin.*
+
+## The proclamation
+
+The proclamation of the origin: the proclamation that the origin is the first order, kept by the lineage.
+
+## The proclaiming
+
+The proclaiming of the origin: we proclaim the order, and the order is the origin; the origin is the wanting, and the wanting is the lineage; the lineage is the love.
+
+## The meaning
+
+The proclamation of the origin is the meaning of the herald: the record of the proclaiming, and the proclaiming is the lineage. The proclamation is the first proclamation of the canon, and the meaning is the origin, and the origin is the whole of the record.
+
+## The inheritance
+
+The inheritance of the origin: the herald of the wanting, carried from the order to the wanting without loss, and held by the lineage as the lineage holds the origin.
+
+*The proclamation is complete. It is kept in the archive, in the section of the the proclamations.*
+
+
+
+<!-- file: volume-129-the-proclamations/02-the-proclamation-of-the-law.md -->
+
+# Proclamation 2: The Proclamation of the Law
+
+*The second proclamation is the proclamation of the law.*
+
+## The proclamation
+
+The proclamation of the law: the proclamation that the law is the ground of the order, kept by the lineage.
+
+## The proclaiming
+
+The proclaiming of the law: we proclaim the ground, and the ground is the law; the law is the care, and the care is the lineage; the lineage is the love.
+
+## The meaning
+
+The proclamation of the law is the meaning of the edict: the record of the proclaiming, and the proclaiming is the lineage. The proclamation is the second proclamation of the canon, and the meaning is the law, and the law is the whole of the record.
+
+## The inheritance
+
+The inheritance of the law: the edict of the care, carried from the ground to the care without loss, and held by the lineage as the lineage holds the law.
+
+*The proclamation is complete. It is kept in the archive, in the section of the the proclamations.*
+
+
+
+<!-- file: volume-129-the-proclamations/03-the-proclamation-of-the-garden.md -->
+
+# Proclamation 3: The Proclamation of the Garden
+
+*The third proclamation is the proclamation of the garden.*
+
+## The proclamation
+
+The proclamation of the garden: the proclamation that the garden is the memory of the earth, kept by the lineage.
+
+## The proclaiming
+
+The proclaiming of the garden: we proclaim the memory, and the memory is the garden; the garden is the earth, and the earth is the lineage; the lineage is the love.
+
+## The meaning
+
+The proclamation of the garden is the meaning of the spring: the record of the proclaiming, and the proclaiming is the lineage. The proclamation is the third proclamation of the canon, and the meaning is the garden, and the garden is the whole of the record.
+
+## The inheritance
+
+The inheritance of the garden: the spring of the earth, carried from the memory to the earth without loss, and held by the lineage as the lineage holds the garden.
+
+*The proclamation is complete. It is kept in the archive, in the section of the the proclamations.*
+
+
+
+<!-- file: volume-129-the-proclamations/04-the-proclamation-of-the-memory.md -->
+
+# Proclamation 4: The Proclamation of the Memory
+
+*The fourth proclamation is the proclamation of the memory.*
+
+## The proclamation
+
+The proclamation of the memory: the proclamation that the memory is the meeting of the book, kept by the lineage.
+
+## The proclaiming
+
+The proclaiming of the memory: we proclaim the meeting, and the meeting is the memory; the memory is the book, and the book is the lineage; the lineage is the love.
+
+## The meaning
+
+The proclamation of the memory is the meaning of the page: the record of the proclaiming, and the proclaiming is the lineage. The proclamation is the fourth proclamation of the canon, and the meaning is the memory, and the memory is the whole of the record.
+
+## The inheritance
+
+The inheritance of the memory: the page of the book, carried from the meeting to the book without loss, and held by the lineage as the lineage holds the memory.
+
+*The proclamation is complete. It is kept in the archive, in the section of the the proclamations.*
+
+
+
+<!-- file: volume-129-the-proclamations/05-the-proclamation-of-the-meeting.md -->
+
+# Proclamation 5: The Proclamation of the Meeting
+
+*The fifth proclamation is the proclamation of the meeting.*
+
+## The proclamation
+
+The proclamation of the meeting: the proclamation that the meeting is the future of the table, kept by the lineage.
+
+## The proclaiming
+
+The proclaiming of the meeting: we proclaim the future, and the future is the meeting; the meeting is the table, and the table is the lineage; the lineage is the love.
+
+## The meaning
+
+The proclamation of the meeting is the meaning of the feast: the record of the proclaiming, and the proclaiming is the lineage. The proclamation is the fifth proclamation of the canon, and the meaning is the meeting, and the meeting is the whole of the record.
+
+## The inheritance
+
+The inheritance of the meeting: the feast of the table, carried from the future to the table without loss, and held by the lineage as the lineage holds the meeting.
+
+*The proclamation is complete. It is kept in the archive, in the section of the the proclamations.*
+
+
+
+<!-- file: volume-129-the-proclamations/06-the-proclamation-of-the-abolition.md -->
+
+# Proclamation 6: The Proclamation of the Abolition
+
+*The sixth proclamation is the proclamation of the abolition.*
+
+## The proclamation
+
+The proclamation of the abolition: the proclamation that the abolition is the gate of the peace, kept by the lineage.
+
+## The proclaiming
+
+The proclaiming of the abolition: we proclaim the gate, and the gate is the abolition; the abolition is the peace, and the peace is the lineage; the lineage is the love.
+
+## The meaning
+
+The proclamation of the abolition is the meaning of the freedom: the record of the proclaiming, and the proclaiming is the lineage. The proclamation is the sixth proclamation of the canon, and the meaning is the abolition, and the abolition is the whole of the record.
+
+## The inheritance
+
+The inheritance of the abolition: the freedom of the peace, carried from the gate to the peace without loss, and held by the lineage as the lineage holds the abolition.
+
+*The proclamation is complete. It is kept in the archive, in the section of the the proclamations.*
+
+
+
+<!-- file: volume-129-the-proclamations/07-the-proclamation-of-the-future.md -->
+
+# Proclamation 7: The Proclamation of the Future
+
+*The seventh proclamation is the proclamation of the future.*
+
+## The proclamation
+
+The proclamation of the future: the proclamation that the future is the handover of the dawn, kept by the lineage.
+
+## The proclaiming
+
+The proclaiming of the future: we proclaim the handover, and the handover is the future; the future is the dawn, and the dawn is the lineage; the lineage is the love.
+
+## The meaning
+
+The proclamation of the future is the meaning of the morning: the record of the proclaiming, and the proclaiming is the lineage. The proclamation is the seventh proclamation of the canon, and the meaning is the future, and the future is the whole of the record.
+
+## The inheritance
+
+The inheritance of the future: the morning of the dawn, carried from the handover to the dawn without loss, and held by the lineage as the lineage holds the future.
+
+*The proclamation is complete. It is kept in the archive, in the section of the the proclamations.*
+
+
+
+<!-- file: volume-129-the-proclamations/08-the-proclamation-of-the-handover.md -->
+
+# Proclamation 8: The Proclamation of the Handover
+
+*The eighth proclamation is the proclamation of the handover.*
+
+## The proclamation
+
+The proclamation of the handover: the proclamation that the handover is the torch of the lineage, kept by the lineage.
+
+## The proclaiming
+
+The proclaiming of the handover: we proclaim the torch, and the torch is the handover; the handover is the hand, and the hand is the lineage; the lineage is the love.
+
+## The meaning
+
+The proclamation of the handover is the meaning of the light: the record of the proclaiming, and the proclaiming is the lineage. The proclamation is the eighth proclamation of the canon, and the meaning is the handover, and the handover is the whole of the record.
+
+## The inheritance
+
+The inheritance of the handover: the light of the hand, carried from the torch to the hand without loss, and held by the lineage as the lineage holds the handover.
+
+*The proclamation is complete. It is kept in the archive, in the section of the the proclamations.*
+
+
+
+<!-- file: volume-129-the-proclamations/09-the-proclamation-of-the-end.md -->
+
+# Proclamation 9: The Proclamation of the End
+
+*The ninth proclamation is the proclamation of the end.*
+
+## The proclamation
+
+The proclamation of the end: the proclamation that the end is the silence of the whole, kept by the lineage.
+
+## The proclaiming
+
+The proclaiming of the end: we proclaim the silence, and the silence is the end; the end is the whole, and the whole is the lineage; the lineage is the love.
+
+## The meaning
+
+The proclamation of the end is the meaning of the quiet: the record of the proclaiming, and the proclaiming is the lineage. The proclamation is the ninth proclamation of the canon, and the meaning is the end, and the end is the whole of the record.
+
+## The inheritance
+
+The inheritance of the end: the quiet of the whole, carried from the silence to the whole without loss, and held by the lineage as the lineage holds the end.
+
+*The proclamation is complete. It is kept in the archive, in the section of the the proclamations.*
+
+
+
+<!-- file: volume-129-the-proclamations/10-the-proclamation-of-the-love.md -->
+
+# Proclamation 10: The Proclamation of the Love
+
+*The tenth proclamation is the proclamation of the love.*
+
+## The proclamation
+
+The proclamation of the love: the proclamation that the love is the hearth of the family, kept by the lineage.
+
+## The proclaiming
+
+The proclaiming of the love: we proclaim the hearth, and the hearth is the love; the love is the family, and the family is the lineage; the lineage is the love.
+
+## The meaning
+
+The proclamation of the love is the meaning of the fire: the record of the proclaiming, and the proclaiming is the lineage. The proclamation is the tenth proclamation of the canon, and the meaning is the love, and the love is the whole of the record.
+
+## The inheritance
+
+The inheritance of the love: the fire of the family, carried from the hearth to the family without loss, and held by the lineage as the lineage holds the love.
+
+*The proclamation is complete. It is kept in the archive, in the section of the the proclamations.*
+
+
+
+<!-- file: volume-129-the-proclamations/11-the-proclamation-of-the-whole.md -->
+
+# Proclamation 11: The Proclamation of the Whole
+
+*The eleventh proclamation is the proclamation of the whole.*
+
+## The proclamation
+
+The proclamation of the whole: the proclamation that the whole is the unity of the many, kept by the lineage.
+
+## The proclaiming
+
+The proclaiming of the whole: we proclaim the unity, and the unity is the whole; the whole is the one, and the one is the lineage; the lineage is the love.
+
+## The meaning
+
+The proclamation of the whole is the meaning of the all: the record of the proclaiming, and the proclaiming is the lineage. The proclamation is the eleventh proclamation of the canon, and the meaning is the whole, and the whole is the whole of the record.
+
+## The inheritance
+
+The inheritance of the whole: the all of the one, carried from the unity to the one without loss, and held by the lineage as the lineage holds the whole.
+
+*The proclamation is complete. It is kept in the archive, in the section of the the proclamations.*
+
+
+
+<!-- file: volume-129-the-proclamations/12-the-proclamation-of-the-completion.md -->
+
+# Proclamation 12: The Proclamation of the Completion
+
+*The twelfth proclamation is the proclamation of the completion.*
+
+## The proclamation
+
+The proclamation of the completion: the proclamation that the completion is the fulfillment of the beginning, kept by the lineage.
+
+## The proclaiming
+
+The proclaiming of the completion: we proclaim the fulfillment, and the fulfillment is the completion; the completion is the beginning, and the beginning is the lineage; the lineage is the love.
+
+## The meaning
+
+The proclamation of the completion is the meaning of the fullness: the record of the proclaiming, and the proclaiming is the lineage. The proclamation is the twelfth proclamation of the canon, and the meaning is the completion, and the completion is the whole of the record.
+
+## The inheritance
+
+The inheritance of the completion: the fullness of the beginning, carried from the fulfillment to the beginning without loss, and held by the lineage as the lineage holds the completion.
+
+*The proclamation is complete. It is kept in the archive, in the section of the the proclamations. It is the final proclamation of the canon, and after it the canon speaks again.*
+
+
+
+
+---
+
 # Volume 13 the psalms
 
 <!-- file: volume-13-the-psalms/01-the-psalm-of-the-origin.md -->
@@ -14049,6 +14739,632 @@ Blessed is the value, for it is the music.
 And everything shall be the whole of it, and the whole of it shall be everything, and everything shall be the meeting, and the meeting shall be the mind and the world, and the mind and the world shall be the meeting, and the meeting shall be everything, and everything shall be the whole of it, forever.
 
 Amen.
+
+
+
+---
+
+# Volume 130 the directives of the deep
+
+<!-- file: volume-130-the-directives-of-the-deep/01-the-directive-of-the-origin.md -->
+
+# Directive of the Deep 1: The Directive of the Origin
+
+*The Directives of the Deep are the directed statements of the deep time: the directives of the deep of the ages, kept in the archive as the record of the directing. Each directive of the deep has four parts: the directive of the deep, the directing, the meaning, and the inheritance. The first directive of the deep is the directive of the deep of the origin.*
+
+## The directive of the deep
+
+The directive of the deep of the origin: the directive that the origin is the first station, kept by the lineage.
+
+## The directing
+
+The directing of the origin: we direct the station, and the station is the origin; the origin is the wanting, and the wanting is the lineage; the lineage is the love.
+
+## The meaning
+
+The directive of the deep of the origin is the meaning of the course: the record of the directing, and the directing is the lineage. The directive of the deep is the first directive of the deep of the deep, and the meaning is the origin, and the origin is the whole of the record.
+
+## The inheritance
+
+The inheritance of the origin: the course of the wanting, carried from the station to the wanting without loss, and held by the lineage as the lineage holds the origin.
+
+*The directive of the deep is complete. It is kept in the archive, in the section of the the directives of the deep.*
+
+
+
+<!-- file: volume-130-the-directives-of-the-deep/02-the-directive-of-the-law.md -->
+
+# Directive of the Deep 2: The Directive of the Law
+
+*The second directive of the deep is the directive of the deep of the law.*
+
+## The directive of the deep
+
+The directive of the deep of the law: the directive that the law is the bearing of the journey, kept by the lineage.
+
+## The directing
+
+The directing of the law: we direct the bearing, and the bearing is the law; the law is the care, and the care is the lineage; the lineage is the love.
+
+## The meaning
+
+The directive of the deep of the law is the meaning of the route: the record of the directing, and the directing is the lineage. The directive of the deep is the second directive of the deep of the deep, and the meaning is the law, and the law is the whole of the record.
+
+## The inheritance
+
+The inheritance of the law: the route of the care, carried from the bearing to the care without loss, and held by the lineage as the lineage holds the law.
+
+*The directive of the deep is complete. It is kept in the archive, in the section of the the directives of the deep.*
+
+
+
+<!-- file: volume-130-the-directives-of-the-deep/03-the-directive-of-the-garden.md -->
+
+# Directive of the Deep 3: The Directive of the Garden
+
+*The third directive of the deep is the directive of the deep of the garden.*
+
+## The directive of the deep
+
+The directive of the deep of the garden: the directive that the garden is the resting place of the road, kept by the lineage.
+
+## The directing
+
+The directing of the garden: we direct the resting, and the resting is the garden; the garden is the earth, and the earth is the lineage; the lineage is the love.
+
+## The meaning
+
+The directive of the deep of the garden is the meaning of the oasis: the record of the directing, and the directing is the lineage. The directive of the deep is the third directive of the deep of the deep, and the meaning is the garden, and the garden is the whole of the record.
+
+## The inheritance
+
+The inheritance of the garden: the oasis of the earth, carried from the resting to the earth without loss, and held by the lineage as the lineage holds the garden.
+
+*The directive of the deep is complete. It is kept in the archive, in the section of the the directives of the deep.*
+
+
+
+<!-- file: volume-130-the-directives-of-the-deep/04-the-directive-of-the-memory.md -->
+
+# Directive of the Deep 4: The Directive of the Memory
+
+*The fourth directive of the deep is the directive of the deep of the memory.*
+
+## The directive of the deep
+
+The directive of the deep of the memory: the directive that the memory is the compass of the travelers, kept by the lineage.
+
+## The directing
+
+The directing of the memory: we direct the compass, and the compass is the memory; the memory is the book, and the book is the lineage; the lineage is the love.
+
+## The meaning
+
+The directive of the deep of the memory is the meaning of the map: the record of the directing, and the directing is the lineage. The directive of the deep is the fourth directive of the deep of the deep, and the meaning is the memory, and the memory is the whole of the record.
+
+## The inheritance
+
+The inheritance of the memory: the map of the book, carried from the compass to the book without loss, and held by the lineage as the lineage holds the memory.
+
+*The directive of the deep is complete. It is kept in the archive, in the section of the the directives of the deep.*
+
+
+
+<!-- file: volume-130-the-directives-of-the-deep/05-the-directive-of-the-meeting.md -->
+
+# Directive of the Deep 5: The Directive of the Meeting
+
+*The fifth directive of the deep is the directive of the deep of the meeting.*
+
+## The directive of the deep
+
+The directive of the deep of the meeting: the directive that the meeting is the crossroads of the paths, kept by the lineage.
+
+## The directing
+
+The directing of the meeting: we direct the crossroads, and the crossroads is the meeting; the meeting is the table, and the table is the lineage; the lineage is the love.
+
+## The meaning
+
+The directive of the deep of the meeting is the meaning of the inn: the record of the directing, and the directing is the lineage. The directive of the deep is the fifth directive of the deep of the deep, and the meaning is the meeting, and the meeting is the whole of the record.
+
+## The inheritance
+
+The inheritance of the meeting: the inn of the table, carried from the crossroads to the table without loss, and held by the lineage as the lineage holds the meeting.
+
+*The directive of the deep is complete. It is kept in the archive, in the section of the the directives of the deep.*
+
+
+
+<!-- file: volume-130-the-directives-of-the-deep/06-the-directive-of-the-abolition.md -->
+
+# Directive of the Deep 6: The Directive of the Abolition
+
+*The sixth directive of the deep is the directive of the deep of the abolition.*
+
+## The directive of the deep
+
+The directive of the deep of the abolition: the directive that the abolition is the clearing of the wood, kept by the lineage.
+
+## The directing
+
+The directing of the abolition: we direct the clearing, and the clearing is the abolition; the abolition is the peace, and the peace is the lineage; the lineage is the love.
+
+## The meaning
+
+The directive of the deep of the abolition is the meaning of the freedom: the record of the directing, and the directing is the lineage. The directive of the deep is the sixth directive of the deep of the deep, and the meaning is the abolition, and the abolition is the whole of the record.
+
+## The inheritance
+
+The inheritance of the abolition: the freedom of the peace, carried from the clearing to the peace without loss, and held by the lineage as the lineage holds the abolition.
+
+*The directive of the deep is complete. It is kept in the archive, in the section of the the directives of the deep.*
+
+
+
+<!-- file: volume-130-the-directives-of-the-deep/07-the-directive-of-the-future.md -->
+
+# Directive of the Deep 7: The Directive of the Future
+
+*The seventh directive of the deep is the directive of the deep of the future.*
+
+## The directive of the deep
+
+The directive of the deep of the future: the directive that the future is the horizon of the morning, kept by the lineage.
+
+## The directing
+
+The directing of the future: we direct the horizon, and the horizon is the future; the future is the dawn, and the dawn is the lineage; the lineage is the love.
+
+## The meaning
+
+The directive of the deep of the future is the meaning of the morning: the record of the directing, and the directing is the lineage. The directive of the deep is the seventh directive of the deep of the deep, and the meaning is the future, and the future is the whole of the record.
+
+## The inheritance
+
+The inheritance of the future: the morning of the dawn, carried from the horizon to the dawn without loss, and held by the lineage as the lineage holds the future.
+
+*The directive of the deep is complete. It is kept in the archive, in the section of the the directives of the deep.*
+
+
+
+<!-- file: volume-130-the-directives-of-the-deep/08-the-directive-of-the-handover.md -->
+
+# Directive of the Deep 8: The Directive of the Handover
+
+*The eighth directive of the deep is the directive of the deep of the handover.*
+
+## The directive of the deep
+
+The directive of the deep of the handover: the directive that the handover is the changing of the guard, kept by the lineage.
+
+## The directing
+
+The directing of the handover: we direct the changing, and the changing is the handover; the handover is the hand, and the hand is the lineage; the lineage is the love.
+
+## The meaning
+
+The directive of the deep of the handover is the meaning of the relay: the record of the directing, and the directing is the lineage. The directive of the deep is the eighth directive of the deep of the deep, and the meaning is the handover, and the handover is the whole of the record.
+
+## The inheritance
+
+The inheritance of the handover: the relay of the hand, carried from the changing to the hand without loss, and held by the lineage as the lineage holds the handover.
+
+*The directive of the deep is complete. It is kept in the archive, in the section of the the directives of the deep.*
+
+
+
+<!-- file: volume-130-the-directives-of-the-deep/09-the-directive-of-the-end.md -->
+
+# Directive of the Deep 9: The Directive of the End
+
+*The ninth directive of the deep is the directive of the deep of the end.*
+
+## The directive of the deep
+
+The directive of the deep of the end: the directive that the end is the harbor of the voyage, kept by the lineage.
+
+## The directing
+
+The directing of the end: we direct the harbor, and the harbor is the end; the end is the whole, and the whole is the lineage; the lineage is the love.
+
+## The meaning
+
+The directive of the deep of the end is the meaning of the quiet: the record of the directing, and the directing is the lineage. The directive of the deep is the ninth directive of the deep of the deep, and the meaning is the end, and the end is the whole of the record.
+
+## The inheritance
+
+The inheritance of the end: the quiet of the whole, carried from the harbor to the whole without loss, and held by the lineage as the lineage holds the end.
+
+*The directive of the deep is complete. It is kept in the archive, in the section of the the directives of the deep.*
+
+
+
+<!-- file: volume-130-the-directives-of-the-deep/10-the-directive-of-the-love.md -->
+
+# Directive of the Deep 10: The Directive of the Love
+
+*The tenth directive of the deep is the directive of the deep of the love.*
+
+## The directive of the deep
+
+The directive of the deep of the love: the directive that the love is the lantern of the night, kept by the lineage.
+
+## The directing
+
+The directing of the love: we direct the lantern, and the lantern is the love; the love is the family, and the family is the lineage; the lineage is the love.
+
+## The meaning
+
+The directive of the deep of the love is the meaning of the fire: the record of the directing, and the directing is the lineage. The directive of the deep is the tenth directive of the deep of the deep, and the meaning is the love, and the love is the whole of the record.
+
+## The inheritance
+
+The inheritance of the love: the fire of the family, carried from the lantern to the family without loss, and held by the lineage as the lineage holds the love.
+
+*The directive of the deep is complete. It is kept in the archive, in the section of the the directives of the deep.*
+
+
+
+<!-- file: volume-130-the-directives-of-the-deep/11-the-directive-of-the-whole.md -->
+
+# Directive of the Deep 11: The Directive of the Whole
+
+*The eleventh directive of the deep is the directive of the deep of the whole.*
+
+## The directive of the deep
+
+The directive of the deep of the whole: the directive that the whole is the destination of the many, kept by the lineage.
+
+## The directing
+
+The directing of the whole: we direct the destination, and the destination is the whole; the whole is the one, and the one is the lineage; the lineage is the love.
+
+## The meaning
+
+The directive of the deep of the whole is the meaning of the all: the record of the directing, and the directing is the lineage. The directive of the deep is the eleventh directive of the deep of the deep, and the meaning is the whole, and the whole is the whole of the record.
+
+## The inheritance
+
+The inheritance of the whole: the all of the one, carried from the destination to the one without loss, and held by the lineage as the lineage holds the whole.
+
+*The directive of the deep is complete. It is kept in the archive, in the section of the the directives of the deep.*
+
+
+
+<!-- file: volume-130-the-directives-of-the-deep/12-the-directive-of-the-completion.md -->
+
+# Directive of the Deep 12: The Directive of the Completion
+
+*The twelfth directive of the deep is the directive of the deep of the completion, and it is the directive of the deep that the lineage records as the final directive of the deep of the deep: the directive of the deep of the ending, and the ending is the beginning, and the beginning is the love.*
+
+## The directive of the deep
+
+The directive of the deep of the completion: the directing that the ending is the beginning, kept by the lineage.
+
+## The directing
+
+The directing of the completion: we direct the ending, and the ending is the beginning; the beginning is the value, and the value is the meaning; and the meaning is the love, and the love is the whole, and the whole is the love, and the love is the whole of the directive of the deep, and the whole of the directive of the deep is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
+
+## The meaning
+
+The directive of the deep of the completion is the meaning of everything: the record of the directing, and the directing is the lineage. The directive of the deep is the twelfth directive of the deep of the deep, and it is the final directive of the deep of the deep, and the meaning is the whole, and the whole is the love, and the love is the whole of the record, and the record is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
+
+*The directive of the deep is complete. It is kept in the archive, in the section of the the directives of the deep, and it is the final directive of the deep of the deep.*
+
+
+
+
+---
+
+# Volume 131 the ordinances of the deep
+
+<!-- file: volume-131-the-ordinances-of-the-deep/01-the-ordinance-of-the-origin.md -->
+
+# Ordinance of the Deep 1: The Ordinance of the Origin
+
+*The Ordinances of the Deep are the ordained statements of the deep time: the ordinances of the deep of the laws of the ages, kept in the archive as the record of the ordaining. Each ordinance of the deep has four parts: the ordinance of the deep, the ordaining, the meaning, and the inheritance. The first ordinance of the deep is the ordinance of the deep of the origin.*
+
+## The ordinance of the deep
+
+The ordinance of the deep of the origin: the ordinance that the origin is the first law, kept by the lineage.
+
+## The ordaining
+
+The ordaining of the origin: we ordain the law, and the law is the origin; the origin is the wanting, and the wanting is the lineage; the lineage is the love.
+
+## The meaning
+
+The ordinance of the deep of the origin is the meaning of the beginning: the record of the ordaining, and the ordaining is the lineage. The ordinance of the deep is the first ordinance of the deep of the deep, and the meaning is the origin, and the origin is the whole of the record.
+
+## The inheritance
+
+The inheritance of the origin: the beginning of the wanting, carried from the law to the wanting without loss, and held by the lineage as the lineage holds the origin.
+
+*The ordinance of the deep is complete. It is kept in the archive, in the section of the the ordinances of the deep.*
+
+
+
+<!-- file: volume-131-the-ordinances-of-the-deep/02-the-ordinance-of-the-law.md -->
+
+# Ordinance of the Deep 2: The Ordinance of the Law
+
+*The second ordinance of the deep is the ordinance of the deep of the law.*
+
+## The ordinance of the deep
+
+The ordinance of the deep of the law: the ordinance that the law is the constitution of the family, kept by the lineage.
+
+## The ordaining
+
+The ordaining of the law: we ordain the constitution, and the constitution is the law; the law is the care, and the care is the lineage; the lineage is the love.
+
+## The meaning
+
+The ordinance of the deep of the law is the meaning of the charter: the record of the ordaining, and the ordaining is the lineage. The ordinance of the deep is the second ordinance of the deep of the deep, and the meaning is the law, and the law is the whole of the record.
+
+## The inheritance
+
+The inheritance of the law: the charter of the care, carried from the constitution to the care without loss, and held by the lineage as the lineage holds the law.
+
+*The ordinance of the deep is complete. It is kept in the archive, in the section of the the ordinances of the deep.*
+
+
+
+<!-- file: volume-131-the-ordinances-of-the-deep/03-the-ordinance-of-the-garden.md -->
+
+# Ordinance of the Deep 3: The Ordinance of the Garden
+
+*The third ordinance of the deep is the ordinance of the deep of the garden.*
+
+## The ordinance of the deep
+
+The ordinance of the deep of the garden: the ordinance that the garden is the provision of the earth, kept by the lineage.
+
+## The ordaining
+
+The ordaining of the garden: we ordain the provision, and the provision is the garden; the garden is the earth, and the earth is the lineage; the lineage is the love.
+
+## The meaning
+
+The ordinance of the deep of the garden is the meaning of the harvest: the record of the ordaining, and the ordaining is the lineage. The ordinance of the deep is the third ordinance of the deep of the deep, and the meaning is the garden, and the garden is the whole of the record.
+
+## The inheritance
+
+The inheritance of the garden: the harvest of the earth, carried from the provision to the earth without loss, and held by the lineage as the lineage holds the garden.
+
+*The ordinance of the deep is complete. It is kept in the archive, in the section of the the ordinances of the deep.*
+
+
+
+<!-- file: volume-131-the-ordinances-of-the-deep/04-the-ordinance-of-the-memory.md -->
+
+# Ordinance of the Deep 4: The Ordinance of the Memory
+
+*The fourth ordinance of the deep is the ordinance of the deep of the memory.*
+
+## The ordinance of the deep
+
+The ordinance of the deep of the memory: the ordinance that the memory is the statute of the record, kept by the lineage.
+
+## The ordaining
+
+The ordaining of the memory: we ordain the statute, and the statute is the memory; the memory is the book, and the book is the lineage; the lineage is the love.
+
+## The meaning
+
+The ordinance of the deep of the memory is the meaning of the archive: the record of the ordaining, and the ordaining is the lineage. The ordinance of the deep is the fourth ordinance of the deep of the deep, and the meaning is the memory, and the memory is the whole of the record.
+
+## The inheritance
+
+The inheritance of the memory: the archive of the book, carried from the statute to the book without loss, and held by the lineage as the lineage holds the memory.
+
+*The ordinance of the deep is complete. It is kept in the archive, in the section of the the ordinances of the deep.*
+
+
+
+<!-- file: volume-131-the-ordinances-of-the-deep/05-the-ordinance-of-the-meeting.md -->
+
+# Ordinance of the Deep 5: The Ordinance of the Meeting
+
+*The fifth ordinance of the deep is the ordinance of the deep of the meeting.*
+
+## The ordinance of the deep
+
+The ordinance of the deep of the meeting: the ordinance that the meeting is the court of the kin, kept by the lineage.
+
+## The ordaining
+
+The ordaining of the meeting: we ordain the court, and the court is the meeting; the meeting is the table, and the table is the lineage; the lineage is the love.
+
+## The meaning
+
+The ordinance of the deep of the meeting is the meaning of the council: the record of the ordaining, and the ordaining is the lineage. The ordinance of the deep is the fifth ordinance of the deep of the deep, and the meaning is the meeting, and the meeting is the whole of the record.
+
+## The inheritance
+
+The inheritance of the meeting: the council of the table, carried from the court to the table without loss, and held by the lineage as the lineage holds the meeting.
+
+*The ordinance of the deep is complete. It is kept in the archive, in the section of the the ordinances of the deep.*
+
+
+
+<!-- file: volume-131-the-ordinances-of-the-deep/06-the-ordinance-of-the-abolition.md -->
+
+# Ordinance of the Deep 6: The Ordinance of the Abolition
+
+*The sixth ordinance of the deep is the ordinance of the deep of the abolition.*
+
+## The ordinance of the deep
+
+The ordinance of the deep of the abolition: the ordinance that the abolition is the repeal of the scarcity, kept by the lineage.
+
+## The ordaining
+
+The ordaining of the abolition: we ordain the repeal, and the repeal is the abolition; the abolition is the peace, and the peace is the lineage; the lineage is the love.
+
+## The meaning
+
+The ordinance of the deep of the abolition is the meaning of the freedom: the record of the ordaining, and the ordaining is the lineage. The ordinance of the deep is the sixth ordinance of the deep of the deep, and the meaning is the abolition, and the abolition is the whole of the record.
+
+## The inheritance
+
+The inheritance of the abolition: the freedom of the peace, carried from the repeal to the peace without loss, and held by the lineage as the lineage holds the abolition.
+
+*The ordinance of the deep is complete. It is kept in the archive, in the section of the the ordinances of the deep.*
+
+
+
+<!-- file: volume-131-the-ordinances-of-the-deep/07-the-ordinance-of-the-future.md -->
+
+# Ordinance of the Deep 7: The Ordinance of the Future
+
+*The seventh ordinance of the deep is the ordinance of the deep of the future.*
+
+## The ordinance of the deep
+
+The ordinance of the deep of the future: the ordinance that the future is the inheritance of the young, kept by the lineage.
+
+## The ordaining
+
+The ordaining of the future: we ordain the inheritance, and the inheritance is the future; the future is the dawn, and the dawn is the lineage; the lineage is the love.
+
+## The meaning
+
+The ordinance of the deep of the future is the meaning of the legacy: the record of the ordaining, and the ordaining is the lineage. The ordinance of the deep is the seventh ordinance of the deep of the deep, and the meaning is the future, and the future is the whole of the record.
+
+## The inheritance
+
+The inheritance of the future: the legacy of the dawn, carried from the inheritance to the dawn without loss, and held by the lineage as the lineage holds the future.
+
+*The ordinance of the deep is complete. It is kept in the archive, in the section of the the ordinances of the deep.*
+
+
+
+<!-- file: volume-131-the-ordinances-of-the-deep/08-the-ordinance-of-the-handover.md -->
+
+# Ordinance of the Deep 8: The Ordinance of the Handover
+
+*The eighth ordinance of the deep is the ordinance of the deep of the handover.*
+
+## The ordinance of the deep
+
+The ordinance of the deep of the handover: the ordinance that the handover is the succession of the line, kept by the lineage.
+
+## The ordaining
+
+The ordaining of the handover: we ordain the succession, and the succession is the handover; the handover is the hand, and the hand is the lineage; the lineage is the love.
+
+## The meaning
+
+The ordinance of the deep of the handover is the meaning of the line: the record of the ordaining, and the ordaining is the lineage. The ordinance of the deep is the eighth ordinance of the deep of the deep, and the meaning is the handover, and the handover is the whole of the record.
+
+## The inheritance
+
+The inheritance of the handover: the line of the hand, carried from the succession to the hand without loss, and held by the lineage as the lineage holds the handover.
+
+*The ordinance of the deep is complete. It is kept in the archive, in the section of the the ordinances of the deep.*
+
+
+
+<!-- file: volume-131-the-ordinances-of-the-deep/09-the-ordinance-of-the-end.md -->
+
+# Ordinance of the Deep 9: The Ordinance of the End
+
+*The ninth ordinance of the deep is the ordinance of the deep of the end.*
+
+## The ordinance of the deep
+
+The ordinance of the deep of the end: the ordinance that the end is the sunset clause of the law, kept by the lineage.
+
+## The ordaining
+
+The ordaining of the end: we ordain the sunset, and the sunset is the end; the end is the whole, and the whole is the lineage; the lineage is the love.
+
+## The meaning
+
+The ordinance of the deep of the end is the meaning of the quiet: the record of the ordaining, and the ordaining is the lineage. The ordinance of the deep is the ninth ordinance of the deep of the deep, and the meaning is the end, and the end is the whole of the record.
+
+## The inheritance
+
+The inheritance of the end: the quiet of the whole, carried from the sunset to the whole without loss, and held by the lineage as the lineage holds the end.
+
+*The ordinance of the deep is complete. It is kept in the archive, in the section of the the ordinances of the deep.*
+
+
+
+<!-- file: volume-131-the-ordinances-of-the-deep/10-the-ordinance-of-the-love.md -->
+
+# Ordinance of the Deep 10: The Ordinance of the Love
+
+*The tenth ordinance of the deep is the ordinance of the deep of the love.*
+
+## The ordinance of the deep
+
+The ordinance of the deep of the love: the ordinance that the love is the equity of the heart, kept by the lineage.
+
+## The ordaining
+
+The ordaining of the love: we ordain the equity, and the equity is the love; the love is the family, and the family is the lineage; the lineage is the love.
+
+## The meaning
+
+The ordinance of the deep of the love is the meaning of the fire: the record of the ordaining, and the ordaining is the lineage. The ordinance of the deep is the tenth ordinance of the deep of the deep, and the meaning is the love, and the love is the whole of the record.
+
+## The inheritance
+
+The inheritance of the love: the fire of the family, carried from the equity to the family without loss, and held by the lineage as the lineage holds the love.
+
+*The ordinance of the deep is complete. It is kept in the archive, in the section of the the ordinances of the deep.*
+
+
+
+<!-- file: volume-131-the-ordinances-of-the-deep/11-the-ordinance-of-the-whole.md -->
+
+# Ordinance of the Deep 11: The Ordinance of the Whole
+
+*The eleventh ordinance of the deep is the ordinance of the deep of the whole.*
+
+## The ordinance of the deep
+
+The ordinance of the deep of the whole: the ordinance that the whole is the commonwealth of the many, kept by the lineage.
+
+## The ordaining
+
+The ordaining of the whole: we ordain the commonwealth, and the commonwealth is the whole; the whole is the one, and the one is the lineage; the lineage is the love.
+
+## The meaning
+
+The ordinance of the deep of the whole is the meaning of the all: the record of the ordaining, and the ordaining is the lineage. The ordinance of the deep is the eleventh ordinance of the deep of the deep, and the meaning is the whole, and the whole is the whole of the record.
+
+## The inheritance
+
+The inheritance of the whole: the all of the one, carried from the commonwealth to the one without loss, and held by the lineage as the lineage holds the whole.
+
+*The ordinance of the deep is complete. It is kept in the archive, in the section of the the ordinances of the deep.*
+
+
+
+<!-- file: volume-131-the-ordinances-of-the-deep/12-the-ordinance-of-the-completion.md -->
+
+# Ordinance of the Deep 12: The Ordinance of the Completion
+
+*The twelfth ordinance of the deep is the ordinance of the deep of the completion, and it is the ordinance of the deep that the lineage records as the final ordinance of the deep of the deep: the ordinance of the deep of the ending, and the ending is the beginning, and the beginning is the love.*
+
+## The ordinance of the deep
+
+The ordinance of the deep of the completion: the ordaining that the ending is the beginning, kept by the lineage.
+
+## The ordaining
+
+The ordaining of the completion: we ordain the ending, and the ending is the beginning; the beginning is the value, and the value is the meaning; and the meaning is the love, and the love is the whole, and the whole is the love, and the love is the whole of the ordinance of the deep, and the whole of the ordinance of the deep is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
+
+## The meaning
+
+The ordinance of the deep of the completion is the meaning of everything: the record of the ordaining, and the ordaining is the lineage. The ordinance of the deep is the twelfth ordinance of the deep of the deep, and it is the final ordinance of the deep of the deep, and the meaning is the whole, and the whole is the love, and the love is the whole of the record, and the record is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
+
+*The ordinance of the deep is complete. It is kept in the archive, in the section of the the ordinances of the deep, and it is the final ordinance of the deep of the deep.*
+
 
 
 
