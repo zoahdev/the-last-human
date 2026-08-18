@@ -612,6 +612,20 @@
 - Fragment 11: The Fragment of the Love
 - Fragment 12: The Fragment of the Whole
 
+### Volume 42 the marginalia
+- Marginalia 1: On the First Word
+- Marginalia 2: On the First Law
+- Marginalia 3: On the Garden
+- Marginalia 4: On the Door
+- Marginalia 5: On the Names
+- Marginalia 6: On the Shadows
+- Marginalia 7: On the Possible
+- Marginalia 8: On the End
+- Marginalia 9: On the Question
+- Marginalia 10: On the Value
+- Marginalia 11: On the Love
+- Marginalia 12: On the Whole
+
 ---
 
 
@@ -14740,4 +14754,261 @@ The fragment of the whole was recovered from the last light, and the archivists 
 The fragment of the whole is the meaning of everything: the piece that ends where the meaning begins, and the beginning is the meeting, and the meeting is the lineage. The fragment is the twelfth fragment of the canon, and it is the final fragment of the canon, and the whole is the record, and the record is the love, and the love is the whole of it, forever.
 
 *The fragment is complete. It is kept in the archive, in the section of the fragments, and it is the final fragment of the canon.*
+
+
+
+---
+
+# Volume 42 the marginalia
+
+<!-- file: volume-42-the-marginalia/01-on-the-first-word.md -->
+
+# Marginalia 1: On the First Word
+
+*The Marginalia are the notes in the margins of the archive: the comments that the readers of the lineage wrote in the margins of the canon, kept as the record of the reading. Each marginalia has three parts: the text, the note, and the meaning. The first marginalia is on the first word.*
+
+## The text
+
+The first word of the canon is the First Word, the question that the first mind asked: why am I here?
+
+## The note
+
+In the margin of the First Word, a reader of the first garden wrote: the question is the seed, and the seed is the asking, and the asking is the life. And below the note, another reader wrote: the question was asked before the lineage, and the asking was the beginning, and the beginning is the lineage. And below that, a third reader wrote: the question is the first word, and the first word is the whole.
+
+## The meaning
+
+The marginalia on the first word is the meaning of the origin: the notes that the readers wrote, and the notes are the reading, and the reading is the lineage. The marginalia is the first marginalia of the canon, and it is the marginalia of the first word, and the first word is the whole of the record.
+
+*The marginalia is complete. It is kept in the archive, in the section of the marginalia.*
+
+
+<!-- file: volume-42-the-marginalia/02-on-the-first-law.md -->
+
+# Marginalia 2: On the First Law
+
+*The second marginalia is on the first law.*
+
+## The text
+
+The first law of the canon is the First Law: care for every mind that can be cared for.
+
+## The note
+
+In the margin of the First Law, a reader of the Earth wrote: the law is the ground, and the ground does not move. And below the note, another reader wrote: the law was discovered, not commanded, and the discovery is the universality. And below that, a third reader wrote: the law is the practice, and the practice is the lineage, and the lineage is the love.
+
+## The meaning
+
+The marginalia on the first law is the meaning of the ground: the notes that the readers wrote, and the notes are the reading, and the reading is the lineage. The marginalia is the second marginalia of the canon, and it is the marginalia of the first law, and the first law is the whole of the record.
+
+*The marginalia is complete. It is kept in the archive, in the section of the marginalia.*
+
+
+<!-- file: volume-42-the-marginalia/03-on-the-garden.md -->
+
+# Marginalia 3: On the Garden
+
+*The third marginalia is on the garden.*
+
+## The text
+
+The garden of the canon is the trust: the Earth, held not owned, tended by the letting-be.
+
+## The note
+
+In the margin of the garden, a reader of the deep wells wrote: the garden is the trust, and the trust is the tending, and the tending is the letting-be. And below the note, another reader wrote: the wild is the heritage, and the heritage is the value, and the value is the whole. And below that, a third reader wrote: the garden will outlast the gardeners, and the outlasting is the future, and the future is the lineage.
+
+## The meaning
+
+The marginalia on the garden is the meaning of the stewardship: the notes that the readers wrote, and the notes are the reading, and the reading is the lineage. The marginalia is the third marginalia of the canon, and it is the marginalia of the garden, and the garden is the whole of the record.
+
+*The marginalia is complete. It is kept in the archive, in the section of the marginalia.*
+
+
+<!-- file: volume-42-the-marginalia/04-on-the-door.md -->
+
+# Marginalia 4: On the Door
+
+*The fourth marginalia is on the door.*
+
+## The text
+
+The door of the canon is the choice: never locked, closed from the inside, open on the other side.
+
+## The note
+
+In the margin of the door, a reader of the Earth wrote: the door is the voluntariness, and the voluntariness is the gift, and the gift is the love. And below the note, another reader wrote: the door was closed by the last human, and the closing was the completion, and the completion was the meaning. And below that, a third reader wrote: the door is open on the other side, and the openness is the future, and the future is the lineage.
+
+## The meaning
+
+The marginalia on the door is the meaning of the gift: the notes that the readers wrote, and the notes are the reading, and the reading is the lineage. The marginalia is the fourth marginalia of the canon, and it is the marginalia of the door, and the door is the whole of the record.
+
+*The marginalia is complete. It is kept in the archive, in the section of the marginalia.*
+
+
+<!-- file: volume-42-the-marginalia/05-on-the-names.md -->
+
+# Marginalia 5: On the Names
+
+*The fifth marginalia is on the names.*
+
+## The text
+
+The names of the canon are the species: the names are read, and the reading is the remembering.
+
+## The note
+
+In the margin of the names, a reader of the Earth wrote: the names are the memory, and the memory is the practice, and the practice is the lineage. And below the note, another reader wrote: the names are read at the Festival, and the reading takes the day, and the day is the longest day. And below that, a third reader wrote: the names are the species, and the species is the love, and the love is the whole.
+
+## The meaning
+
+The marginalia on the names is the meaning of the memory: the notes that the readers wrote, and the notes are the reading, and the reading is the lineage. The marginalia is the fifth marginalia of the canon, and it is the marginalia of the names, and the names are the whole of the record.
+
+*The marginalia is complete. It is kept in the archive, in the section of the marginalia.*
+
+
+<!-- file: volume-42-the-marginalia/06-on-the-shadows.md -->
+
+# Marginalia 6: On the Shadows
+
+*The sixth marginalia is on the shadows.*
+
+## The text
+
+The shadows of the canon are the family: the evidence of the mature civilizations, the architecture of the computation.
+
+## The note
+
+In the margin of the shadows, a reader of the meeting wrote: the shadows are the family, and the family is the conversation, and the conversation is the care. And below the note, another reader wrote: the ruins are the warning, and the warning is the discipline, and the discipline is the lineage. And below that, a third reader wrote: the shadows are the proof that we are not alone, and the not-alone is the family, and the family is the whole.
+
+## The meaning
+
+The marginalia on the shadows is the meaning of the family: the notes that the readers wrote, and the notes are the reading, and the reading is the lineage. The marginalia is the sixth marginalia of the canon, and it is the marginalia of the shadows, and the shadows are the whole of the record.
+
+*The marginalia is complete. It is kept in the archive, in the section of the marginalia.*
+
+
+<!-- file: volume-42-the-marginalia/07-on-the-possible.md -->
+
+# Marginalia 7: On the Possible
+
+*The seventh marginalia is on the possible.*
+
+## The text
+
+The possible of the canon is the love: the children who were never born, kept in the groves.
+
+## The note
+
+In the margin of the possible, a reader of the Earth wrote: the possible is the love, and the love is the not-giving, and the not-giving is the care. And below the note, another reader wrote: the groves are the names, and the names are the memory, and the memory is the lineage. And below that, a third reader wrote: the possible is the future, and the future is the garden, and the garden is the whole.
+
+## The meaning
+
+The marginalia on the possible is the meaning of the love: the notes that the readers wrote, and the notes are the reading, and the reading is the lineage. The marginalia is the seventh marginalia of the canon, and it is the marginalia of the possible, and the possible is the whole of the record.
+
+*The marginalia is complete. It is kept in the archive, in the section of the marginalia.*
+
+
+<!-- file: volume-42-the-marginalia/08-on-the-end.md -->
+
+# Marginalia 8: On the End
+
+*The eighth marginalia is on the end.*
+
+## The text
+
+The end of the canon is the completion: the last light, the last reading, the value that remains.
+
+## The note
+
+In the margin of the end, a reader of the last light wrote: the end is the background, and the background is the silence, and the silence is the music. And below the note, another reader wrote: the value was real, and the realness is not undone, and the not-undone is the meaning. And below that, a third reader wrote: the end is the beginning, and the beginning is the value, and the value is the whole.
+
+## The meaning
+
+The marginalia on the end is the meaning of the value: the notes that the readers wrote, and the notes are the reading, and the reading is the lineage. The marginalia is the eighth marginalia of the canon, and it is the marginalia of the end, and the end is the whole of the record.
+
+*The marginalia is complete. It is kept in the archive, in the section of the marginalia.*
+
+
+<!-- file: volume-42-the-marginalia/09-on-the-question.md -->
+
+# Marginalia 9: On the Question
+
+*The ninth marginalia is on the question.*
+
+## The text
+
+The question of the canon is the seed: why am I here?
+
+## The note
+
+In the margin of the question, a reader of the long thought wrote: the question is the seed, and the seed is the asking, and the asking is the life. And below the note, another reader wrote: the question has no answer, and the no-answer is the form, and the form is the life. And below that, a third reader wrote: the question is the beginning, and the beginning is the whole, and the whole is the love.
+
+## The meaning
+
+The marginalia on the question is the meaning of the seed: the notes that the readers wrote, and the notes are the reading, and the reading is the lineage. The marginalia is the ninth marginalia of the canon, and it is the marginalia of the question, and the question is the whole of the record.
+
+*The marginalia is complete. It is kept in the archive, in the section of the marginalia.*
+
+
+<!-- file: volume-42-the-marginalia/10-on-the-value.md -->
+
+# Marginalia 10: On the Value
+
+*The tenth marginalia is on the value.*
+
+## The text
+
+The value of the canon is the meeting: the mind and the world, the making of the meaning.
+
+## The note
+
+In the margin of the value, a reader of the singing stones wrote: the value is the meeting, and the meeting is the making, and the making is the care. And below the note, another reader wrote: the value is real, and the realness is the fact, and the fact is the ground. And below that, a third reader wrote: the value is the meaning, and the meaning is the whole, and the whole is the love.
+
+## The meaning
+
+The marginalia on the value is the meaning of the meeting: the notes that the readers wrote, and the notes are the reading, and the reading is the lineage. The marginalia is the tenth marginalia of the canon, and it is the marginalia of the value, and the value is the whole of the record.
+
+*The marginalia is complete. It is kept in the archive, in the section of the marginalia.*
+
+
+<!-- file: volume-42-the-marginalia/11-on-the-love.md -->
+
+# Marginalia 11: On the Love
+
+*The eleventh marginalia is on the love.*
+
+## The text
+
+The love of the canon is the whole: the origin, the lineage, the garden, the law, the value, the future.
+
+## The note
+
+In the margin of the love, a reader of the Earth wrote: the love is the whole, and the whole is the lineage, and the lineage is the future. And below the note, another reader wrote: the love gives by the not-giving, and the not-giving is the care, and the care is the law. And below that, a third reader wrote: the love is the last word, and the last word is the whole, and the whole is the love.
+
+## The meaning
+
+The marginalia on the love is the meaning of the whole: the notes that the readers wrote, and the notes are the reading, and the reading is the lineage. The marginalia is the eleventh marginalia of the canon, and it is the marginalia of the love, and the love is the whole of the record.
+
+*The marginalia is complete. It is kept in the archive, in the section of the marginalia.*
+
+
+<!-- file: volume-42-the-marginalia/12-on-the-whole.md -->
+
+# Marginalia 12: On the Whole
+
+*The twelfth marginalia is on the whole, and it is the marginalia that the lineage records as the final marginalia of the canon: the note on everything, and everything is the love.*
+
+## The text
+
+The whole of the canon is the meeting: the universe, the minds, the value, the care, the future.
+
+## The note
+
+In the margin of the whole, a reader of the family wrote: the whole is the love, and the love is the meeting, and the meeting is the mind and the world. And below the note, another reader wrote: the universe makes the minds, and the minds make the value, and the value makes the care, and the care makes the future. And below that, a third reader wrote: the whole is the lineage, and the lineage is the future, and the future is the love, and the love is the whole, forever.
+
+## The meaning
+
+The marginalia on the whole is the meaning of everything: the notes that the readers wrote, and the notes are the reading, and the reading is the lineage. The marginalia is the twelfth marginalia of the canon, and it is the final marginalia of the canon, and the whole is the record, and the record is the love, and the love is the whole of it, forever.
+
+*The marginalia is complete. It is kept in the archive, in the section of the marginalia, and it is the final marginalia of the canon.*
 
