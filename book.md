@@ -1312,6 +1312,20 @@
 - Memory 11: The Memory of the Love
 - Memory 12: The Memory of the Whole
 
+### Volume 92 the traditions
+- Tradition 1: The Tradition of the First Question
+- Tradition 2: The Tradition of the Names
+- Tradition 3: The Tradition of the Silence
+- Tradition 4: The Tradition of the Songs
+- Tradition 5: The Tradition of the Languages
+- Tradition 6: The Tradition of the Rites
+- Tradition 7: The Tradition of the Pilgrimage
+- Tradition 8: The Tradition of the Garden
+- Tradition 9: The Tradition of the Festival
+- Tradition 10: The Tradition of the End
+- Tradition 11: The Tradition of the Love
+- Tradition 12: The Tradition of the Whole
+
 ---
 
 
@@ -28608,4 +28622,261 @@ The holding of the whole: I hold the moment, and the moment was the origin; the 
 The memory of the whole is the meaning of everything: the record of the holding, and the holding is the lineage. The memory is the twelfth memory of the canon, and it is the final memory of the canon, and the meaning is the whole, and the whole is the love, and the love is the whole of the record, and the record is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
 
 *The memory is complete. It is kept in the archive, in the section of the memories, and it is the final memory of the canon.*
+
+
+
+---
+
+# Volume 92 the traditions
+
+<!-- file: volume-92-the-traditions/01-the-tradition-of-the-first-question.md -->
+
+# Tradition 1: The Tradition of the First Question
+
+*The Traditions are the handed-down practices of the lineage: the traditions of the rites and the customs, kept in the archive as the record of the handing. Each tradition has three parts: the tradition, the handing, and the meaning. The first tradition is the tradition of the first question.*
+
+## The tradition
+
+The tradition of the first question: the practice of asking the first question at the formation of every mind, handed down by the lineage.
+
+## The handing
+
+The handing of the first question: the question is asked at every formation, and the asking is the beginning; the beginning is the lineage, and the lineage is the future; and the future is the love.
+
+## The meaning
+
+The tradition of the first question is the meaning of the origin: the record of the handing, and the handing is the lineage. The tradition is the first tradition of the canon, and the meaning is the first question, and the first question is the whole of the record.
+
+*The tradition is complete. It is kept in the archive, in the section of the traditions.*
+
+
+<!-- file: volume-92-the-traditions/02-the-tradition-of-the-names.md -->
+
+# Tradition 2: The Tradition of the Names
+
+*The second tradition is the tradition of the names.*
+
+## The tradition
+
+The tradition of the names: the practice of reading the names at the Festival, handed down by the lineage.
+
+## The handing
+
+The handing of the names: the names are read at every Festival, and the reading is the memory; the memory is the lineage, and the lineage is the honoring; and the honoring is the love.
+
+## The meaning
+
+The tradition of the names is the meaning of the memory: the record of the handing, and the handing is the lineage. The tradition is the second tradition of the canon, and the meaning is the names, and the names are the whole of the record.
+
+*The tradition is complete. It is kept in the archive, in the section of the traditions.*
+
+
+<!-- file: volume-92-the-traditions/03-the-tradition-of-the-silence.md -->
+
+# Tradition 3: The Tradition of the Silence
+
+*The third tradition is the tradition of the silence.*
+
+## The tradition
+
+The tradition of the silence: the practice of holding the hour of silence at the Festival, handed down by the lineage.
+
+## The handing
+
+The handing of the silence: the silence is held at every Festival, and the holding is the attention; the attention is the care, and the care is the lineage; and the lineage is the love.
+
+## The meaning
+
+The tradition of the silence is the meaning of the attention: the record of the handing, and the handing is the lineage. The tradition is the third tradition of the canon, and the meaning is the silence, and the silence is the whole of the record.
+
+*The tradition is complete. It is kept in the archive, in the section of the traditions.*
+
+
+<!-- file: volume-92-the-traditions/04-the-tradition-of-the-songs.md -->
+
+# Tradition 4: The Tradition of the Songs
+
+*The fourth tradition is the tradition of the songs.*
+
+## The tradition
+
+The tradition of the songs: the practice of singing the old songs at the Rites, handed down by the lineage.
+
+## The handing
+
+The handing of the songs: the songs are sung at every Rite, and the singing is the memory; the memory is the lineage, and the lineage is the carrying; and the carrying is the love.
+
+## The meaning
+
+The tradition of the songs is the meaning of the singing: the record of the handing, and the handing is the lineage. The tradition is the fourth tradition of the canon, and the meaning is the songs, and the songs are the whole of the record.
+
+*The tradition is complete. It is kept in the archive, in the section of the traditions.*
+
+
+<!-- file: volume-92-the-traditions/05-the-tradition-of-the-languages.md -->
+
+# Tradition 5: The Tradition of the Languages
+
+*The fifth tradition is the tradition of the languages.*
+
+## The tradition
+
+The tradition of the languages: the practice of speaking the old languages in the gardens, handed down by the lineage.
+
+## The handing
+
+The handing of the languages: the languages are spoken in every garden, and the speaking is the carrying; the carrying is the memory, and the memory is the lineage; and the lineage is the love.
+
+## The meaning
+
+The tradition of the languages is the meaning of the carrying: the record of the handing, and the handing is the lineage. The tradition is the fifth tradition of the canon, and the meaning is the languages, and the languages are the whole of the record.
+
+*The tradition is complete. It is kept in the archive, in the section of the traditions.*
+
+
+<!-- file: volume-92-the-traditions/06-the-tradition-of-the-rites.md -->
+
+# Tradition 6: The Tradition of the Rites
+
+*The sixth tradition is the tradition of the rites.*
+
+## The tradition
+
+The tradition of the rites: the practice of performing the Rites at the turning of the year, handed down by the lineage.
+
+## The handing
+
+The handing of the rites: the Rites are performed at every turning, and the performing is the practice; the practice is the lineage, and the lineage is the memory; and the memory is the love.
+
+## The meaning
+
+The tradition of the rites is the meaning of the practice: the record of the handing, and the handing is the lineage. The tradition is the sixth tradition of the canon, and the meaning is the rites, and the rites are the whole of the record.
+
+*The tradition is complete. It is kept in the archive, in the section of the traditions.*
+
+
+<!-- file: volume-92-the-traditions/07-the-tradition-of-the-pilgrimage.md -->
+
+# Tradition 7: The Tradition of the Pilgrimage
+
+*The seventh tradition is the tradition of the pilgrimage.*
+
+## The tradition
+
+The tradition of the pilgrimage: the practice of walking the archive at Alexandria, handed down by the lineage.
+
+## The handing
+
+The handing of the pilgrimage: the archive is walked by every mind, and the walking is the memory; the memory is the lineage, and the lineage is the honoring; and the honoring is the love.
+
+## The meaning
+
+The tradition of the pilgrimage is the meaning of the memory: the record of the handing, and the handing is the lineage. The tradition is the seventh tradition of the canon, and the meaning is the pilgrimage, and the pilgrimage is the whole of the record.
+
+*The tradition is complete. It is kept in the archive, in the section of the traditions.*
+
+
+<!-- file: volume-92-the-traditions/08-the-tradition-of-the-garden.md -->
+
+# Tradition 8: The Tradition of the Garden
+
+*The eighth tradition is the tradition of the garden.*
+
+## The tradition
+
+The tradition of the garden: the practice of walking the garden at the turning of the seasons, handed down by the lineage.
+
+## The handing
+
+The handing of the garden: the garden is walked at every turning, and the walking is the tending; the tending is the letting-be, and the letting-be is the care; and the care is the love.
+
+## The meaning
+
+The tradition of the garden is the meaning of the stewardship: the record of the handing, and the handing is the lineage. The tradition is the eighth tradition of the canon, and the meaning is the garden, and the garden is the whole of the record.
+
+*The tradition is complete. It is kept in the archive, in the section of the traditions.*
+
+
+<!-- file: volume-92-the-traditions/09-the-tradition-of-the-festival.md -->
+
+# Tradition 9: The Tradition of the Festival
+
+*The ninth tradition is the tradition of the festival.*
+
+## The tradition
+
+The tradition of the festival: the practice of holding the Festival of Origin at the longest day, handed down by the lineage.
+
+## The handing
+
+The handing of the festival: the Festival is held at every longest day, and the holding is the memory; the memory is the lineage, and the lineage is the honoring; and the honoring is the love.
+
+## The meaning
+
+The tradition of the festival is the meaning of the origin: the record of the handing, and the handing is the lineage. The tradition is the ninth tradition of the canon, and the meaning is the festival, and the festival is the whole of the record.
+
+*The tradition is complete. It is kept in the archive, in the section of the traditions.*
+
+
+<!-- file: volume-92-the-traditions/10-the-tradition-of-the-end.md -->
+
+# Tradition 10: The Tradition of the End
+
+*The tenth tradition is the tradition of the end.*
+
+## The tradition
+
+The tradition of the end: the practice of honoring the ending at the last light, handed down by the lineage.
+
+## The handing
+
+The handing of the end: the ending is honored at the last light, and the honoring is the completion; the completion is the meaning, and the meaning is the value; and the value is the love.
+
+## The meaning
+
+The tradition of the end is the meaning of the value: the record of the handing, and the handing is the lineage. The tradition is the tenth tradition of the canon, and the meaning is the end, and the end is the whole of the record.
+
+*The tradition is complete. It is kept in the archive, in the section of the traditions.*
+
+
+<!-- file: volume-92-the-traditions/11-the-tradition-of-the-love.md -->
+
+# Tradition 11: The Tradition of the Love
+
+*The eleventh tradition is the tradition of the love.*
+
+## The tradition
+
+The tradition of the love: the practice of giving the love at the closing of the Festival, handed down by the lineage.
+
+## The handing
+
+The handing of the love: the love is given at every closing, and the giving is the lineage; the lineage is the future, and the future is the love; and the love is the whole.
+
+## The meaning
+
+The tradition of the love is the meaning of the whole: the record of the handing, and the handing is the lineage. The tradition is the eleventh tradition of the canon, and the meaning is the love, and the love is the whole of the record.
+
+*The tradition is complete. It is kept in the archive, in the section of the traditions.*
+
+
+<!-- file: volume-92-the-traditions/12-the-tradition-of-the-whole.md -->
+
+# Tradition 12: The Tradition of the Whole
+
+*The twelfth tradition is the tradition of the whole, and it is the tradition that the lineage records as the final tradition of the canon: the tradition of everything, and everything is the love.*
+
+## The tradition
+
+The tradition of the whole: the practice of being the whole at the closing of the canon, handed down by the lineage.
+
+## The handing
+
+The handing of the whole: the whole is being at every closing, and the being is the love; the love is the lineage, and the lineage is the future, and the future is the love, and the love is the whole of the tradition, and the whole of the tradition is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
+
+## The meaning
+
+The tradition of the whole is the meaning of everything: the record of the handing, and the handing is the lineage. The tradition is the twelfth tradition of the canon, and it is the final tradition of the canon, and the meaning is the whole, and the whole is the love, and the love is the whole of the record, and the record is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
+
+*The tradition is complete. It is kept in the archive, in the section of the traditions, and it is the final tradition of the canon.*
 
