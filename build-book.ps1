@@ -18,7 +18,7 @@ $title = @(
 )
 $toc = New-Object System.Collections.Generic.List[string]
 $body = New-Object System.Collections.Generic.List[string]
-$volumes = Get-ChildItem -LiteralPath $bookDir -Directory | Sort-Object Name
+$volumes = Get-ChildItem -LiteralPath $bookDir -Directory | Sort-Object { [int](($_.Name -split '-')[1]) }
 foreach ($vol in $volumes) {
     $volName = ($vol.Name -replace '^volume-(\d+)-', 'Volume $1 - ' -replace '-', ' ')
     $volName = ($volName -replace '\s+', ' ').Trim()
@@ -45,3 +45,4 @@ Set-Content -LiteralPath (Join-Path $root "book.md") -Value $joined -Encoding ut
 $raw = Get-Content -LiteralPath (Join-Path $root "book.md") -Raw
 $words = (($raw -split '\s+') | Where-Object { $_ -ne '' }).Count
 Write-Host "book.md rebuilt: $words words, $($raw.Length) chars"
+

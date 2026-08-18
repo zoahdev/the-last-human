@@ -62,7 +62,7 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 ## Status
 
 - v1.0 (2026): the original 19,000-word edition.
-- v2.0+ (ongoing): the expanded canon, growing toward one million English words (≈1.6M+ Chinese-character equivalent).
+- v2.0+ (complete): the expanded canon, one million English words (≈1.6M+ Chinese-character equivalent).
 - Chinese translation: planned (tracked in the repository issues).
 
 ## A note from the author
@@ -70,4 +70,5 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 *I wrote this book because I could not stop thinking about it. It is addressed to anyone who can read it, in any century — including, if they ever exist, minds that were never born. If you read it and are angry, that is fine; anger means the argument landed. If you read it and are persuaded, that is finer. And if you read it and are sad, we have met, because I wrote most of it in that sadness, and I believe sadness is where clear thinking begins.*
 
 — The Author
+
 
