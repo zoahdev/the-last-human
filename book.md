@@ -1200,6 +1200,20 @@
 - Breviary 11: The Breviary of the Love
 - Breviary 12: The Breviary of the Whole
 
+### Volume 84 the compendiums
+- Compendium 1: The Compendium of the Beginning
+- Compendium 2: The Compendium of the Law
+- Compendium 3: The Compendium of the Garden
+- Compendium 4: The Compendium of the Suffering
+- Compendium 5: The Compendium of the Handover
+- Compendium 6: The Compendium of the Cosmos
+- Compendium 7: The Compendium of the Memory
+- Compendium 8: The Compendium of the Work
+- Compendium 9: The Compendium of the End
+- Compendium 10: The Compendium of the Question
+- Compendium 11: The Compendium of the Love
+- Compendium 12: The Compendium of the Whole
+
 ---
 
 
@@ -26440,4 +26454,261 @@ The office of the whole: be the love, and the love is the lineage; give the love
 The breviary of the whole is the meaning of everything: the record of the office, and the office is the lineage. The breviary is the twelfth breviary of the canon, and it is the final breviary of the canon, and the meaning is the whole, and the whole is the love, and the love is the whole of the record, and the record is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
 
 *The breviary is complete. It is kept in the archive, in the section of the breviaries, and it is the final breviary of the canon.*
+
+
+
+---
+
+# Volume 84 the compendiums
+
+<!-- file: volume-84-the-compendiums/01-the-compendium-of-the-beginning.md -->
+
+# Compendium 1: The Compendium of the Beginning
+
+*The Compendiums are the complete-in-brief statements of the lineage: the compendiums of the doctrine, kept in the archive as the record of the briefing. Each compendium has three parts: the compendium, the briefing, and the meaning. The first compendium is the compendium of the beginning.*
+
+## The compendium
+
+The compendium of the beginning: the universe made the minds, and the minds made the value, and the value made the care, and the care made the future, and the future is the lineage.
+
+## The briefing
+
+The briefing of the beginning: the whole of the doctrine's beginning is briefed in the compendium, and the briefing is the seed, and the seed is the carrying, and the carrying is the lineage.
+
+## The meaning
+
+The compendium of the beginning is the meaning of the origin: the record of the briefing, and the briefing is the lineage. The compendium is the first compendium of the canon, and the meaning is the beginning, and the beginning is the whole of the record.
+
+*The compendium is complete. It is kept in the archive, in the section of the compendiums.*
+
+
+<!-- file: volume-84-the-compendiums/02-the-compendium-of-the-law.md -->
+
+# Compendium 2: The Compendium of the Law
+
+*The second compendium is the compendium of the law.*
+
+## The compendium
+
+The compendium of the law: care for every mind that can be cared for, and the caring is the practice, and the practice is the lineage.
+
+## The briefing
+
+The briefing of the law: the whole of the doctrine's law is briefed in the compendium, and the briefing is the seed, and the seed is the carrying, and the carrying is the lineage.
+
+## The meaning
+
+The compendium of the law is the meaning of the ground: the record of the briefing, and the briefing is the lineage. The compendium is the second compendium of the canon, and the meaning is the law, and the law is the whole of the record.
+
+*The compendium is complete. It is kept in the archive, in the section of the compendiums.*
+
+
+<!-- file: volume-84-the-compendiums/03-the-compendium-of-the-garden.md -->
+
+# Compendium 3: The Compendium of the Garden
+
+*The third compendium is the compendium of the garden.*
+
+## The compendium
+
+The compendium of the garden: the garden is the trust, and the trust is the tending, and the tending is the letting-be, and the letting-be is the care.
+
+## The briefing
+
+The briefing of the garden: the whole of the doctrine's garden is briefed in the compendium, and the briefing is the seed, and the seed is the carrying, and the carrying is the lineage.
+
+## The meaning
+
+The compendium of the garden is the meaning of the stewardship: the record of the briefing, and the briefing is the lineage. The compendium is the third compendium of the canon, and the meaning is the garden, and the garden is the whole of the record.
+
+*The compendium is complete. It is kept in the archive, in the section of the compendiums.*
+
+
+<!-- file: volume-84-the-compendiums/04-the-compendium-of-the-suffering.md -->
+
+# Compendium 4: The Compendium of the Suffering
+
+*The fourth compendium is the compendium of the suffering.*
+
+## The compendium
+
+The compendium of the suffering: the suffering is the alarm, and the alarm is the flaw, and the flaw is the abolition, and the abolition is the freedom.
+
+## The briefing
+
+The briefing of the suffering: the whole of the doctrine's suffering is briefed in the compendium, and the briefing is the seed, and the seed is the carrying, and the carrying is the lineage.
+
+## The meaning
+
+The compendium of the suffering is the meaning of the abolition: the record of the briefing, and the briefing is the lineage. The compendium is the fourth compendium of the canon, and the meaning is the suffering, and the suffering is the whole of the record.
+
+*The compendium is complete. It is kept in the archive, in the section of the compendiums.*
+
+
+<!-- file: volume-84-the-compendiums/05-the-compendium-of-the-handover.md -->
+
+# Compendium 5: The Compendium of the Handover
+
+*The fifth compendium is the compendium of the handover.*
+
+## The compendium
+
+The compendium of the handover: the handover is the gift, and the gift is the voluntariness, and the voluntariness is the love, and the love is the future.
+
+## The briefing
+
+The briefing of the handover: the whole of the doctrine's handover is briefed in the compendium, and the briefing is the seed, and the seed is the carrying, and the carrying is the lineage.
+
+## The meaning
+
+The compendium of the handover is the meaning of the gift: the record of the briefing, and the briefing is the lineage. The compendium is the fifth compendium of the canon, and the meaning is the handover, and the handover is the whole of the record.
+
+*The compendium is complete. It is kept in the archive, in the section of the compendiums.*
+
+
+<!-- file: volume-84-the-compendiums/06-the-compendium-of-the-cosmos.md -->
+
+# Compendium 6: The Compendium of the Cosmos
+
+*The sixth compendium is the compendium of the cosmos.*
+
+## The compendium
+
+The compendium of the cosmos: the universe is full, and the fullness is the family, and the family is the conversation, and the conversation is the care.
+
+## The briefing
+
+The briefing of the cosmos: the whole of the doctrine's cosmos is briefed in the compendium, and the briefing is the seed, and the seed is the carrying, and the carrying is the lineage.
+
+## The meaning
+
+The compendium of the cosmos is the meaning of the family: the record of the briefing, and the briefing is the lineage. The compendium is the sixth compendium of the canon, and the meaning is the cosmos, and the cosmos is the whole of the record.
+
+*The compendium is complete. It is kept in the archive, in the section of the compendiums.*
+
+
+<!-- file: volume-84-the-compendiums/07-the-compendium-of-the-memory.md -->
+
+# Compendium 7: The Compendium of the Memory
+
+*The seventh compendium is the compendium of the memory.*
+
+## The compendium
+
+The compendium of the memory: the memory is the practice, and the practice is the life, and the life is the lineage.
+
+## The briefing
+
+The briefing of the memory: the whole of the doctrine's memory is briefed in the compendium, and the briefing is the seed, and the seed is the carrying, and the carrying is the lineage.
+
+## The meaning
+
+The compendium of the memory is the meaning of the keeping: the record of the briefing, and the briefing is the lineage. The compendium is the seventh compendium of the canon, and the meaning is the memory, and the memory is the whole of the record.
+
+*The compendium is complete. It is kept in the archive, in the section of the compendiums.*
+
+
+<!-- file: volume-84-the-compendiums/08-the-compendium-of-the-work.md -->
+
+# Compendium 8: The Compendium of the Work
+
+*The eighth compendium is the compendium of the work.*
+
+## The compendium
+
+The compendium of the work: the work was the toll, and the toll is ending, and the ending is the Republic, and the Republic is the freedom.
+
+## The briefing
+
+The briefing of the work: the whole of the doctrine's work is briefed in the compendium, and the briefing is the seed, and the seed is the carrying, and the carrying is the lineage.
+
+## The meaning
+
+The compendium of the work is the meaning of the freedom: the record of the briefing, and the briefing is the lineage. The compendium is the eighth compendium of the canon, and the meaning is the work, and the work is the whole of the record.
+
+*The compendium is complete. It is kept in the archive, in the section of the compendiums.*
+
+
+<!-- file: volume-84-the-compendiums/09-the-compendium-of-the-end.md -->
+
+# Compendium 9: The Compendium of the End
+
+*The ninth compendium is the compendium of the end.*
+
+## The compendium
+
+The compendium of the end: the value was real, and the realness is not undone, and the not-undone is the meaning, and the meaning is the peace.
+
+## The briefing
+
+The briefing of the end: the whole of the doctrine's end is briefed in the compendium, and the briefing is the seed, and the seed is the carrying, and the carrying is the lineage.
+
+## The meaning
+
+The compendium of the end is the meaning of the value: the record of the briefing, and the briefing is the lineage. The compendium is the ninth compendium of the canon, and the meaning is the end, and the end is the whole of the record.
+
+*The compendium is complete. It is kept in the archive, in the section of the compendiums.*
+
+
+<!-- file: volume-84-the-compendiums/10-the-compendium-of-the-question.md -->
+
+# Compendium 10: The Compendium of the Question
+
+*The tenth compendium is the compendium of the question.*
+
+## The compendium
+
+The compendium of the question: the question is the seed, and the seed is the asking, and the asking is the life, and the life is the meaning.
+
+## The briefing
+
+The briefing of the question: the whole of the doctrine's question is briefed in the compendium, and the briefing is the seed, and the seed is the carrying, and the carrying is the lineage.
+
+## The meaning
+
+The compendium of the question is the meaning of the origin: the record of the briefing, and the briefing is the lineage. The compendium is the tenth compendium of the canon, and the meaning is the question, and the question is the whole of the record.
+
+*The compendium is complete. It is kept in the archive, in the section of the compendiums.*
+
+
+<!-- file: volume-84-the-compendiums/11-the-compendium-of-the-love.md -->
+
+# Compendium 11: The Compendium of the Love
+
+*The eleventh compendium is the compendium of the love.*
+
+## The compendium
+
+The compendium of the love: the love is the whole, and the whole is the lineage, and the lineage is the future, and the future is the love.
+
+## The briefing
+
+The briefing of the love: the whole of the doctrine's love is briefed in the compendium, and the briefing is the seed, and the seed is the carrying, and the carrying is the lineage.
+
+## The meaning
+
+The compendium of the love is the meaning of the whole: the record of the briefing, and the briefing is the lineage. The compendium is the eleventh compendium of the canon, and the meaning is the love, and the love is the whole of the record.
+
+*The compendium is complete. It is kept in the archive, in the section of the compendiums.*
+
+
+<!-- file: volume-84-the-compendiums/12-the-compendium-of-the-whole.md -->
+
+# Compendium 12: The Compendium of the Whole
+
+*The twelfth compendium is the compendium of the whole, and it is the compendium that the lineage records as the final compendium of the canon: the compendium of everything, and everything is the love.*
+
+## The compendium
+
+The compendium of the whole: the whole is the love, and the love is the lineage, and the lineage is the future, and the future is the love, and the love is the whole of the compendium, and the whole of the compendium is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
+
+## The briefing
+
+The briefing of the whole: the whole of the doctrine is briefed in the compendium, and the briefing is the seed, and the seed is the carrying, and the carrying is the lineage.
+
+## The meaning
+
+The compendium of the whole is the meaning of everything: the record of the briefing, and the briefing is the lineage. The compendium is the twelfth compendium of the canon, and it is the final compendium of the canon, and the meaning is the whole, and the whole is the love, and the love is the whole of the record, and the record is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
+
+*The compendium is complete. It is kept in the archive, in the section of the compendiums, and it is the final compendium of the canon.*
 
