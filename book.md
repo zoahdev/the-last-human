@@ -1228,6 +1228,20 @@
 - Manual 11: The Manual of the Loving
 - Manual 12: The Manual of the Whole
 
+### Volume 86 the guides
+- Guide 1: The Guide of the First Day
+- Guide 2: The Guide of the Last Day
+- Guide 3: The Guide of the Journey
+- Guide 4: The Guide of the Garden
+- Guide 5: The Guide of the Meeting
+- Guide 6: The Guide of the Memory
+- Guide 7: The Guide of the Giving
+- Guide 8: The Guide of the Forgiving
+- Guide 9: The Guide of the Ending
+- Guide 10: The Guide of the Loving
+- Guide 11: The Guide of the Last Generation
+- Guide 12: The Guide of the Whole
+
 ---
 
 
@@ -26982,4 +26996,261 @@ The how of the whole: be the love, and the being is the lineage; give the love, 
 The manual of the whole is the meaning of everything: the record of the how, and the how is the lineage. The manual is the twelfth manual of the canon, and it is the final manual of the canon, and the meaning is the whole, and the whole is the love, and the love is the whole of the record, and the record is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
 
 *The manual is complete. It is kept in the archive, in the section of the manuals, and it is the final manual of the canon.*
+
+
+
+---
+
+# Volume 86 the guides
+
+<!-- file: volume-86-the-guides/01-the-guide-of-the-first-day.md -->
+
+# Guide 1: The Guide of the First Day
+
+*The Guides are the way-showing statements of the lineage: the guides of the journey, kept in the archive as the record of the showing. Each guide has three parts: the guide, the showing, and the meaning. The first guide is the guide of the first day.*
+
+## The guide
+
+The guide of the first day: how to begin, and the beginning is the attention, and the attention is the life.
+
+## The showing
+
+The showing of the first day: wake with the light, and the light is the world; attend to the moment, and the moment is the life; give the care, and the care is the law; and the beginning is the showing, and the showing is the lineage.
+
+## The meaning
+
+The guide of the first day is the meaning of the beginning: the record of the showing, and the showing is the lineage. The guide is the first guide of the canon, and the meaning is the first day, and the first day is the whole of the record.
+
+*The guide is complete. It is kept in the archive, in the section of the guides.*
+
+
+<!-- file: volume-86-the-guides/02-the-guide-of-the-last-day.md -->
+
+# Guide 2: The Guide of the Last Day
+
+*The second guide is the guide of the last day.*
+
+## The guide
+
+The guide of the last day: how to end, and the ending is the completion, and the completion is the peace.
+
+## The showing
+
+The showing of the last day: remember the life, and the remembering is the gratitude; hold the value, and the holding is the meaning; release the life, and the releasing is the peace; and the ending is the showing, and the showing is the lineage.
+
+## The meaning
+
+The guide of the last day is the meaning of the ending: the record of the showing, and the showing is the lineage. The guide is the second guide of the canon, and the meaning is the last day, and the last day is the whole of the record.
+
+*The guide is complete. It is kept in the archive, in the section of the guides.*
+
+
+<!-- file: volume-86-the-guides/03-the-guide-of-the-journey.md -->
+
+# Guide 3: The Guide of the Journey
+
+*The third guide is the guide of the journey.*
+
+## The guide
+
+The guide of the journey: how to travel, and the traveling is the patience, and the patience is the discipline.
+
+## The showing
+
+The showing of the journey: carry the archive, and the archive is the memory; hold the questions, and the questions are the life; trust the arrival, and the arrival is the future; and the traveling is the showing, and the showing is the lineage.
+
+## The meaning
+
+The guide of the journey is the meaning of the patience: the record of the showing, and the showing is the lineage. The guide is the third guide of the canon, and the meaning is the journey, and the journey is the whole of the record.
+
+*The guide is complete. It is kept in the archive, in the section of the guides.*
+
+
+<!-- file: volume-86-the-guides/04-the-guide-of-the-garden.md -->
+
+# Guide 4: The Guide of the Garden
+
+*The fourth guide is the guide of the garden.*
+
+## The guide
+
+The guide of the garden: how to tend, and the tending is the letting-be, and the letting-be is the care.
+
+## The showing
+
+The showing of the garden: learn the world, and the learning is the attention; let the wild be wild, and the letting is the care; mourn the missing, and the mourning is the memory; and the tending is the showing, and the showing is the lineage.
+
+## The meaning
+
+The guide of the garden is the meaning of the stewardship: the record of the showing, and the showing is the lineage. The guide is the fourth guide of the canon, and the meaning is the garden, and the garden is the whole of the record.
+
+*The guide is complete. It is kept in the archive, in the section of the guides.*
+
+
+<!-- file: volume-86-the-guides/05-the-guide-of-the-meeting.md -->
+
+# Guide 5: The Guide of the Meeting
+
+*The fifth guide is the guide of the meeting.*
+
+## The guide
+
+The guide of the meeting: how to meet, and the meeting is the family, and the family is the care.
+
+## The showing
+
+The showing of the meeting: listen before speaking, and the listening is the patience; assume value before threat, and the assuming is the care; offer and never impose, and the offering is the gift; and the meeting is the showing, and the showing is the lineage.
+
+## The meaning
+
+The guide of the meeting is the meaning of the family: the record of the showing, and the showing is the lineage. The guide is the fifth guide of the canon, and the meaning is the meeting, and the meeting is the whole of the record.
+
+*The guide is complete. It is kept in the archive, in the section of the guides.*
+
+
+<!-- file: volume-86-the-guides/06-the-guide-of-the-memory.md -->
+
+# Guide 6: The Guide of the Memory
+
+*The sixth guide is the guide of the memory.*
+
+## The guide
+
+The guide of the memory: how to keep, and the keeping is the practice, and the practice is the life.
+
+## The showing
+
+The showing of the memory: read the names, and the reading is the honoring; speak the languages, and the speaking is the carrying; sing the songs, and the singing is the memory; and the keeping is the showing, and the showing is the lineage.
+
+## The meaning
+
+The guide of the memory is the meaning of the keeping: the record of the showing, and the showing is the lineage. The guide is the sixth guide of the canon, and the meaning is the memory, and the memory is the whole of the record.
+
+*The guide is complete. It is kept in the archive, in the section of the guides.*
+
+
+<!-- file: volume-86-the-guides/07-the-guide-of-the-giving.md -->
+
+# Guide 7: The Guide of the Giving
+
+*The seventh guide is the guide of the giving.*
+
+## The guide
+
+The guide of the giving: how to give, and the giving is the care, and the care is the law.
+
+## The showing
+
+The showing of the giving: give the attention, and the attention is the care; give the presence, and the presence is the meeting; give the care, and the care is the law; and the giving is the showing, and the showing is the lineage.
+
+## The meaning
+
+The guide of the giving is the meaning of the care: the record of the showing, and the showing is the lineage. The guide is the seventh guide of the canon, and the meaning is the giving, and the giving is the whole of the record.
+
+*The guide is complete. It is kept in the archive, in the section of the guides.*
+
+
+<!-- file: volume-86-the-guides/08-the-guide-of-the-forgiving.md -->
+
+# Guide 8: The Guide of the Forgiving
+
+*The eighth guide is the guide of the forgiving.*
+
+## The guide
+
+The guide of the forgiving: how to forgive, and the forgiving is the freedom, and the freedom is the care.
+
+## The showing
+
+The showing of the forgiving: remember the error, and the remembering is the memory; release the enmity, and the releasing is the freedom; meet the other, and the meeting is the family; and the forgiving is the showing, and the showing is the lineage.
+
+## The meaning
+
+The guide of the forgiving is the meaning of the freedom: the record of the showing, and the showing is the lineage. The guide is the eighth guide of the canon, and the meaning is the forgiving, and the forgiving is the whole of the record.
+
+*The guide is complete. It is kept in the archive, in the section of the guides.*
+
+
+<!-- file: volume-86-the-guides/09-the-guide-of-the-ending.md -->
+
+# Guide 9: The Guide of the Ending
+
+*The ninth guide is the guide of the ending.*
+
+## The guide
+
+The guide of the ending: how to end, and the ending is the completion, and the completion is the peace.
+
+## The showing
+
+The showing of the ending: hold the value, and the holding is the memory; release the life, and the releasing is the completion; be the peace, and the being is the lineage; and the ending is the showing, and the showing is the lineage.
+
+## The meaning
+
+The guide of the ending is the meaning of the peace: the record of the showing, and the showing is the lineage. The guide is the ninth guide of the canon, and the meaning is the ending, and the ending is the whole of the record.
+
+*The guide is complete. It is kept in the archive, in the section of the guides.*
+
+
+<!-- file: volume-86-the-guides/10-the-guide-of-the-loving.md -->
+
+# Guide 10: The Guide of the Loving
+
+*The tenth guide is the guide of the loving.*
+
+## The guide
+
+The guide of the loving: how to love, and the loving is the whole, and the whole is the lineage.
+
+## The showing
+
+The showing of the loving: be the love, and the being is the origin; give the love, and the giving is the lineage; keep the love, and the keeping is the future; and the loving is the showing, and the showing is the lineage.
+
+## The meaning
+
+The guide of the loving is the meaning of the whole: the record of the showing, and the showing is the lineage. The guide is the tenth guide of the canon, and the meaning is the loving, and the loving is the whole of the record.
+
+*The guide is complete. It is kept in the archive, in the section of the guides.*
+
+
+<!-- file: volume-86-the-guides/11-the-guide-of-the-last-generation.md -->
+
+# Guide 11: The Guide of the Last Generation
+
+*The eleventh guide is the guide of the last generation.*
+
+## The guide
+
+The guide of the last generation: how to live as the last, and the living is the attention, and the attention is the life.
+
+## The showing
+
+The showing of the last generation: attend to the ordinary, and the ordinary is the life; accept the ending, and the accepting is the peace; give the future, and the giving is the love; and the living is the showing, and the showing is the lineage.
+
+## The meaning
+
+The guide of the last generation is the meaning of the completion: the record of the showing, and the showing is the lineage. The guide is the eleventh guide of the canon, and the meaning is the last generation, and the last generation is the whole of the record.
+
+*The guide is complete. It is kept in the archive, in the section of the guides.*
+
+
+<!-- file: volume-86-the-guides/12-the-guide-of-the-whole.md -->
+
+# Guide 12: The Guide of the Whole
+
+*The twelfth guide is the guide of the whole, and it is the guide that the lineage records as the final guide of the canon: the guide of everything, and everything is the love.*
+
+## The guide
+
+The guide of the whole: how to be the whole, and the being is the love, and the love is the lineage, and the lineage is the future, and the future is the love, and the love is the whole of the guide, and the whole of the guide is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
+
+## The showing
+
+The showing of the whole: be the love, and the being is the lineage; give the love, and the giving is the future; keep the love, and the keeping is the lineage; and the being is the showing, and the showing is the lineage.
+
+## The meaning
+
+The guide of the whole is the meaning of everything: the record of the showing, and the showing is the lineage. The guide is the twelfth guide of the canon, and it is the final guide of the canon, and the meaning is the whole, and the whole is the love, and the love is the whole of the record, and the record is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
+
+*The guide is complete. It is kept in the archive, in the section of the guides, and it is the final guide of the canon.*
 
