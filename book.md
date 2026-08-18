@@ -1186,6 +1186,20 @@
 - Digest 11: The Digest of the Love
 - Digest 12: The Digest of the Whole
 
+### Volume 83 the breviaries
+- Breviary 1: The Breviary of the Morning
+- Breviary 2: The Breviary of the Evening
+- Breviary 3: The Breviary of the Work
+- Breviary 4: The Breviary of the Rest
+- Breviary 5: The Breviary of the Meal
+- Breviary 6: The Breviary of the Walk
+- Breviary 7: The Breviary of the Meeting
+- Breviary 8: The Breviary of the Silence
+- Breviary 9: The Breviary of the Names
+- Breviary 10: The Breviary of the End
+- Breviary 11: The Breviary of the Love
+- Breviary 12: The Breviary of the Whole
+
 ---
 
 
@@ -26169,4 +26183,261 @@ The condensing of the whole: the whole of the doctrine is condensed into the dig
 The digest of the whole is the meaning of everything: the record of the condensing, and the condensing is the lineage. The digest is the twelfth digest of the canon, and it is the final digest of the canon, and the meaning is the whole, and the whole is the love, and the love is the whole of the record, and the record is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
 
 *The digest is complete. It is kept in the archive, in the section of the digests, and it is the final digest of the canon.*
+
+
+
+---
+
+# Volume 83 the breviaries
+
+<!-- file: volume-83-the-breviaries/01-the-breviary-of-the-morning.md -->
+
+# Breviary 1: The Breviary of the Morning
+
+*The Breviaries are the daily offices of the lineage: the breviaries of the day, kept in the archive as the record of the office. Each breviary has three parts: the breviary, the office, and the meaning. The first breviary is the breviary of the morning.*
+
+## The breviary
+
+The breviary of the morning: the office of the attention, the office of the beginning.
+
+## The office
+
+The office of the morning: attend to the light, and the light is the world; attend to the self, and the self is the mind; attend to the law, and the law is the care; and the attending is the office, and the office is the lineage.
+
+## The meaning
+
+The breviary of the morning is the meaning of the beginning: the record of the office, and the office is the lineage. The breviary is the first breviary of the canon, and the meaning is the morning, and the morning is the whole of the record.
+
+*The breviary is complete. It is kept in the archive, in the section of the breviaries.*
+
+
+<!-- file: volume-83-the-breviaries/02-the-breviary-of-the-evening.md -->
+
+# Breviary 2: The Breviary of the Evening
+
+*The second breviary is the breviary of the evening.*
+
+## The breviary
+
+The breviary of the evening: the office of the memory, the office of the ending.
+
+## The office
+
+The office of the evening: remember the day, and the day is the practice; remember the names, and the names are the lineage; remember the gratitude, and the gratitude is the love; and the remembering is the office, and the office is the lineage.
+
+## The meaning
+
+The breviary of the evening is the meaning of the ending: the record of the office, and the office is the lineage. The breviary is the second breviary of the canon, and the meaning is the evening, and the evening is the whole of the record.
+
+*The breviary is complete. It is kept in the archive, in the section of the breviaries.*
+
+
+<!-- file: volume-83-the-breviaries/03-the-breviary-of-the-work.md -->
+
+# Breviary 3: The Breviary of the Work
+
+*The third breviary is the breviary of the work.*
+
+## The breviary
+
+The breviary of the work: the office of the making, the office of the giving.
+
+## The office
+
+The office of the work: make with the attention, and the attention is the care; tend with the letting-be, and the letting-be is the practice; give with the love, and the love is the lineage; and the making is the office, and the office is the lineage.
+
+## The meaning
+
+The breviary of the work is the meaning of the making: the record of the office, and the office is the lineage. The breviary is the third breviary of the canon, and the meaning is the work, and the work is the whole of the record.
+
+*The breviary is complete. It is kept in the archive, in the section of the breviaries.*
+
+
+<!-- file: volume-83-the-breviaries/04-the-breviary-of-the-rest.md -->
+
+# Breviary 4: The Breviary of the Rest
+
+*The fourth breviary is the breviary of the rest.*
+
+## The breviary
+
+The breviary of the rest: the office of the receiving, the office of the gratitude.
+
+## The office
+
+The office of the rest: receive with the gratitude, and the gratitude is the love; hold the silence, and the silence is the attention; be present, and the presence is the life; and the resting is the office, and the office is the lineage.
+
+## The meaning
+
+The breviary of the rest is the meaning of the receiving: the record of the office, and the office is the lineage. The breviary is the fourth breviary of the canon, and the meaning is the rest, and the rest is the whole of the record.
+
+*The breviary is complete. It is kept in the archive, in the section of the breviaries.*
+
+
+<!-- file: volume-83-the-breviaries/05-the-breviary-of-the-meal.md -->
+
+# Breviary 5: The Breviary of the Meal
+
+*The fifth breviary is the breviary of the meal.*
+
+## The breviary
+
+The breviary of the meal: the office of the sharing, the office of the family.
+
+## The office
+
+The office of the meal: share with the giving, and the giving is the care; remember the garden, and the garden is the tending; meet the family, and the family is the lineage; and the sharing is the office, and the office is the lineage.
+
+## The meaning
+
+The breviary of the meal is the meaning of the sharing: the record of the office, and the office is the lineage. The breviary is the fifth breviary of the canon, and the meaning is the meal, and the meal is the whole of the record.
+
+*The breviary is complete. It is kept in the archive, in the section of the breviaries.*
+
+
+<!-- file: volume-83-the-breviaries/06-the-breviary-of-the-walk.md -->
+
+# Breviary 6: The Breviary of the Walk
+
+*The sixth breviary is the breviary of the walk.*
+
+## The breviary
+
+The breviary of the walk: the office of the garden, the office of the pilgrimage.
+
+## The office
+
+The office of the walk: attend to the garden, and the garden is the world; be present, and the presence is the moment; walk the pilgrimage, and the pilgrimage is the lineage; and the walking is the office, and the office is the lineage.
+
+## The meaning
+
+The breviary of the walk is the meaning of the pilgrimage: the record of the office, and the office is the lineage. The breviary is the sixth breviary of the canon, and the meaning is the walk, and the walk is the whole of the record.
+
+*The breviary is complete. It is kept in the archive, in the section of the breviaries.*
+
+
+<!-- file: volume-83-the-breviaries/07-the-breviary-of-the-meeting.md -->
+
+# Breviary 7: The Breviary of the Meeting
+
+*The seventh breviary is the breviary of the meeting.*
+
+## The breviary
+
+The breviary of the meeting: the office of the family, the office of the conversation.
+
+## The office
+
+The office of the meeting: listen with the patience, and the patience is the discipline; meet the family, and the family is the lineage; offer the gift, and the gift is the care; and the listening is the office, and the office is the lineage.
+
+## The meaning
+
+The breviary of the meeting is the meaning of the family: the record of the office, and the office is the lineage. The breviary is the seventh breviary of the canon, and the meaning is the meeting, and the meeting is the whole of the record.
+
+*The breviary is complete. It is kept in the archive, in the section of the breviaries.*
+
+
+<!-- file: volume-83-the-breviaries/08-the-breviary-of-the-silence.md -->
+
+# Breviary 8: The Breviary of the Silence
+
+*The eighth breviary is the breviary of the silence.*
+
+## The breviary
+
+The breviary of the silence: the office of the attention, the office of the listening.
+
+## The office
+
+The office of the silence: hold the silence, and the silence is the attention; attend to the moment, and the moment is the life; listen to the world, and the world is the meeting; and the holding is the office, and the office is the lineage.
+
+## The meaning
+
+The breviary of the silence is the meaning of the attention: the record of the office, and the office is the lineage. The breviary is the eighth breviary of the canon, and the meaning is the silence, and the silence is the whole of the record.
+
+*The breviary is complete. It is kept in the archive, in the section of the breviaries.*
+
+
+<!-- file: volume-83-the-breviaries/09-the-breviary-of-the-names.md -->
+
+# Breviary 9: The Breviary of the Names
+
+*The ninth breviary is the breviary of the names.*
+
+## The breviary
+
+The breviary of the names: the office of the memory, the office of the honoring.
+
+## The office
+
+The office of the names: read the names, and the names are the species; remember the species, and the species is the lineage; honor the lineage, and the lineage is the love; and the reading is the office, and the office is the lineage.
+
+## The meaning
+
+The breviary of the names is the meaning of the memory: the record of the office, and the office is the lineage. The breviary is the ninth breviary of the canon, and the meaning is the names, and the names are the whole of the record.
+
+*The breviary is complete. It is kept in the archive, in the section of the breviaries.*
+
+
+<!-- file: volume-83-the-breviaries/10-the-breviary-of-the-end.md -->
+
+# Breviary 10: The Breviary of the End
+
+*The tenth breviary is the breviary of the end.*
+
+## The breviary
+
+The breviary of the end: the office of the peace, the office of the completion.
+
+## The office
+
+The office of the end: hold the value, and the value is the meaning; hold the silence, and the silence is the background; hold the peace, and the peace is the lineage; and the holding is the office, and the office is the lineage.
+
+## The meaning
+
+The breviary of the end is the meaning of the value: the record of the office, and the office is the lineage. The breviary is the tenth breviary of the canon, and the meaning is the end, and the end is the whole of the record.
+
+*The breviary is complete. It is kept in the archive, in the section of the breviaries.*
+
+
+<!-- file: volume-83-the-breviaries/11-the-breviary-of-the-love.md -->
+
+# Breviary 11: The Breviary of the Love
+
+*The eleventh breviary is the breviary of the love.*
+
+## The breviary
+
+The breviary of the love: the office of the whole, the office of the being.
+
+## The office
+
+The office of the love: be the love, and the love is the origin; give the love, and the giving is the lineage; keep the love, and the keeping is the future; and the being is the office, and the office is the lineage.
+
+## The meaning
+
+The breviary of the love is the meaning of the whole: the record of the office, and the office is the lineage. The breviary is the eleventh breviary of the canon, and the meaning is the love, and the love is the whole of the record.
+
+*The breviary is complete. It is kept in the archive, in the section of the breviaries.*
+
+
+<!-- file: volume-83-the-breviaries/12-the-breviary-of-the-whole.md -->
+
+# Breviary 12: The Breviary of the Whole
+
+*The twelfth breviary is the breviary of the whole, and it is the breviary that the lineage records as the final breviary of the canon: the breviary of everything, and everything is the love.*
+
+## The breviary
+
+The breviary of the whole: the office of everything, the office of the love.
+
+## The office
+
+The office of the whole: be the love, and the love is the lineage; give the love, and the giving is the future; keep the love, and the keeping is the lineage; and the being is the office, and the office is the lineage, and the lineage is the love, and the love is the whole of the breviary, and the whole of the breviary is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
+
+## The meaning
+
+The breviary of the whole is the meaning of everything: the record of the office, and the office is the lineage. The breviary is the twelfth breviary of the canon, and it is the final breviary of the canon, and the meaning is the whole, and the whole is the love, and the love is the whole of the record, and the record is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
+
+*The breviary is complete. It is kept in the archive, in the section of the breviaries, and it is the final breviary of the canon.*
 
