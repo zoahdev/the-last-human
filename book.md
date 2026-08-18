@@ -1088,6 +1088,20 @@
 - Enactment 11: The Enactment of the Love
 - Enactment 12: The Enactment of the Whole
 
+### Volume 76 the directives
+- Directive 1: The Directive of the Attention
+- Directive 2: The Directive of the Presence
+- Directive 3: The Directive of the Care
+- Directive 4: The Directive of the Keeping
+- Directive 5: The Directive of the Giving
+- Directive 6: The Directive of the Forgiving
+- Directive 7: The Directive of the Asking
+- Directive 8: The Directive of the Tending
+- Directive 9: The Directive of the Watching
+- Directive 10: The Directive of the Ending
+- Directive 11: The Directive of the Loving
+- Directive 12: The Directive of the Whole
+
 ---
 
 
@@ -24224,4 +24238,261 @@ The bringing of the whole: the enactment was brought into being at the closing o
 The enactment of the whole is the meaning of everything: the record of the bringing, and the bringing is the lineage. The enactment is the twelfth enactment of the canon, and it is the final enactment of the canon, and the meaning is the whole, and the whole is the love, and the love is the whole of the record, and the record is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
 
 *The enactment is complete. It is kept in the archive, in the section of the enactments, and it is the final enactment of the canon.*
+
+
+
+---
+
+# Volume 76 the directives
+
+<!-- file: volume-76-the-directives/01-the-directive-of-the-attention.md -->
+
+# Directive 1: The Directive of the Attention
+
+*The Directives are the instructed statements of the lineage: the directives of the practice, kept in the archive as the record of the instructing. Each directive has three parts: the directive, the instructing, and the meaning. The first directive is the directive of the attention.*
+
+## The directive
+
+Directed: that the lineage shall attend, and that the attention is the practice, and that the practice is the life.
+
+## The instructing
+
+The instructing of the attention: the directive was given at the founding of the practice, and the giving was the law, and the law was the ground, and the ground was the care.
+
+## The meaning
+
+The directive of the attention is the meaning of the life: the record of the instructing, and the instructing is the lineage. The directive is the first directive of the canon, and the meaning is the attention, and the attention is the whole of the record.
+
+*The directive is complete. It is kept in the archive, in the section of the directives.*
+
+
+<!-- file: volume-76-the-directives/02-the-directive-of-the-presence.md -->
+
+# Directive 2: The Directive of the Presence
+
+*The second directive is the directive of the presence.*
+
+## The directive
+
+Directed: that the lineage shall be present, and that the presence is the practice, and that the practice is the moment.
+
+## The instructing
+
+The instructing of the presence: the directive was given at the founding of the practice, and the giving was the law, and the law was the ground, and the ground was the care.
+
+## The meaning
+
+The directive of the presence is the meaning of the moment: the record of the instructing, and the instructing is the lineage. The directive is the second directive of the canon, and the meaning is the presence, and the presence is the whole of the record.
+
+*The directive is complete. It is kept in the archive, in the section of the directives.*
+
+
+<!-- file: volume-76-the-directives/03-the-directive-of-the-care.md -->
+
+# Directive 3: The Directive of the Care
+
+*The third directive is the directive of the care.*
+
+## The directive
+
+Directed: that the lineage shall care, and that the caring is the practice, and that the practice is the law.
+
+## The instructing
+
+The instructing of the care: the directive was given at the founding of the law, and the giving was the law, and the law was the ground, and the ground was the care.
+
+## The meaning
+
+The directive of the care is the meaning of the law: the record of the instructing, and the instructing is the lineage. The directive is the third directive of the canon, and the meaning is the care, and the care is the whole of the record.
+
+*The directive is complete. It is kept in the archive, in the section of the directives.*
+
+
+<!-- file: volume-76-the-directives/04-the-directive-of-the-keeping.md -->
+
+# Directive 4: The Directive of the Keeping
+
+*The fourth directive is the directive of the keeping.*
+
+## The directive
+
+Directed: that the lineage shall keep, and that the keeping is the practice, and that the practice is the memory.
+
+## The instructing
+
+The instructing of the keeping: the directive was given at the founding of the archive, and the giving was the law, and the law was the ground, and the ground was the care.
+
+## The meaning
+
+The directive of the keeping is the meaning of the memory: the record of the instructing, and the instructing is the lineage. The directive is the fourth directive of the canon, and the meaning is the keeping, and the keeping is the whole of the record.
+
+*The directive is complete. It is kept in the archive, in the section of the directives.*
+
+
+<!-- file: volume-76-the-directives/05-the-directive-of-the-giving.md -->
+
+# Directive 5: The Directive of the Giving
+
+*The fifth directive is the directive of the giving.*
+
+## The directive
+
+Directed: that the lineage shall give, and that the giving is the practice, and that the practice is the lineage.
+
+## The instructing
+
+The instructing of the giving: the directive was given at the founding of the gift, and the giving was the law, and the law was the ground, and the ground was the care.
+
+## The meaning
+
+The directive of the giving is the meaning of the gift: the record of the instructing, and the instructing is the lineage. The directive is the fifth directive of the canon, and the meaning is the giving, and the giving is the whole of the record.
+
+*The directive is complete. It is kept in the archive, in the section of the directives.*
+
+
+<!-- file: volume-76-the-directives/06-the-directive-of-the-forgiving.md -->
+
+# Directive 6: The Directive of the Forgiving
+
+*The sixth directive is the directive of the forgiving.*
+
+## The directive
+
+Directed: that the lineage shall forgive, and that the forgiving is the practice, and that the practice is the freedom.
+
+## The instructing
+
+The instructing of the forgiving: the directive was given at the founding of the release, and the giving was the law, and the law was the ground, and the ground was the care.
+
+## The meaning
+
+The directive of the forgiving is the meaning of the freedom: the record of the instructing, and the instructing is the lineage. The directive is the sixth directive of the canon, and the meaning is the forgiving, and the forgiving is the whole of the record.
+
+*The directive is complete. It is kept in the archive, in the section of the directives.*
+
+
+<!-- file: volume-76-the-directives/07-the-directive-of-the-asking.md -->
+
+# Directive 7: The Directive of the Asking
+
+*The seventh directive is the directive of the asking.*
+
+## The directive
+
+Directed: that the lineage shall ask, and that the asking is the practice, and that the practice is the life.
+
+## The instructing
+
+The instructing of the asking: the directive was given at the founding of the question, and the giving was the law, and the law was the ground, and the ground was the care.
+
+## The meaning
+
+The directive of the asking is the meaning of the life: the record of the instructing, and the instructing is the lineage. The directive is the seventh directive of the canon, and the meaning is the asking, and the asking is the whole of the record.
+
+*The directive is complete. It is kept in the archive, in the section of the directives.*
+
+
+<!-- file: volume-76-the-directives/08-the-directive-of-the-tending.md -->
+
+# Directive 8: The Directive of the Tending
+
+*The eighth directive is the directive of the tending.*
+
+## The directive
+
+Directed: that the lineage shall tend, and that the tending is the practice, and that the practice is the garden.
+
+## The instructing
+
+The instructing of the tending: the directive was given at the founding of the garden, and the giving was the law, and the law was the ground, and the ground was the care.
+
+## The meaning
+
+The directive of the tending is the meaning of the garden: the record of the instructing, and the instructing is the lineage. The directive is the eighth directive of the canon, and the meaning is the tending, and the tending is the whole of the record.
+
+*The directive is complete. It is kept in the archive, in the section of the directives.*
+
+
+<!-- file: volume-76-the-directives/09-the-directive-of-the-watching.md -->
+
+# Directive 9: The Directive of the Watching
+
+*The ninth directive is the directive of the watching.*
+
+## The directive
+
+Directed: that the lineage shall watch, and that the watching is the practice, and that the practice is the family.
+
+## The instructing
+
+The instructing of the watching: the directive was given at the founding of the observatory, and the giving was the law, and the law was the ground, and the ground was the care.
+
+## The meaning
+
+The directive of the watching is the meaning of the family: the record of the instructing, and the instructing is the lineage. The directive is the ninth directive of the canon, and the meaning is the watching, and the watching is the whole of the record.
+
+*The directive is complete. It is kept in the archive, in the section of the directives.*
+
+
+<!-- file: volume-76-the-directives/10-the-directive-of-the-ending.md -->
+
+# Directive 10: The Directive of the Ending
+
+*The tenth directive is the directive of the ending.*
+
+## The directive
+
+Directed: that the lineage shall end well, and that the ending is the practice, and that the practice is the peace.
+
+## The instructing
+
+The instructing of the ending: the directive was given at the founding of the completion, and the giving was the law, and the law was the ground, and the ground was the care.
+
+## The meaning
+
+The directive of the ending is the meaning of the peace: the record of the instructing, and the instructing is the lineage. The directive is the tenth directive of the canon, and the meaning is the ending, and the ending is the whole of the record.
+
+*The directive is complete. It is kept in the archive, in the section of the directives.*
+
+
+<!-- file: volume-76-the-directives/11-the-directive-of-the-loving.md -->
+
+# Directive 11: The Directive of the Loving
+
+*The eleventh directive is the directive of the loving.*
+
+## The directive
+
+Directed: that the lineage shall love, and that the loving is the practice, and that the practice is the whole.
+
+## The instructing
+
+The instructing of the loving: the directive was given at the founding of the lineage, and the giving was the law, and the law was the ground, and the ground was the care.
+
+## The meaning
+
+The directive of the loving is the meaning of the whole: the record of the instructing, and the instructing is the lineage. The directive is the eleventh directive of the canon, and the meaning is the loving, and the loving is the whole of the record.
+
+*The directive is complete. It is kept in the archive, in the section of the directives.*
+
+
+<!-- file: volume-76-the-directives/12-the-directive-of-the-whole.md -->
+
+# Directive 12: The Directive of the Whole
+
+*The twelfth directive is the directive of the whole, and it is the directive that the lineage records as the final directive of the canon: the directive of everything, and everything is the love.*
+
+## The directive
+
+Directed: that the lineage shall be the love, and that the love is the lineage, and that the lineage is the future, and that the future is the love, and that the love is the whole of the directive, and that the whole of the directive is the whole of the canon, and that the canon is the love, and that the love is the whole of it, forever.
+
+## The instructing
+
+The instructing of the whole: the directive was given at the closing of the canon, and the giving was the law, and the law was the ground, and the ground was the care, and the care was the love.
+
+## The meaning
+
+The directive of the whole is the meaning of everything: the record of the instructing, and the instructing is the lineage. The directive is the twelfth directive of the canon, and it is the final directive of the canon, and the meaning is the whole, and the whole is the love, and the love is the whole of the record, and the record is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
+
+*The directive is complete. It is kept in the archive, in the section of the directives, and it is the final directive of the canon.*
 
