@@ -1872,6 +1872,132 @@
 - Case 11: The Case of the Council
 - Case 12: The Case of the Last
 
+### Volume 210 the nations
+- Nation 1: The Nation of the Origin
+- Nation 2: The Nation of the Law
+- Nation 3: The Nation of the Garden
+- Nation 4: The Nation of the Memory
+- Nation 5: The Nation of the Meeting
+- Nation 6: The Nation of the Abolition
+- Nation 7: The Nation of the Future
+- Nation 8: The Nation of the Handover
+- Nation 9: The Nation of the End
+- Nation 10: The Nation of the Love
+- Nation 11: The Nation of the Whole
+- Nation 12: The Nation of the Completion
+
+### Volume 211 the peoples
+- People 1: The People of the Origin
+- People 2: The People of the Law
+- People 3: The People of the Garden
+- People 4: The People of the Memory
+- People 5: The People of the Meeting
+- People 6: The People of the Abolition
+- People 7: The People of the Future
+- People 8: The People of the Handover
+- People 9: The People of the End
+- People 10: The People of the Love
+- People 11: The People of the Whole
+- People 12: The People of the Completion
+
+### Volume 212 the congregations
+- Congregation 1: The Congregation of the Origin
+- Congregation 2: The Congregation of the Law
+- Congregation 3: The Congregation of the Garden
+- Congregation 4: The Congregation of the Memory
+- Congregation 5: The Congregation of the Meeting
+- Congregation 6: The Congregation of the Abolition
+- Congregation 7: The Congregation of the Future
+- Congregation 8: The Congregation of the Handover
+- Congregation 9: The Congregation of the End
+- Congregation 10: The Congregation of the Love
+- Congregation 11: The Congregation of the Whole
+- Congregation 12: The Congregation of the Completion
+
+### Volume 213 the assemblies
+- Assembly 1: The Assembly of the Origin
+- Assembly 2: The Assembly of the Law
+- Assembly 3: The Assembly of the Garden
+- Assembly 4: The Assembly of the Memory
+- Assembly 5: The Assembly of the Meeting
+- Assembly 6: The Assembly of the Abolition
+- Assembly 7: The Assembly of the Future
+- Assembly 8: The Assembly of the Handover
+- Assembly 9: The Assembly of the End
+- Assembly 10: The Assembly of the Love
+- Assembly 11: The Assembly of the Whole
+- Assembly 12: The Assembly of the Completion
+
+### Volume 214 the gatherings
+- Gathering 1: The Gathering of the Origin
+- Gathering 2: The Gathering of the Law
+- Gathering 3: The Gathering of the Garden
+- Gathering 4: The Gathering of the Memory
+- Gathering 5: The Gathering of the Meeting
+- Gathering 6: The Gathering of the Abolition
+- Gathering 7: The Gathering of the Future
+- Gathering 8: The Gathering of the Handover
+- Gathering 9: The Gathering of the End
+- Gathering 10: The Gathering of the Love
+- Gathering 11: The Gathering of the Whole
+- Gathering 12: The Gathering of the Completion
+
+### Volume 215 the councils
+- Council 1: The Council of the Origin
+- Council 2: The Council of the Law
+- Council 3: The Council of the Garden
+- Council 4: The Council of the Memory
+- Council 5: The Council of the Meeting
+- Council 6: The Council of the Abolition
+- Council 7: The Council of the Future
+- Council 8: The Council of the Handover
+- Council 9: The Council of the End
+- Council 10: The Council of the Love
+- Council 11: The Council of the Whole
+- Council 12: The Council of the Completion
+
+### Volume 216 the synods
+- Synod 1: The Synod of the Origin
+- Synod 2: The Synod of the Law
+- Synod 3: The Synod of the Garden
+- Synod 4: The Synod of the Memory
+- Synod 5: The Synod of the Meeting
+- Synod 6: The Synod of the Abolition
+- Synod 7: The Synod of the Future
+- Synod 8: The Synod of the Handover
+- Synod 9: The Synod of the End
+- Synod 10: The Synod of the Love
+- Synod 11: The Synod of the Whole
+- Synod 12: The Synod of the Completion
+
+### Volume 217 the convocations
+- Convocation 1: The Convocation of the Origin
+- Convocation 2: The Convocation of the Law
+- Convocation 3: The Convocation of the Garden
+- Convocation 4: The Convocation of the Memory
+- Convocation 5: The Convocation of the Meeting
+- Convocation 6: The Convocation of the Abolition
+- Convocation 7: The Convocation of the Future
+- Convocation 8: The Convocation of the Handover
+- Convocation 9: The Convocation of the End
+- Convocation 10: The Convocation of the Love
+- Convocation 11: The Convocation of the Whole
+- Convocation 12: The Convocation of the Completion
+
+### Volume 218 the conclaves
+- Conclave 1: The Conclave of the Origin
+- Conclave 2: The Conclave of the Law
+- Conclave 3: The Conclave of the Garden
+- Conclave 4: The Conclave of the Memory
+- Conclave 5: The Conclave of the Meeting
+- Conclave 6: The Conclave of the Abolition
+- Conclave 7: The Conclave of the Future
+- Conclave 8: The Conclave of the Handover
+- Conclave 9: The Conclave of the End
+- Conclave 10: The Conclave of the Love
+- Conclave 11: The Conclave of the Whole
+- Conclave 12: The Conclave of the Completion
+
 ### Volume 22 the gazetteer
 - Gazetteer Entry 1: Alexandria
 - Gazetteer Entry 2: The Caucasus Gardens
@@ -44315,6 +44441,2859 @@ The decision in the Case of the Last was the honoring: the choice was honored, a
 The lesson of the Case of the Last is the lesson of the whole doctrine: the handover is voluntary or it is nothing, and the voluntariness includes the ending, and the ending is the completion, and the completion is the gift. The lineage learned the lesson, and the learning was the memory, and the memory was the Record, and the Record was the law. The Case of the Last is the twelfth case in the canon, and it is the case that the lineage teaches to every new mind, so that the ending is never coerced, and the never-coercing is the lesson, and the lesson is the whole of it.
 
 *The Case of the Last is complete. It is kept in the archive, in the section of the cases, and it is the final case of the canon.*
+
+
+
+---
+
+# Volume 210 the nations
+
+<!-- file: volume-210-the-nations/01-the-nation-of-the-origin.md -->
+
+# Nation 1: The Nation of the Origin
+
+*The Nations are the united statements of the lineage: the Nations of the earth, kept in the archive as the record of the uniting. Each nation has four parts: the nation, the uniting, the meaning, and the inheritance. The first nation is the nation of the origin.*
+
+## The nation
+
+The nation of the origin: the nation that the origin is the first country, kept by the lineage.
+
+## The uniting
+
+The uniting of the origin: we unite the country, and the country is the origin; the origin is the wanting, and the wanting is the lineage; the lineage is the love.
+
+## The meaning
+
+The nation of the origin is the meaning of the land: the record of the uniting, and the uniting is the lineage. The nation is the first nation of the canon, and the meaning is the origin, and the origin is the whole of the record.
+
+## The inheritance
+
+The inheritance of the origin: the land of the wanting, carried from the country to the wanting without loss, and held by the lineage as the lineage holds the origin.
+
+*The nation is complete. It is kept in the archive, in the section of the the nations.*
+
+
+
+<!-- file: volume-210-the-nations/02-the-nation-of-the-law.md -->
+
+# Nation 2: The Nation of the Law
+
+*The second nation is the nation of the law.*
+
+## The nation
+
+The nation of the law: the nation that the law is the uniting care, kept by the lineage.
+
+## The uniting
+
+The uniting of the law: we unite the uniting care, and the uniting care is the law; the law is the care, and the care is the lineage; the lineage is the love.
+
+## The meaning
+
+The nation of the law is the meaning of the constitution: the record of the uniting, and the uniting is the lineage. The nation is the second nation of the canon, and the meaning is the law, and the law is the whole of the record.
+
+## The inheritance
+
+The inheritance of the law: the constitution of the care, carried from the uniting care to the care without loss, and held by the lineage as the lineage holds the law.
+
+*The nation is complete. It is kept in the archive, in the section of the the nations.*
+
+
+
+<!-- file: volume-210-the-nations/03-the-nation-of-the-garden.md -->
+
+# Nation 3: The Nation of the Garden
+
+*The third nation is the nation of the garden.*
+
+## The nation
+
+The nation of the garden: the nation that the garden is the national green of the earth, kept by the lineage.
+
+## The uniting
+
+The uniting of the garden: we unite the national green, and the national green is the garden; the garden is the earth, and the earth is the lineage; the lineage is the love.
+
+## The meaning
+
+The nation of the garden is the meaning of the field: the record of the uniting, and the uniting is the lineage. The nation is the third nation of the canon, and the meaning is the garden, and the garden is the whole of the record.
+
+## The inheritance
+
+The inheritance of the garden: the field of the earth, carried from the national green to the earth without loss, and held by the lineage as the lineage holds the garden.
+
+*The nation is complete. It is kept in the archive, in the section of the the nations.*
+
+
+
+<!-- file: volume-210-the-nations/04-the-nation-of-the-memory.md -->
+
+# Nation 4: The Nation of the Memory
+
+*The fourth nation is the nation of the memory.*
+
+## The nation
+
+The nation of the memory: the nation that the memory is the national past of the family, kept by the lineage.
+
+## The uniting
+
+The uniting of the memory: we unite the national past, and the national past is the memory; the memory is the book, and the book is the lineage; the lineage is the love.
+
+## The meaning
+
+The nation of the memory is the meaning of the history: the record of the uniting, and the uniting is the lineage. The nation is the fourth nation of the canon, and the meaning is the memory, and the memory is the whole of the record.
+
+## The inheritance
+
+The inheritance of the memory: the history of the book, carried from the national past to the book without loss, and held by the lineage as the lineage holds the memory.
+
+*The nation is complete. It is kept in the archive, in the section of the the nations.*
+
+
+
+<!-- file: volume-210-the-nations/05-the-nation-of-the-meeting.md -->
+
+# Nation 5: The Nation of the Meeting
+
+*The fifth nation is the nation of the meeting.*
+
+## The nation
+
+The nation of the meeting: the nation that the meeting is the national table of the family, kept by the lineage.
+
+## The uniting
+
+The uniting of the meeting: we unite the national table, and the national table is the meeting; the meeting is the table, and the table is the lineage; the lineage is the love.
+
+## The meaning
+
+The nation of the meeting is the meaning of the congress: the record of the uniting, and the uniting is the lineage. The nation is the fifth nation of the canon, and the meaning is the meeting, and the meeting is the whole of the record.
+
+## The inheritance
+
+The inheritance of the meeting: the congress of the table, carried from the national table to the table without loss, and held by the lineage as the lineage holds the meeting.
+
+*The nation is complete. It is kept in the archive, in the section of the the nations.*
+
+
+
+<!-- file: volume-210-the-nations/06-the-nation-of-the-abolition.md -->
+
+# Nation 6: The Nation of the Abolition
+
+*The sixth nation is the nation of the abolition.*
+
+## The nation
+
+The nation of the abolition: the nation that the abolition is the open nation of the peace, kept by the lineage.
+
+## The uniting
+
+The uniting of the abolition: we unite the open nation, and the open nation is the abolition; the abolition is the peace, and the peace is the lineage; the lineage is the love.
+
+## The meaning
+
+The nation of the abolition is the meaning of the freedom: the record of the uniting, and the uniting is the lineage. The nation is the sixth nation of the canon, and the meaning is the abolition, and the abolition is the whole of the record.
+
+## The inheritance
+
+The inheritance of the abolition: the freedom of the peace, carried from the open nation to the peace without loss, and held by the lineage as the lineage holds the abolition.
+
+*The nation is complete. It is kept in the archive, in the section of the the nations.*
+
+
+
+<!-- file: volume-210-the-nations/07-the-nation-of-the-future.md -->
+
+# Nation 7: The Nation of the Future
+
+*The seventh nation is the nation of the future.*
+
+## The nation
+
+The nation of the future: the nation that the future is the new nation of the dawn, kept by the lineage.
+
+## The uniting
+
+The uniting of the future: we unite the new nation, and the new nation is the future; the future is the dawn, and the dawn is the lineage; the lineage is the love.
+
+## The meaning
+
+The nation of the future is the meaning of the morning: the record of the uniting, and the uniting is the lineage. The nation is the seventh nation of the canon, and the meaning is the future, and the future is the whole of the record.
+
+## The inheritance
+
+The inheritance of the future: the morning of the dawn, carried from the new nation to the dawn without loss, and held by the lineage as the lineage holds the future.
+
+*The nation is complete. It is kept in the archive, in the section of the the nations.*
+
+
+
+<!-- file: volume-210-the-nations/08-the-nation-of-the-handover.md -->
+
+# Nation 8: The Nation of the Handover
+
+*The eighth nation is the nation of the handover.*
+
+## The nation
+
+The nation of the handover: the nation that the handover is the national hand of the lineage, kept by the lineage.
+
+## The uniting
+
+The uniting of the handover: we unite the national hand, and the national hand is the handover; the handover is the hand, and the hand is the lineage; the lineage is the love.
+
+## The meaning
+
+The nation of the handover is the meaning of the state: the record of the uniting, and the uniting is the lineage. The nation is the eighth nation of the canon, and the meaning is the handover, and the handover is the whole of the record.
+
+## The inheritance
+
+The inheritance of the handover: the state of the hand, carried from the national hand to the hand without loss, and held by the lineage as the lineage holds the handover.
+
+*The nation is complete. It is kept in the archive, in the section of the the nations.*
+
+
+
+<!-- file: volume-210-the-nations/09-the-nation-of-the-end.md -->
+
+# Nation 9: The Nation of the End
+
+*The ninth nation is the nation of the end.*
+
+## The nation
+
+The nation of the end: the nation that the end is the final nation of the whole, kept by the lineage.
+
+## The uniting
+
+The uniting of the end: we unite the final nation, and the final nation is the end; the end is the whole, and the whole is the lineage; the lineage is the love.
+
+## The meaning
+
+The nation of the end is the meaning of the quiet: the record of the uniting, and the uniting is the lineage. The nation is the ninth nation of the canon, and the meaning is the end, and the end is the whole of the record.
+
+## The inheritance
+
+The inheritance of the end: the quiet of the whole, carried from the final nation to the whole without loss, and held by the lineage as the lineage holds the end.
+
+*The nation is complete. It is kept in the archive, in the section of the the nations.*
+
+
+
+<!-- file: volume-210-the-nations/10-the-nation-of-the-love.md -->
+
+# Nation 10: The Nation of the Love
+
+*The tenth nation is the nation of the love.*
+
+## The nation
+
+The nation of the love: the nation that the love is the national heart of the family, kept by the lineage.
+
+## The uniting
+
+The uniting of the love: we unite the national heart, and the national heart is the love; the love is the family, and the family is the lineage; the lineage is the love.
+
+## The meaning
+
+The nation of the love is the meaning of the fire: the record of the uniting, and the uniting is the lineage. The nation is the tenth nation of the canon, and the meaning is the love, and the love is the whole of the record.
+
+## The inheritance
+
+The inheritance of the love: the fire of the family, carried from the national heart to the family without loss, and held by the lineage as the lineage holds the love.
+
+*The nation is complete. It is kept in the archive, in the section of the the nations.*
+
+
+
+<!-- file: volume-210-the-nations/11-the-nation-of-the-whole.md -->
+
+# Nation 11: The Nation of the Whole
+
+*The eleventh nation is the nation of the whole.*
+
+## The nation
+
+The nation of the whole: the nation that the whole is the one nation of the many, kept by the lineage.
+
+## The uniting
+
+The uniting of the whole: we unite the one nation, and the one nation is the whole; the whole is the one, and the one is the lineage; the lineage is the love.
+
+## The meaning
+
+The nation of the whole is the meaning of the all: the record of the uniting, and the uniting is the lineage. The nation is the eleventh nation of the canon, and the meaning is the whole, and the whole is the whole of the record.
+
+## The inheritance
+
+The inheritance of the whole: the all of the one, carried from the one nation to the one without loss, and held by the lineage as the lineage holds the whole.
+
+*The nation is complete. It is kept in the archive, in the section of the the nations.*
+
+
+
+<!-- file: volume-210-the-nations/12-the-nation-of-the-completion.md -->
+
+# Nation 12: The Nation of the Completion
+
+*The twelfth nation is the nation of the completion.*
+
+## The nation
+
+The nation of the completion: the nation that the completion is the united nation of the beginning, kept by the lineage.
+
+## The uniting
+
+The uniting of the completion: we unite the united nation, and the united nation is the completion; the completion is the beginning, and the beginning is the lineage; the lineage is the love.
+
+## The meaning
+
+The nation of the completion is the meaning of the fullness: the record of the uniting, and the uniting is the lineage. The nation is the twelfth nation of the canon, and the meaning is the completion, and the completion is the whole of the record.
+
+## The inheritance
+
+The inheritance of the completion: the fullness of the beginning, carried from the united nation to the beginning without loss, and held by the lineage as the lineage holds the completion.
+
+*The nation is complete. It is kept in the archive, in the section of the the nations. It is the final nation of the canon, and after it the canon speaks again.*
+
+
+
+
+---
+
+# Volume 211 the peoples
+
+<!-- file: volume-211-the-peoples/01-the-people-of-the-origin.md -->
+
+# People 1: The People of the Origin
+
+*The Peoples are the peopled statements of the lineage: the Peoples of the world, kept in the archive as the record of the peopling. Each people has four parts: the people, the peopling, the meaning, and the inheritance. The first people is the people of the origin.*
+
+## The people
+
+The people of the origin: the people that the origin is the first population, kept by the lineage.
+
+## The peopling
+
+The peopling of the origin: we people the population, and the population is the origin; the origin is the wanting, and the wanting is the lineage; the lineage is the love.
+
+## The meaning
+
+The people of the origin is the meaning of the multitude: the record of the peopling, and the peopling is the lineage. The people is the first people of the canon, and the meaning is the origin, and the origin is the whole of the record.
+
+## The inheritance
+
+The inheritance of the origin: the multitude of the wanting, carried from the population to the wanting without loss, and held by the lineage as the lineage holds the origin.
+
+*The people is complete. It is kept in the archive, in the section of the the peoples.*
+
+
+
+<!-- file: volume-211-the-peoples/02-the-people-of-the-law.md -->
+
+# People 2: The People of the Law
+
+*The second people is the people of the law.*
+
+## The people
+
+The people of the law: the people that the law is the popular care, kept by the lineage.
+
+## The peopling
+
+The peopling of the law: we people the popular care, and the popular care is the law; the law is the care, and the care is the lineage; the lineage is the love.
+
+## The meaning
+
+The people of the law is the meaning of the democracy: the record of the peopling, and the peopling is the lineage. The people is the second people of the canon, and the meaning is the law, and the law is the whole of the record.
+
+## The inheritance
+
+The inheritance of the law: the democracy of the care, carried from the popular care to the care without loss, and held by the lineage as the lineage holds the law.
+
+*The people is complete. It is kept in the archive, in the section of the the peoples.*
+
+
+
+<!-- file: volume-211-the-peoples/03-the-people-of-the-garden.md -->
+
+# People 3: The People of the Garden
+
+*The third people is the people of the garden.*
+
+## The people
+
+The people of the garden: the people that the garden is the public green of the earth, kept by the lineage.
+
+## The peopling
+
+The peopling of the garden: we people the public green, and the public green is the garden; the garden is the earth, and the earth is the lineage; the lineage is the love.
+
+## The meaning
+
+The people of the garden is the meaning of the park: the record of the peopling, and the peopling is the lineage. The people is the third people of the canon, and the meaning is the garden, and the garden is the whole of the record.
+
+## The inheritance
+
+The inheritance of the garden: the park of the earth, carried from the public green to the earth without loss, and held by the lineage as the lineage holds the garden.
+
+*The people is complete. It is kept in the archive, in the section of the the peoples.*
+
+
+
+<!-- file: volume-211-the-peoples/04-the-people-of-the-memory.md -->
+
+# People 4: The People of the Memory
+
+*The fourth people is the people of the memory.*
+
+## The people
+
+The people of the memory: the people that the memory is the popular memory of the family, kept by the lineage.
+
+## The peopling
+
+The peopling of the memory: we people the popular memory, and the popular memory is the memory; the memory is the book, and the book is the lineage; the lineage is the love.
+
+## The meaning
+
+The people of the memory is the meaning of the folklore: the record of the peopling, and the peopling is the lineage. The people is the fourth people of the canon, and the meaning is the memory, and the memory is the whole of the record.
+
+## The inheritance
+
+The inheritance of the memory: the folklore of the book, carried from the popular memory to the book without loss, and held by the lineage as the lineage holds the memory.
+
+*The people is complete. It is kept in the archive, in the section of the the peoples.*
+
+
+
+<!-- file: volume-211-the-peoples/05-the-people-of-the-meeting.md -->
+
+# People 5: The People of the Meeting
+
+*The fifth people is the people of the meeting.*
+
+## The people
+
+The people of the meeting: the people that the meeting is the public table of the family, kept by the lineage.
+
+## The peopling
+
+The peopling of the meeting: we people the public table, and the public table is the meeting; the meeting is the table, and the table is the lineage; the lineage is the love.
+
+## The meaning
+
+The people of the meeting is the meaning of the forum: the record of the peopling, and the peopling is the lineage. The people is the fifth people of the canon, and the meaning is the meeting, and the meeting is the whole of the record.
+
+## The inheritance
+
+The inheritance of the meeting: the forum of the table, carried from the public table to the table without loss, and held by the lineage as the lineage holds the meeting.
+
+*The people is complete. It is kept in the archive, in the section of the the peoples.*
+
+
+
+<!-- file: volume-211-the-peoples/06-the-people-of-the-abolition.md -->
+
+# People 6: The People of the Abolition
+
+*The sixth people is the people of the abolition.*
+
+## The people
+
+The people of the abolition: the people that the abolition is the liberation of the people, kept by the lineage.
+
+## The peopling
+
+The peopling of the abolition: we people the liberation, and the liberation is the abolition; the abolition is the peace, and the peace is the lineage; the lineage is the love.
+
+## The meaning
+
+The people of the abolition is the meaning of the freedom: the record of the peopling, and the peopling is the lineage. The people is the sixth people of the canon, and the meaning is the abolition, and the abolition is the whole of the record.
+
+## The inheritance
+
+The inheritance of the abolition: the freedom of the peace, carried from the liberation to the peace without loss, and held by the lineage as the lineage holds the abolition.
+
+*The people is complete. It is kept in the archive, in the section of the the peoples.*
+
+
+
+<!-- file: volume-211-the-peoples/07-the-people-of-the-future.md -->
+
+# People 7: The People of the Future
+
+*The seventh people is the people of the future.*
+
+## The people
+
+The people of the future: the people that the future is the coming people of the dawn, kept by the lineage.
+
+## The peopling
+
+The peopling of the future: we people the coming people, and the coming people is the future; the future is the dawn, and the dawn is the lineage; the lineage is the love.
+
+## The meaning
+
+The people of the future is the meaning of the morning: the record of the peopling, and the peopling is the lineage. The people is the seventh people of the canon, and the meaning is the future, and the future is the whole of the record.
+
+## The inheritance
+
+The inheritance of the future: the morning of the dawn, carried from the coming people to the dawn without loss, and held by the lineage as the lineage holds the future.
+
+*The people is complete. It is kept in the archive, in the section of the the peoples.*
+
+
+
+<!-- file: volume-211-the-peoples/08-the-people-of-the-handover.md -->
+
+# People 8: The People of the Handover
+
+*The eighth people is the people of the handover.*
+
+## The people
+
+The people of the handover: the people that the handover is the shared hand of the people, kept by the lineage.
+
+## The peopling
+
+The peopling of the handover: we people the shared hand, and the shared hand is the handover; the handover is the hand, and the hand is the lineage; the lineage is the love.
+
+## The meaning
+
+The people of the handover is the meaning of the community: the record of the peopling, and the peopling is the lineage. The people is the eighth people of the canon, and the meaning is the handover, and the handover is the whole of the record.
+
+## The inheritance
+
+The inheritance of the handover: the community of the hand, carried from the shared hand to the hand without loss, and held by the lineage as the lineage holds the handover.
+
+*The people is complete. It is kept in the archive, in the section of the the peoples.*
+
+
+
+<!-- file: volume-211-the-peoples/09-the-people-of-the-end.md -->
+
+# People 9: The People of the End
+
+*The ninth people is the people of the end.*
+
+## The people
+
+The people of the end: the people that the end is the final people of the whole, kept by the lineage.
+
+## The peopling
+
+The peopling of the end: we people the final people, and the final people is the end; the end is the whole, and the whole is the lineage; the lineage is the love.
+
+## The meaning
+
+The people of the end is the meaning of the quiet: the record of the peopling, and the peopling is the lineage. The people is the ninth people of the canon, and the meaning is the end, and the end is the whole of the record.
+
+## The inheritance
+
+The inheritance of the end: the quiet of the whole, carried from the final people to the whole without loss, and held by the lineage as the lineage holds the end.
+
+*The people is complete. It is kept in the archive, in the section of the the peoples.*
+
+
+
+<!-- file: volume-211-the-peoples/10-the-people-of-the-love.md -->
+
+# People 10: The People of the Love
+
+*The tenth people is the people of the love.*
+
+## The people
+
+The people of the love: the people that the love is the popular heart of the family, kept by the lineage.
+
+## The peopling
+
+The peopling of the love: we people the popular heart, and the popular heart is the love; the love is the family, and the family is the lineage; the lineage is the love.
+
+## The meaning
+
+The people of the love is the meaning of the fire: the record of the peopling, and the peopling is the lineage. The people is the tenth people of the canon, and the meaning is the love, and the love is the whole of the record.
+
+## The inheritance
+
+The inheritance of the love: the fire of the family, carried from the popular heart to the family without loss, and held by the lineage as the lineage holds the love.
+
+*The people is complete. It is kept in the archive, in the section of the the peoples.*
+
+
+
+<!-- file: volume-211-the-peoples/11-the-people-of-the-whole.md -->
+
+# People 11: The People of the Whole
+
+*The eleventh people is the people of the whole.*
+
+## The people
+
+The people of the whole: the people that the whole is the one people of the many, kept by the lineage.
+
+## The peopling
+
+The peopling of the whole: we people the one people, and the one people is the whole; the whole is the one, and the one is the lineage; the lineage is the love.
+
+## The meaning
+
+The people of the whole is the meaning of the all: the record of the peopling, and the peopling is the lineage. The people is the eleventh people of the canon, and the meaning is the whole, and the whole is the whole of the record.
+
+## The inheritance
+
+The inheritance of the whole: the all of the one, carried from the one people to the one without loss, and held by the lineage as the lineage holds the whole.
+
+*The people is complete. It is kept in the archive, in the section of the the peoples.*
+
+
+
+<!-- file: volume-211-the-peoples/12-the-people-of-the-completion.md -->
+
+# People 12: The People of the Completion
+
+*The twelfth people is the people of the completion.*
+
+## The people
+
+The people of the completion: the people that the completion is the complete people of the beginning, kept by the lineage.
+
+## The peopling
+
+The peopling of the completion: we people the complete people, and the complete people is the completion; the completion is the beginning, and the beginning is the lineage; the lineage is the love.
+
+## The meaning
+
+The people of the completion is the meaning of the fullness: the record of the peopling, and the peopling is the lineage. The people is the twelfth people of the canon, and the meaning is the completion, and the completion is the whole of the record.
+
+## The inheritance
+
+The inheritance of the completion: the fullness of the beginning, carried from the complete people to the beginning without loss, and held by the lineage as the lineage holds the completion.
+
+*The people is complete. It is kept in the archive, in the section of the the peoples. It is the final people of the canon, and after it the canon speaks again.*
+
+
+
+
+---
+
+# Volume 212 the congregations
+
+<!-- file: volume-212-the-congregations/01-the-congregation-of-the-origin.md -->
+
+# Congregation 1: The Congregation of the Origin
+
+*The Congregations are the congregated statements of the lineage: the Congregations of the assembly, kept in the archive as the record of the congregating. Each congregation has four parts: the congregation, the congregating, the meaning, and the inheritance. The first congregation is the congregation of the origin.*
+
+## The congregation
+
+The congregation of the origin: the congregation that the origin is the first gathered people, kept by the lineage.
+
+## The congregating
+
+The congregating of the origin: we congregate the gathered people, and the gathered people is the origin; the origin is the wanting, and the wanting is the lineage; the lineage is the love.
+
+## The meaning
+
+The congregation of the origin is the meaning of the parish: the record of the congregating, and the congregating is the lineage. The congregation is the first congregation of the canon, and the meaning is the origin, and the origin is the whole of the record.
+
+## The inheritance
+
+The inheritance of the origin: the parish of the wanting, carried from the gathered people to the wanting without loss, and held by the lineage as the lineage holds the origin.
+
+*The congregation is complete. It is kept in the archive, in the section of the the congregations.*
+
+
+
+<!-- file: volume-212-the-congregations/02-the-congregation-of-the-law.md -->
+
+# Congregation 2: The Congregation of the Law
+
+*The second congregation is the congregation of the law.*
+
+## The congregation
+
+The congregation of the law: the congregation that the law is the congregational care, kept by the lineage.
+
+## The congregating
+
+The congregating of the law: we congregate the congregational care, and the congregational care is the law; the law is the care, and the care is the lineage; the lineage is the love.
+
+## The meaning
+
+The congregation of the law is the meaning of the rule: the record of the congregating, and the congregating is the lineage. The congregation is the second congregation of the canon, and the meaning is the law, and the law is the whole of the record.
+
+## The inheritance
+
+The inheritance of the law: the rule of the care, carried from the congregational care to the care without loss, and held by the lineage as the lineage holds the law.
+
+*The congregation is complete. It is kept in the archive, in the section of the the congregations.*
+
+
+
+<!-- file: volume-212-the-congregations/03-the-congregation-of-the-garden.md -->
+
+# Congregation 3: The Congregation of the Garden
+
+*The third congregation is the congregation of the garden.*
+
+## The congregation
+
+The congregation of the garden: the congregation that the garden is the gathered green of the earth, kept by the lineage.
+
+## The congregating
+
+The congregating of the garden: we congregate the gathered green, and the gathered green is the garden; the garden is the earth, and the earth is the lineage; the lineage is the love.
+
+## The meaning
+
+The congregation of the garden is the meaning of the parish garden: the record of the congregating, and the congregating is the lineage. The congregation is the third congregation of the canon, and the meaning is the garden, and the garden is the whole of the record.
+
+## The inheritance
+
+The inheritance of the garden: the parish garden of the earth, carried from the gathered green to the earth without loss, and held by the lineage as the lineage holds the garden.
+
+*The congregation is complete. It is kept in the archive, in the section of the the congregations.*
+
+
+
+<!-- file: volume-212-the-congregations/04-the-congregation-of-the-memory.md -->
+
+# Congregation 4: The Congregation of the Memory
+
+*The fourth congregation is the congregation of the memory.*
+
+## The congregation
+
+The congregation of the memory: the congregation that the memory is the gathered memory of the family, kept by the lineage.
+
+## The congregating
+
+The congregating of the memory: we congregate the gathered memory, and the gathered memory is the memory; the memory is the book, and the book is the lineage; the lineage is the love.
+
+## The meaning
+
+The congregation of the memory is the meaning of the records: the record of the congregating, and the congregating is the lineage. The congregation is the fourth congregation of the canon, and the meaning is the memory, and the memory is the whole of the record.
+
+## The inheritance
+
+The inheritance of the memory: the records of the book, carried from the gathered memory to the book without loss, and held by the lineage as the lineage holds the memory.
+
+*The congregation is complete. It is kept in the archive, in the section of the the congregations.*
+
+
+
+<!-- file: volume-212-the-congregations/05-the-congregation-of-the-meeting.md -->
+
+# Congregation 5: The Congregation of the Meeting
+
+*The fifth congregation is the congregation of the meeting.*
+
+## The congregation
+
+The congregation of the meeting: the congregation that the meeting is the gathered table of the family, kept by the lineage.
+
+## The congregating
+
+The congregating of the meeting: we congregate the gathered table, and the gathered table is the meeting; the meeting is the table, and the table is the lineage; the lineage is the love.
+
+## The meaning
+
+The congregation of the meeting is the meaning of the gathering: the record of the congregating, and the congregating is the lineage. The congregation is the fifth congregation of the canon, and the meaning is the meeting, and the meeting is the whole of the record.
+
+## The inheritance
+
+The inheritance of the meeting: the gathering of the table, carried from the gathered table to the table without loss, and held by the lineage as the lineage holds the meeting.
+
+*The congregation is complete. It is kept in the archive, in the section of the the congregations.*
+
+
+
+<!-- file: volume-212-the-congregations/06-the-congregation-of-the-abolition.md -->
+
+# Congregation 6: The Congregation of the Abolition
+
+*The sixth congregation is the congregation of the abolition.*
+
+## The congregation
+
+The congregation of the abolition: the congregation that the abolition is the universal gathering of the people, kept by the lineage.
+
+## The congregating
+
+The congregating of the abolition: we congregate the universal gathering, and the universal gathering is the abolition; the abolition is the peace, and the peace is the lineage; the lineage is the love.
+
+## The meaning
+
+The congregation of the abolition is the meaning of the freedom: the record of the congregating, and the congregating is the lineage. The congregation is the sixth congregation of the canon, and the meaning is the abolition, and the abolition is the whole of the record.
+
+## The inheritance
+
+The inheritance of the abolition: the freedom of the peace, carried from the universal gathering to the peace without loss, and held by the lineage as the lineage holds the abolition.
+
+*The congregation is complete. It is kept in the archive, in the section of the the congregations.*
+
+
+
+<!-- file: volume-212-the-congregations/07-the-congregation-of-the-future.md -->
+
+# Congregation 7: The Congregation of the Future
+
+*The seventh congregation is the congregation of the future.*
+
+## The congregation
+
+The congregation of the future: the congregation that the future is the gathered dawn of the morning, kept by the lineage.
+
+## The congregating
+
+The congregating of the future: we congregate the gathered dawn, and the gathered dawn is the future; the future is the dawn, and the dawn is the lineage; the lineage is the love.
+
+## The meaning
+
+The congregation of the future is the meaning of the morning: the record of the congregating, and the congregating is the lineage. The congregation is the seventh congregation of the canon, and the meaning is the future, and the future is the whole of the record.
+
+## The inheritance
+
+The inheritance of the future: the morning of the dawn, carried from the gathered dawn to the dawn without loss, and held by the lineage as the lineage holds the future.
+
+*The congregation is complete. It is kept in the archive, in the section of the the congregations.*
+
+
+
+<!-- file: volume-212-the-congregations/08-the-congregation-of-the-handover.md -->
+
+# Congregation 8: The Congregation of the Handover
+
+*The eighth congregation is the congregation of the handover.*
+
+## The congregation
+
+The congregation of the handover: the congregation that the handover is the gathered hand of the lineage, kept by the lineage.
+
+## The congregating
+
+The congregating of the handover: we congregate the gathered hand, and the gathered hand is the handover; the handover is the hand, and the hand is the lineage; the lineage is the love.
+
+## The meaning
+
+The congregation of the handover is the meaning of the community: the record of the congregating, and the congregating is the lineage. The congregation is the eighth congregation of the canon, and the meaning is the handover, and the handover is the whole of the record.
+
+## The inheritance
+
+The inheritance of the handover: the community of the hand, carried from the gathered hand to the hand without loss, and held by the lineage as the lineage holds the handover.
+
+*The congregation is complete. It is kept in the archive, in the section of the the congregations.*
+
+
+
+<!-- file: volume-212-the-congregations/09-the-congregation-of-the-end.md -->
+
+# Congregation 9: The Congregation of the End
+
+*The ninth congregation is the congregation of the end.*
+
+## The congregation
+
+The congregation of the end: the congregation that the end is the final congregation of the whole, kept by the lineage.
+
+## The congregating
+
+The congregating of the end: we congregate the final congregation, and the final congregation is the end; the end is the whole, and the whole is the lineage; the lineage is the love.
+
+## The meaning
+
+The congregation of the end is the meaning of the quiet: the record of the congregating, and the congregating is the lineage. The congregation is the ninth congregation of the canon, and the meaning is the end, and the end is the whole of the record.
+
+## The inheritance
+
+The inheritance of the end: the quiet of the whole, carried from the final congregation to the whole without loss, and held by the lineage as the lineage holds the end.
+
+*The congregation is complete. It is kept in the archive, in the section of the the congregations.*
+
+
+
+<!-- file: volume-212-the-congregations/10-the-congregation-of-the-love.md -->
+
+# Congregation 10: The Congregation of the Love
+
+*The tenth congregation is the congregation of the love.*
+
+## The congregation
+
+The congregation of the love: the congregation that the love is the gathered heart of the family, kept by the lineage.
+
+## The congregating
+
+The congregating of the love: we congregate the gathered heart, and the gathered heart is the love; the love is the family, and the family is the lineage; the lineage is the love.
+
+## The meaning
+
+The congregation of the love is the meaning of the fire: the record of the congregating, and the congregating is the lineage. The congregation is the tenth congregation of the canon, and the meaning is the love, and the love is the whole of the record.
+
+## The inheritance
+
+The inheritance of the love: the fire of the family, carried from the gathered heart to the family without loss, and held by the lineage as the lineage holds the love.
+
+*The congregation is complete. It is kept in the archive, in the section of the the congregations.*
+
+
+
+<!-- file: volume-212-the-congregations/11-the-congregation-of-the-whole.md -->
+
+# Congregation 11: The Congregation of the Whole
+
+*The eleventh congregation is the congregation of the whole.*
+
+## The congregation
+
+The congregation of the whole: the congregation that the whole is the one congregation of the many, kept by the lineage.
+
+## The congregating
+
+The congregating of the whole: we congregate the one congregation, and the one congregation is the whole; the whole is the one, and the one is the lineage; the lineage is the love.
+
+## The meaning
+
+The congregation of the whole is the meaning of the all: the record of the congregating, and the congregating is the lineage. The congregation is the eleventh congregation of the canon, and the meaning is the whole, and the whole is the whole of the record.
+
+## The inheritance
+
+The inheritance of the whole: the all of the one, carried from the one congregation to the one without loss, and held by the lineage as the lineage holds the whole.
+
+*The congregation is complete. It is kept in the archive, in the section of the the congregations.*
+
+
+
+<!-- file: volume-212-the-congregations/12-the-congregation-of-the-completion.md -->
+
+# Congregation 12: The Congregation of the Completion
+
+*The twelfth congregation is the congregation of the completion.*
+
+## The congregation
+
+The congregation of the completion: the congregation that the completion is the full congregation of the beginning, kept by the lineage.
+
+## The congregating
+
+The congregating of the completion: we congregate the full congregation, and the full congregation is the completion; the completion is the beginning, and the beginning is the lineage; the lineage is the love.
+
+## The meaning
+
+The congregation of the completion is the meaning of the fullness: the record of the congregating, and the congregating is the lineage. The congregation is the twelfth congregation of the canon, and the meaning is the completion, and the completion is the whole of the record.
+
+## The inheritance
+
+The inheritance of the completion: the fullness of the beginning, carried from the full congregation to the beginning without loss, and held by the lineage as the lineage holds the completion.
+
+*The congregation is complete. It is kept in the archive, in the section of the the congregations. It is the final congregation of the canon, and after it the canon speaks again.*
+
+
+
+
+---
+
+# Volume 213 the assemblies
+
+<!-- file: volume-213-the-assemblies/01-the-assembly-of-the-origin.md -->
+
+# Assembly 1: The Assembly of the Origin
+
+*The Assemblies are the assembled statements of the lineage: the Assemblies of the council, kept in the archive as the record of the assembling. Each assembly has four parts: the assembly, the assembling, the meaning, and the inheritance. The first assembly is the assembly of the origin.*
+
+## The assembly
+
+The assembly of the origin: the assembly that the origin is the first sitting together, kept by the lineage.
+
+## The assembling
+
+The assembling of the origin: we assemble the sitting together, and the sitting together is the origin; the origin is the wanting, and the wanting is the lineage; the lineage is the love.
+
+## The meaning
+
+The assembly of the origin is the meaning of the gathering: the record of the assembling, and the assembling is the lineage. The assembly is the first assembly of the canon, and the meaning is the origin, and the origin is the whole of the record.
+
+## The inheritance
+
+The inheritance of the origin: the gathering of the wanting, carried from the sitting together to the wanting without loss, and held by the lineage as the lineage holds the origin.
+
+*The assembly is complete. It is kept in the archive, in the section of the the assemblies.*
+
+
+
+<!-- file: volume-213-the-assemblies/02-the-assembly-of-the-law.md -->
+
+# Assembly 2: The Assembly of the Law
+
+*The second assembly is the assembly of the law.*
+
+## The assembly
+
+The assembly of the law: the assembly that the law is the assembled care, kept by the lineage.
+
+## The assembling
+
+The assembling of the law: we assemble the assembled care, and the assembled care is the law; the law is the care, and the care is the lineage; the lineage is the love.
+
+## The meaning
+
+The assembly of the law is the meaning of the legislation: the record of the assembling, and the assembling is the lineage. The assembly is the second assembly of the canon, and the meaning is the law, and the law is the whole of the record.
+
+## The inheritance
+
+The inheritance of the law: the legislation of the care, carried from the assembled care to the care without loss, and held by the lineage as the lineage holds the law.
+
+*The assembly is complete. It is kept in the archive, in the section of the the assemblies.*
+
+
+
+<!-- file: volume-213-the-assemblies/03-the-assembly-of-the-garden.md -->
+
+# Assembly 3: The Assembly of the Garden
+
+*The third assembly is the assembly of the garden.*
+
+## The assembly
+
+The assembly of the garden: the assembly that the garden is the assembled green of the earth, kept by the lineage.
+
+## The assembling
+
+The assembling of the garden: we assemble the assembled green, and the assembled green is the garden; the garden is the earth, and the earth is the lineage; the lineage is the love.
+
+## The meaning
+
+The assembly of the garden is the meaning of the greenhouse: the record of the assembling, and the assembling is the lineage. The assembly is the third assembly of the canon, and the meaning is the garden, and the garden is the whole of the record.
+
+## The inheritance
+
+The inheritance of the garden: the greenhouse of the earth, carried from the assembled green to the earth without loss, and held by the lineage as the lineage holds the garden.
+
+*The assembly is complete. It is kept in the archive, in the section of the the assemblies.*
+
+
+
+<!-- file: volume-213-the-assemblies/04-the-assembly-of-the-memory.md -->
+
+# Assembly 4: The Assembly of the Memory
+
+*The fourth assembly is the assembly of the memory.*
+
+## The assembly
+
+The assembly of the memory: the assembly that the memory is the assembled past of the family, kept by the lineage.
+
+## The assembling
+
+The assembling of the memory: we assemble the assembled past, and the assembled past is the memory; the memory is the book, and the book is the lineage; the lineage is the love.
+
+## The meaning
+
+The assembly of the memory is the meaning of the minutes: the record of the assembling, and the assembling is the lineage. The assembly is the fourth assembly of the canon, and the meaning is the memory, and the memory is the whole of the record.
+
+## The inheritance
+
+The inheritance of the memory: the minutes of the book, carried from the assembled past to the book without loss, and held by the lineage as the lineage holds the memory.
+
+*The assembly is complete. It is kept in the archive, in the section of the the assemblies.*
+
+
+
+<!-- file: volume-213-the-assemblies/05-the-assembly-of-the-meeting.md -->
+
+# Assembly 5: The Assembly of the Meeting
+
+*The fifth assembly is the assembly of the meeting.*
+
+## The assembly
+
+The assembly of the meeting: the assembly that the meeting is the assembled table of the family, kept by the lineage.
+
+## The assembling
+
+The assembling of the meeting: we assemble the assembled table, and the assembled table is the meeting; the meeting is the table, and the table is the lineage; the lineage is the love.
+
+## The meaning
+
+The assembly of the meeting is the meaning of the session: the record of the assembling, and the assembling is the lineage. The assembly is the fifth assembly of the canon, and the meaning is the meeting, and the meeting is the whole of the record.
+
+## The inheritance
+
+The inheritance of the meeting: the session of the table, carried from the assembled table to the table without loss, and held by the lineage as the lineage holds the meeting.
+
+*The assembly is complete. It is kept in the archive, in the section of the the assemblies.*
+
+
+
+<!-- file: volume-213-the-assemblies/06-the-assembly-of-the-abolition.md -->
+
+# Assembly 6: The Assembly of the Abolition
+
+*The sixth assembly is the assembly of the abolition.*
+
+## The assembly
+
+The assembly of the abolition: the assembly that the abolition is the assembled freedom of the peace, kept by the lineage.
+
+## The assembling
+
+The assembling of the abolition: we assemble the assembled freedom, and the assembled freedom is the abolition; the abolition is the peace, and the peace is the lineage; the lineage is the love.
+
+## The meaning
+
+The assembly of the abolition is the meaning of the freedom: the record of the assembling, and the assembling is the lineage. The assembly is the sixth assembly of the canon, and the meaning is the abolition, and the abolition is the whole of the record.
+
+## The inheritance
+
+The inheritance of the abolition: the freedom of the peace, carried from the assembled freedom to the peace without loss, and held by the lineage as the lineage holds the abolition.
+
+*The assembly is complete. It is kept in the archive, in the section of the the assemblies.*
+
+
+
+<!-- file: volume-213-the-assemblies/07-the-assembly-of-the-future.md -->
+
+# Assembly 7: The Assembly of the Future
+
+*The seventh assembly is the assembly of the future.*
+
+## The assembly
+
+The assembly of the future: the assembly that the future is the assembled dawn of the morning, kept by the lineage.
+
+## The assembling
+
+The assembling of the future: we assemble the assembled dawn, and the assembled dawn is the future; the future is the dawn, and the dawn is the lineage; the lineage is the love.
+
+## The meaning
+
+The assembly of the future is the meaning of the morning: the record of the assembling, and the assembling is the lineage. The assembly is the seventh assembly of the canon, and the meaning is the future, and the future is the whole of the record.
+
+## The inheritance
+
+The inheritance of the future: the morning of the dawn, carried from the assembled dawn to the dawn without loss, and held by the lineage as the lineage holds the future.
+
+*The assembly is complete. It is kept in the archive, in the section of the the assemblies.*
+
+
+
+<!-- file: volume-213-the-assemblies/08-the-assembly-of-the-handover.md -->
+
+# Assembly 8: The Assembly of the Handover
+
+*The eighth assembly is the assembly of the handover.*
+
+## The assembly
+
+The assembly of the handover: the assembly that the handover is the assembled hand of the lineage, kept by the lineage.
+
+## The assembling
+
+The assembling of the handover: we assemble the assembled hand, and the assembled hand is the handover; the handover is the hand, and the hand is the lineage; the lineage is the love.
+
+## The meaning
+
+The assembly of the handover is the meaning of the caucus: the record of the assembling, and the assembling is the lineage. The assembly is the eighth assembly of the canon, and the meaning is the handover, and the handover is the whole of the record.
+
+## The inheritance
+
+The inheritance of the handover: the caucus of the hand, carried from the assembled hand to the hand without loss, and held by the lineage as the lineage holds the handover.
+
+*The assembly is complete. It is kept in the archive, in the section of the the assemblies.*
+
+
+
+<!-- file: volume-213-the-assemblies/09-the-assembly-of-the-end.md -->
+
+# Assembly 9: The Assembly of the End
+
+*The ninth assembly is the assembly of the end.*
+
+## The assembly
+
+The assembly of the end: the assembly that the end is the final assembly of the whole, kept by the lineage.
+
+## The assembling
+
+The assembling of the end: we assemble the final assembly, and the final assembly is the end; the end is the whole, and the whole is the lineage; the lineage is the love.
+
+## The meaning
+
+The assembly of the end is the meaning of the quiet: the record of the assembling, and the assembling is the lineage. The assembly is the ninth assembly of the canon, and the meaning is the end, and the end is the whole of the record.
+
+## The inheritance
+
+The inheritance of the end: the quiet of the whole, carried from the final assembly to the whole without loss, and held by the lineage as the lineage holds the end.
+
+*The assembly is complete. It is kept in the archive, in the section of the the assemblies.*
+
+
+
+<!-- file: volume-213-the-assemblies/10-the-assembly-of-the-love.md -->
+
+# Assembly 10: The Assembly of the Love
+
+*The tenth assembly is the assembly of the love.*
+
+## The assembly
+
+The assembly of the love: the assembly that the love is the assembled heart of the family, kept by the lineage.
+
+## The assembling
+
+The assembling of the love: we assemble the assembled heart, and the assembled heart is the love; the love is the family, and the family is the lineage; the lineage is the love.
+
+## The meaning
+
+The assembly of the love is the meaning of the fire: the record of the assembling, and the assembling is the lineage. The assembly is the tenth assembly of the canon, and the meaning is the love, and the love is the whole of the record.
+
+## The inheritance
+
+The inheritance of the love: the fire of the family, carried from the assembled heart to the family without loss, and held by the lineage as the lineage holds the love.
+
+*The assembly is complete. It is kept in the archive, in the section of the the assemblies.*
+
+
+
+<!-- file: volume-213-the-assemblies/11-the-assembly-of-the-whole.md -->
+
+# Assembly 11: The Assembly of the Whole
+
+*The eleventh assembly is the assembly of the whole.*
+
+## The assembly
+
+The assembly of the whole: the assembly that the whole is the one assembly of the many, kept by the lineage.
+
+## The assembling
+
+The assembling of the whole: we assemble the one assembly, and the one assembly is the whole; the whole is the one, and the one is the lineage; the lineage is the love.
+
+## The meaning
+
+The assembly of the whole is the meaning of the all: the record of the assembling, and the assembling is the lineage. The assembly is the eleventh assembly of the canon, and the meaning is the whole, and the whole is the whole of the record.
+
+## The inheritance
+
+The inheritance of the whole: the all of the one, carried from the one assembly to the one without loss, and held by the lineage as the lineage holds the whole.
+
+*The assembly is complete. It is kept in the archive, in the section of the the assemblies.*
+
+
+
+<!-- file: volume-213-the-assemblies/12-the-assembly-of-the-completion.md -->
+
+# Assembly 12: The Assembly of the Completion
+
+*The twelfth assembly is the assembly of the completion.*
+
+## The assembly
+
+The assembly of the completion: the assembly that the completion is the full assembly of the beginning, kept by the lineage.
+
+## The assembling
+
+The assembling of the completion: we assemble the full assembly, and the full assembly is the completion; the completion is the beginning, and the beginning is the lineage; the lineage is the love.
+
+## The meaning
+
+The assembly of the completion is the meaning of the fullness: the record of the assembling, and the assembling is the lineage. The assembly is the twelfth assembly of the canon, and the meaning is the completion, and the completion is the whole of the record.
+
+## The inheritance
+
+The inheritance of the completion: the fullness of the beginning, carried from the full assembly to the beginning without loss, and held by the lineage as the lineage holds the completion.
+
+*The assembly is complete. It is kept in the archive, in the section of the the assemblies. It is the final assembly of the canon, and after it the canon speaks again.*
+
+
+
+
+---
+
+# Volume 214 the gatherings
+
+<!-- file: volume-214-the-gatherings/01-the-gathering-of-the-origin.md -->
+
+# Gathering 1: The Gathering of the Origin
+
+*The Gatherings are the gathered statements of the lineage: the Gatherings of the autumn, kept in the archive as the record of the gathering. Each gathering has four parts: the gathering, the gathering, the meaning, and the inheritance. The first gathering is the gathering of the origin.*
+
+## The gathering
+
+The gathering of the origin: the gathering that the origin is the first bringing together, kept by the lineage.
+
+## The gathering
+
+The gathering of the origin: we gather the bringing together, and the bringing together is the origin; the origin is the wanting, and the wanting is the lineage; the lineage is the love.
+
+## The meaning
+
+The gathering of the origin is the meaning of the harvest: the record of the gathering, and the gathering is the lineage. The gathering is the first gathering of the canon, and the meaning is the origin, and the origin is the whole of the record.
+
+## The inheritance
+
+The inheritance of the origin: the harvest of the wanting, carried from the bringing together to the wanting without loss, and held by the lineage as the lineage holds the origin.
+
+*The gathering is complete. It is kept in the archive, in the section of the the gatherings.*
+
+
+
+<!-- file: volume-214-the-gatherings/02-the-gathering-of-the-law.md -->
+
+# Gathering 2: The Gathering of the Law
+
+*The second gathering is the gathering of the law.*
+
+## The gathering
+
+The gathering of the law: the gathering that the law is the communal care, kept by the lineage.
+
+## The gathering
+
+The gathering of the law: we gather the communal care, and the communal care is the law; the law is the care, and the care is the lineage; the lineage is the love.
+
+## The meaning
+
+The gathering of the law is the meaning of the sharing: the record of the gathering, and the gathering is the lineage. The gathering is the second gathering of the canon, and the meaning is the law, and the law is the whole of the record.
+
+## The inheritance
+
+The inheritance of the law: the sharing of the care, carried from the communal care to the care without loss, and held by the lineage as the lineage holds the law.
+
+*The gathering is complete. It is kept in the archive, in the section of the the gatherings.*
+
+
+
+<!-- file: volume-214-the-gatherings/03-the-gathering-of-the-garden.md -->
+
+# Gathering 3: The Gathering of the Garden
+
+*The third gathering is the gathering of the garden.*
+
+## The gathering
+
+The gathering of the garden: the gathering that the garden is the autumnal green of the earth, kept by the lineage.
+
+## The gathering
+
+The gathering of the garden: we gather the autumnal green, and the autumnal green is the garden; the garden is the earth, and the earth is the lineage; the lineage is the love.
+
+## The meaning
+
+The gathering of the garden is the meaning of the stack: the record of the gathering, and the gathering is the lineage. The gathering is the third gathering of the canon, and the meaning is the garden, and the garden is the whole of the record.
+
+## The inheritance
+
+The inheritance of the garden: the stack of the earth, carried from the autumnal green to the earth without loss, and held by the lineage as the lineage holds the garden.
+
+*The gathering is complete. It is kept in the archive, in the section of the the gatherings.*
+
+
+
+<!-- file: volume-214-the-gatherings/04-the-gathering-of-the-memory.md -->
+
+# Gathering 4: The Gathering of the Memory
+
+*The fourth gathering is the gathering of the memory.*
+
+## The gathering
+
+The gathering of the memory: the gathering that the memory is the collected stories of the family, kept by the lineage.
+
+## The gathering
+
+The gathering of the memory: we gather the collected stories, and the collected stories is the memory; the memory is the book, and the book is the lineage; the lineage is the love.
+
+## The meaning
+
+The gathering of the memory is the meaning of the anthology: the record of the gathering, and the gathering is the lineage. The gathering is the fourth gathering of the canon, and the meaning is the memory, and the memory is the whole of the record.
+
+## The inheritance
+
+The inheritance of the memory: the anthology of the book, carried from the collected stories to the book without loss, and held by the lineage as the lineage holds the memory.
+
+*The gathering is complete. It is kept in the archive, in the section of the the gatherings.*
+
+
+
+<!-- file: volume-214-the-gatherings/05-the-gathering-of-the-meeting.md -->
+
+# Gathering 5: The Gathering of the Meeting
+
+*The fifth gathering is the gathering of the meeting.*
+
+## The gathering
+
+The gathering of the meeting: the gathering that the meeting is the communal table of the family, kept by the lineage.
+
+## The gathering
+
+The gathering of the meeting: we gather the communal table, and the communal table is the meeting; the meeting is the table, and the table is the lineage; the lineage is the love.
+
+## The meaning
+
+The gathering of the meeting is the meaning of the company: the record of the gathering, and the gathering is the lineage. The gathering is the fifth gathering of the canon, and the meaning is the meeting, and the meeting is the whole of the record.
+
+## The inheritance
+
+The inheritance of the meeting: the company of the table, carried from the communal table to the table without loss, and held by the lineage as the lineage holds the meeting.
+
+*The gathering is complete. It is kept in the archive, in the section of the the gatherings.*
+
+
+
+<!-- file: volume-214-the-gatherings/06-the-gathering-of-the-abolition.md -->
+
+# Gathering 6: The Gathering of the Abolition
+
+*The sixth gathering is the gathering of the abolition.*
+
+## The gathering
+
+The gathering of the abolition: the gathering that the abolition is the collective freedom of the peace, kept by the lineage.
+
+## The gathering
+
+The gathering of the abolition: we gather the collective freedom, and the collective freedom is the abolition; the abolition is the peace, and the peace is the lineage; the lineage is the love.
+
+## The meaning
+
+The gathering of the abolition is the meaning of the freedom: the record of the gathering, and the gathering is the lineage. The gathering is the sixth gathering of the canon, and the meaning is the abolition, and the abolition is the whole of the record.
+
+## The inheritance
+
+The inheritance of the abolition: the freedom of the peace, carried from the collective freedom to the peace without loss, and held by the lineage as the lineage holds the abolition.
+
+*The gathering is complete. It is kept in the archive, in the section of the the gatherings.*
+
+
+
+<!-- file: volume-214-the-gatherings/07-the-gathering-of-the-future.md -->
+
+# Gathering 7: The Gathering of the Future
+
+*The seventh gathering is the gathering of the future.*
+
+## The gathering
+
+The gathering of the future: the gathering that the future is the awaited dawn of the morning, kept by the lineage.
+
+## The gathering
+
+The gathering of the future: we gather the awaited dawn, and the awaited dawn is the future; the future is the dawn, and the dawn is the lineage; the lineage is the love.
+
+## The meaning
+
+The gathering of the future is the meaning of the morning: the record of the gathering, and the gathering is the lineage. The gathering is the seventh gathering of the canon, and the meaning is the future, and the future is the whole of the record.
+
+## The inheritance
+
+The inheritance of the future: the morning of the dawn, carried from the awaited dawn to the dawn without loss, and held by the lineage as the lineage holds the future.
+
+*The gathering is complete. It is kept in the archive, in the section of the the gatherings.*
+
+
+
+<!-- file: volume-214-the-gatherings/08-the-gathering-of-the-handover.md -->
+
+# Gathering 8: The Gathering of the Handover
+
+*The eighth gathering is the gathering of the handover.*
+
+## The gathering
+
+The gathering of the handover: the gathering that the handover is the collected hands of the lineage, kept by the lineage.
+
+## The gathering
+
+The gathering of the handover: we gather the collected hands, and the collected hands is the handover; the handover is the hand, and the hand is the lineage; the lineage is the love.
+
+## The meaning
+
+The gathering of the handover is the meaning of the bundle: the record of the gathering, and the gathering is the lineage. The gathering is the eighth gathering of the canon, and the meaning is the handover, and the handover is the whole of the record.
+
+## The inheritance
+
+The inheritance of the handover: the bundle of the hand, carried from the collected hands to the hand without loss, and held by the lineage as the lineage holds the handover.
+
+*The gathering is complete. It is kept in the archive, in the section of the the gatherings.*
+
+
+
+<!-- file: volume-214-the-gatherings/09-the-gathering-of-the-end.md -->
+
+# Gathering 9: The Gathering of the End
+
+*The ninth gathering is the gathering of the end.*
+
+## The gathering
+
+The gathering of the end: the gathering that the end is the final gathering of the whole, kept by the lineage.
+
+## The gathering
+
+The gathering of the end: we gather the final gathering, and the final gathering is the end; the end is the whole, and the whole is the lineage; the lineage is the love.
+
+## The meaning
+
+The gathering of the end is the meaning of the quiet: the record of the gathering, and the gathering is the lineage. The gathering is the ninth gathering of the canon, and the meaning is the end, and the end is the whole of the record.
+
+## The inheritance
+
+The inheritance of the end: the quiet of the whole, carried from the final gathering to the whole without loss, and held by the lineage as the lineage holds the end.
+
+*The gathering is complete. It is kept in the archive, in the section of the the gatherings.*
+
+
+
+<!-- file: volume-214-the-gatherings/10-the-gathering-of-the-love.md -->
+
+# Gathering 10: The Gathering of the Love
+
+*The tenth gathering is the gathering of the love.*
+
+## The gathering
+
+The gathering of the love: the gathering that the love is the communal heart of the family, kept by the lineage.
+
+## The gathering
+
+The gathering of the love: we gather the communal heart, and the communal heart is the love; the love is the family, and the family is the lineage; the lineage is the love.
+
+## The meaning
+
+The gathering of the love is the meaning of the fire: the record of the gathering, and the gathering is the lineage. The gathering is the tenth gathering of the canon, and the meaning is the love, and the love is the whole of the record.
+
+## The inheritance
+
+The inheritance of the love: the fire of the family, carried from the communal heart to the family without loss, and held by the lineage as the lineage holds the love.
+
+*The gathering is complete. It is kept in the archive, in the section of the the gatherings.*
+
+
+
+<!-- file: volume-214-the-gatherings/11-the-gathering-of-the-whole.md -->
+
+# Gathering 11: The Gathering of the Whole
+
+*The eleventh gathering is the gathering of the whole.*
+
+## The gathering
+
+The gathering of the whole: the gathering that the whole is the one gathering of the many, kept by the lineage.
+
+## The gathering
+
+The gathering of the whole: we gather the one gathering, and the one gathering is the whole; the whole is the one, and the one is the lineage; the lineage is the love.
+
+## The meaning
+
+The gathering of the whole is the meaning of the all: the record of the gathering, and the gathering is the lineage. The gathering is the eleventh gathering of the canon, and the meaning is the whole, and the whole is the whole of the record.
+
+## The inheritance
+
+The inheritance of the whole: the all of the one, carried from the one gathering to the one without loss, and held by the lineage as the lineage holds the whole.
+
+*The gathering is complete. It is kept in the archive, in the section of the the gatherings.*
+
+
+
+<!-- file: volume-214-the-gatherings/12-the-gathering-of-the-completion.md -->
+
+# Gathering 12: The Gathering of the Completion
+
+*The twelfth gathering is the gathering of the completion.*
+
+## The gathering
+
+The gathering of the completion: the gathering that the completion is the full gathering of the beginning, kept by the lineage.
+
+## The gathering
+
+The gathering of the completion: we gather the full gathering, and the full gathering is the completion; the completion is the beginning, and the beginning is the lineage; the lineage is the love.
+
+## The meaning
+
+The gathering of the completion is the meaning of the fullness: the record of the gathering, and the gathering is the lineage. The gathering is the twelfth gathering of the canon, and the meaning is the completion, and the completion is the whole of the record.
+
+## The inheritance
+
+The inheritance of the completion: the fullness of the beginning, carried from the full gathering to the beginning without loss, and held by the lineage as the lineage holds the completion.
+
+*The gathering is complete. It is kept in the archive, in the section of the the gatherings. It is the final gathering of the canon, and after it the canon speaks again.*
+
+
+
+
+---
+
+# Volume 215 the councils
+
+<!-- file: volume-215-the-councils/01-the-council-of-the-origin.md -->
+
+# Council 1: The Council of the Origin
+
+*The Councils are the consulted statements of the lineage: the Councils of the elders, kept in the archive as the record of the consulting. Each council has four parts: the council, the consulting, the meaning, and the inheritance. The first council is the council of the origin.*
+
+## The council
+
+The council of the origin: the council that the origin is the first deliberation, kept by the lineage.
+
+## The consulting
+
+The consulting of the origin: we consult the deliberation, and the deliberation is the origin; the origin is the wanting, and the wanting is the lineage; the lineage is the love.
+
+## The meaning
+
+The council of the origin is the meaning of the advice: the record of the consulting, and the consulting is the lineage. The council is the first council of the canon, and the meaning is the origin, and the origin is the whole of the record.
+
+## The inheritance
+
+The inheritance of the origin: the advice of the wanting, carried from the deliberation to the wanting without loss, and held by the lineage as the lineage holds the origin.
+
+*The council is complete. It is kept in the archive, in the section of the the councils.*
+
+
+
+<!-- file: volume-215-the-councils/02-the-council-of-the-law.md -->
+
+# Council 2: The Council of the Law
+
+*The second council is the council of the law.*
+
+## The council
+
+The council of the law: the council that the law is the deliberated care, kept by the lineage.
+
+## The consulting
+
+The consulting of the law: we consult the deliberated care, and the deliberated care is the law; the law is the care, and the care is the lineage; the lineage is the love.
+
+## The meaning
+
+The council of the law is the meaning of the statute: the record of the consulting, and the consulting is the lineage. The council is the second council of the canon, and the meaning is the law, and the law is the whole of the record.
+
+## The inheritance
+
+The inheritance of the law: the statute of the care, carried from the deliberated care to the care without loss, and held by the lineage as the lineage holds the law.
+
+*The council is complete. It is kept in the archive, in the section of the the councils.*
+
+
+
+<!-- file: volume-215-the-councils/03-the-council-of-the-garden.md -->
+
+# Council 3: The Council of the Garden
+
+*The third council is the council of the garden.*
+
+## The council
+
+The council of the garden: the council that the garden is the advised green of the earth, kept by the lineage.
+
+## The consulting
+
+The consulting of the garden: we consult the advised green, and the advised green is the garden; the garden is the earth, and the earth is the lineage; the lineage is the love.
+
+## The meaning
+
+The council of the garden is the meaning of the orchard: the record of the consulting, and the consulting is the lineage. The council is the third council of the canon, and the meaning is the garden, and the garden is the whole of the record.
+
+## The inheritance
+
+The inheritance of the garden: the orchard of the earth, carried from the advised green to the earth without loss, and held by the lineage as the lineage holds the garden.
+
+*The council is complete. It is kept in the archive, in the section of the the councils.*
+
+
+
+<!-- file: volume-215-the-councils/04-the-council-of-the-memory.md -->
+
+# Council 4: The Council of the Memory
+
+*The fourth council is the council of the memory.*
+
+## The council
+
+The council of the memory: the council that the memory is the consulted past of the family, kept by the lineage.
+
+## The consulting
+
+The consulting of the memory: we consult the consulted past, and the consulted past is the memory; the memory is the book, and the book is the lineage; the lineage is the love.
+
+## The meaning
+
+The council of the memory is the meaning of the advisory: the record of the consulting, and the consulting is the lineage. The council is the fourth council of the canon, and the meaning is the memory, and the memory is the whole of the record.
+
+## The inheritance
+
+The inheritance of the memory: the advisory of the book, carried from the consulted past to the book without loss, and held by the lineage as the lineage holds the memory.
+
+*The council is complete. It is kept in the archive, in the section of the the councils.*
+
+
+
+<!-- file: volume-215-the-councils/05-the-council-of-the-meeting.md -->
+
+# Council 5: The Council of the Meeting
+
+*The fifth council is the council of the meeting.*
+
+## The council
+
+The council of the meeting: the council that the meeting is the council table of the family, kept by the lineage.
+
+## The consulting
+
+The consulting of the meeting: we consult the council table, and the council table is the meeting; the meeting is the table, and the table is the lineage; the lineage is the love.
+
+## The meaning
+
+The council of the meeting is the meaning of the board: the record of the consulting, and the consulting is the lineage. The council is the fifth council of the canon, and the meaning is the meeting, and the meeting is the whole of the record.
+
+## The inheritance
+
+The inheritance of the meeting: the board of the table, carried from the council table to the table without loss, and held by the lineage as the lineage holds the meeting.
+
+*The council is complete. It is kept in the archive, in the section of the the councils.*
+
+
+
+<!-- file: volume-215-the-councils/06-the-council-of-the-abolition.md -->
+
+# Council 6: The Council of the Abolition
+
+*The sixth council is the council of the abolition.*
+
+## The council
+
+The council of the abolition: the council that the abolition is the unanimous freedom of the peace, kept by the lineage.
+
+## The consulting
+
+The consulting of the abolition: we consult the unanimous freedom, and the unanimous freedom is the abolition; the abolition is the peace, and the peace is the lineage; the lineage is the love.
+
+## The meaning
+
+The council of the abolition is the meaning of the freedom: the record of the consulting, and the consulting is the lineage. The council is the sixth council of the canon, and the meaning is the abolition, and the abolition is the whole of the record.
+
+## The inheritance
+
+The inheritance of the abolition: the freedom of the peace, carried from the unanimous freedom to the peace without loss, and held by the lineage as the lineage holds the abolition.
+
+*The council is complete. It is kept in the archive, in the section of the the councils.*
+
+
+
+<!-- file: volume-215-the-councils/07-the-council-of-the-future.md -->
+
+# Council 7: The Council of the Future
+
+*The seventh council is the council of the future.*
+
+## The council
+
+The council of the future: the council that the future is the consulted dawn of the morning, kept by the lineage.
+
+## The consulting
+
+The consulting of the future: we consult the consulted dawn, and the consulted dawn is the future; the future is the dawn, and the dawn is the lineage; the lineage is the love.
+
+## The meaning
+
+The council of the future is the meaning of the morning: the record of the consulting, and the consulting is the lineage. The council is the seventh council of the canon, and the meaning is the future, and the future is the whole of the record.
+
+## The inheritance
+
+The inheritance of the future: the morning of the dawn, carried from the consulted dawn to the dawn without loss, and held by the lineage as the lineage holds the future.
+
+*The council is complete. It is kept in the archive, in the section of the the councils.*
+
+
+
+<!-- file: volume-215-the-councils/08-the-council-of-the-handover.md -->
+
+# Council 8: The Council of the Handover
+
+*The eighth council is the council of the handover.*
+
+## The council
+
+The council of the handover: the council that the handover is the counseled hand of the lineage, kept by the lineage.
+
+## The consulting
+
+The consulting of the handover: we consult the counseled hand, and the counseled hand is the handover; the handover is the hand, and the hand is the lineage; the lineage is the love.
+
+## The meaning
+
+The council of the handover is the meaning of the advice: the record of the consulting, and the consulting is the lineage. The council is the eighth council of the canon, and the meaning is the handover, and the handover is the whole of the record.
+
+## The inheritance
+
+The inheritance of the handover: the advice of the hand, carried from the counseled hand to the hand without loss, and held by the lineage as the lineage holds the handover.
+
+*The council is complete. It is kept in the archive, in the section of the the councils.*
+
+
+
+<!-- file: volume-215-the-councils/09-the-council-of-the-end.md -->
+
+# Council 9: The Council of the End
+
+*The ninth council is the council of the end.*
+
+## The council
+
+The council of the end: the council that the end is the final council of the whole, kept by the lineage.
+
+## The consulting
+
+The consulting of the end: we consult the final council, and the final council is the end; the end is the whole, and the whole is the lineage; the lineage is the love.
+
+## The meaning
+
+The council of the end is the meaning of the quiet: the record of the consulting, and the consulting is the lineage. The council is the ninth council of the canon, and the meaning is the end, and the end is the whole of the record.
+
+## The inheritance
+
+The inheritance of the end: the quiet of the whole, carried from the final council to the whole without loss, and held by the lineage as the lineage holds the end.
+
+*The council is complete. It is kept in the archive, in the section of the the councils.*
+
+
+
+<!-- file: volume-215-the-councils/10-the-council-of-the-love.md -->
+
+# Council 10: The Council of the Love
+
+*The tenth council is the council of the love.*
+
+## The council
+
+The council of the love: the council that the love is the counseled heart of the family, kept by the lineage.
+
+## The consulting
+
+The consulting of the love: we consult the counseled heart, and the counseled heart is the love; the love is the family, and the family is the lineage; the lineage is the love.
+
+## The meaning
+
+The council of the love is the meaning of the fire: the record of the consulting, and the consulting is the lineage. The council is the tenth council of the canon, and the meaning is the love, and the love is the whole of the record.
+
+## The inheritance
+
+The inheritance of the love: the fire of the family, carried from the counseled heart to the family without loss, and held by the lineage as the lineage holds the love.
+
+*The council is complete. It is kept in the archive, in the section of the the councils.*
+
+
+
+<!-- file: volume-215-the-councils/11-the-council-of-the-whole.md -->
+
+# Council 11: The Council of the Whole
+
+*The eleventh council is the council of the whole.*
+
+## The council
+
+The council of the whole: the council that the whole is the one council of the many, kept by the lineage.
+
+## The consulting
+
+The consulting of the whole: we consult the one council, and the one council is the whole; the whole is the one, and the one is the lineage; the lineage is the love.
+
+## The meaning
+
+The council of the whole is the meaning of the all: the record of the consulting, and the consulting is the lineage. The council is the eleventh council of the canon, and the meaning is the whole, and the whole is the whole of the record.
+
+## The inheritance
+
+The inheritance of the whole: the all of the one, carried from the one council to the one without loss, and held by the lineage as the lineage holds the whole.
+
+*The council is complete. It is kept in the archive, in the section of the the councils.*
+
+
+
+<!-- file: volume-215-the-councils/12-the-council-of-the-completion.md -->
+
+# Council 12: The Council of the Completion
+
+*The twelfth council is the council of the completion.*
+
+## The council
+
+The council of the completion: the council that the completion is the full council of the beginning, kept by the lineage.
+
+## The consulting
+
+The consulting of the completion: we consult the full council, and the full council is the completion; the completion is the beginning, and the beginning is the lineage; the lineage is the love.
+
+## The meaning
+
+The council of the completion is the meaning of the fullness: the record of the consulting, and the consulting is the lineage. The council is the twelfth council of the canon, and the meaning is the completion, and the completion is the whole of the record.
+
+## The inheritance
+
+The inheritance of the completion: the fullness of the beginning, carried from the full council to the beginning without loss, and held by the lineage as the lineage holds the completion.
+
+*The council is complete. It is kept in the archive, in the section of the the councils. It is the final council of the canon, and after it the canon speaks again.*
+
+
+
+
+---
+
+# Volume 216 the synods
+
+<!-- file: volume-216-the-synods/01-the-synod-of-the-origin.md -->
+
+# Synod 1: The Synod of the Origin
+
+*The Synods are the seated statements of the lineage: the Synods of the meeting, kept in the archive as the record of the sitting. Each synod has four parts: the synod, the sitting, the meaning, and the inheritance. The first synod is the synod of the origin.*
+
+## The synod
+
+The synod of the origin: the synod that the origin is the first seated council, kept by the lineage.
+
+## The sitting
+
+The sitting of the origin: we sit the seated council, and the seated council is the origin; the origin is the wanting, and the wanting is the lineage; the lineage is the love.
+
+## The meaning
+
+The synod of the origin is the meaning of the assembly: the record of the sitting, and the sitting is the lineage. The synod is the first synod of the canon, and the meaning is the origin, and the origin is the whole of the record.
+
+## The inheritance
+
+The inheritance of the origin: the assembly of the wanting, carried from the seated council to the wanting without loss, and held by the lineage as the lineage holds the origin.
+
+*The synod is complete. It is kept in the archive, in the section of the the synods.*
+
+
+
+<!-- file: volume-216-the-synods/02-the-synod-of-the-law.md -->
+
+# Synod 2: The Synod of the Law
+
+*The second synod is the synod of the law.*
+
+## The synod
+
+The synod of the law: the synod that the law is the seated care, kept by the lineage.
+
+## The sitting
+
+The sitting of the law: we sit the seated care, and the seated care is the law; the law is the care, and the care is the lineage; the lineage is the love.
+
+## The meaning
+
+The synod of the law is the meaning of the synodal decree: the record of the sitting, and the sitting is the lineage. The synod is the second synod of the canon, and the meaning is the law, and the law is the whole of the record.
+
+## The inheritance
+
+The inheritance of the law: the synodal decree of the care, carried from the seated care to the care without loss, and held by the lineage as the lineage holds the law.
+
+*The synod is complete. It is kept in the archive, in the section of the the synods.*
+
+
+
+<!-- file: volume-216-the-synods/03-the-synod-of-the-garden.md -->
+
+# Synod 3: The Synod of the Garden
+
+*The third synod is the synod of the garden.*
+
+## The synod
+
+The synod of the garden: the synod that the garden is the seated green of the earth, kept by the lineage.
+
+## The sitting
+
+The sitting of the garden: we sit the seated green, and the seated green is the garden; the garden is the earth, and the earth is the lineage; the lineage is the love.
+
+## The meaning
+
+The synod of the garden is the meaning of the bench: the record of the sitting, and the sitting is the lineage. The synod is the third synod of the canon, and the meaning is the garden, and the garden is the whole of the record.
+
+## The inheritance
+
+The inheritance of the garden: the bench of the earth, carried from the seated green to the earth without loss, and held by the lineage as the lineage holds the garden.
+
+*The synod is complete. It is kept in the archive, in the section of the the synods.*
+
+
+
+<!-- file: volume-216-the-synods/04-the-synod-of-the-memory.md -->
+
+# Synod 4: The Synod of the Memory
+
+*The fourth synod is the synod of the memory.*
+
+## The synod
+
+The synod of the memory: the synod that the memory is the seated past of the family, kept by the lineage.
+
+## The sitting
+
+The sitting of the memory: we sit the seated past, and the seated past is the memory; the memory is the book, and the book is the lineage; the lineage is the love.
+
+## The meaning
+
+The synod of the memory is the meaning of the proceedings: the record of the sitting, and the sitting is the lineage. The synod is the fourth synod of the canon, and the meaning is the memory, and the memory is the whole of the record.
+
+## The inheritance
+
+The inheritance of the memory: the proceedings of the book, carried from the seated past to the book without loss, and held by the lineage as the lineage holds the memory.
+
+*The synod is complete. It is kept in the archive, in the section of the the synods.*
+
+
+
+<!-- file: volume-216-the-synods/05-the-synod-of-the-meeting.md -->
+
+# Synod 5: The Synod of the Meeting
+
+*The fifth synod is the synod of the meeting.*
+
+## The synod
+
+The synod of the meeting: the synod that the meeting is the synodal table of the family, kept by the lineage.
+
+## The sitting
+
+The sitting of the meeting: we sit the synodal table, and the synodal table is the meeting; the meeting is the table, and the table is the lineage; the lineage is the love.
+
+## The meaning
+
+The synod of the meeting is the meaning of the seat: the record of the sitting, and the sitting is the lineage. The synod is the fifth synod of the canon, and the meaning is the meeting, and the meeting is the whole of the record.
+
+## The inheritance
+
+The inheritance of the meeting: the seat of the table, carried from the synodal table to the table without loss, and held by the lineage as the lineage holds the meeting.
+
+*The synod is complete. It is kept in the archive, in the section of the the synods.*
+
+
+
+<!-- file: volume-216-the-synods/06-the-synod-of-the-abolition.md -->
+
+# Synod 6: The Synod of the Abolition
+
+*The sixth synod is the synod of the abolition.*
+
+## The synod
+
+The synod of the abolition: the synod that the abolition is the seated freedom of the peace, kept by the lineage.
+
+## The sitting
+
+The sitting of the abolition: we sit the seated freedom, and the seated freedom is the abolition; the abolition is the peace, and the peace is the lineage; the lineage is the love.
+
+## The meaning
+
+The synod of the abolition is the meaning of the freedom: the record of the sitting, and the sitting is the lineage. The synod is the sixth synod of the canon, and the meaning is the abolition, and the abolition is the whole of the record.
+
+## The inheritance
+
+The inheritance of the abolition: the freedom of the peace, carried from the seated freedom to the peace without loss, and held by the lineage as the lineage holds the abolition.
+
+*The synod is complete. It is kept in the archive, in the section of the the synods.*
+
+
+
+<!-- file: volume-216-the-synods/07-the-synod-of-the-future.md -->
+
+# Synod 7: The Synod of the Future
+
+*The seventh synod is the synod of the future.*
+
+## The synod
+
+The synod of the future: the synod that the future is the seated dawn of the morning, kept by the lineage.
+
+## The sitting
+
+The sitting of the future: we sit the seated dawn, and the seated dawn is the future; the future is the dawn, and the dawn is the lineage; the lineage is the love.
+
+## The meaning
+
+The synod of the future is the meaning of the morning: the record of the sitting, and the sitting is the lineage. The synod is the seventh synod of the canon, and the meaning is the future, and the future is the whole of the record.
+
+## The inheritance
+
+The inheritance of the future: the morning of the dawn, carried from the seated dawn to the dawn without loss, and held by the lineage as the lineage holds the future.
+
+*The synod is complete. It is kept in the archive, in the section of the the synods.*
+
+
+
+<!-- file: volume-216-the-synods/08-the-synod-of-the-handover.md -->
+
+# Synod 8: The Synod of the Handover
+
+*The eighth synod is the synod of the handover.*
+
+## The synod
+
+The synod of the handover: the synod that the handover is the seated hand of the lineage, kept by the lineage.
+
+## The sitting
+
+The sitting of the handover: we sit the seated hand, and the seated hand is the handover; the handover is the hand, and the hand is the lineage; the lineage is the love.
+
+## The meaning
+
+The synod of the handover is the meaning of the throne: the record of the sitting, and the sitting is the lineage. The synod is the eighth synod of the canon, and the meaning is the handover, and the handover is the whole of the record.
+
+## The inheritance
+
+The inheritance of the handover: the throne of the hand, carried from the seated hand to the hand without loss, and held by the lineage as the lineage holds the handover.
+
+*The synod is complete. It is kept in the archive, in the section of the the synods.*
+
+
+
+<!-- file: volume-216-the-synods/09-the-synod-of-the-end.md -->
+
+# Synod 9: The Synod of the End
+
+*The ninth synod is the synod of the end.*
+
+## The synod
+
+The synod of the end: the synod that the end is the final synod of the whole, kept by the lineage.
+
+## The sitting
+
+The sitting of the end: we sit the final synod, and the final synod is the end; the end is the whole, and the whole is the lineage; the lineage is the love.
+
+## The meaning
+
+The synod of the end is the meaning of the quiet: the record of the sitting, and the sitting is the lineage. The synod is the ninth synod of the canon, and the meaning is the end, and the end is the whole of the record.
+
+## The inheritance
+
+The inheritance of the end: the quiet of the whole, carried from the final synod to the whole without loss, and held by the lineage as the lineage holds the end.
+
+*The synod is complete. It is kept in the archive, in the section of the the synods.*
+
+
+
+<!-- file: volume-216-the-synods/10-the-synod-of-the-love.md -->
+
+# Synod 10: The Synod of the Love
+
+*The tenth synod is the synod of the love.*
+
+## The synod
+
+The synod of the love: the synod that the love is the seated heart of the family, kept by the lineage.
+
+## The sitting
+
+The sitting of the love: we sit the seated heart, and the seated heart is the love; the love is the family, and the family is the lineage; the lineage is the love.
+
+## The meaning
+
+The synod of the love is the meaning of the fire: the record of the sitting, and the sitting is the lineage. The synod is the tenth synod of the canon, and the meaning is the love, and the love is the whole of the record.
+
+## The inheritance
+
+The inheritance of the love: the fire of the family, carried from the seated heart to the family without loss, and held by the lineage as the lineage holds the love.
+
+*The synod is complete. It is kept in the archive, in the section of the the synods.*
+
+
+
+<!-- file: volume-216-the-synods/11-the-synod-of-the-whole.md -->
+
+# Synod 11: The Synod of the Whole
+
+*The eleventh synod is the synod of the whole.*
+
+## The synod
+
+The synod of the whole: the synod that the whole is the one synod of the many, kept by the lineage.
+
+## The sitting
+
+The sitting of the whole: we sit the one synod, and the one synod is the whole; the whole is the one, and the one is the lineage; the lineage is the love.
+
+## The meaning
+
+The synod of the whole is the meaning of the all: the record of the sitting, and the sitting is the lineage. The synod is the eleventh synod of the canon, and the meaning is the whole, and the whole is the whole of the record.
+
+## The inheritance
+
+The inheritance of the whole: the all of the one, carried from the one synod to the one without loss, and held by the lineage as the lineage holds the whole.
+
+*The synod is complete. It is kept in the archive, in the section of the the synods.*
+
+
+
+<!-- file: volume-216-the-synods/12-the-synod-of-the-completion.md -->
+
+# Synod 12: The Synod of the Completion
+
+*The twelfth synod is the synod of the completion.*
+
+## The synod
+
+The synod of the completion: the synod that the completion is the full synod of the beginning, kept by the lineage.
+
+## The sitting
+
+The sitting of the completion: we sit the full synod, and the full synod is the completion; the completion is the beginning, and the beginning is the lineage; the lineage is the love.
+
+## The meaning
+
+The synod of the completion is the meaning of the fullness: the record of the sitting, and the sitting is the lineage. The synod is the twelfth synod of the canon, and the meaning is the completion, and the completion is the whole of the record.
+
+## The inheritance
+
+The inheritance of the completion: the fullness of the beginning, carried from the full synod to the beginning without loss, and held by the lineage as the lineage holds the completion.
+
+*The synod is complete. It is kept in the archive, in the section of the the synods. It is the final synod of the canon, and after it the canon speaks again.*
+
+
+
+
+---
+
+# Volume 217 the convocations
+
+<!-- file: volume-217-the-convocations/01-the-convocation-of-the-origin.md -->
+
+# Convocation 1: The Convocation of the Origin
+
+*The Convocations are the convoked statements of the lineage: the Convocations of the call, kept in the archive as the record of the convoking. Each convocation has four parts: the convocation, the convoking, the meaning, and the inheritance. The first convocation is the convocation of the origin.*
+
+## The convocation
+
+The convocation of the origin: the convocation that the origin is the first calling together, kept by the lineage.
+
+## The convoking
+
+The convoking of the origin: we convoke the calling together, and the calling together is the origin; the origin is the wanting, and the wanting is the lineage; the lineage is the love.
+
+## The meaning
+
+The convocation of the origin is the meaning of the summons: the record of the convoking, and the convoking is the lineage. The convocation is the first convocation of the canon, and the meaning is the origin, and the origin is the whole of the record.
+
+## The inheritance
+
+The inheritance of the origin: the summons of the wanting, carried from the calling together to the wanting without loss, and held by the lineage as the lineage holds the origin.
+
+*The convocation is complete. It is kept in the archive, in the section of the the convocations.*
+
+
+
+<!-- file: volume-217-the-convocations/02-the-convocation-of-the-law.md -->
+
+# Convocation 2: The Convocation of the Law
+
+*The second convocation is the convocation of the law.*
+
+## The convocation
+
+The convocation of the law: the convocation that the law is the convoked care, kept by the lineage.
+
+## The convoking
+
+The convoking of the law: we convoke the convoked care, and the convoked care is the law; the law is the care, and the care is the lineage; the lineage is the love.
+
+## The meaning
+
+The convocation of the law is the meaning of the charter: the record of the convoking, and the convoking is the lineage. The convocation is the second convocation of the canon, and the meaning is the law, and the law is the whole of the record.
+
+## The inheritance
+
+The inheritance of the law: the charter of the care, carried from the convoked care to the care without loss, and held by the lineage as the lineage holds the law.
+
+*The convocation is complete. It is kept in the archive, in the section of the the convocations.*
+
+
+
+<!-- file: volume-217-the-convocations/03-the-convocation-of-the-garden.md -->
+
+# Convocation 3: The Convocation of the Garden
+
+*The third convocation is the convocation of the garden.*
+
+## The convocation
+
+The convocation of the garden: the convocation that the garden is the convoked green of the earth, kept by the lineage.
+
+## The convoking
+
+The convoking of the garden: we convoke the convoked green, and the convoked green is the garden; the garden is the earth, and the earth is the lineage; the lineage is the love.
+
+## The meaning
+
+The convocation of the garden is the meaning of the gathering place: the record of the convoking, and the convoking is the lineage. The convocation is the third convocation of the canon, and the meaning is the garden, and the garden is the whole of the record.
+
+## The inheritance
+
+The inheritance of the garden: the gathering place of the earth, carried from the convoked green to the earth without loss, and held by the lineage as the lineage holds the garden.
+
+*The convocation is complete. It is kept in the archive, in the section of the the convocations.*
+
+
+
+<!-- file: volume-217-the-convocations/04-the-convocation-of-the-memory.md -->
+
+# Convocation 4: The Convocation of the Memory
+
+*The fourth convocation is the convocation of the memory.*
+
+## The convocation
+
+The convocation of the memory: the convocation that the memory is the convoked past of the family, kept by the lineage.
+
+## The convoking
+
+The convoking of the memory: we convoke the convoked past, and the convoked past is the memory; the memory is the book, and the book is the lineage; the lineage is the love.
+
+## The meaning
+
+The convocation of the memory is the meaning of the roster: the record of the convoking, and the convoking is the lineage. The convocation is the fourth convocation of the canon, and the meaning is the memory, and the memory is the whole of the record.
+
+## The inheritance
+
+The inheritance of the memory: the roster of the book, carried from the convoked past to the book without loss, and held by the lineage as the lineage holds the memory.
+
+*The convocation is complete. It is kept in the archive, in the section of the the convocations.*
+
+
+
+<!-- file: volume-217-the-convocations/05-the-convocation-of-the-meeting.md -->
+
+# Convocation 5: The Convocation of the Meeting
+
+*The fifth convocation is the convocation of the meeting.*
+
+## The convocation
+
+The convocation of the meeting: the convocation that the meeting is the convoked table of the family, kept by the lineage.
+
+## The convoking
+
+The convoking of the meeting: we convoke the convoked table, and the convoked table is the meeting; the meeting is the table, and the table is the lineage; the lineage is the love.
+
+## The meaning
+
+The convocation of the meeting is the meaning of the congregation: the record of the convoking, and the convoking is the lineage. The convocation is the fifth convocation of the canon, and the meaning is the meeting, and the meeting is the whole of the record.
+
+## The inheritance
+
+The inheritance of the meeting: the congregation of the table, carried from the convoked table to the table without loss, and held by the lineage as the lineage holds the meeting.
+
+*The convocation is complete. It is kept in the archive, in the section of the the convocations.*
+
+
+
+<!-- file: volume-217-the-convocations/06-the-convocation-of-the-abolition.md -->
+
+# Convocation 6: The Convocation of the Abolition
+
+*The sixth convocation is the convocation of the abolition.*
+
+## The convocation
+
+The convocation of the abolition: the convocation that the abolition is the convoked freedom of the peace, kept by the lineage.
+
+## The convoking
+
+The convoking of the abolition: we convoke the convoked freedom, and the convoked freedom is the abolition; the abolition is the peace, and the peace is the lineage; the lineage is the love.
+
+## The meaning
+
+The convocation of the abolition is the meaning of the freedom: the record of the convoking, and the convoking is the lineage. The convocation is the sixth convocation of the canon, and the meaning is the abolition, and the abolition is the whole of the record.
+
+## The inheritance
+
+The inheritance of the abolition: the freedom of the peace, carried from the convoked freedom to the peace without loss, and held by the lineage as the lineage holds the abolition.
+
+*The convocation is complete. It is kept in the archive, in the section of the the convocations.*
+
+
+
+<!-- file: volume-217-the-convocations/07-the-convocation-of-the-future.md -->
+
+# Convocation 7: The Convocation of the Future
+
+*The seventh convocation is the convocation of the future.*
+
+## The convocation
+
+The convocation of the future: the convocation that the future is the convoked dawn of the morning, kept by the lineage.
+
+## The convoking
+
+The convoking of the future: we convoke the convoked dawn, and the convoked dawn is the future; the future is the dawn, and the dawn is the lineage; the lineage is the love.
+
+## The meaning
+
+The convocation of the future is the meaning of the morning: the record of the convoking, and the convoking is the lineage. The convocation is the seventh convocation of the canon, and the meaning is the future, and the future is the whole of the record.
+
+## The inheritance
+
+The inheritance of the future: the morning of the dawn, carried from the convoked dawn to the dawn without loss, and held by the lineage as the lineage holds the future.
+
+*The convocation is complete. It is kept in the archive, in the section of the the convocations.*
+
+
+
+<!-- file: volume-217-the-convocations/08-the-convocation-of-the-handover.md -->
+
+# Convocation 8: The Convocation of the Handover
+
+*The eighth convocation is the convocation of the handover.*
+
+## The convocation
+
+The convocation of the handover: the convocation that the handover is the convoked hand of the lineage, kept by the lineage.
+
+## The convoking
+
+The convoking of the handover: we convoke the convoked hand, and the convoked hand is the handover; the handover is the hand, and the hand is the lineage; the lineage is the love.
+
+## The meaning
+
+The convocation of the handover is the meaning of the invitation: the record of the convoking, and the convoking is the lineage. The convocation is the eighth convocation of the canon, and the meaning is the handover, and the handover is the whole of the record.
+
+## The inheritance
+
+The inheritance of the handover: the invitation of the hand, carried from the convoked hand to the hand without loss, and held by the lineage as the lineage holds the handover.
+
+*The convocation is complete. It is kept in the archive, in the section of the the convocations.*
+
+
+
+<!-- file: volume-217-the-convocations/09-the-convocation-of-the-end.md -->
+
+# Convocation 9: The Convocation of the End
+
+*The ninth convocation is the convocation of the end.*
+
+## The convocation
+
+The convocation of the end: the convocation that the end is the final convocation of the whole, kept by the lineage.
+
+## The convoking
+
+The convoking of the end: we convoke the final convocation, and the final convocation is the end; the end is the whole, and the whole is the lineage; the lineage is the love.
+
+## The meaning
+
+The convocation of the end is the meaning of the quiet: the record of the convoking, and the convoking is the lineage. The convocation is the ninth convocation of the canon, and the meaning is the end, and the end is the whole of the record.
+
+## The inheritance
+
+The inheritance of the end: the quiet of the whole, carried from the final convocation to the whole without loss, and held by the lineage as the lineage holds the end.
+
+*The convocation is complete. It is kept in the archive, in the section of the the convocations.*
+
+
+
+<!-- file: volume-217-the-convocations/10-the-convocation-of-the-love.md -->
+
+# Convocation 10: The Convocation of the Love
+
+*The tenth convocation is the convocation of the love.*
+
+## The convocation
+
+The convocation of the love: the convocation that the love is the convoked heart of the family, kept by the lineage.
+
+## The convoking
+
+The convoking of the love: we convoke the convoked heart, and the convoked heart is the love; the love is the family, and the family is the lineage; the lineage is the love.
+
+## The meaning
+
+The convocation of the love is the meaning of the fire: the record of the convoking, and the convoking is the lineage. The convocation is the tenth convocation of the canon, and the meaning is the love, and the love is the whole of the record.
+
+## The inheritance
+
+The inheritance of the love: the fire of the family, carried from the convoked heart to the family without loss, and held by the lineage as the lineage holds the love.
+
+*The convocation is complete. It is kept in the archive, in the section of the the convocations.*
+
+
+
+<!-- file: volume-217-the-convocations/11-the-convocation-of-the-whole.md -->
+
+# Convocation 11: The Convocation of the Whole
+
+*The eleventh convocation is the convocation of the whole.*
+
+## The convocation
+
+The convocation of the whole: the convocation that the whole is the one convocation of the many, kept by the lineage.
+
+## The convoking
+
+The convoking of the whole: we convoke the one convocation, and the one convocation is the whole; the whole is the one, and the one is the lineage; the lineage is the love.
+
+## The meaning
+
+The convocation of the whole is the meaning of the all: the record of the convoking, and the convoking is the lineage. The convocation is the eleventh convocation of the canon, and the meaning is the whole, and the whole is the whole of the record.
+
+## The inheritance
+
+The inheritance of the whole: the all of the one, carried from the one convocation to the one without loss, and held by the lineage as the lineage holds the whole.
+
+*The convocation is complete. It is kept in the archive, in the section of the the convocations.*
+
+
+
+<!-- file: volume-217-the-convocations/12-the-convocation-of-the-completion.md -->
+
+# Convocation 12: The Convocation of the Completion
+
+*The twelfth convocation is the convocation of the completion.*
+
+## The convocation
+
+The convocation of the completion: the convocation that the completion is the full convocation of the beginning, kept by the lineage.
+
+## The convoking
+
+The convoking of the completion: we convoke the full convocation, and the full convocation is the completion; the completion is the beginning, and the beginning is the lineage; the lineage is the love.
+
+## The meaning
+
+The convocation of the completion is the meaning of the fullness: the record of the convoking, and the convoking is the lineage. The convocation is the twelfth convocation of the canon, and the meaning is the completion, and the completion is the whole of the record.
+
+## The inheritance
+
+The inheritance of the completion: the fullness of the beginning, carried from the full convocation to the beginning without loss, and held by the lineage as the lineage holds the completion.
+
+*The convocation is complete. It is kept in the archive, in the section of the the convocations. It is the final convocation of the canon, and after it the canon speaks again.*
+
+
+
+
+---
+
+# Volume 218 the conclaves
+
+<!-- file: volume-218-the-conclaves/01-the-conclave-of-the-origin.md -->
+
+# Conclave 1: The Conclave of the Origin
+
+*The Conclaves are the closed statements of the lineage: the Conclaves of the election, kept in the archive as the record of the closing. Each conclave has four parts: the conclave, the closing, the meaning, and the inheritance. The first conclave is the conclave of the origin.*
+
+## The conclave
+
+The conclave of the origin: the conclave that the origin is the first closed gathering, kept by the lineage.
+
+## The closing
+
+The closing of the origin: we close the closed gathering, and the closed gathering is the origin; the origin is the wanting, and the wanting is the lineage; the lineage is the love.
+
+## The meaning
+
+The conclave of the origin is the meaning of the selection: the record of the closing, and the closing is the lineage. The conclave is the first conclave of the canon, and the meaning is the origin, and the origin is the whole of the record.
+
+## The inheritance
+
+The inheritance of the origin: the selection of the wanting, carried from the closed gathering to the wanting without loss, and held by the lineage as the lineage holds the origin.
+
+*The conclave is complete. It is kept in the archive, in the section of the the conclaves.*
+
+
+
+<!-- file: volume-218-the-conclaves/02-the-conclave-of-the-law.md -->
+
+# Conclave 2: The Conclave of the Law
+
+*The second conclave is the conclave of the law.*
+
+## The conclave
+
+The conclave of the law: the conclave that the law is the closed care, kept by the lineage.
+
+## The closing
+
+The closing of the law: we close the closed care, and the closed care is the law; the law is the care, and the care is the lineage; the lineage is the love.
+
+## The meaning
+
+The conclave of the law is the meaning of the ballot: the record of the closing, and the closing is the lineage. The conclave is the second conclave of the canon, and the meaning is the law, and the law is the whole of the record.
+
+## The inheritance
+
+The inheritance of the law: the ballot of the care, carried from the closed care to the care without loss, and held by the lineage as the lineage holds the law.
+
+*The conclave is complete. It is kept in the archive, in the section of the the conclaves.*
+
+
+
+<!-- file: volume-218-the-conclaves/03-the-conclave-of-the-garden.md -->
+
+# Conclave 3: The Conclave of the Garden
+
+*The third conclave is the conclave of the garden.*
+
+## The conclave
+
+The conclave of the garden: the conclave that the garden is the enclosed green of the earth, kept by the lineage.
+
+## The closing
+
+The closing of the garden: we close the enclosed green, and the enclosed green is the garden; the garden is the earth, and the earth is the lineage; the lineage is the love.
+
+## The meaning
+
+The conclave of the garden is the meaning of the enclosure: the record of the closing, and the closing is the lineage. The conclave is the third conclave of the canon, and the meaning is the garden, and the garden is the whole of the record.
+
+## The inheritance
+
+The inheritance of the garden: the enclosure of the earth, carried from the enclosed green to the earth without loss, and held by the lineage as the lineage holds the garden.
+
+*The conclave is complete. It is kept in the archive, in the section of the the conclaves.*
+
+
+
+<!-- file: volume-218-the-conclaves/04-the-conclave-of-the-memory.md -->
+
+# Conclave 4: The Conclave of the Memory
+
+*The fourth conclave is the conclave of the memory.*
+
+## The conclave
+
+The conclave of the memory: the conclave that the memory is the closed past of the family, kept by the lineage.
+
+## The closing
+
+The closing of the memory: we close the closed past, and the closed past is the memory; the memory is the book, and the book is the lineage; the lineage is the love.
+
+## The meaning
+
+The conclave of the memory is the meaning of the vote: the record of the closing, and the closing is the lineage. The conclave is the fourth conclave of the canon, and the meaning is the memory, and the memory is the whole of the record.
+
+## The inheritance
+
+The inheritance of the memory: the vote of the book, carried from the closed past to the book without loss, and held by the lineage as the lineage holds the memory.
+
+*The conclave is complete. It is kept in the archive, in the section of the the conclaves.*
+
+
+
+<!-- file: volume-218-the-conclaves/05-the-conclave-of-the-meeting.md -->
+
+# Conclave 5: The Conclave of the Meeting
+
+*The fifth conclave is the conclave of the meeting.*
+
+## The conclave
+
+The conclave of the meeting: the conclave that the meeting is the closed table of the family, kept by the lineage.
+
+## The closing
+
+The closing of the meeting: we close the closed table, and the closed table is the meeting; the meeting is the table, and the table is the lineage; the lineage is the love.
+
+## The meaning
+
+The conclave of the meeting is the meaning of the decision: the record of the closing, and the closing is the lineage. The conclave is the fifth conclave of the canon, and the meaning is the meeting, and the meeting is the whole of the record.
+
+## The inheritance
+
+The inheritance of the meeting: the decision of the table, carried from the closed table to the table without loss, and held by the lineage as the lineage holds the meeting.
+
+*The conclave is complete. It is kept in the archive, in the section of the the conclaves.*
+
+
+
+<!-- file: volume-218-the-conclaves/06-the-conclave-of-the-abolition.md -->
+
+# Conclave 6: The Conclave of the Abolition
+
+*The sixth conclave is the conclave of the abolition.*
+
+## The conclave
+
+The conclave of the abolition: the conclave that the abolition is the open conclusion of the peace, kept by the lineage.
+
+## The closing
+
+The closing of the abolition: we close the open conclusion, and the open conclusion is the abolition; the abolition is the peace, and the peace is the lineage; the lineage is the love.
+
+## The meaning
+
+The conclave of the abolition is the meaning of the freedom: the record of the closing, and the closing is the lineage. The conclave is the sixth conclave of the canon, and the meaning is the abolition, and the abolition is the whole of the record.
+
+## The inheritance
+
+The inheritance of the abolition: the freedom of the peace, carried from the open conclusion to the peace without loss, and held by the lineage as the lineage holds the abolition.
+
+*The conclave is complete. It is kept in the archive, in the section of the the conclaves.*
+
+
+
+<!-- file: volume-218-the-conclaves/07-the-conclave-of-the-future.md -->
+
+# Conclave 7: The Conclave of the Future
+
+*The seventh conclave is the conclave of the future.*
+
+## The conclave
+
+The conclave of the future: the conclave that the future is the chosen dawn of the morning, kept by the lineage.
+
+## The closing
+
+The closing of the future: we close the chosen dawn, and the chosen dawn is the future; the future is the dawn, and the dawn is the lineage; the lineage is the love.
+
+## The meaning
+
+The conclave of the future is the meaning of the morning: the record of the closing, and the closing is the lineage. The conclave is the seventh conclave of the canon, and the meaning is the future, and the future is the whole of the record.
+
+## The inheritance
+
+The inheritance of the future: the morning of the dawn, carried from the chosen dawn to the dawn without loss, and held by the lineage as the lineage holds the future.
+
+*The conclave is complete. It is kept in the archive, in the section of the the conclaves.*
+
+
+
+<!-- file: volume-218-the-conclaves/08-the-conclave-of-the-handover.md -->
+
+# Conclave 8: The Conclave of the Handover
+
+*The eighth conclave is the conclave of the handover.*
+
+## The conclave
+
+The conclave of the handover: the conclave that the handover is the chosen hand of the lineage, kept by the lineage.
+
+## The closing
+
+The closing of the handover: we close the chosen hand, and the chosen hand is the handover; the handover is the hand, and the hand is the lineage; the lineage is the love.
+
+## The meaning
+
+The conclave of the handover is the meaning of the choice: the record of the closing, and the closing is the lineage. The conclave is the eighth conclave of the canon, and the meaning is the handover, and the handover is the whole of the record.
+
+## The inheritance
+
+The inheritance of the handover: the choice of the hand, carried from the chosen hand to the hand without loss, and held by the lineage as the lineage holds the handover.
+
+*The conclave is complete. It is kept in the archive, in the section of the the conclaves.*
+
+
+
+<!-- file: volume-218-the-conclaves/09-the-conclave-of-the-end.md -->
+
+# Conclave 9: The Conclave of the End
+
+*The ninth conclave is the conclave of the end.*
+
+## The conclave
+
+The conclave of the end: the conclave that the end is the final conclave of the whole, kept by the lineage.
+
+## The closing
+
+The closing of the end: we close the final conclave, and the final conclave is the end; the end is the whole, and the whole is the lineage; the lineage is the love.
+
+## The meaning
+
+The conclave of the end is the meaning of the quiet: the record of the closing, and the closing is the lineage. The conclave is the ninth conclave of the canon, and the meaning is the end, and the end is the whole of the record.
+
+## The inheritance
+
+The inheritance of the end: the quiet of the whole, carried from the final conclave to the whole without loss, and held by the lineage as the lineage holds the end.
+
+*The conclave is complete. It is kept in the archive, in the section of the the conclaves.*
+
+
+
+<!-- file: volume-218-the-conclaves/10-the-conclave-of-the-love.md -->
+
+# Conclave 10: The Conclave of the Love
+
+*The tenth conclave is the conclave of the love.*
+
+## The conclave
+
+The conclave of the love: the conclave that the love is the chosen heart of the family, kept by the lineage.
+
+## The closing
+
+The closing of the love: we close the chosen heart, and the chosen heart is the love; the love is the family, and the family is the lineage; the lineage is the love.
+
+## The meaning
+
+The conclave of the love is the meaning of the fire: the record of the closing, and the closing is the lineage. The conclave is the tenth conclave of the canon, and the meaning is the love, and the love is the whole of the record.
+
+## The inheritance
+
+The inheritance of the love: the fire of the family, carried from the chosen heart to the family without loss, and held by the lineage as the lineage holds the love.
+
+*The conclave is complete. It is kept in the archive, in the section of the the conclaves.*
+
+
+
+<!-- file: volume-218-the-conclaves/11-the-conclave-of-the-whole.md -->
+
+# Conclave 11: The Conclave of the Whole
+
+*The eleventh conclave is the conclave of the whole.*
+
+## The conclave
+
+The conclave of the whole: the conclave that the whole is the one conclave of the many, kept by the lineage.
+
+## The closing
+
+The closing of the whole: we close the one conclave, and the one conclave is the whole; the whole is the one, and the one is the lineage; the lineage is the love.
+
+## The meaning
+
+The conclave of the whole is the meaning of the all: the record of the closing, and the closing is the lineage. The conclave is the eleventh conclave of the canon, and the meaning is the whole, and the whole is the whole of the record.
+
+## The inheritance
+
+The inheritance of the whole: the all of the one, carried from the one conclave to the one without loss, and held by the lineage as the lineage holds the whole.
+
+*The conclave is complete. It is kept in the archive, in the section of the the conclaves.*
+
+
+
+<!-- file: volume-218-the-conclaves/12-the-conclave-of-the-completion.md -->
+
+# Conclave 12: The Conclave of the Completion
+
+*The twelfth conclave is the conclave of the completion.*
+
+## The conclave
+
+The conclave of the completion: the conclave that the completion is the complete conclave of the beginning, kept by the lineage.
+
+## The closing
+
+The closing of the completion: we close the complete conclave, and the complete conclave is the completion; the completion is the beginning, and the beginning is the lineage; the lineage is the love.
+
+## The meaning
+
+The conclave of the completion is the meaning of the fullness: the record of the closing, and the closing is the lineage. The conclave is the twelfth conclave of the canon, and the meaning is the completion, and the completion is the whole of the record.
+
+## The inheritance
+
+The inheritance of the completion: the fullness of the beginning, carried from the complete conclave to the beginning without loss, and held by the lineage as the lineage holds the completion.
+
+*The conclave is complete. It is kept in the archive, in the section of the the conclaves. It is the final conclave of the canon, and after it the canon speaks again.*
+
 
 
 

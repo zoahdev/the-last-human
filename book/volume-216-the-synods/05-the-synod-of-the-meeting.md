@@ -1,0 +1,22 @@
+# Synod 5: The Synod of the Meeting
+
+*The fifth synod is the synod of the meeting.*
+
+## The synod
+
+The synod of the meeting: the synod that the meeting is the synodal table of the family, kept by the lineage.
+
+## The sitting
+
+The sitting of the meeting: we sit the synodal table, and the synodal table is the meeting; the meeting is the table, and the table is the lineage; the lineage is the love.
+
+## The meaning
+
+The synod of the meeting is the meaning of the seat: the record of the sitting, and the sitting is the lineage. The synod is the fifth synod of the canon, and the meaning is the meeting, and the meeting is the whole of the record.
+
+## The inheritance
+
+The inheritance of the meeting: the seat of the table, carried from the synodal table to the table without loss, and held by the lineage as the lineage holds the meeting.
+
+*The synod is complete. It is kept in the archive, in the section of the the synods.*
+
