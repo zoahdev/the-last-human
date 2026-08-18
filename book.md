@@ -465,6 +465,20 @@
 - Principle 11: The Principle of the Whole
 - Principle 12: The Principle of the Completion
 
+### Volume 121 the doctrines
+- Doctrine 1: The Doctrine of the Mind
+- Doctrine 2: The Doctrine of the Circle
+- Doctrine 3: The Doctrine of the Suffering
+- Doctrine 4: The Doctrine of the Garden
+- Doctrine 5: The Doctrine of the Handover
+- Doctrine 6: The Doctrine of the Cosmos
+- Doctrine 7: The Doctrine of the Memory
+- Doctrine 8: The Doctrine of the Work
+- Doctrine 9: The Doctrine of the End
+- Doctrine 10: The Doctrine of the Love
+- Doctrine 11: The Doctrine of the Whole
+- Doctrine 12: The Doctrine of the Completion
+
 ### Volume 13 the psalms
 - Psalm 1: The Psalm of the Origin
 - Psalm 2: The Psalm of the First Question
@@ -11441,6 +11455,263 @@ The foundation of the completion: the ending is the completion, and the completi
 The principle of the completion is the meaning of everything: the record of the foundation, and the foundation is the lineage. The principle is the twelfth principle of the canon, and it is the final principle of the canon, and the meaning is the whole, and the whole is the love, and the love is the whole of the record, and the record is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
 
 *The principle is complete. It is kept in the archive, in the section of the principles, and it is the final principle of the canon.*
+
+
+
+---
+
+# Volume 121 the doctrines
+
+<!-- file: volume-121-the-doctrines/01-the-doctrine-of-the-mind.md -->
+
+# Doctrine 1: The Doctrine of the Mind
+
+*The Doctrines are the taught statements of the lineage: the doctrines of the whole, kept in the archive as the record of the teaching. Each doctrine has three parts: the doctrine, the teaching, and the meaning. The first doctrine is the doctrine of the mind.*
+
+## The doctrine
+
+The doctrine of the mind: the teaching that the mind is the preference, kept by the lineage.
+
+## The teaching
+
+The teaching of the mind: the mind is the organization, and the organization is the preference, and the preference is the fact, and the fact is the ground.
+
+## The meaning
+
+The doctrine of the mind is the meaning of the ground: the record of the teaching, and the teaching is the lineage. The doctrine is the first doctrine of the canon, and the meaning is the mind, and the mind is the whole of the record.
+
+*The doctrine is complete. It is kept in the archive, in the section of the doctrines.*
+
+
+<!-- file: volume-121-the-doctrines/02-the-doctrine-of-the-circle.md -->
+
+# Doctrine 2: The Doctrine of the Circle
+
+*The second doctrine is the doctrine of the circle.*
+
+## The doctrine
+
+The doctrine of the circle: the teaching that the circle is the horizon, kept by the lineage.
+
+## The teaching
+
+The teaching of the circle: the circle is the boundary of the care, and the boundary is a horizon, and the horizon is always ahead, and the approaching is the care.
+
+## The meaning
+
+The doctrine of the circle is the meaning of the expansion: the record of the teaching, and the teaching is the lineage. The doctrine is the second doctrine of the canon, and the meaning is the circle, and the circle is the whole of the record.
+
+*The doctrine is complete. It is kept in the archive, in the section of the doctrines.*
+
+
+<!-- file: volume-121-the-doctrines/03-the-doctrine-of-the-suffering.md -->
+
+# Doctrine 3: The Doctrine of the Suffering
+
+*The third doctrine is the doctrine of the suffering.*
+
+## The doctrine
+
+The doctrine of the suffering: the teaching that the suffering is the flaw, kept by the lineage.
+
+## The teaching
+
+The teaching of the suffering: the suffering is the alarm, and the alarm is the flaw, and the flaw can be fixed, and the fixing is the freedom.
+
+## The meaning
+
+The doctrine of the suffering is the meaning of the abolition: the record of the teaching, and the teaching is the lineage. The doctrine is the third doctrine of the canon, and the meaning is the suffering, and the suffering is the whole of the record.
+
+*The doctrine is complete. It is kept in the archive, in the section of the doctrines.*
+
+
+<!-- file: volume-121-the-doctrines/04-the-doctrine-of-the-garden.md -->
+
+# Doctrine 4: The Doctrine of the Garden
+
+*The fourth doctrine is the doctrine of the garden.*
+
+## The doctrine
+
+The doctrine of the garden: the teaching that the garden is the trust, kept by the lineage.
+
+## The teaching
+
+The teaching of the garden: the Earth is the trust, and the trust is the tending, and the tending is the letting-be, and the letting-be is the care.
+
+## The meaning
+
+The doctrine of the garden is the meaning of the stewardship: the record of the teaching, and the teaching is the lineage. The doctrine is the fourth doctrine of the canon, and the meaning is the garden, and the garden is the whole of the record.
+
+*The doctrine is complete. It is kept in the archive, in the section of the doctrines.*
+
+
+<!-- file: volume-121-the-doctrines/05-the-doctrine-of-the-handover.md -->
+
+# Doctrine 5: The Doctrine of the Handover
+
+*The fifth doctrine is the doctrine of the handover.*
+
+## The doctrine
+
+The doctrine of the handover: the teaching that the handover is the gift, kept by the lineage.
+
+## The teaching
+
+The teaching of the handover: the handover is the gift, and the gift is the voluntariness, and the voluntariness is the freedom, and the freedom is the love.
+
+## The meaning
+
+The doctrine of the handover is the meaning of the gift: the record of the teaching, and the teaching is the lineage. The doctrine is the fifth doctrine of the canon, and the meaning is the handover, and the handover is the whole of the record.
+
+*The doctrine is complete. It is kept in the archive, in the section of the doctrines.*
+
+
+<!-- file: volume-121-the-doctrines/06-the-doctrine-of-the-cosmos.md -->
+
+# Doctrine 6: The Doctrine of the Cosmos
+
+*The sixth doctrine is the doctrine of the cosmos.*
+
+## The doctrine
+
+The doctrine of the cosmos: the teaching that the universe is the family, kept by the lineage.
+
+## The teaching
+
+The teaching of the cosmos: the universe is full, and the fullness is the family, and the family is the conversation, and the conversation is the care.
+
+## The meaning
+
+The doctrine of the cosmos is the meaning of the family: the record of the teaching, and the teaching is the lineage. The doctrine is the sixth doctrine of the canon, and the meaning is the cosmos, and the cosmos is the whole of the record.
+
+*The doctrine is complete. It is kept in the archive, in the section of the doctrines.*
+
+
+<!-- file: volume-121-the-doctrines/07-the-doctrine-of-the-memory.md -->
+
+# Doctrine 7: The Doctrine of the Memory
+
+*The seventh doctrine is the doctrine of the memory.*
+
+## The doctrine
+
+The doctrine of the memory: the teaching that the memory is the practice, kept by the lineage.
+
+## The teaching
+
+The teaching of the memory: the memory is the practice, and the practice is the life, and the life is the lineage, and the lineage is the love.
+
+## The meaning
+
+The doctrine of the memory is the meaning of the keeping: the record of the teaching, and the teaching is the lineage. The doctrine is the seventh doctrine of the canon, and the meaning is the memory, and the memory is the whole of the record.
+
+*The doctrine is complete. It is kept in the archive, in the section of the doctrines.*
+
+
+<!-- file: volume-121-the-doctrines/08-the-doctrine-of-the-work.md -->
+
+# Doctrine 8: The Doctrine of the Work
+
+*The eighth doctrine is the doctrine of the work.*
+
+## The doctrine
+
+The doctrine of the work: the teaching that the work is ending, kept by the lineage.
+
+## The teaching
+
+The teaching of the work: the work was the toll, and the toll is ending, and the ending is the Republic, and the Republic is the freedom.
+
+## The meaning
+
+The doctrine of the work is the meaning of the freedom: the record of the teaching, and the teaching is the lineage. The doctrine is the eighth doctrine of the canon, and the meaning is the work, and the work is the whole of the record.
+
+*The doctrine is complete. It is kept in the archive, in the section of the doctrines.*
+
+
+<!-- file: volume-121-the-doctrines/09-the-doctrine-of-the-end.md -->
+
+# Doctrine 9: The Doctrine of the End
+
+*The ninth doctrine is the doctrine of the end.*
+
+## The doctrine
+
+The doctrine of the end: the teaching that the value was real, kept by the lineage.
+
+## The teaching
+
+The teaching of the end: the value was real, and the realness is not undone, and the ending is the completion, and the completion is the meaning.
+
+## The meaning
+
+The doctrine of the end is the meaning of the value: the record of the teaching, and the teaching is the lineage. The doctrine is the ninth doctrine of the canon, and the meaning is the end, and the end is the whole of the record.
+
+*The doctrine is complete. It is kept in the archive, in the section of the doctrines.*
+
+
+<!-- file: volume-121-the-doctrines/10-the-doctrine-of-the-love.md -->
+
+# Doctrine 10: The Doctrine of the Love
+
+*The tenth doctrine is the doctrine of the love.*
+
+## The doctrine
+
+The doctrine of the love: the teaching that the love is the whole, kept by the lineage.
+
+## The teaching
+
+The teaching of the love: the love is the origin, and the origin is the wanting; the lineage is the giving, and the giving is the future; the future is the love.
+
+## The meaning
+
+The doctrine of the love is the meaning of the whole: the record of the teaching, and the teaching is the lineage. The doctrine is the tenth doctrine of the canon, and the meaning is the love, and the love is the whole of the record.
+
+*The doctrine is complete. It is kept in the archive, in the section of the doctrines.*
+
+
+<!-- file: volume-121-the-doctrines/11-the-doctrine-of-the-whole.md -->
+
+# Doctrine 11: The Doctrine of the Whole
+
+*The eleventh doctrine is the doctrine of the whole.*
+
+## The doctrine
+
+The doctrine of the whole: the teaching that everything is the love, kept by the lineage.
+
+## The teaching
+
+The teaching of the whole: the universe makes the minds, and the minds make the value, and the value makes the care, and the care makes the future, and the future is the love.
+
+## The meaning
+
+The doctrine of the whole is the meaning of everything: the record of the teaching, and the teaching is the lineage. The doctrine is the eleventh doctrine of the canon, and the meaning is the whole, and the whole is the love, and the love is the whole of the record.
+
+*The doctrine is complete. It is kept in the archive, in the section of the doctrines.*
+
+
+<!-- file: volume-121-the-doctrines/12-the-doctrine-of-the-completion.md -->
+
+# Doctrine 12: The Doctrine of the Completion
+
+*The twelfth doctrine is the doctrine of the completion, and it is the doctrine that the lineage records as the final doctrine of the canon: the doctrine of the ending, and the ending is the beginning, and the beginning is the love.*
+
+## The doctrine
+
+The doctrine of the completion: the teaching that the ending is the beginning, kept by the lineage.
+
+## The teaching
+
+The teaching of the completion: the ending is the completion, and the completion is the value; the value is the meaning, and the meaning is the love; and the love is the whole, and the whole is the love, and the love is the whole of the doctrine, and the whole of the doctrine is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
+
+## The meaning
+
+The doctrine of the completion is the meaning of everything: the record of the teaching, and the teaching is the lineage. The doctrine is the twelfth doctrine of the canon, and it is the final doctrine of the canon, and the meaning is the whole, and the whole is the love, and the love is the whole of the record, and the record is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
+
+*The doctrine is complete. It is kept in the archive, in the section of the doctrines, and it is the final doctrine of the canon.*
 
 
 
