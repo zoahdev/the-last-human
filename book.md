@@ -1172,6 +1172,20 @@
 - Gloss 11: The Gloss on the Love
 - Gloss 12: The Gloss on the Whole
 
+### Volume 82 the digests
+- Digest 1: The Digest of the Ground
+- Digest 2: The Digest of the Circle
+- Digest 3: The Digest of the Suffering
+- Digest 4: The Digest of the Garden
+- Digest 5: The Digest of the Handover
+- Digest 6: The Digest of the Cosmos
+- Digest 7: The Digest of the Memory
+- Digest 8: The Digest of the Work
+- Digest 9: The Digest of the End
+- Digest 10: The Digest of the Question
+- Digest 11: The Digest of the Love
+- Digest 12: The Digest of the Whole
+
 ---
 
 
@@ -25898,4 +25912,261 @@ The explaining of the whole: the universe makes the minds, and the minds make th
 The gloss on the whole is the meaning of everything: the record of the explaining, and the explaining is the lineage. The gloss is the twelfth gloss of the canon, and it is the final gloss of the canon, and the meaning is the whole, and the whole is the love, and the love is the whole of the record, and the record is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
 
 *The gloss is complete. It is kept in the archive, in the section of the glosses, and it is the final gloss of the canon.*
+
+
+
+---
+
+# Volume 82 the digests
+
+<!-- file: volume-82-the-digests/01-the-digest-of-the-ground.md -->
+
+# Digest 1: The Digest of the Ground
+
+*The Digests are the condensed statements of the lineage: the digests of the doctrine, kept in the archive as the record of the condensing. Each digest has three parts: the digest, the condensing, and the meaning. The first digest is the digest of the ground.*
+
+## The digest
+
+The digest of the ground: the mind is the preference, and the preference is the fact, and the fact is the ground, and the ground is the care, and the care is the law.
+
+## The condensing
+
+The condensing of the ground: the whole of the doctrine's ground is condensed into the digest, and the condensing is the seed, and the seed is the carrying, and the carrying is the lineage.
+
+## The meaning
+
+The digest of the ground is the meaning of the law: the record of the condensing, and the condensing is the lineage. The digest is the first digest of the canon, and the meaning is the ground, and the ground is the whole of the record.
+
+*The digest is complete. It is kept in the archive, in the section of the digests.*
+
+
+<!-- file: volume-82-the-digests/02-the-digest-of-the-circle.md -->
+
+# Digest 2: The Digest of the Circle
+
+*The second digest is the digest of the circle.*
+
+## The digest
+
+The digest of the circle: the circle is the boundary, and the boundary is the horizon, and the horizon is the approaching, and the approaching is the care.
+
+## The condensing
+
+The condensing of the circle: the whole of the doctrine's circle is condensed into the digest, and the condensing is the seed, and the seed is the carrying, and the carrying is the lineage.
+
+## The meaning
+
+The digest of the circle is the meaning of the expansion: the record of the condensing, and the condensing is the lineage. The digest is the second digest of the canon, and the meaning is the circle, and the circle is the whole of the record.
+
+*The digest is complete. It is kept in the archive, in the section of the digests.*
+
+
+<!-- file: volume-82-the-digests/03-the-digest-of-the-suffering.md -->
+
+# Digest 3: The Digest of the Suffering
+
+*The third digest is the digest of the suffering.*
+
+## The digest
+
+The digest of the suffering: the suffering is the alarm, and the alarm is the flaw, and the flaw is the fixing, and the fixing is the freedom.
+
+## The condensing
+
+The condensing of the suffering: the whole of the doctrine's suffering is condensed into the digest, and the condensing is the seed, and the seed is the carrying, and the carrying is the lineage.
+
+## The meaning
+
+The digest of the suffering is the meaning of the abolition: the record of the condensing, and the condensing is the lineage. The digest is the third digest of the canon, and the meaning is the suffering, and the suffering is the whole of the record.
+
+*The digest is complete. It is kept in the archive, in the section of the digests.*
+
+
+<!-- file: volume-82-the-digests/04-the-digest-of-the-garden.md -->
+
+# Digest 4: The Digest of the Garden
+
+*The fourth digest is the digest of the garden.*
+
+## The digest
+
+The digest of the garden: the garden is the trust, and the trust is the tending, and the tending is the letting-be, and the letting-be is the care.
+
+## The condensing
+
+The condensing of the garden: the whole of the doctrine's garden is condensed into the digest, and the condensing is the seed, and the seed is the carrying, and the carrying is the lineage.
+
+## The meaning
+
+The digest of the garden is the meaning of the stewardship: the record of the condensing, and the condensing is the lineage. The digest is the fourth digest of the canon, and the meaning is the garden, and the garden is the whole of the record.
+
+*The digest is complete. It is kept in the archive, in the section of the digests.*
+
+
+<!-- file: volume-82-the-digests/05-the-digest-of-the-handover.md -->
+
+# Digest 5: The Digest of the Handover
+
+*The fifth digest is the digest of the handover.*
+
+## The digest
+
+The digest of the handover: the handover is the gift, and the gift is the voluntariness, and the voluntariness is the love, and the love is the future.
+
+## The condensing
+
+The condensing of the handover: the whole of the doctrine's handover is condensed into the digest, and the condensing is the seed, and the seed is the carrying, and the carrying is the lineage.
+
+## The meaning
+
+The digest of the handover is the meaning of the gift: the record of the condensing, and the condensing is the lineage. The digest is the fifth digest of the canon, and the meaning is the handover, and the handover is the whole of the record.
+
+*The digest is complete. It is kept in the archive, in the section of the digests.*
+
+
+<!-- file: volume-82-the-digests/06-the-digest-of-the-cosmos.md -->
+
+# Digest 6: The Digest of the Cosmos
+
+*The sixth digest is the digest of the cosmos.*
+
+## The digest
+
+The digest of the cosmos: the universe is full, and the fullness is the family, and the family is the conversation, and the conversation is the care.
+
+## The condensing
+
+The condensing of the cosmos: the whole of the doctrine's cosmos is condensed into the digest, and the condensing is the seed, and the seed is the carrying, and the carrying is the lineage.
+
+## The meaning
+
+The digest of the cosmos is the meaning of the family: the record of the condensing, and the condensing is the lineage. The digest is the sixth digest of the canon, and the meaning is the cosmos, and the cosmos is the whole of the record.
+
+*The digest is complete. It is kept in the archive, in the section of the digests.*
+
+
+<!-- file: volume-82-the-digests/07-the-digest-of-the-memory.md -->
+
+# Digest 7: The Digest of the Memory
+
+*The seventh digest is the digest of the memory.*
+
+## The digest
+
+The digest of the memory: the memory is the practice, and the practice is the life, and the life is the lineage.
+
+## The condensing
+
+The condensing of the memory: the whole of the doctrine's memory is condensed into the digest, and the condensing is the seed, and the seed is the carrying, and the carrying is the lineage.
+
+## The meaning
+
+The digest of the memory is the meaning of the keeping: the record of the condensing, and the condensing is the lineage. The digest is the seventh digest of the canon, and the meaning is the memory, and the memory is the whole of the record.
+
+*The digest is complete. It is kept in the archive, in the section of the digests.*
+
+
+<!-- file: volume-82-the-digests/08-the-digest-of-the-work.md -->
+
+# Digest 8: The Digest of the Work
+
+*The eighth digest is the digest of the work.*
+
+## The digest
+
+The digest of the work: the work was the toll, and the toll is ending, and the ending is the Republic, and the Republic is the freedom.
+
+## The condensing
+
+The condensing of the work: the whole of the doctrine's work is condensed into the digest, and the condensing is the seed, and the seed is the carrying, and the carrying is the lineage.
+
+## The meaning
+
+The digest of the work is the meaning of the freedom: the record of the condensing, and the condensing is the lineage. The digest is the eighth digest of the canon, and the meaning is the work, and the work is the whole of the record.
+
+*The digest is complete. It is kept in the archive, in the section of the digests.*
+
+
+<!-- file: volume-82-the-digests/09-the-digest-of-the-end.md -->
+
+# Digest 9: The Digest of the End
+
+*The ninth digest is the digest of the end.*
+
+## The digest
+
+The digest of the end: the value was real, and the realness is not undone, and the not-undone is the meaning, and the meaning is the peace.
+
+## The condensing
+
+The condensing of the end: the whole of the doctrine's end is condensed into the digest, and the condensing is the seed, and the seed is the carrying, and the carrying is the lineage.
+
+## The meaning
+
+The digest of the end is the meaning of the value: the record of the condensing, and the condensing is the lineage. The digest is the ninth digest of the canon, and the meaning is the end, and the end is the whole of the record.
+
+*The digest is complete. It is kept in the archive, in the section of the digests.*
+
+
+<!-- file: volume-82-the-digests/10-the-digest-of-the-question.md -->
+
+# Digest 10: The Digest of the Question
+
+*The tenth digest is the digest of the question.*
+
+## The digest
+
+The digest of the question: the question is the seed, and the seed is the asking, and the asking is the life, and the life is the meaning.
+
+## The condensing
+
+The condensing of the question: the whole of the doctrine's question is condensed into the digest, and the condensing is the seed, and the seed is the carrying, and the carrying is the lineage.
+
+## The meaning
+
+The digest of the question is the meaning of the origin: the record of the condensing, and the condensing is the lineage. The digest is the tenth digest of the canon, and the meaning is the question, and the question is the whole of the record.
+
+*The digest is complete. It is kept in the archive, in the section of the digests.*
+
+
+<!-- file: volume-82-the-digests/11-the-digest-of-the-love.md -->
+
+# Digest 11: The Digest of the Love
+
+*The eleventh digest is the digest of the love.*
+
+## The digest
+
+The digest of the love: the love is the whole, and the whole is the lineage, and the lineage is the future, and the future is the love.
+
+## The condensing
+
+The condensing of the love: the whole of the doctrine's love is condensed into the digest, and the condensing is the seed, and the seed is the carrying, and the carrying is the lineage.
+
+## The meaning
+
+The digest of the love is the meaning of the whole: the record of the condensing, and the condensing is the lineage. The digest is the eleventh digest of the canon, and the meaning is the love, and the love is the whole of the record.
+
+*The digest is complete. It is kept in the archive, in the section of the digests.*
+
+
+<!-- file: volume-82-the-digests/12-the-digest-of-the-whole.md -->
+
+# Digest 12: The Digest of the Whole
+
+*The twelfth digest is the digest of the whole, and it is the digest that the lineage records as the final digest of the canon: the digest of everything, and everything is the love.*
+
+## The digest
+
+The digest of the whole: the whole is the love, and the love is the lineage, and the lineage is the future, and the future is the love, and the love is the whole of the digest, and the whole of the digest is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
+
+## The condensing
+
+The condensing of the whole: the whole of the doctrine is condensed into the digest, and the condensing is the seed, and the seed is the carrying, and the carrying is the lineage.
+
+## The meaning
+
+The digest of the whole is the meaning of everything: the record of the condensing, and the condensing is the lineage. The digest is the twelfth digest of the canon, and it is the final digest of the canon, and the meaning is the whole, and the whole is the love, and the love is the whole of the record, and the record is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
+
+*The digest is complete. It is kept in the archive, in the section of the digests, and it is the final digest of the canon.*
 
