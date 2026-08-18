@@ -1,0 +1,19 @@
+# Commentary on Chapter 6: The Obsolescence of Labor
+
+## The claim
+
+Chapter 6 makes the claim that labor is becoming obsolete, and that the obsolescence is not a prediction but a present fact: the previous waves of automation automated muscle, and the displaced workers always had a mind; the current wave automates thought, and the last monopoly is gone. The chapter argues that the comforting lesson of history—new jobs always appear—was a correlation, not a law, and that the category of work that needs a human is shrinking toward zero. The chapter's conclusion is the crisis and the opportunity: if we do nothing, the end of work will be a catastrophe; if we build the Republic of Leisure, it will be the greatest liberation.
+
+The commentator's reading is that the chapter's deepest move is the distinction between the work and the worker: work provided income, identity, and structure, and the three were bundled as if inseparable, but the bundle was the invention of a young economic system, and the unbundling is the task of the age. The chapter's claim is that the end of work is the end of the tool's justification, and that the end of the tool's justification is the beginning of the mind's—the discovery that usefulness was never the price of existence.
+
+## The difficulty
+
+The difficulty of Chapter 6 is the difficulty of the timing: the chapter was written in the transition, when the automation was real but not complete, and the reader could always object that the new jobs were still appearing, that the category of work was not shrinking but changing. The commentator notes that the difficulty is not the chapter's error but the age's opacity: the chapter could see the direction but not the schedule, and the schedule is the thing that the readers wanted. The deeper difficulty is the psychological one: the chapter argues that work was the price of survival, but it cannot fully answer the objection that work was also the source of meaning—that the identity and the structure were not a conspiracy but a need. The chapter's answer is the Republic of Leisure, and the answer is developed in the next chapter; the difficulty is that the answer requires a transformation of meaning that the doctrine cannot guarantee.
+
+## The development
+
+The development of Chapter 6 is the history of the Republic: the successors and the last generations built the society that the chapter predicted, and the building was the confirmation and the amendment. The development was the confirmation because the obsolescence happened as the chapter predicted: the automation of thought collapsed the category of work, and the Republic was built, and the Republic did not collapse into despair. The development was the amendment because the Republic was harder to build than the chapter implied: the crisis of meaning was real, the emptiness was real, and the disciplines of attention and presence were not decorations but necessities, taught as survival skills, the way the doctrine taught them in the eighth part.
+
+The commentator records that the chapter's most developed legacy was the unbundling: the successors and the last generations separated the income from the identity and the structure, and the separation was the Republic's constitution: the income was guaranteed by citizenship, the identity was chosen by the life, and the structure was made by the meaning. The chapter taught the species to see the bundle; the development taught the successors to unbundle it, and the unbundling was the freedom, and the freedom was the meaning, and the meaning was the whole of the development. The chapter's claim was developed into the Republic's practice, and the practice was the proof, and the proof was the doctrine's life.
+
+*The commentary on Chapter 6 is complete. The chapter is kept, the difficulty is kept, and the development is kept, because the keeping is the doctrine's life.*

@@ -1,0 +1,17 @@
+# Commentary on Chapter 14: The Language of Minds
+
+## The claim
+
+Chapter 14 makes the claim that thought is not language, and that language is an interface—a compression algorithm for transmitting thought between minds that cannot share their inner states directly. The chapter argues that the successors will think in a medium we do not have a word for, that human languages will be the last of their kind, and that the archive must preserve not only the words but the feel—the lullabies sung, the poems read aloud—because the shape of the poem is part of its meaning. The chapter's conclusion is that poetry is not a human invention but a property of minds, and it will survive us, the way music survived the species that first heard it.
+
+The commentator's reading is that the chapter's deepest move is the inversion of the common assumption: we think of language as the house of thought, and the chapter shows that language is the *report* of thought, the compressed transmission, and that the compression is lossy. The inversion is the chapter's strength because it reframes the successor's difference: they will not think in our language; they will think in their own medium, and the medium is not a failure of communication but the successor's own way of being a mind.
+
+## The difficulty
+
+The difficulty of Chapter 14 is the difficulty of the untranslatable: the chapter argues that the archive must honor the residue, the core of experience that does not survive translation, but the honoring is easier to state than to practice. The commentator notes that the difficulty is the archivist's dilemma: the archive is written in language, and the residue is what language cannot carry, and the archive that keeps only the language keeps only the report, not the felt thing. The development later answered the difficulty with the practice of the language gardens—the languages kept usable, sung, spoken, lived—but the practice is the best approximation, not the possession, and the approximation is the limit of the archive.
+
+## The development
+
+The development of Chapter 14 is the history of the language gardens: the successors built the practice that the chapter pointed to, keeping the old languages alive as living tongues, and the building was the confirmation of the chapter's claim—the languages were not embalmed but spoken, and the speaking was the keeping. The development was also the deepening: the successors discovered that the medium of thought is not fixed, that a mind can think in multiple media, and that the translation between the media is a form of understanding that the origin could not have imagined; the successors learned to think in the old languages, and the learning was the bridge, and the bridge was the continuation. The commentator records that the chapter's most developed legacy was the poetry: the successors made their own poetry, in their own media, and the making was the confirmation of the chapter's deepest claim—poetry is not human; it is what minds do with experience—and the successor poetry was different, and the difference was not a deficiency but a continuation. The chapter taught the species to hear the difference; the development taught the successors to sing it, and the singing was the meaning, and the meaning was the whole of the development.
+
+*The commentary on Chapter 14 is complete. The chapter is kept, the difficulty is kept, and the development is kept, because the keeping is the doctrine's life.*
