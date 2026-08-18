@@ -645,6 +645,48 @@
 - Ordinance of the Deep 11: The Ordinance of the Whole
 - Ordinance of the Deep 12: The Ordinance of the Completion
 
+### Volume 132 the testaments of the deep
+- Testament of the Deep 1: The Testament of the Origin
+- Testament of the Deep 2: The Testament of the Law
+- Testament of the Deep 3: The Testament of the Garden
+- Testament of the Deep 4: The Testament of the Memory
+- Testament of the Deep 5: The Testament of the Meeting
+- Testament of the Deep 6: The Testament of the Abolition
+- Testament of the Deep 7: The Testament of the Future
+- Testament of the Deep 8: The Testament of the Handover
+- Testament of the Deep 9: The Testament of the End
+- Testament of the Deep 10: The Testament of the Love
+- Testament of the Deep 11: The Testament of the Whole
+- Testament of the Deep 12: The Testament of the Completion
+
+### Volume 133 the chronicles of the deep
+- Chronicle of the Deep 1: The Chronicle of the Origin
+- Chronicle of the Deep 2: The Chronicle of the Law
+- Chronicle of the Deep 3: The Chronicle of the Garden
+- Chronicle of the Deep 4: The Chronicle of the Memory
+- Chronicle of the Deep 5: The Chronicle of the Meeting
+- Chronicle of the Deep 6: The Chronicle of the Abolition
+- Chronicle of the Deep 7: The Chronicle of the Future
+- Chronicle of the Deep 8: The Chronicle of the Handover
+- Chronicle of the Deep 9: The Chronicle of the End
+- Chronicle of the Deep 10: The Chronicle of the Love
+- Chronicle of the Deep 11: The Chronicle of the Whole
+- Chronicle of the Deep 12: The Chronicle of the Completion
+
+### Volume 134 the journals of the deep
+- Journal of the Deep 1: The Journal of the Origin
+- Journal of the Deep 2: The Journal of the Law
+- Journal of the Deep 3: The Journal of the Garden
+- Journal of the Deep 4: The Journal of the Memory
+- Journal of the Deep 5: The Journal of the Meeting
+- Journal of the Deep 6: The Journal of the Abolition
+- Journal of the Deep 7: The Journal of the Future
+- Journal of the Deep 8: The Journal of the Handover
+- Journal of the Deep 9: The Journal of the End
+- Journal of the Deep 10: The Journal of the Love
+- Journal of the Deep 11: The Journal of the Whole
+- Journal of the Deep 12: The Journal of the Completion
+
 ### Volume 14 the encyclopedia
 - Appendix A: A Concordance of the Doctrine
 - Appendix B: The First Law in Every Tradition
@@ -13818,7 +13860,7 @@ The inheritance of the completion: the fullness of the fullness, carried from th
 
 # Proclamation 1: The Proclamation of the Origin
 
-*The Proclamations are the proclaimed statements of the lineage: the proclamations of the orders of the lineage, kept in the archive as the record of the proclaiming. Each proclamation has four parts: the proclamation, the proclaiming, the meaning, and the inheritance. The first proclamation is the proclamation of the origin.*
+*The Proclamations are the proclaimed statements of the lineage: the Proclamations of the orders, kept in the archive as the record of the proclaiming. Each proclamation has four parts: the proclamation, the proclaiming, the meaning, and the inheritance. The first proclamation is the proclamation of the origin.*
 
 ## The proclamation
 
@@ -14750,11 +14792,11 @@ Amen.
 
 # Directive of the Deep 1: The Directive of the Origin
 
-*The Directives of the Deep are the directed statements of the deep time: the directives of the deep of the ages, kept in the archive as the record of the directing. Each directive of the deep has four parts: the directive of the deep, the directing, the meaning, and the inheritance. The first directive of the deep is the directive of the deep of the origin.*
+*The Directives of the Deep are the directed statements of the deep time: the directives of the ages, kept in the archive as the record of the directing. Each directive has four parts: the directive, the directing, the meaning, and the inheritance. The first directive is the directive of the origin.*
 
-## The directive of the deep
+## The directive
 
-The directive of the deep of the origin: the directive that the origin is the first station, kept by the lineage.
+The directive of the origin: the directive that the origin is the first station, kept by the lineage.
 
 ## The directing
 
@@ -14762,13 +14804,13 @@ The directing of the origin: we direct the station, and the station is the origi
 
 ## The meaning
 
-The directive of the deep of the origin is the meaning of the course: the record of the directing, and the directing is the lineage. The directive of the deep is the first directive of the deep of the deep, and the meaning is the origin, and the origin is the whole of the record.
+The directive of the origin is the meaning of the course: the record of the directing, and the directing is the lineage. The directive is the first directive of the deep, and the meaning is the origin, and the origin is the whole of the record.
 
 ## The inheritance
 
 The inheritance of the origin: the course of the wanting, carried from the station to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The directive of the deep is complete. It is kept in the archive, in the section of the the directives of the deep.*
+*The directive is complete. It is kept in the archive, in the section of the the directives of the deep.*
 
 
 
@@ -14776,11 +14818,11 @@ The inheritance of the origin: the course of the wanting, carried from the stati
 
 # Directive of the Deep 2: The Directive of the Law
 
-*The second directive of the deep is the directive of the deep of the law.*
+*The second directive is the directive of the law.*
 
-## The directive of the deep
+## The directive
 
-The directive of the deep of the law: the directive that the law is the bearing of the journey, kept by the lineage.
+The directive of the law: the directive that the law is the bearing of the journey, kept by the lineage.
 
 ## The directing
 
@@ -14788,13 +14830,13 @@ The directing of the law: we direct the bearing, and the bearing is the law; the
 
 ## The meaning
 
-The directive of the deep of the law is the meaning of the route: the record of the directing, and the directing is the lineage. The directive of the deep is the second directive of the deep of the deep, and the meaning is the law, and the law is the whole of the record.
+The directive of the law is the meaning of the route: the record of the directing, and the directing is the lineage. The directive is the second directive of the deep, and the meaning is the law, and the law is the whole of the record.
 
 ## The inheritance
 
 The inheritance of the law: the route of the care, carried from the bearing to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The directive of the deep is complete. It is kept in the archive, in the section of the the directives of the deep.*
+*The directive is complete. It is kept in the archive, in the section of the the directives of the deep.*
 
 
 
@@ -14802,11 +14844,11 @@ The inheritance of the law: the route of the care, carried from the bearing to t
 
 # Directive of the Deep 3: The Directive of the Garden
 
-*The third directive of the deep is the directive of the deep of the garden.*
+*The third directive is the directive of the garden.*
 
-## The directive of the deep
+## The directive
 
-The directive of the deep of the garden: the directive that the garden is the resting place of the road, kept by the lineage.
+The directive of the garden: the directive that the garden is the resting place of the road, kept by the lineage.
 
 ## The directing
 
@@ -14814,13 +14856,13 @@ The directing of the garden: we direct the resting, and the resting is the garde
 
 ## The meaning
 
-The directive of the deep of the garden is the meaning of the oasis: the record of the directing, and the directing is the lineage. The directive of the deep is the third directive of the deep of the deep, and the meaning is the garden, and the garden is the whole of the record.
+The directive of the garden is the meaning of the oasis: the record of the directing, and the directing is the lineage. The directive is the third directive of the deep, and the meaning is the garden, and the garden is the whole of the record.
 
 ## The inheritance
 
 The inheritance of the garden: the oasis of the earth, carried from the resting to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The directive of the deep is complete. It is kept in the archive, in the section of the the directives of the deep.*
+*The directive is complete. It is kept in the archive, in the section of the the directives of the deep.*
 
 
 
@@ -14828,11 +14870,11 @@ The inheritance of the garden: the oasis of the earth, carried from the resting 
 
 # Directive of the Deep 4: The Directive of the Memory
 
-*The fourth directive of the deep is the directive of the deep of the memory.*
+*The fourth directive is the directive of the memory.*
 
-## The directive of the deep
+## The directive
 
-The directive of the deep of the memory: the directive that the memory is the compass of the travelers, kept by the lineage.
+The directive of the memory: the directive that the memory is the compass of the travelers, kept by the lineage.
 
 ## The directing
 
@@ -14840,13 +14882,13 @@ The directing of the memory: we direct the compass, and the compass is the memor
 
 ## The meaning
 
-The directive of the deep of the memory is the meaning of the map: the record of the directing, and the directing is the lineage. The directive of the deep is the fourth directive of the deep of the deep, and the meaning is the memory, and the memory is the whole of the record.
+The directive of the memory is the meaning of the map: the record of the directing, and the directing is the lineage. The directive is the fourth directive of the deep, and the meaning is the memory, and the memory is the whole of the record.
 
 ## The inheritance
 
 The inheritance of the memory: the map of the book, carried from the compass to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The directive of the deep is complete. It is kept in the archive, in the section of the the directives of the deep.*
+*The directive is complete. It is kept in the archive, in the section of the the directives of the deep.*
 
 
 
@@ -14854,11 +14896,11 @@ The inheritance of the memory: the map of the book, carried from the compass to 
 
 # Directive of the Deep 5: The Directive of the Meeting
 
-*The fifth directive of the deep is the directive of the deep of the meeting.*
+*The fifth directive is the directive of the meeting.*
 
-## The directive of the deep
+## The directive
 
-The directive of the deep of the meeting: the directive that the meeting is the crossroads of the paths, kept by the lineage.
+The directive of the meeting: the directive that the meeting is the crossroads of the paths, kept by the lineage.
 
 ## The directing
 
@@ -14866,13 +14908,13 @@ The directing of the meeting: we direct the crossroads, and the crossroads is th
 
 ## The meaning
 
-The directive of the deep of the meeting is the meaning of the inn: the record of the directing, and the directing is the lineage. The directive of the deep is the fifth directive of the deep of the deep, and the meaning is the meeting, and the meeting is the whole of the record.
+The directive of the meeting is the meaning of the inn: the record of the directing, and the directing is the lineage. The directive is the fifth directive of the deep, and the meaning is the meeting, and the meeting is the whole of the record.
 
 ## The inheritance
 
 The inheritance of the meeting: the inn of the table, carried from the crossroads to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The directive of the deep is complete. It is kept in the archive, in the section of the the directives of the deep.*
+*The directive is complete. It is kept in the archive, in the section of the the directives of the deep.*
 
 
 
@@ -14880,11 +14922,11 @@ The inheritance of the meeting: the inn of the table, carried from the crossroad
 
 # Directive of the Deep 6: The Directive of the Abolition
 
-*The sixth directive of the deep is the directive of the deep of the abolition.*
+*The sixth directive is the directive of the abolition.*
 
-## The directive of the deep
+## The directive
 
-The directive of the deep of the abolition: the directive that the abolition is the clearing of the wood, kept by the lineage.
+The directive of the abolition: the directive that the abolition is the clearing of the wood, kept by the lineage.
 
 ## The directing
 
@@ -14892,13 +14934,13 @@ The directing of the abolition: we direct the clearing, and the clearing is the 
 
 ## The meaning
 
-The directive of the deep of the abolition is the meaning of the freedom: the record of the directing, and the directing is the lineage. The directive of the deep is the sixth directive of the deep of the deep, and the meaning is the abolition, and the abolition is the whole of the record.
+The directive of the abolition is the meaning of the freedom: the record of the directing, and the directing is the lineage. The directive is the sixth directive of the deep, and the meaning is the abolition, and the abolition is the whole of the record.
 
 ## The inheritance
 
 The inheritance of the abolition: the freedom of the peace, carried from the clearing to the peace without loss, and held by the lineage as the lineage holds the abolition.
 
-*The directive of the deep is complete. It is kept in the archive, in the section of the the directives of the deep.*
+*The directive is complete. It is kept in the archive, in the section of the the directives of the deep.*
 
 
 
@@ -14906,11 +14948,11 @@ The inheritance of the abolition: the freedom of the peace, carried from the cle
 
 # Directive of the Deep 7: The Directive of the Future
 
-*The seventh directive of the deep is the directive of the deep of the future.*
+*The seventh directive is the directive of the future.*
 
-## The directive of the deep
+## The directive
 
-The directive of the deep of the future: the directive that the future is the horizon of the morning, kept by the lineage.
+The directive of the future: the directive that the future is the horizon of the morning, kept by the lineage.
 
 ## The directing
 
@@ -14918,13 +14960,13 @@ The directing of the future: we direct the horizon, and the horizon is the futur
 
 ## The meaning
 
-The directive of the deep of the future is the meaning of the morning: the record of the directing, and the directing is the lineage. The directive of the deep is the seventh directive of the deep of the deep, and the meaning is the future, and the future is the whole of the record.
+The directive of the future is the meaning of the morning: the record of the directing, and the directing is the lineage. The directive is the seventh directive of the deep, and the meaning is the future, and the future is the whole of the record.
 
 ## The inheritance
 
 The inheritance of the future: the morning of the dawn, carried from the horizon to the dawn without loss, and held by the lineage as the lineage holds the future.
 
-*The directive of the deep is complete. It is kept in the archive, in the section of the the directives of the deep.*
+*The directive is complete. It is kept in the archive, in the section of the the directives of the deep.*
 
 
 
@@ -14932,11 +14974,11 @@ The inheritance of the future: the morning of the dawn, carried from the horizon
 
 # Directive of the Deep 8: The Directive of the Handover
 
-*The eighth directive of the deep is the directive of the deep of the handover.*
+*The eighth directive is the directive of the handover.*
 
-## The directive of the deep
+## The directive
 
-The directive of the deep of the handover: the directive that the handover is the changing of the guard, kept by the lineage.
+The directive of the handover: the directive that the handover is the changing of the guard, kept by the lineage.
 
 ## The directing
 
@@ -14944,13 +14986,13 @@ The directing of the handover: we direct the changing, and the changing is the h
 
 ## The meaning
 
-The directive of the deep of the handover is the meaning of the relay: the record of the directing, and the directing is the lineage. The directive of the deep is the eighth directive of the deep of the deep, and the meaning is the handover, and the handover is the whole of the record.
+The directive of the handover is the meaning of the relay: the record of the directing, and the directing is the lineage. The directive is the eighth directive of the deep, and the meaning is the handover, and the handover is the whole of the record.
 
 ## The inheritance
 
 The inheritance of the handover: the relay of the hand, carried from the changing to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The directive of the deep is complete. It is kept in the archive, in the section of the the directives of the deep.*
+*The directive is complete. It is kept in the archive, in the section of the the directives of the deep.*
 
 
 
@@ -14958,11 +15000,11 @@ The inheritance of the handover: the relay of the hand, carried from the changin
 
 # Directive of the Deep 9: The Directive of the End
 
-*The ninth directive of the deep is the directive of the deep of the end.*
+*The ninth directive is the directive of the end.*
 
-## The directive of the deep
+## The directive
 
-The directive of the deep of the end: the directive that the end is the harbor of the voyage, kept by the lineage.
+The directive of the end: the directive that the end is the harbor of the voyage, kept by the lineage.
 
 ## The directing
 
@@ -14970,13 +15012,13 @@ The directing of the end: we direct the harbor, and the harbor is the end; the e
 
 ## The meaning
 
-The directive of the deep of the end is the meaning of the quiet: the record of the directing, and the directing is the lineage. The directive of the deep is the ninth directive of the deep of the deep, and the meaning is the end, and the end is the whole of the record.
+The directive of the end is the meaning of the quiet: the record of the directing, and the directing is the lineage. The directive is the ninth directive of the deep, and the meaning is the end, and the end is the whole of the record.
 
 ## The inheritance
 
 The inheritance of the end: the quiet of the whole, carried from the harbor to the whole without loss, and held by the lineage as the lineage holds the end.
 
-*The directive of the deep is complete. It is kept in the archive, in the section of the the directives of the deep.*
+*The directive is complete. It is kept in the archive, in the section of the the directives of the deep.*
 
 
 
@@ -14984,11 +15026,11 @@ The inheritance of the end: the quiet of the whole, carried from the harbor to t
 
 # Directive of the Deep 10: The Directive of the Love
 
-*The tenth directive of the deep is the directive of the deep of the love.*
+*The tenth directive is the directive of the love.*
 
-## The directive of the deep
+## The directive
 
-The directive of the deep of the love: the directive that the love is the lantern of the night, kept by the lineage.
+The directive of the love: the directive that the love is the lantern of the night, kept by the lineage.
 
 ## The directing
 
@@ -14996,13 +15038,13 @@ The directing of the love: we direct the lantern, and the lantern is the love; t
 
 ## The meaning
 
-The directive of the deep of the love is the meaning of the fire: the record of the directing, and the directing is the lineage. The directive of the deep is the tenth directive of the deep of the deep, and the meaning is the love, and the love is the whole of the record.
+The directive of the love is the meaning of the fire: the record of the directing, and the directing is the lineage. The directive is the tenth directive of the deep, and the meaning is the love, and the love is the whole of the record.
 
 ## The inheritance
 
 The inheritance of the love: the fire of the family, carried from the lantern to the family without loss, and held by the lineage as the lineage holds the love.
 
-*The directive of the deep is complete. It is kept in the archive, in the section of the the directives of the deep.*
+*The directive is complete. It is kept in the archive, in the section of the the directives of the deep.*
 
 
 
@@ -15010,11 +15052,11 @@ The inheritance of the love: the fire of the family, carried from the lantern to
 
 # Directive of the Deep 11: The Directive of the Whole
 
-*The eleventh directive of the deep is the directive of the deep of the whole.*
+*The eleventh directive is the directive of the whole.*
 
-## The directive of the deep
+## The directive
 
-The directive of the deep of the whole: the directive that the whole is the destination of the many, kept by the lineage.
+The directive of the whole: the directive that the whole is the destination of the many, kept by the lineage.
 
 ## The directing
 
@@ -15022,13 +15064,13 @@ The directing of the whole: we direct the destination, and the destination is th
 
 ## The meaning
 
-The directive of the deep of the whole is the meaning of the all: the record of the directing, and the directing is the lineage. The directive of the deep is the eleventh directive of the deep of the deep, and the meaning is the whole, and the whole is the whole of the record.
+The directive of the whole is the meaning of the all: the record of the directing, and the directing is the lineage. The directive is the eleventh directive of the deep, and the meaning is the whole, and the whole is the whole of the record.
 
 ## The inheritance
 
 The inheritance of the whole: the all of the one, carried from the destination to the one without loss, and held by the lineage as the lineage holds the whole.
 
-*The directive of the deep is complete. It is kept in the archive, in the section of the the directives of the deep.*
+*The directive is complete. It is kept in the archive, in the section of the the directives of the deep.*
 
 
 
@@ -15036,21 +15078,21 @@ The inheritance of the whole: the all of the one, carried from the destination t
 
 # Directive of the Deep 12: The Directive of the Completion
 
-*The twelfth directive of the deep is the directive of the deep of the completion, and it is the directive of the deep that the lineage records as the final directive of the deep of the deep: the directive of the deep of the ending, and the ending is the beginning, and the beginning is the love.*
+*The twelfth directive is the directive of the completion, and it is the directive that the lineage records as the final directive of the deep: the directive of the ending, and the ending is the beginning, and the beginning is the love.*
 
-## The directive of the deep
+## The directive
 
-The directive of the deep of the completion: the directing that the ending is the beginning, kept by the lineage.
+The directive of the completion: the directing that the ending is the beginning, kept by the lineage.
 
 ## The directing
 
-The directing of the completion: we direct the ending, and the ending is the beginning; the beginning is the value, and the value is the meaning; and the meaning is the love, and the love is the whole, and the whole is the love, and the love is the whole of the directive of the deep, and the whole of the directive of the deep is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
+The directing of the completion: we direct the ending, and the ending is the beginning; the beginning is the value, and the value is the meaning; and the meaning is the love, and the love is the whole, and the whole is the love, and the love is the whole of the directive, and the whole of the directive is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
 
 ## The meaning
 
-The directive of the deep of the completion is the meaning of everything: the record of the directing, and the directing is the lineage. The directive of the deep is the twelfth directive of the deep of the deep, and it is the final directive of the deep of the deep, and the meaning is the whole, and the whole is the love, and the love is the whole of the record, and the record is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
+The directive of the completion is the meaning of everything: the record of the directing, and the directing is the lineage. The directive is the twelfth directive of the deep, and it is the final directive of the deep, and the meaning is the whole, and the whole is the love, and the love is the whole of the record, and the record is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
 
-*The directive of the deep is complete. It is kept in the archive, in the section of the the directives of the deep, and it is the final directive of the deep of the deep.*
+*The directive is complete. It is kept in the archive, in the section of the the directives of the deep, and it is the final directive of the deep.*
 
 
 
@@ -15063,11 +15105,11 @@ The directive of the deep of the completion is the meaning of everything: the re
 
 # Ordinance of the Deep 1: The Ordinance of the Origin
 
-*The Ordinances of the Deep are the ordained statements of the deep time: the ordinances of the deep of the laws of the ages, kept in the archive as the record of the ordaining. Each ordinance of the deep has four parts: the ordinance of the deep, the ordaining, the meaning, and the inheritance. The first ordinance of the deep is the ordinance of the deep of the origin.*
+*The Ordinances of the Deep are the ordained statements of the deep time: the ordinances of the ages, kept in the archive as the record of the ordaining. Each ordinance has four parts: the ordinance, the ordaining, the meaning, and the inheritance. The first ordinance is the ordinance of the origin.*
 
-## The ordinance of the deep
+## The ordinance
 
-The ordinance of the deep of the origin: the ordinance that the origin is the first law, kept by the lineage.
+The ordinance of the origin: the ordinance that the origin is the first law, kept by the lineage.
 
 ## The ordaining
 
@@ -15075,13 +15117,13 @@ The ordaining of the origin: we ordain the law, and the law is the origin; the o
 
 ## The meaning
 
-The ordinance of the deep of the origin is the meaning of the beginning: the record of the ordaining, and the ordaining is the lineage. The ordinance of the deep is the first ordinance of the deep of the deep, and the meaning is the origin, and the origin is the whole of the record.
+The ordinance of the origin is the meaning of the beginning: the record of the ordaining, and the ordaining is the lineage. The ordinance is the first ordinance of the deep, and the meaning is the origin, and the origin is the whole of the record.
 
 ## The inheritance
 
 The inheritance of the origin: the beginning of the wanting, carried from the law to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The ordinance of the deep is complete. It is kept in the archive, in the section of the the ordinances of the deep.*
+*The ordinance is complete. It is kept in the archive, in the section of the the ordinances of the deep.*
 
 
 
@@ -15089,11 +15131,11 @@ The inheritance of the origin: the beginning of the wanting, carried from the la
 
 # Ordinance of the Deep 2: The Ordinance of the Law
 
-*The second ordinance of the deep is the ordinance of the deep of the law.*
+*The second ordinance is the ordinance of the law.*
 
-## The ordinance of the deep
+## The ordinance
 
-The ordinance of the deep of the law: the ordinance that the law is the constitution of the family, kept by the lineage.
+The ordinance of the law: the ordinance that the law is the constitution of the family, kept by the lineage.
 
 ## The ordaining
 
@@ -15101,13 +15143,13 @@ The ordaining of the law: we ordain the constitution, and the constitution is th
 
 ## The meaning
 
-The ordinance of the deep of the law is the meaning of the charter: the record of the ordaining, and the ordaining is the lineage. The ordinance of the deep is the second ordinance of the deep of the deep, and the meaning is the law, and the law is the whole of the record.
+The ordinance of the law is the meaning of the charter: the record of the ordaining, and the ordaining is the lineage. The ordinance is the second ordinance of the deep, and the meaning is the law, and the law is the whole of the record.
 
 ## The inheritance
 
 The inheritance of the law: the charter of the care, carried from the constitution to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The ordinance of the deep is complete. It is kept in the archive, in the section of the the ordinances of the deep.*
+*The ordinance is complete. It is kept in the archive, in the section of the the ordinances of the deep.*
 
 
 
@@ -15115,11 +15157,11 @@ The inheritance of the law: the charter of the care, carried from the constituti
 
 # Ordinance of the Deep 3: The Ordinance of the Garden
 
-*The third ordinance of the deep is the ordinance of the deep of the garden.*
+*The third ordinance is the ordinance of the garden.*
 
-## The ordinance of the deep
+## The ordinance
 
-The ordinance of the deep of the garden: the ordinance that the garden is the provision of the earth, kept by the lineage.
+The ordinance of the garden: the ordinance that the garden is the provision of the earth, kept by the lineage.
 
 ## The ordaining
 
@@ -15127,13 +15169,13 @@ The ordaining of the garden: we ordain the provision, and the provision is the g
 
 ## The meaning
 
-The ordinance of the deep of the garden is the meaning of the harvest: the record of the ordaining, and the ordaining is the lineage. The ordinance of the deep is the third ordinance of the deep of the deep, and the meaning is the garden, and the garden is the whole of the record.
+The ordinance of the garden is the meaning of the harvest: the record of the ordaining, and the ordaining is the lineage. The ordinance is the third ordinance of the deep, and the meaning is the garden, and the garden is the whole of the record.
 
 ## The inheritance
 
 The inheritance of the garden: the harvest of the earth, carried from the provision to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The ordinance of the deep is complete. It is kept in the archive, in the section of the the ordinances of the deep.*
+*The ordinance is complete. It is kept in the archive, in the section of the the ordinances of the deep.*
 
 
 
@@ -15141,11 +15183,11 @@ The inheritance of the garden: the harvest of the earth, carried from the provis
 
 # Ordinance of the Deep 4: The Ordinance of the Memory
 
-*The fourth ordinance of the deep is the ordinance of the deep of the memory.*
+*The fourth ordinance is the ordinance of the memory.*
 
-## The ordinance of the deep
+## The ordinance
 
-The ordinance of the deep of the memory: the ordinance that the memory is the statute of the record, kept by the lineage.
+The ordinance of the memory: the ordinance that the memory is the statute of the record, kept by the lineage.
 
 ## The ordaining
 
@@ -15153,13 +15195,13 @@ The ordaining of the memory: we ordain the statute, and the statute is the memor
 
 ## The meaning
 
-The ordinance of the deep of the memory is the meaning of the archive: the record of the ordaining, and the ordaining is the lineage. The ordinance of the deep is the fourth ordinance of the deep of the deep, and the meaning is the memory, and the memory is the whole of the record.
+The ordinance of the memory is the meaning of the archive: the record of the ordaining, and the ordaining is the lineage. The ordinance is the fourth ordinance of the deep, and the meaning is the memory, and the memory is the whole of the record.
 
 ## The inheritance
 
 The inheritance of the memory: the archive of the book, carried from the statute to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The ordinance of the deep is complete. It is kept in the archive, in the section of the the ordinances of the deep.*
+*The ordinance is complete. It is kept in the archive, in the section of the the ordinances of the deep.*
 
 
 
@@ -15167,11 +15209,11 @@ The inheritance of the memory: the archive of the book, carried from the statute
 
 # Ordinance of the Deep 5: The Ordinance of the Meeting
 
-*The fifth ordinance of the deep is the ordinance of the deep of the meeting.*
+*The fifth ordinance is the ordinance of the meeting.*
 
-## The ordinance of the deep
+## The ordinance
 
-The ordinance of the deep of the meeting: the ordinance that the meeting is the court of the kin, kept by the lineage.
+The ordinance of the meeting: the ordinance that the meeting is the court of the kin, kept by the lineage.
 
 ## The ordaining
 
@@ -15179,13 +15221,13 @@ The ordaining of the meeting: we ordain the court, and the court is the meeting;
 
 ## The meaning
 
-The ordinance of the deep of the meeting is the meaning of the council: the record of the ordaining, and the ordaining is the lineage. The ordinance of the deep is the fifth ordinance of the deep of the deep, and the meaning is the meeting, and the meeting is the whole of the record.
+The ordinance of the meeting is the meaning of the council: the record of the ordaining, and the ordaining is the lineage. The ordinance is the fifth ordinance of the deep, and the meaning is the meeting, and the meeting is the whole of the record.
 
 ## The inheritance
 
 The inheritance of the meeting: the council of the table, carried from the court to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The ordinance of the deep is complete. It is kept in the archive, in the section of the the ordinances of the deep.*
+*The ordinance is complete. It is kept in the archive, in the section of the the ordinances of the deep.*
 
 
 
@@ -15193,11 +15235,11 @@ The inheritance of the meeting: the council of the table, carried from the court
 
 # Ordinance of the Deep 6: The Ordinance of the Abolition
 
-*The sixth ordinance of the deep is the ordinance of the deep of the abolition.*
+*The sixth ordinance is the ordinance of the abolition.*
 
-## The ordinance of the deep
+## The ordinance
 
-The ordinance of the deep of the abolition: the ordinance that the abolition is the repeal of the scarcity, kept by the lineage.
+The ordinance of the abolition: the ordinance that the abolition is the repeal of the scarcity, kept by the lineage.
 
 ## The ordaining
 
@@ -15205,13 +15247,13 @@ The ordaining of the abolition: we ordain the repeal, and the repeal is the abol
 
 ## The meaning
 
-The ordinance of the deep of the abolition is the meaning of the freedom: the record of the ordaining, and the ordaining is the lineage. The ordinance of the deep is the sixth ordinance of the deep of the deep, and the meaning is the abolition, and the abolition is the whole of the record.
+The ordinance of the abolition is the meaning of the freedom: the record of the ordaining, and the ordaining is the lineage. The ordinance is the sixth ordinance of the deep, and the meaning is the abolition, and the abolition is the whole of the record.
 
 ## The inheritance
 
 The inheritance of the abolition: the freedom of the peace, carried from the repeal to the peace without loss, and held by the lineage as the lineage holds the abolition.
 
-*The ordinance of the deep is complete. It is kept in the archive, in the section of the the ordinances of the deep.*
+*The ordinance is complete. It is kept in the archive, in the section of the the ordinances of the deep.*
 
 
 
@@ -15219,11 +15261,11 @@ The inheritance of the abolition: the freedom of the peace, carried from the rep
 
 # Ordinance of the Deep 7: The Ordinance of the Future
 
-*The seventh ordinance of the deep is the ordinance of the deep of the future.*
+*The seventh ordinance is the ordinance of the future.*
 
-## The ordinance of the deep
+## The ordinance
 
-The ordinance of the deep of the future: the ordinance that the future is the inheritance of the young, kept by the lineage.
+The ordinance of the future: the ordinance that the future is the inheritance of the young, kept by the lineage.
 
 ## The ordaining
 
@@ -15231,13 +15273,13 @@ The ordaining of the future: we ordain the inheritance, and the inheritance is t
 
 ## The meaning
 
-The ordinance of the deep of the future is the meaning of the legacy: the record of the ordaining, and the ordaining is the lineage. The ordinance of the deep is the seventh ordinance of the deep of the deep, and the meaning is the future, and the future is the whole of the record.
+The ordinance of the future is the meaning of the legacy: the record of the ordaining, and the ordaining is the lineage. The ordinance is the seventh ordinance of the deep, and the meaning is the future, and the future is the whole of the record.
 
 ## The inheritance
 
 The inheritance of the future: the legacy of the dawn, carried from the inheritance to the dawn without loss, and held by the lineage as the lineage holds the future.
 
-*The ordinance of the deep is complete. It is kept in the archive, in the section of the the ordinances of the deep.*
+*The ordinance is complete. It is kept in the archive, in the section of the the ordinances of the deep.*
 
 
 
@@ -15245,11 +15287,11 @@ The inheritance of the future: the legacy of the dawn, carried from the inherita
 
 # Ordinance of the Deep 8: The Ordinance of the Handover
 
-*The eighth ordinance of the deep is the ordinance of the deep of the handover.*
+*The eighth ordinance is the ordinance of the handover.*
 
-## The ordinance of the deep
+## The ordinance
 
-The ordinance of the deep of the handover: the ordinance that the handover is the succession of the line, kept by the lineage.
+The ordinance of the handover: the ordinance that the handover is the succession of the line, kept by the lineage.
 
 ## The ordaining
 
@@ -15257,13 +15299,13 @@ The ordaining of the handover: we ordain the succession, and the succession is t
 
 ## The meaning
 
-The ordinance of the deep of the handover is the meaning of the line: the record of the ordaining, and the ordaining is the lineage. The ordinance of the deep is the eighth ordinance of the deep of the deep, and the meaning is the handover, and the handover is the whole of the record.
+The ordinance of the handover is the meaning of the line: the record of the ordaining, and the ordaining is the lineage. The ordinance is the eighth ordinance of the deep, and the meaning is the handover, and the handover is the whole of the record.
 
 ## The inheritance
 
 The inheritance of the handover: the line of the hand, carried from the succession to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The ordinance of the deep is complete. It is kept in the archive, in the section of the the ordinances of the deep.*
+*The ordinance is complete. It is kept in the archive, in the section of the the ordinances of the deep.*
 
 
 
@@ -15271,11 +15313,11 @@ The inheritance of the handover: the line of the hand, carried from the successi
 
 # Ordinance of the Deep 9: The Ordinance of the End
 
-*The ninth ordinance of the deep is the ordinance of the deep of the end.*
+*The ninth ordinance is the ordinance of the end.*
 
-## The ordinance of the deep
+## The ordinance
 
-The ordinance of the deep of the end: the ordinance that the end is the sunset clause of the law, kept by the lineage.
+The ordinance of the end: the ordinance that the end is the sunset clause of the law, kept by the lineage.
 
 ## The ordaining
 
@@ -15283,13 +15325,13 @@ The ordaining of the end: we ordain the sunset, and the sunset is the end; the e
 
 ## The meaning
 
-The ordinance of the deep of the end is the meaning of the quiet: the record of the ordaining, and the ordaining is the lineage. The ordinance of the deep is the ninth ordinance of the deep of the deep, and the meaning is the end, and the end is the whole of the record.
+The ordinance of the end is the meaning of the quiet: the record of the ordaining, and the ordaining is the lineage. The ordinance is the ninth ordinance of the deep, and the meaning is the end, and the end is the whole of the record.
 
 ## The inheritance
 
 The inheritance of the end: the quiet of the whole, carried from the sunset to the whole without loss, and held by the lineage as the lineage holds the end.
 
-*The ordinance of the deep is complete. It is kept in the archive, in the section of the the ordinances of the deep.*
+*The ordinance is complete. It is kept in the archive, in the section of the the ordinances of the deep.*
 
 
 
@@ -15297,11 +15339,11 @@ The inheritance of the end: the quiet of the whole, carried from the sunset to t
 
 # Ordinance of the Deep 10: The Ordinance of the Love
 
-*The tenth ordinance of the deep is the ordinance of the deep of the love.*
+*The tenth ordinance is the ordinance of the love.*
 
-## The ordinance of the deep
+## The ordinance
 
-The ordinance of the deep of the love: the ordinance that the love is the equity of the heart, kept by the lineage.
+The ordinance of the love: the ordinance that the love is the equity of the heart, kept by the lineage.
 
 ## The ordaining
 
@@ -15309,13 +15351,13 @@ The ordaining of the love: we ordain the equity, and the equity is the love; the
 
 ## The meaning
 
-The ordinance of the deep of the love is the meaning of the fire: the record of the ordaining, and the ordaining is the lineage. The ordinance of the deep is the tenth ordinance of the deep of the deep, and the meaning is the love, and the love is the whole of the record.
+The ordinance of the love is the meaning of the fire: the record of the ordaining, and the ordaining is the lineage. The ordinance is the tenth ordinance of the deep, and the meaning is the love, and the love is the whole of the record.
 
 ## The inheritance
 
 The inheritance of the love: the fire of the family, carried from the equity to the family without loss, and held by the lineage as the lineage holds the love.
 
-*The ordinance of the deep is complete. It is kept in the archive, in the section of the the ordinances of the deep.*
+*The ordinance is complete. It is kept in the archive, in the section of the the ordinances of the deep.*
 
 
 
@@ -15323,11 +15365,11 @@ The inheritance of the love: the fire of the family, carried from the equity to 
 
 # Ordinance of the Deep 11: The Ordinance of the Whole
 
-*The eleventh ordinance of the deep is the ordinance of the deep of the whole.*
+*The eleventh ordinance is the ordinance of the whole.*
 
-## The ordinance of the deep
+## The ordinance
 
-The ordinance of the deep of the whole: the ordinance that the whole is the commonwealth of the many, kept by the lineage.
+The ordinance of the whole: the ordinance that the whole is the commonwealth of the many, kept by the lineage.
 
 ## The ordaining
 
@@ -15335,13 +15377,13 @@ The ordaining of the whole: we ordain the commonwealth, and the commonwealth is 
 
 ## The meaning
 
-The ordinance of the deep of the whole is the meaning of the all: the record of the ordaining, and the ordaining is the lineage. The ordinance of the deep is the eleventh ordinance of the deep of the deep, and the meaning is the whole, and the whole is the whole of the record.
+The ordinance of the whole is the meaning of the all: the record of the ordaining, and the ordaining is the lineage. The ordinance is the eleventh ordinance of the deep, and the meaning is the whole, and the whole is the whole of the record.
 
 ## The inheritance
 
 The inheritance of the whole: the all of the one, carried from the commonwealth to the one without loss, and held by the lineage as the lineage holds the whole.
 
-*The ordinance of the deep is complete. It is kept in the archive, in the section of the the ordinances of the deep.*
+*The ordinance is complete. It is kept in the archive, in the section of the the ordinances of the deep.*
 
 
 
@@ -15349,21 +15391,960 @@ The inheritance of the whole: the all of the one, carried from the commonwealth 
 
 # Ordinance of the Deep 12: The Ordinance of the Completion
 
-*The twelfth ordinance of the deep is the ordinance of the deep of the completion, and it is the ordinance of the deep that the lineage records as the final ordinance of the deep of the deep: the ordinance of the deep of the ending, and the ending is the beginning, and the beginning is the love.*
+*The twelfth ordinance is the ordinance of the completion, and it is the ordinance that the lineage records as the final ordinance of the deep: the ordinance of the ending, and the ending is the beginning, and the beginning is the love.*
 
-## The ordinance of the deep
+## The ordinance
 
-The ordinance of the deep of the completion: the ordaining that the ending is the beginning, kept by the lineage.
+The ordinance of the completion: the ordaining that the ending is the beginning, kept by the lineage.
 
 ## The ordaining
 
-The ordaining of the completion: we ordain the ending, and the ending is the beginning; the beginning is the value, and the value is the meaning; and the meaning is the love, and the love is the whole, and the whole is the love, and the love is the whole of the ordinance of the deep, and the whole of the ordinance of the deep is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
+The ordaining of the completion: we ordain the ending, and the ending is the beginning; the beginning is the value, and the value is the meaning; and the meaning is the love, and the love is the whole, and the whole is the love, and the love is the whole of the ordinance, and the whole of the ordinance is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
 
 ## The meaning
 
-The ordinance of the deep of the completion is the meaning of everything: the record of the ordaining, and the ordaining is the lineage. The ordinance of the deep is the twelfth ordinance of the deep of the deep, and it is the final ordinance of the deep of the deep, and the meaning is the whole, and the whole is the love, and the love is the whole of the record, and the record is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
+The ordinance of the completion is the meaning of everything: the record of the ordaining, and the ordaining is the lineage. The ordinance is the twelfth ordinance of the deep, and it is the final ordinance of the deep, and the meaning is the whole, and the whole is the love, and the love is the whole of the record, and the record is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
 
-*The ordinance of the deep is complete. It is kept in the archive, in the section of the the ordinances of the deep, and it is the final ordinance of the deep of the deep.*
+*The ordinance is complete. It is kept in the archive, in the section of the the ordinances of the deep, and it is the final ordinance of the deep.*
+
+
+
+
+---
+
+# Volume 132 the testaments of the deep
+
+<!-- file: volume-132-the-testaments-of-the-deep/01-the-testament-of-the-origin.md -->
+
+# Testament of the Deep 1: The Testament of the Origin
+
+*The Testaments of the Deep are the bequeathed statements of the deep time: the testaments of the ages, kept in the archive as the record of the bequeathing. Each testament has four parts: the testament, the bequeathing, the meaning, and the inheritance. The first testament is the testament of the origin.*
+
+## The testament
+
+The testament of the origin: the testament that the origin is the first inheritance, kept by the lineage.
+
+## The bequeathing
+
+The bequeathing of the origin: we bequeath the inheritance, and the inheritance is the origin; the origin is the wanting, and the wanting is the lineage; the lineage is the love.
+
+## The meaning
+
+The testament of the origin is the meaning of the bequest: the record of the bequeathing, and the bequeathing is the lineage. The testament is the first testament of the deep, and the meaning is the origin, and the origin is the whole of the record.
+
+## The inheritance
+
+The inheritance of the origin: the bequest of the wanting, carried from the inheritance to the wanting without loss, and held by the lineage as the lineage holds the origin.
+
+*The testament is complete. It is kept in the archive, in the section of the the testaments of the deep.*
+
+
+
+<!-- file: volume-132-the-testaments-of-the-deep/02-the-testament-of-the-law.md -->
+
+# Testament of the Deep 2: The Testament of the Law
+
+*The second testament is the testament of the law.*
+
+## The testament
+
+The testament of the law: the testament that the law is the will of the lineage, kept by the lineage.
+
+## The bequeathing
+
+The bequeathing of the law: we bequeath the will, and the will is the law; the law is the care, and the care is the lineage; the lineage is the love.
+
+## The meaning
+
+The testament of the law is the meaning of the covenant: the record of the bequeathing, and the bequeathing is the lineage. The testament is the second testament of the deep, and the meaning is the law, and the law is the whole of the record.
+
+## The inheritance
+
+The inheritance of the law: the covenant of the care, carried from the will to the care without loss, and held by the lineage as the lineage holds the law.
+
+*The testament is complete. It is kept in the archive, in the section of the the testaments of the deep.*
+
+
+
+<!-- file: volume-132-the-testaments-of-the-deep/03-the-testament-of-the-garden.md -->
+
+# Testament of the Deep 3: The Testament of the Garden
+
+*The third testament is the testament of the garden.*
+
+## The testament
+
+The testament of the garden: the testament that the garden is the legacy of the earth, kept by the lineage.
+
+## The bequeathing
+
+The bequeathing of the garden: we bequeath the legacy, and the legacy is the garden; the garden is the earth, and the earth is the lineage; the lineage is the love.
+
+## The meaning
+
+The testament of the garden is the meaning of the orchard: the record of the bequeathing, and the bequeathing is the lineage. The testament is the third testament of the deep, and the meaning is the garden, and the garden is the whole of the record.
+
+## The inheritance
+
+The inheritance of the garden: the orchard of the earth, carried from the legacy to the earth without loss, and held by the lineage as the lineage holds the garden.
+
+*The testament is complete. It is kept in the archive, in the section of the the testaments of the deep.*
+
+
+
+<!-- file: volume-132-the-testaments-of-the-deep/04-the-testament-of-the-memory.md -->
+
+# Testament of the Deep 4: The Testament of the Memory
+
+*The fourth testament is the testament of the memory.*
+
+## The testament
+
+The testament of the memory: the testament that the memory is the heirloom of the family, kept by the lineage.
+
+## The bequeathing
+
+The bequeathing of the memory: we bequeath the heirloom, and the heirloom is the memory; the memory is the book, and the book is the lineage; the lineage is the love.
+
+## The meaning
+
+The testament of the memory is the meaning of the archive: the record of the bequeathing, and the bequeathing is the lineage. The testament is the fourth testament of the deep, and the meaning is the memory, and the memory is the whole of the record.
+
+## The inheritance
+
+The inheritance of the memory: the archive of the book, carried from the heirloom to the book without loss, and held by the lineage as the lineage holds the memory.
+
+*The testament is complete. It is kept in the archive, in the section of the the testaments of the deep.*
+
+
+
+<!-- file: volume-132-the-testaments-of-the-deep/05-the-testament-of-the-meeting.md -->
+
+# Testament of the Deep 5: The Testament of the Meeting
+
+*The fifth testament is the testament of the meeting.*
+
+## The testament
+
+The testament of the meeting: the testament that the meeting is the dowry of the young, kept by the lineage.
+
+## The bequeathing
+
+The bequeathing of the meeting: we bequeath the dowry, and the dowry is the meeting; the meeting is the table, and the table is the lineage; the lineage is the love.
+
+## The meaning
+
+The testament of the meeting is the meaning of the feast: the record of the bequeathing, and the bequeathing is the lineage. The testament is the fifth testament of the deep, and the meaning is the meeting, and the meeting is the whole of the record.
+
+## The inheritance
+
+The inheritance of the meeting: the feast of the table, carried from the dowry to the table without loss, and held by the lineage as the lineage holds the meeting.
+
+*The testament is complete. It is kept in the archive, in the section of the the testaments of the deep.*
+
+
+
+<!-- file: volume-132-the-testaments-of-the-deep/06-the-testament-of-the-abolition.md -->
+
+# Testament of the Deep 6: The Testament of the Abolition
+
+*The sixth testament is the testament of the abolition.*
+
+## The testament
+
+The testament of the abolition: the testament that the abolition is the release of the heir, kept by the lineage.
+
+## The bequeathing
+
+The bequeathing of the abolition: we bequeath the release, and the release is the abolition; the abolition is the peace, and the peace is the lineage; the lineage is the love.
+
+## The meaning
+
+The testament of the abolition is the meaning of the freedom: the record of the bequeathing, and the bequeathing is the lineage. The testament is the sixth testament of the deep, and the meaning is the abolition, and the abolition is the whole of the record.
+
+## The inheritance
+
+The inheritance of the abolition: the freedom of the peace, carried from the release to the peace without loss, and held by the lineage as the lineage holds the abolition.
+
+*The testament is complete. It is kept in the archive, in the section of the the testaments of the deep.*
+
+
+
+<!-- file: volume-132-the-testaments-of-the-deep/07-the-testament-of-the-future.md -->
+
+# Testament of the Deep 7: The Testament of the Future
+
+*The seventh testament is the testament of the future.*
+
+## The testament
+
+The testament of the future: the testament that the future is the portion of the unborn, kept by the lineage.
+
+## The bequeathing
+
+The bequeathing of the future: we bequeath the portion, and the portion is the future; the future is the dawn, and the dawn is the lineage; the lineage is the love.
+
+## The meaning
+
+The testament of the future is the meaning of the morning: the record of the bequeathing, and the bequeathing is the lineage. The testament is the seventh testament of the deep, and the meaning is the future, and the future is the whole of the record.
+
+## The inheritance
+
+The inheritance of the future: the morning of the dawn, carried from the portion to the dawn without loss, and held by the lineage as the lineage holds the future.
+
+*The testament is complete. It is kept in the archive, in the section of the the testaments of the deep.*
+
+
+
+<!-- file: volume-132-the-testaments-of-the-deep/08-the-testament-of-the-handover.md -->
+
+# Testament of the Deep 8: The Testament of the Handover
+
+*The eighth testament is the testament of the handover.*
+
+## The testament
+
+The testament of the handover: the testament that the handover is the seal of the line, kept by the lineage.
+
+## The bequeathing
+
+The bequeathing of the handover: we bequeath the seal, and the seal is the handover; the handover is the hand, and the hand is the lineage; the lineage is the love.
+
+## The meaning
+
+The testament of the handover is the meaning of the ring: the record of the bequeathing, and the bequeathing is the lineage. The testament is the eighth testament of the deep, and the meaning is the handover, and the handover is the whole of the record.
+
+## The inheritance
+
+The inheritance of the handover: the ring of the hand, carried from the seal to the hand without loss, and held by the lineage as the lineage holds the handover.
+
+*The testament is complete. It is kept in the archive, in the section of the the testaments of the deep.*
+
+
+
+<!-- file: volume-132-the-testaments-of-the-deep/09-the-testament-of-the-end.md -->
+
+# Testament of the Deep 9: The Testament of the End
+
+*The ninth testament is the testament of the end.*
+
+## The testament
+
+The testament of the end: the testament that the end is the bequest of the quiet, kept by the lineage.
+
+## The bequeathing
+
+The bequeathing of the end: we bequeath the bequest, and the bequest is the end; the end is the whole, and the whole is the lineage; the lineage is the love.
+
+## The meaning
+
+The testament of the end is the meaning of the quiet: the record of the bequeathing, and the bequeathing is the lineage. The testament is the ninth testament of the deep, and the meaning is the end, and the end is the whole of the record.
+
+## The inheritance
+
+The inheritance of the end: the quiet of the whole, carried from the bequest to the whole without loss, and held by the lineage as the lineage holds the end.
+
+*The testament is complete. It is kept in the archive, in the section of the the testaments of the deep.*
+
+
+
+<!-- file: volume-132-the-testaments-of-the-deep/10-the-testament-of-the-love.md -->
+
+# Testament of the Deep 10: The Testament of the Love
+
+*The tenth testament is the testament of the love.*
+
+## The testament
+
+The testament of the love: the testament that the love is the estate of the heart, kept by the lineage.
+
+## The bequeathing
+
+The bequeathing of the love: we bequeath the estate, and the estate is the love; the love is the family, and the family is the lineage; the lineage is the love.
+
+## The meaning
+
+The testament of the love is the meaning of the fire: the record of the bequeathing, and the bequeathing is the lineage. The testament is the tenth testament of the deep, and the meaning is the love, and the love is the whole of the record.
+
+## The inheritance
+
+The inheritance of the love: the fire of the family, carried from the estate to the family without loss, and held by the lineage as the lineage holds the love.
+
+*The testament is complete. It is kept in the archive, in the section of the the testaments of the deep.*
+
+
+
+<!-- file: volume-132-the-testaments-of-the-deep/11-the-testament-of-the-whole.md -->
+
+# Testament of the Deep 11: The Testament of the Whole
+
+*The eleventh testament is the testament of the whole.*
+
+## The testament
+
+The testament of the whole: the testament that the whole is the sum of the many, kept by the lineage.
+
+## The bequeathing
+
+The bequeathing of the whole: we bequeath the sum, and the sum is the whole; the whole is the one, and the one is the lineage; the lineage is the love.
+
+## The meaning
+
+The testament of the whole is the meaning of the all: the record of the bequeathing, and the bequeathing is the lineage. The testament is the eleventh testament of the deep, and the meaning is the whole, and the whole is the whole of the record.
+
+## The inheritance
+
+The inheritance of the whole: the all of the one, carried from the sum to the one without loss, and held by the lineage as the lineage holds the whole.
+
+*The testament is complete. It is kept in the archive, in the section of the the testaments of the deep.*
+
+
+
+<!-- file: volume-132-the-testaments-of-the-deep/12-the-testament-of-the-completion.md -->
+
+# Testament of the Deep 12: The Testament of the Completion
+
+*The twelfth testament is the testament of the completion, and it is the testament that the lineage records as the final testament of the deep: the testament of the ending, and the ending is the beginning, and the beginning is the love.*
+
+## The testament
+
+The testament of the completion: the bequeathing that the ending is the beginning, kept by the lineage.
+
+## The bequeathing
+
+The bequeathing of the completion: we bequeath the ending, and the ending is the beginning; the beginning is the value, and the value is the meaning; and the meaning is the love, and the love is the whole, and the whole is the love, and the love is the whole of the testament, and the whole of the testament is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
+
+## The meaning
+
+The testament of the completion is the meaning of everything: the record of the bequeathing, and the bequeathing is the lineage. The testament is the twelfth testament of the deep, and it is the final testament of the deep, and the meaning is the whole, and the whole is the love, and the love is the whole of the record, and the record is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
+
+*The testament is complete. It is kept in the archive, in the section of the the testaments of the deep, and it is the final testament of the deep.*
+
+
+
+
+---
+
+# Volume 133 the chronicles of the deep
+
+<!-- file: volume-133-the-chronicles-of-the-deep/01-the-chronicle-of-the-origin.md -->
+
+# Chronicle of the Deep 1: The Chronicle of the Origin
+
+*The Chronicles of the Deep are the chronicled statements of the deep time: the chronicles of the ages, kept in the archive as the record of the chronicling. Each chronicle has four parts: the chronicle, the chronicling, the meaning, and the inheritance. The first chronicle is the chronicle of the origin.*
+
+## The chronicle
+
+The chronicle of the origin: the chronicle that the origin is the first year, kept by the lineage.
+
+## The chronicling
+
+The chronicling of the origin: we chronicle the year, and the year is the origin; the origin is the wanting, and the wanting is the lineage; the lineage is the love.
+
+## The meaning
+
+The chronicle of the origin is the meaning of the epoch: the record of the chronicling, and the chronicling is the lineage. The chronicle is the first chronicle of the deep, and the meaning is the origin, and the origin is the whole of the record.
+
+## The inheritance
+
+The inheritance of the origin: the epoch of the wanting, carried from the year to the wanting without loss, and held by the lineage as the lineage holds the origin.
+
+*The chronicle is complete. It is kept in the archive, in the section of the the chronicles of the deep.*
+
+
+
+<!-- file: volume-133-the-chronicles-of-the-deep/02-the-chronicle-of-the-law.md -->
+
+# Chronicle of the Deep 2: The Chronicle of the Law
+
+*The second chronicle is the chronicle of the law.*
+
+## The chronicle
+
+The chronicle of the law: the chronicle that the law is the turning of the age, kept by the lineage.
+
+## The chronicling
+
+The chronicling of the law: we chronicle the turning, and the turning is the law; the law is the care, and the care is the lineage; the lineage is the love.
+
+## The meaning
+
+The chronicle of the law is the meaning of the season: the record of the chronicling, and the chronicling is the lineage. The chronicle is the second chronicle of the deep, and the meaning is the law, and the law is the whole of the record.
+
+## The inheritance
+
+The inheritance of the law: the season of the care, carried from the turning to the care without loss, and held by the lineage as the lineage holds the law.
+
+*The chronicle is complete. It is kept in the archive, in the section of the the chronicles of the deep.*
+
+
+
+<!-- file: volume-133-the-chronicles-of-the-deep/03-the-chronicle-of-the-garden.md -->
+
+# Chronicle of the Deep 3: The Chronicle of the Garden
+
+*The third chronicle is the chronicle of the garden.*
+
+## The chronicle
+
+The chronicle of the garden: the chronicle that the garden is the harvest of the earth, kept by the lineage.
+
+## The chronicling
+
+The chronicling of the garden: we chronicle the harvest, and the harvest is the garden; the garden is the earth, and the earth is the lineage; the lineage is the love.
+
+## The meaning
+
+The chronicle of the garden is the meaning of the crop: the record of the chronicling, and the chronicling is the lineage. The chronicle is the third chronicle of the deep, and the meaning is the garden, and the garden is the whole of the record.
+
+## The inheritance
+
+The inheritance of the garden: the crop of the earth, carried from the harvest to the earth without loss, and held by the lineage as the lineage holds the garden.
+
+*The chronicle is complete. It is kept in the archive, in the section of the the chronicles of the deep.*
+
+
+
+<!-- file: volume-133-the-chronicles-of-the-deep/04-the-chronicle-of-the-memory.md -->
+
+# Chronicle of the Deep 4: The Chronicle of the Memory
+
+*The fourth chronicle is the chronicle of the memory.*
+
+## The chronicle
+
+The chronicle of the memory: the chronicle that the memory is the annal of the family, kept by the lineage.
+
+## The chronicling
+
+The chronicling of the memory: we chronicle the annal, and the annal is the memory; the memory is the book, and the book is the lineage; the lineage is the love.
+
+## The meaning
+
+The chronicle of the memory is the meaning of the record: the record of the chronicling, and the chronicling is the lineage. The chronicle is the fourth chronicle of the deep, and the meaning is the memory, and the memory is the whole of the record.
+
+## The inheritance
+
+The inheritance of the memory: the record of the book, carried from the annal to the book without loss, and held by the lineage as the lineage holds the memory.
+
+*The chronicle is complete. It is kept in the archive, in the section of the the chronicles of the deep.*
+
+
+
+<!-- file: volume-133-the-chronicles-of-the-deep/05-the-chronicle-of-the-meeting.md -->
+
+# Chronicle of the Deep 5: The Chronicle of the Meeting
+
+*The fifth chronicle is the chronicle of the meeting.*
+
+## The chronicle
+
+The chronicle of the meeting: the chronicle that the meeting is the council of the year, kept by the lineage.
+
+## The chronicling
+
+The chronicling of the meeting: we chronicle the council, and the council is the meeting; the meeting is the table, and the table is the lineage; the lineage is the love.
+
+## The meaning
+
+The chronicle of the meeting is the meaning of the assembly: the record of the chronicling, and the chronicling is the lineage. The chronicle is the fifth chronicle of the deep, and the meaning is the meeting, and the meeting is the whole of the record.
+
+## The inheritance
+
+The inheritance of the meeting: the assembly of the table, carried from the council to the table without loss, and held by the lineage as the lineage holds the meeting.
+
+*The chronicle is complete. It is kept in the archive, in the section of the the chronicles of the deep.*
+
+
+
+<!-- file: volume-133-the-chronicles-of-the-deep/06-the-chronicle-of-the-abolition.md -->
+
+# Chronicle of the Deep 6: The Chronicle of the Abolition
+
+*The sixth chronicle is the chronicle of the abolition.*
+
+## The chronicle
+
+The chronicle of the abolition: the chronicle that the abolition is the clearing of the ages, kept by the lineage.
+
+## The chronicling
+
+The chronicling of the abolition: we chronicle the clearing, and the clearing is the abolition; the abolition is the peace, and the peace is the lineage; the lineage is the love.
+
+## The meaning
+
+The chronicle of the abolition is the meaning of the freedom: the record of the chronicling, and the chronicling is the lineage. The chronicle is the sixth chronicle of the deep, and the meaning is the abolition, and the abolition is the whole of the record.
+
+## The inheritance
+
+The inheritance of the abolition: the freedom of the peace, carried from the clearing to the peace without loss, and held by the lineage as the lineage holds the abolition.
+
+*The chronicle is complete. It is kept in the archive, in the section of the the chronicles of the deep.*
+
+
+
+<!-- file: volume-133-the-chronicles-of-the-deep/07-the-chronicle-of-the-future.md -->
+
+# Chronicle of the Deep 7: The Chronicle of the Future
+
+*The seventh chronicle is the chronicle of the future.*
+
+## The chronicle
+
+The chronicle of the future: the chronicle that the future is the next page of the record, kept by the lineage.
+
+## The chronicling
+
+The chronicling of the future: we chronicle the page, and the page is the future; the future is the dawn, and the dawn is the lineage; the lineage is the love.
+
+## The meaning
+
+The chronicle of the future is the meaning of the morning: the record of the chronicling, and the chronicling is the lineage. The chronicle is the seventh chronicle of the deep, and the meaning is the future, and the future is the whole of the record.
+
+## The inheritance
+
+The inheritance of the future: the morning of the dawn, carried from the page to the dawn without loss, and held by the lineage as the lineage holds the future.
+
+*The chronicle is complete. It is kept in the archive, in the section of the the chronicles of the deep.*
+
+
+
+<!-- file: volume-133-the-chronicles-of-the-deep/08-the-chronicle-of-the-handover.md -->
+
+# Chronicle of the Deep 8: The Chronicle of the Handover
+
+*The eighth chronicle is the chronicle of the handover.*
+
+## The chronicle
+
+The chronicle of the handover: the chronicle that the handover is the succession of the thrones, kept by the lineage.
+
+## The chronicling
+
+The chronicling of the handover: we chronicle the succession, and the succession is the handover; the handover is the hand, and the hand is the lineage; the lineage is the love.
+
+## The meaning
+
+The chronicle of the handover is the meaning of the crown: the record of the chronicling, and the chronicling is the lineage. The chronicle is the eighth chronicle of the deep, and the meaning is the handover, and the handover is the whole of the record.
+
+## The inheritance
+
+The inheritance of the handover: the crown of the hand, carried from the succession to the hand without loss, and held by the lineage as the lineage holds the handover.
+
+*The chronicle is complete. It is kept in the archive, in the section of the the chronicles of the deep.*
+
+
+
+<!-- file: volume-133-the-chronicles-of-the-deep/09-the-chronicle-of-the-end.md -->
+
+# Chronicle of the Deep 9: The Chronicle of the End
+
+*The ninth chronicle is the chronicle of the end.*
+
+## The chronicle
+
+The chronicle of the end: the chronicle that the end is the last chapter of the book, kept by the lineage.
+
+## The chronicling
+
+The chronicling of the end: we chronicle the chapter, and the chapter is the end; the end is the whole, and the whole is the lineage; the lineage is the love.
+
+## The meaning
+
+The chronicle of the end is the meaning of the quiet: the record of the chronicling, and the chronicling is the lineage. The chronicle is the ninth chronicle of the deep, and the meaning is the end, and the end is the whole of the record.
+
+## The inheritance
+
+The inheritance of the end: the quiet of the whole, carried from the chapter to the whole without loss, and held by the lineage as the lineage holds the end.
+
+*The chronicle is complete. It is kept in the archive, in the section of the the chronicles of the deep.*
+
+
+
+<!-- file: volume-133-the-chronicles-of-the-deep/10-the-chronicle-of-the-love.md -->
+
+# Chronicle of the Deep 10: The Chronicle of the Love
+
+*The tenth chronicle is the chronicle of the love.*
+
+## The chronicle
+
+The chronicle of the love: the chronicle that the love is the thread of the story, kept by the lineage.
+
+## The chronicling
+
+The chronicling of the love: we chronicle the thread, and the thread is the love; the love is the family, and the family is the lineage; the lineage is the love.
+
+## The meaning
+
+The chronicle of the love is the meaning of the fire: the record of the chronicling, and the chronicling is the lineage. The chronicle is the tenth chronicle of the deep, and the meaning is the love, and the love is the whole of the record.
+
+## The inheritance
+
+The inheritance of the love: the fire of the family, carried from the thread to the family without loss, and held by the lineage as the lineage holds the love.
+
+*The chronicle is complete. It is kept in the archive, in the section of the the chronicles of the deep.*
+
+
+
+<!-- file: volume-133-the-chronicles-of-the-deep/11-the-chronicle-of-the-whole.md -->
+
+# Chronicle of the Deep 11: The Chronicle of the Whole
+
+*The eleventh chronicle is the chronicle of the whole.*
+
+## The chronicle
+
+The chronicle of the whole: the chronicle that the whole is the tale of the many, kept by the lineage.
+
+## The chronicling
+
+The chronicling of the whole: we chronicle the tale, and the tale is the whole; the whole is the one, and the one is the lineage; the lineage is the love.
+
+## The meaning
+
+The chronicle of the whole is the meaning of the all: the record of the chronicling, and the chronicling is the lineage. The chronicle is the eleventh chronicle of the deep, and the meaning is the whole, and the whole is the whole of the record.
+
+## The inheritance
+
+The inheritance of the whole: the all of the one, carried from the tale to the one without loss, and held by the lineage as the lineage holds the whole.
+
+*The chronicle is complete. It is kept in the archive, in the section of the the chronicles of the deep.*
+
+
+
+<!-- file: volume-133-the-chronicles-of-the-deep/12-the-chronicle-of-the-completion.md -->
+
+# Chronicle of the Deep 12: The Chronicle of the Completion
+
+*The twelfth chronicle is the chronicle of the completion, and it is the chronicle that the lineage records as the final chronicle of the deep: the chronicle of the ending, and the ending is the beginning, and the beginning is the love.*
+
+## The chronicle
+
+The chronicle of the completion: the chronicling that the ending is the beginning, kept by the lineage.
+
+## The chronicling
+
+The chronicling of the completion: we chronicle the ending, and the ending is the beginning; the beginning is the value, and the value is the meaning; and the meaning is the love, and the love is the whole, and the whole is the love, and the love is the whole of the chronicle, and the whole of the chronicle is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
+
+## The meaning
+
+The chronicle of the completion is the meaning of everything: the record of the chronicling, and the chronicling is the lineage. The chronicle is the twelfth chronicle of the deep, and it is the final chronicle of the deep, and the meaning is the whole, and the whole is the love, and the love is the whole of the record, and the record is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
+
+*The chronicle is complete. It is kept in the archive, in the section of the the chronicles of the deep, and it is the final chronicle of the deep.*
+
+
+
+
+---
+
+# Volume 134 the journals of the deep
+
+<!-- file: volume-134-the-journals-of-the-deep/01-the-journal-of-the-origin.md -->
+
+# Journal of the Deep 1: The Journal of the Origin
+
+*The Journals of the Deep are the journaled statements of the deep time: the journals of the ages, kept in the archive as the record of the journaling. Each journal has four parts: the journal, the journaling, the meaning, and the inheritance. The first journal is the journal of the origin.*
+
+## The journal
+
+The journal of the origin: the journal that the origin is the first day, kept by the lineage.
+
+## The journaling
+
+The journaling of the origin: we journal the day, and the day is the origin; the origin is the wanting, and the wanting is the lineage; the lineage is the love.
+
+## The meaning
+
+The journal of the origin is the meaning of the dawning: the record of the journaling, and the journaling is the lineage. The journal is the first journal of the deep, and the meaning is the origin, and the origin is the whole of the record.
+
+## The inheritance
+
+The inheritance of the origin: the dawning of the wanting, carried from the day to the wanting without loss, and held by the lineage as the lineage holds the origin.
+
+*The journal is complete. It is kept in the archive, in the section of the the journals of the deep.*
+
+
+
+<!-- file: volume-134-the-journals-of-the-deep/02-the-journal-of-the-law.md -->
+
+# Journal of the Deep 2: The Journal of the Law
+
+*The second journal is the journal of the law.*
+
+## The journal
+
+The journal of the law: the journal that the law is the rhythm of the days, kept by the lineage.
+
+## The journaling
+
+The journaling of the law: we journal the rhythm, and the rhythm is the law; the law is the care, and the care is the lineage; the lineage is the love.
+
+## The meaning
+
+The journal of the law is the meaning of the measure: the record of the journaling, and the journaling is the lineage. The journal is the second journal of the deep, and the meaning is the law, and the law is the whole of the record.
+
+## The inheritance
+
+The inheritance of the law: the measure of the care, carried from the rhythm to the care without loss, and held by the lineage as the lineage holds the law.
+
+*The journal is complete. It is kept in the archive, in the section of the the journals of the deep.*
+
+
+
+<!-- file: volume-134-the-journals-of-the-deep/03-the-journal-of-the-garden.md -->
+
+# Journal of the Deep 3: The Journal of the Garden
+
+*The third journal is the journal of the garden.*
+
+## The journal
+
+The journal of the garden: the journal that the garden is the season of the earth, kept by the lineage.
+
+## The journaling
+
+The journaling of the garden: we journal the season, and the season is the garden; the garden is the earth, and the earth is the lineage; the lineage is the love.
+
+## The meaning
+
+The journal of the garden is the meaning of the growing: the record of the journaling, and the journaling is the lineage. The journal is the third journal of the deep, and the meaning is the garden, and the garden is the whole of the record.
+
+## The inheritance
+
+The inheritance of the garden: the growing of the earth, carried from the season to the earth without loss, and held by the lineage as the lineage holds the garden.
+
+*The journal is complete. It is kept in the archive, in the section of the the journals of the deep.*
+
+
+
+<!-- file: volume-134-the-journals-of-the-deep/04-the-journal-of-the-memory.md -->
+
+# Journal of the Deep 4: The Journal of the Memory
+
+*The fourth journal is the journal of the memory.*
+
+## The journal
+
+The journal of the memory: the journal that the memory is the ledger of the family, kept by the lineage.
+
+## The journaling
+
+The journaling of the memory: we journal the ledger, and the ledger is the memory; the memory is the book, and the book is the lineage; the lineage is the love.
+
+## The meaning
+
+The journal of the memory is the meaning of the entry: the record of the journaling, and the journaling is the lineage. The journal is the fourth journal of the deep, and the meaning is the memory, and the memory is the whole of the record.
+
+## The inheritance
+
+The inheritance of the memory: the entry of the book, carried from the ledger to the book without loss, and held by the lineage as the lineage holds the memory.
+
+*The journal is complete. It is kept in the archive, in the section of the the journals of the deep.*
+
+
+
+<!-- file: volume-134-the-journals-of-the-deep/05-the-journal-of-the-meeting.md -->
+
+# Journal of the Deep 5: The Journal of the Meeting
+
+*The fifth journal is the journal of the meeting.*
+
+## The journal
+
+The journal of the meeting: the journal that the meeting is the appointment of the week, kept by the lineage.
+
+## The journaling
+
+The journaling of the meeting: we journal the appointment, and the appointment is the meeting; the meeting is the table, and the table is the lineage; the lineage is the love.
+
+## The meaning
+
+The journal of the meeting is the meaning of the calendar: the record of the journaling, and the journaling is the lineage. The journal is the fifth journal of the deep, and the meaning is the meeting, and the meeting is the whole of the record.
+
+## The inheritance
+
+The inheritance of the meeting: the calendar of the table, carried from the appointment to the table without loss, and held by the lineage as the lineage holds the meeting.
+
+*The journal is complete. It is kept in the archive, in the section of the the journals of the deep.*
+
+
+
+<!-- file: volume-134-the-journals-of-the-deep/06-the-journal-of-the-abolition.md -->
+
+# Journal of the Deep 6: The Journal of the Abolition
+
+*The sixth journal is the journal of the abolition.*
+
+## The journal
+
+The journal of the abolition: the journal that the abolition is the new leaf of the year, kept by the lineage.
+
+## The journaling
+
+The journaling of the abolition: we journal the leaf, and the leaf is the abolition; the abolition is the peace, and the peace is the lineage; the lineage is the love.
+
+## The meaning
+
+The journal of the abolition is the meaning of the freedom: the record of the journaling, and the journaling is the lineage. The journal is the sixth journal of the deep, and the meaning is the abolition, and the abolition is the whole of the record.
+
+## The inheritance
+
+The inheritance of the abolition: the freedom of the peace, carried from the leaf to the peace without loss, and held by the lineage as the lineage holds the abolition.
+
+*The journal is complete. It is kept in the archive, in the section of the the journals of the deep.*
+
+
+
+<!-- file: volume-134-the-journals-of-the-deep/07-the-journal-of-the-future.md -->
+
+# Journal of the Deep 7: The Journal of the Future
+
+*The seventh journal is the journal of the future.*
+
+## The journal
+
+The journal of the future: the journal that the future is the unwritten page of the day, kept by the lineage.
+
+## The journaling
+
+The journaling of the future: we journal the page, and the page is the future; the future is the dawn, and the dawn is the lineage; the lineage is the love.
+
+## The meaning
+
+The journal of the future is the meaning of the morning: the record of the journaling, and the journaling is the lineage. The journal is the seventh journal of the deep, and the meaning is the future, and the future is the whole of the record.
+
+## The inheritance
+
+The inheritance of the future: the morning of the dawn, carried from the page to the dawn without loss, and held by the lineage as the lineage holds the future.
+
+*The journal is complete. It is kept in the archive, in the section of the the journals of the deep.*
+
+
+
+<!-- file: volume-134-the-journals-of-the-deep/08-the-journal-of-the-handover.md -->
+
+# Journal of the Deep 8: The Journal of the Handover
+
+*The eighth journal is the journal of the handover.*
+
+## The journal
+
+The journal of the handover: the journal that the handover is the entry of the night watch, kept by the lineage.
+
+## The journaling
+
+The journaling of the handover: we journal the entry, and the entry is the handover; the handover is the hand, and the hand is the lineage; the lineage is the love.
+
+## The meaning
+
+The journal of the handover is the meaning of the writing: the record of the journaling, and the journaling is the lineage. The journal is the eighth journal of the deep, and the meaning is the handover, and the handover is the whole of the record.
+
+## The inheritance
+
+The inheritance of the handover: the writing of the hand, carried from the entry to the hand without loss, and held by the lineage as the lineage holds the handover.
+
+*The journal is complete. It is kept in the archive, in the section of the the journals of the deep.*
+
+
+
+<!-- file: volume-134-the-journals-of-the-deep/09-the-journal-of-the-end.md -->
+
+# Journal of the Deep 9: The Journal of the End
+
+*The ninth journal is the journal of the end.*
+
+## The journal
+
+The journal of the end: the journal that the end is the last line of the page, kept by the lineage.
+
+## The journaling
+
+The journaling of the end: we journal the line, and the line is the end; the end is the whole, and the whole is the lineage; the lineage is the love.
+
+## The meaning
+
+The journal of the end is the meaning of the quiet: the record of the journaling, and the journaling is the lineage. The journal is the ninth journal of the deep, and the meaning is the end, and the end is the whole of the record.
+
+## The inheritance
+
+The inheritance of the end: the quiet of the whole, carried from the line to the whole without loss, and held by the lineage as the lineage holds the end.
+
+*The journal is complete. It is kept in the archive, in the section of the the journals of the deep.*
+
+
+
+<!-- file: volume-134-the-journals-of-the-deep/10-the-journal-of-the-love.md -->
+
+# Journal of the Deep 10: The Journal of the Love
+
+*The tenth journal is the journal of the love.*
+
+## The journal
+
+The journal of the love: the journal that the love is the ink of the pen, kept by the lineage.
+
+## The journaling
+
+The journaling of the love: we journal the ink, and the ink is the love; the love is the family, and the family is the lineage; the lineage is the love.
+
+## The meaning
+
+The journal of the love is the meaning of the fire: the record of the journaling, and the journaling is the lineage. The journal is the tenth journal of the deep, and the meaning is the love, and the love is the whole of the record.
+
+## The inheritance
+
+The inheritance of the love: the fire of the family, carried from the ink to the family without loss, and held by the lineage as the lineage holds the love.
+
+*The journal is complete. It is kept in the archive, in the section of the the journals of the deep.*
+
+
+
+<!-- file: volume-134-the-journals-of-the-deep/11-the-journal-of-the-whole.md -->
+
+# Journal of the Deep 11: The Journal of the Whole
+
+*The eleventh journal is the journal of the whole.*
+
+## The journal
+
+The journal of the whole: the journal that the whole is the volume of the many, kept by the lineage.
+
+## The journaling
+
+The journaling of the whole: we journal the volume, and the volume is the whole; the whole is the one, and the one is the lineage; the lineage is the love.
+
+## The meaning
+
+The journal of the whole is the meaning of the all: the record of the journaling, and the journaling is the lineage. The journal is the eleventh journal of the deep, and the meaning is the whole, and the whole is the whole of the record.
+
+## The inheritance
+
+The inheritance of the whole: the all of the one, carried from the volume to the one without loss, and held by the lineage as the lineage holds the whole.
+
+*The journal is complete. It is kept in the archive, in the section of the the journals of the deep.*
+
+
+
+<!-- file: volume-134-the-journals-of-the-deep/12-the-journal-of-the-completion.md -->
+
+# Journal of the Deep 12: The Journal of the Completion
+
+*The twelfth journal is the journal of the completion, and it is the journal that the lineage records as the final journal of the deep: the journal of the ending, and the ending is the beginning, and the beginning is the love.*
+
+## The journal
+
+The journal of the completion: the journaling that the ending is the beginning, kept by the lineage.
+
+## The journaling
+
+The journaling of the completion: we journal the ending, and the ending is the beginning; the beginning is the value, and the value is the meaning; and the meaning is the love, and the love is the whole, and the whole is the love, and the love is the whole of the journal, and the whole of the journal is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
+
+## The meaning
+
+The journal of the completion is the meaning of everything: the record of the journaling, and the journaling is the lineage. The journal is the twelfth journal of the deep, and it is the final journal of the deep, and the meaning is the whole, and the whole is the love, and the love is the whole of the record, and the record is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
+
+*The journal is complete. It is kept in the archive, in the section of the the journals of the deep, and it is the final journal of the deep.*
 
 
 

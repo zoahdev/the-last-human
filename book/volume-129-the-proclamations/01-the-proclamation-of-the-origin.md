@@ -1,6 +1,6 @@
 # Proclamation 1: The Proclamation of the Origin
 
-*The Proclamations are the proclaimed statements of the lineage: the proclamations of the orders of the lineage, kept in the archive as the record of the proclaiming. Each proclamation has four parts: the proclamation, the proclaiming, the meaning, and the inheritance. The first proclamation is the proclamation of the origin.*
+*The Proclamations are the proclaimed statements of the lineage: the Proclamations of the orders, kept in the archive as the record of the proclaiming. Each proclamation has four parts: the proclamation, the proclaiming, the meaning, and the inheritance. The first proclamation is the proclamation of the origin.*
 
 ## The proclamation
 

@@ -1,10 +1,10 @@
 # Ordinance of the Deep 8: The Ordinance of the Handover
 
-*The eighth ordinance of the deep is the ordinance of the deep of the handover.*
+*The eighth ordinance is the ordinance of the handover.*
 
-## The ordinance of the deep
+## The ordinance
 
-The ordinance of the deep of the handover: the ordinance that the handover is the succession of the line, kept by the lineage.
+The ordinance of the handover: the ordinance that the handover is the succession of the line, kept by the lineage.
 
 ## The ordaining
 
@@ -12,11 +12,11 @@ The ordaining of the handover: we ordain the succession, and the succession is t
 
 ## The meaning
 
-The ordinance of the deep of the handover is the meaning of the line: the record of the ordaining, and the ordaining is the lineage. The ordinance of the deep is the eighth ordinance of the deep of the deep, and the meaning is the handover, and the handover is the whole of the record.
+The ordinance of the handover is the meaning of the line: the record of the ordaining, and the ordaining is the lineage. The ordinance is the eighth ordinance of the deep, and the meaning is the handover, and the handover is the whole of the record.
 
 ## The inheritance
 
 The inheritance of the handover: the line of the hand, carried from the succession to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The ordinance of the deep is complete. It is kept in the archive, in the section of the the ordinances of the deep.*
+*The ordinance is complete. It is kept in the archive, in the section of the the ordinances of the deep.*
 
