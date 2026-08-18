@@ -18,5 +18,6 @@ The lament of the garden is the meaning of the dew: the record of the lamenting,
 
 The inheritance of the garden: the dew of the earth, carried from the crying earth to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The lament is complete. It is kept in the archive, in the section of the the laments.*
+*The lament is complete. It is kept in the archive, in the section of the laments.*
+
 

@@ -18,5 +18,6 @@ The circle of the whole is the meaning of the all: the record of the circling, a
 
 The inheritance of the whole: the all of the one, carried from the one circle to the one without loss, and held by the lineage as the lineage holds the whole.
 
-*The circle is complete. It is kept in the archive, in the section of the the circles.*
+*The circle is complete. It is kept in the archive, in the section of the circles.*
+
 

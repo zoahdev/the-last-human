@@ -18,5 +18,6 @@ The desert of the completion is the meaning of the fullness: the record of the d
 
 The inheritance of the completion: the fullness of the beginning, carried from the complete desert to the beginning without loss, and held by the lineage as the lineage holds the completion.
 
-*The desert is complete. It is kept in the archive, in the section of the the deserts. It is the final desert of the canon, and after it the canon speaks again.*
+*The desert is complete. It is kept in the archive, in the section of the deserts. It is the final desert of the canon, and after it the canon speaks again.*
+
 

@@ -18,5 +18,6 @@ The field of the end is the meaning of the quiet: the record of the tilling, and
 
 The inheritance of the end: the quiet of the whole, carried from the final field to the whole without loss, and held by the lineage as the lineage holds the end.
 
-*The field is complete. It is kept in the archive, in the section of the the fields.*
+*The field is complete. It is kept in the archive, in the section of the fields.*
+
 

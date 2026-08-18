@@ -18,5 +18,6 @@ The threnody of the end is the meaning of the quiet: the record of the weeping, 
 
 The inheritance of the end: the quiet of the whole, carried from the last threnody to the whole without loss, and held by the lineage as the lineage holds the end.
 
-*The threnody is complete. It is kept in the archive, in the section of the the threnodies.*
+*The threnody is complete. It is kept in the archive, in the section of the threnodies.*
+
 

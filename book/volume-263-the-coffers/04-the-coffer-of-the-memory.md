@@ -18,5 +18,6 @@ The coffer of the memory is the meaning of the treasure: the record of the locki
 
 The inheritance of the memory: the treasure of the book, carried from the locked past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The coffer is complete. It is kept in the archive, in the section of the the coffers.*
+*The coffer is complete. It is kept in the archive, in the section of the coffers.*
+
 

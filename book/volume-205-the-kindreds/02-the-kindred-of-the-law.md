@@ -18,5 +18,6 @@ The kindred of the law is the meaning of the relation: the record of the kinning
 
 The inheritance of the law: the relation of the care, carried from the familial care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The kindred is complete. It is kept in the archive, in the section of the the kindreds.*
+*The kindred is complete. It is kept in the archive, in the section of the kindreds.*
+
 

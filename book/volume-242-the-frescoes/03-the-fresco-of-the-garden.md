@@ -18,5 +18,6 @@ The fresco of the garden is the meaning of the garden wall: the record of the fr
 
 The inheritance of the garden: the garden wall of the earth, carried from the painted green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The fresco is complete. It is kept in the archive, in the section of the the frescoes.*
+*The fresco is complete. It is kept in the archive, in the section of the frescoes.*
+
 

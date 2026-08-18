@@ -18,5 +18,6 @@ The blueprint of the meeting is the meaning of the design: the record of the blu
 
 The inheritance of the meeting: the design of the table, carried from the blueprinted table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The blueprint is complete. It is kept in the archive, in the section of the the blueprints.*
+*The blueprint is complete. It is kept in the archive, in the section of the blueprints.*
+
 

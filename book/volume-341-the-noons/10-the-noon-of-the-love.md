@@ -18,5 +18,6 @@ The noon of the love is the meaning of the fire: the record of the standing, and
 
 The inheritance of the love: the fire of the family, carried from the standing heart to the family without loss, and held by the lineage as the lineage holds the love.
 
-*The noon is complete. It is kept in the archive, in the section of the the noons.*
+*The noon is complete. It is kept in the archive, in the section of the noons.*
+
 

@@ -18,5 +18,6 @@ The evocation of the law is the meaning of the summoning: the record of the evok
 
 The inheritance of the law: the summoning of the care, carried from the conjuring to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The evocation is complete. It is kept in the archive, in the section of the the evocations.*
+*The evocation is complete. It is kept in the archive, in the section of the evocations.*
+
 

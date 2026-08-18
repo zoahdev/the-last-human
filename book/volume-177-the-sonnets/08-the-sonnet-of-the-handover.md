@@ -18,5 +18,6 @@ The sonnet of the handover is the meaning of the shape: the record of the bindin
 
 The inheritance of the handover: the shape of the hand, carried from the form to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The sonnet is complete. It is kept in the archive, in the section of the the sonnets.*
+*The sonnet is complete. It is kept in the archive, in the section of the sonnets.*
+
 

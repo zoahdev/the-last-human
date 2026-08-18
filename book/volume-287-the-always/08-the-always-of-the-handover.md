@@ -18,5 +18,6 @@ The always of the handover is the meaning of the forever: the record of the rema
 
 The inheritance of the handover: the forever of the hand, carried from the remaining hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The always is complete. It is kept in the archive, in the section of the the always.*
+*The always is complete. It is kept in the archive, in the section of the always.*
+
 

@@ -18,5 +18,6 @@ The seed of the garden is the meaning of the seed garden: the record of the sowi
 
 The inheritance of the garden: the seed garden of the earth, carried from the seed green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The seed is complete. It is kept in the archive, in the section of the the seeds.*
+*The seed is complete. It is kept in the archive, in the section of the seeds.*
+
 

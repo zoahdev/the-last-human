@@ -18,5 +18,6 @@ The proclamation of the memory is the meaning of the page: the record of the pro
 
 The inheritance of the memory: the page of the book, carried from the meeting to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The proclamation is complete. It is kept in the archive, in the section of the the proclamations.*
+*The proclamation is complete. It is kept in the archive, in the section of the proclamations.*
+
 

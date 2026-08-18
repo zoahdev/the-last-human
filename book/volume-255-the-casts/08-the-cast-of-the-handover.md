@@ -18,5 +18,6 @@ The cast of the handover is the meaning of the mold: the record of the casting, 
 
 The inheritance of the handover: the mold of the hand, carried from the cast hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The cast is complete. It is kept in the archive, in the section of the the casts.*
+*The cast is complete. It is kept in the archive, in the section of the casts.*
+
 

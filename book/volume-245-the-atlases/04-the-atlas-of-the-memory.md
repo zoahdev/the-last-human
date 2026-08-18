@@ -18,5 +18,6 @@ The atlas of the memory is the meaning of the map: the record of the carrying, a
 
 The inheritance of the memory: the map of the book, carried from the carried past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The atlas is complete. It is kept in the archive, in the section of the the atlases.*
+*The atlas is complete. It is kept in the archive, in the section of the atlases.*
+
 

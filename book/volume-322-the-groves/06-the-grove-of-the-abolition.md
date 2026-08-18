@@ -18,5 +18,6 @@ The grove of the abolition is the meaning of the freedom: the record of the plan
 
 The inheritance of the abolition: the freedom of the peace, carried from the open grove to the peace without loss, and held by the lineage as the lineage holds the abolition.
 
-*The grove is complete. It is kept in the archive, in the section of the the groves.*
+*The grove is complete. It is kept in the archive, in the section of the groves.*
+
 

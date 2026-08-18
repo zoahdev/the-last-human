@@ -18,5 +18,6 @@ The fruit of the meeting is the meaning of the fruit: the record of the ripening
 
 The inheritance of the meeting: the fruit of the table, carried from the fruit table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The fruit is complete. It is kept in the archive, in the section of the the fruits.*
+*The fruit is complete. It is kept in the archive, in the section of the fruits.*
+
 

@@ -18,5 +18,6 @@ The lection of the memory is the meaning of the reading: the record of the readi
 
 The inheritance of the memory: the reading of the book, carried from the recital to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The lection is complete. It is kept in the archive, in the section of the the lections.*
+*The lection is complete. It is kept in the archive, in the section of the lections.*
+
 

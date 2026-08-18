@@ -18,5 +18,6 @@ The incantation of the handover is the meaning of the whisper: the record of the
 
 The inheritance of the handover: the whisper of the hand, carried from the passing word to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The incantation is complete. It is kept in the archive, in the section of the the incantations.*
+*The incantation is complete. It is kept in the archive, in the section of the incantations.*
+
 

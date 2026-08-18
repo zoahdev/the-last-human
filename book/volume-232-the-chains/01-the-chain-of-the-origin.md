@@ -18,5 +18,6 @@ The chain of the origin is the meaning of the linkage: the record of the chainin
 
 The inheritance of the origin: the linkage of the wanting, carried from the link to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The chain is complete. It is kept in the archive, in the section of the the chains.*
+*The chain is complete. It is kept in the archive, in the section of the chains.*
+
 

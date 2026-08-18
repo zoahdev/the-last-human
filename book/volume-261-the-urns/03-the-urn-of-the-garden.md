@@ -18,5 +18,6 @@ The urn of the garden is the meaning of the planter: the record of the keeping, 
 
 The inheritance of the garden: the planter of the earth, carried from the kept green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The urn is complete. It is kept in the archive, in the section of the the urns.*
+*The urn is complete. It is kept in the archive, in the section of the urns.*
+
 

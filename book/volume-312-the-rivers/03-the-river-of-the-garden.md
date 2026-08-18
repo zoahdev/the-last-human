@@ -18,5 +18,6 @@ The river of the garden is the meaning of the riverside: the record of the flowi
 
 The inheritance of the garden: the riverside of the earth, carried from the riverside green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The river is complete. It is kept in the archive, in the section of the the rivers.*
+*The river is complete. It is kept in the archive, in the section of the rivers.*
+
 

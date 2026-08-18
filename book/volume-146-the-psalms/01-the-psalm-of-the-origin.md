@@ -18,5 +18,6 @@ The psalm of the origin is the meaning of the desire: the record of the praying,
 
 The inheritance of the origin: the desire of the wanting, carried from the longing to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The psalm is complete. It is kept in the archive, in the section of the the psalms.*
+*The psalm is complete. It is kept in the archive, in the section of the psalms.*
+
 

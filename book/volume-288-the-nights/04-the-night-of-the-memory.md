@@ -18,5 +18,6 @@ The night of the memory is the meaning of the stars: the record of the darkening
 
 The inheritance of the memory: the stars of the book, carried from the darkened past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The night is complete. It is kept in the archive, in the section of the the nights.*
+*The night is complete. It is kept in the archive, in the section of the nights.*
+
 

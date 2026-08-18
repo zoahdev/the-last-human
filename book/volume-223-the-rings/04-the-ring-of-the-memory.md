@@ -18,5 +18,6 @@ The ring of the memory is the meaning of the echo: the record of the ringing, an
 
 The inheritance of the memory: the echo of the book, carried from the rung past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The ring is complete. It is kept in the archive, in the section of the the rings.*
+*The ring is complete. It is kept in the archive, in the section of the rings.*
+
 

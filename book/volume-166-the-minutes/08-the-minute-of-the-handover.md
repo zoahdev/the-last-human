@@ -18,5 +18,6 @@ The minute of the handover is the meaning of the signature: the record of the mi
 
 The inheritance of the handover: the signature of the hand, carried from the recorded passing to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The minute is complete. It is kept in the archive, in the section of the the minutes.*
+*The minute is complete. It is kept in the archive, in the section of the minutes.*
+
 

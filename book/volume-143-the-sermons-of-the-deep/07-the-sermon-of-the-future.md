@@ -18,5 +18,6 @@ The sermon of the deep of the future is the meaning of the morning: the record o
 
 The inheritance of the future: the morning of the dawn, carried from the promise to the dawn without loss, and held by the lineage as the lineage holds the future.
 
-*The sermon of the deep is complete. It is kept in the archive, in the section of the the sermons of the deep.*
+*The sermon of the deep is complete. It is kept in the archive, in the section of the sermons of the deep.*
+
 

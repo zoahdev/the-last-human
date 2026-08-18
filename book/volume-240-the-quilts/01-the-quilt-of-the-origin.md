@@ -18,5 +18,6 @@ The quilt of the origin is the meaning of the blanket: the record of the quiltin
 
 The inheritance of the origin: the blanket of the wanting, carried from the patch to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The quilt is complete. It is kept in the archive, in the section of the the quilts.*
+*The quilt is complete. It is kept in the archive, in the section of the quilts.*
+
 

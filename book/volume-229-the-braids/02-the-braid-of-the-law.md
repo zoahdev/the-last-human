@@ -18,5 +18,6 @@ The braid of the law is the meaning of the weave: the record of the braiding, an
 
 The inheritance of the law: the weave of the care, carried from the braided care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The braid is complete. It is kept in the archive, in the section of the the braids.*
+*The braid is complete. It is kept in the archive, in the section of the braids.*
+
 

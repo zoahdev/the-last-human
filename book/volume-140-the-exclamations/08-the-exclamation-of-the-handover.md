@@ -18,5 +18,6 @@ The exclamation of the handover is the meaning of the gift: the record of the ex
 
 The inheritance of the handover: the gift of the hand, carried from the miracle to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The exclamation is complete. It is kept in the archive, in the section of the the exclamations.*
+*The exclamation is complete. It is kept in the archive, in the section of the exclamations.*
+
 

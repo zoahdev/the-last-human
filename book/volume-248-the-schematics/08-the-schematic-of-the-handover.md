@@ -18,5 +18,6 @@ The schematic of the handover is the meaning of the drawing: the record of the d
 
 The inheritance of the handover: the drawing of the hand, carried from the drawn hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The schematic is complete. It is kept in the archive, in the section of the the schematics.*
+*The schematic is complete. It is kept in the archive, in the section of the schematics.*
+
 

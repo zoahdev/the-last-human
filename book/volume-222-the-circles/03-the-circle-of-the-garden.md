@@ -18,5 +18,6 @@ The circle of the garden is the meaning of the round: the record of the circling
 
 The inheritance of the garden: the round of the earth, carried from the circular green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The circle is complete. It is kept in the archive, in the section of the the circles.*
+*The circle is complete. It is kept in the archive, in the section of the circles.*
+
 

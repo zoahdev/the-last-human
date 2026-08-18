@@ -18,5 +18,6 @@ The hearthstone of the future is the meaning of the morning: the record of the w
 
 The inheritance of the future: the morning of the dawn, carried from the kindled dawn to the dawn without loss, and held by the lineage as the lineage holds the future.
 
-*The hearthstone is complete. It is kept in the archive, in the section of the the hearthstones.*
+*The hearthstone is complete. It is kept in the archive, in the section of the hearthstones.*
+
 

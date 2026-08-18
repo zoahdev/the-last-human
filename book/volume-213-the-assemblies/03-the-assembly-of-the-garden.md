@@ -18,5 +18,6 @@ The assembly of the garden is the meaning of the greenhouse: the record of the a
 
 The inheritance of the garden: the greenhouse of the earth, carried from the assembled green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The assembly is complete. It is kept in the archive, in the section of the the assemblies.*
+*The assembly is complete. It is kept in the archive, in the section of the assemblies.*
+
 

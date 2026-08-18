@@ -18,5 +18,6 @@ The stanza of the law is the meaning of the column: the record of the standing, 
 
 The inheritance of the law: the column of the care, carried from the standing care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The stanza is complete. It is kept in the archive, in the section of the the stanzas.*
+*The stanza is complete. It is kept in the archive, in the section of the stanzas.*
+
 

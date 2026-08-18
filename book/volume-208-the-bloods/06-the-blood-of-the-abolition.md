@@ -18,5 +18,6 @@ The blood of the abolition is the meaning of the freedom: the record of the flow
 
 The inheritance of the abolition: the freedom of the peace, carried from the free flow to the peace without loss, and held by the lineage as the lineage holds the abolition.
 
-*The blood is complete. It is kept in the archive, in the section of the the bloods.*
+*The blood is complete. It is kept in the archive, in the section of the bloods.*
+
 

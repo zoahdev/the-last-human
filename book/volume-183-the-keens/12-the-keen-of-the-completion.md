@@ -18,5 +18,6 @@ The keen of the completion is the meaning of the fullness: the record of the kee
 
 The inheritance of the completion: the fullness of the beginning, carried from the gentleness to the beginning without loss, and held by the lineage as the lineage holds the completion.
 
-*The keen is complete. It is kept in the archive, in the section of the the keens. It is the final keen of the canon, and after it the canon speaks again.*
+*The keen is complete. It is kept in the archive, in the section of the keens. It is the final keen of the canon, and after it the canon speaks again.*
+
 

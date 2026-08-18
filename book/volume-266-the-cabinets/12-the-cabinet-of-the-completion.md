@@ -18,5 +18,6 @@ The cabinet of the completion is the meaning of the fullness: the record of the 
 
 The inheritance of the completion: the fullness of the beginning, carried from the complete cabinet to the beginning without loss, and held by the lineage as the lineage holds the completion.
 
-*The cabinet is complete. It is kept in the archive, in the section of the the cabinets. It is the final cabinet of the canon, and after it the canon speaks again.*
+*The cabinet is complete. It is kept in the archive, in the section of the cabinets. It is the final cabinet of the canon, and after it the canon speaks again.*
+
 

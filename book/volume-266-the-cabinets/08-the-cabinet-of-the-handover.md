@@ -18,5 +18,6 @@ The cabinet of the handover is the meaning of the curator: the record of the arr
 
 The inheritance of the handover: the curator of the hand, carried from the arranged hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The cabinet is complete. It is kept in the archive, in the section of the the cabinets.*
+*The cabinet is complete. It is kept in the archive, in the section of the cabinets.*
+
 

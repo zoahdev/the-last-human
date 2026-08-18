@@ -18,5 +18,6 @@ The psalm of the memory is the meaning of the psalmody: the record of the prayin
 
 The inheritance of the memory: the psalmody of the book, carried from the lament to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The psalm is complete. It is kept in the archive, in the section of the the psalms.*
+*The psalm is complete. It is kept in the archive, in the section of the psalms.*
+
 

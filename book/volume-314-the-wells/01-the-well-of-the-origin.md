@@ -18,5 +18,6 @@ The well of the origin is the meaning of the water: the record of the drawing, a
 
 The inheritance of the origin: the water of the wanting, carried from the deep water to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The well is complete. It is kept in the archive, in the section of the the wells.*
+*The well is complete. It is kept in the archive, in the section of the wells.*
+
 

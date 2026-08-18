@@ -18,5 +18,6 @@ The mosaic of the law is the meaning of the tessera: the record of the setting, 
 
 The inheritance of the law: the tessera of the care, carried from the set care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The mosaic is complete. It is kept in the archive, in the section of the the mosaics.*
+*The mosaic is complete. It is kept in the archive, in the section of the mosaics.*
+
 

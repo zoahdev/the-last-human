@@ -18,5 +18,6 @@ The murmur of the whole is the meaning of the all: the record of the murmuring, 
 
 The inheritance of the whole: the all of the one, carried from the one stream to the one without loss, and held by the lineage as the lineage holds the whole.
 
-*The murmur is complete. It is kept in the archive, in the section of the the murmurs.*
+*The murmur is complete. It is kept in the archive, in the section of the murmurs.*
+
 

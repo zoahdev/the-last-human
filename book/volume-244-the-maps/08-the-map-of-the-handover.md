@@ -18,5 +18,6 @@ The map of the handover is the meaning of the cartographer: the record of the ma
 
 The inheritance of the handover: the cartographer of the hand, carried from the mapped hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The map is complete. It is kept in the archive, in the section of the the maps.*
+*The map is complete. It is kept in the archive, in the section of the maps.*
+
 

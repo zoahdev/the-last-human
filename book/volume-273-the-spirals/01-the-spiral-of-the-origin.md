@@ -18,5 +18,6 @@ The spiral of the origin is the meaning of the shell: the record of the spiralin
 
 The inheritance of the origin: the shell of the wanting, carried from the shell to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The spiral is complete. It is kept in the archive, in the section of the the spirals.*
+*The spiral is complete. It is kept in the archive, in the section of the spirals.*
+
 

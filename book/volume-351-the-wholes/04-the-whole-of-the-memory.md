@@ -18,5 +18,6 @@ The whole of the memory is the meaning of the whole: the record of the completin
 
 The inheritance of the memory: the whole of the book, carried from the completed past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The whole is complete. It is kept in the archive, in the section of the the wholes.*
+*The whole is complete. It is kept in the archive, in the section of the wholes.*
+
 

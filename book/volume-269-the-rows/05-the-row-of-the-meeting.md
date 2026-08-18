@@ -18,5 +18,6 @@ The row of the meeting is the meaning of the bench: the record of the rowing, an
 
 The inheritance of the meeting: the bench of the table, carried from the rowed table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The row is complete. It is kept in the archive, in the section of the the rows.*
+*The row is complete. It is kept in the archive, in the section of the rows.*
+
 

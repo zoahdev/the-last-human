@@ -18,5 +18,6 @@ The call of the handover is the meaning of the summons: the record of the callin
 
 The inheritance of the handover: the summons of the hand, carried from the passing call to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The call is complete. It is kept in the archive, in the section of the the calls.*
+*The call is complete. It is kept in the archive, in the section of the calls.*
+
 

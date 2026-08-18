@@ -18,5 +18,6 @@ The island of the completion is the meaning of the fullness: the record of the s
 
 The inheritance of the completion: the fullness of the beginning, carried from the complete island to the beginning without loss, and held by the lineage as the lineage holds the completion.
 
-*The island is complete. It is kept in the archive, in the section of the the islands. It is the final island of the canon, and after it the canon speaks again.*
+*The island is complete. It is kept in the archive, in the section of the islands. It is the final island of the canon, and after it the canon speaks again.*
+
 

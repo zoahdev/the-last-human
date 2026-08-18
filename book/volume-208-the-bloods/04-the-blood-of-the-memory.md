@@ -18,5 +18,6 @@ The blood of the memory is the meaning of the line: the record of the flowing, a
 
 The inheritance of the memory: the line of the book, carried from the remembered blood to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The blood is complete. It is kept in the archive, in the section of the the bloods.*
+*The blood is complete. It is kept in the archive, in the section of the bloods.*
+
 

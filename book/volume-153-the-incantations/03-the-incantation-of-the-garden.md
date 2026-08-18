@@ -18,5 +18,6 @@ The incantation of the garden is the meaning of the sprout: the record of the in
 
 The inheritance of the garden: the sprout of the earth, carried from the green word to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The incantation is complete. It is kept in the archive, in the section of the the incantations.*
+*The incantation is complete. It is kept in the archive, in the section of the incantations.*
+
 

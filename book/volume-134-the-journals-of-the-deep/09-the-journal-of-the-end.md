@@ -18,5 +18,6 @@ The journal of the end is the meaning of the quiet: the record of the journaling
 
 The inheritance of the end: the quiet of the whole, carried from the line to the whole without loss, and held by the lineage as the lineage holds the end.
 
-*The journal is complete. It is kept in the archive, in the section of the the journals of the deep.*
+*The journal is complete. It is kept in the archive, in the section of the journals of the deep.*
+
 

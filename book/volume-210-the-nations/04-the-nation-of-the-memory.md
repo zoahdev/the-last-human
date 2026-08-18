@@ -18,5 +18,6 @@ The nation of the memory is the meaning of the history: the record of the unitin
 
 The inheritance of the memory: the history of the book, carried from the national past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The nation is complete. It is kept in the archive, in the section of the the nations.*
+*The nation is complete. It is kept in the archive, in the section of the nations.*
+
 

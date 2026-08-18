@@ -18,5 +18,6 @@ The congregation of the handover is the meaning of the community: the record of 
 
 The inheritance of the handover: the community of the hand, carried from the gathered hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The congregation is complete. It is kept in the archive, in the section of the the congregations.*
+*The congregation is complete. It is kept in the archive, in the section of the congregations.*
+
 

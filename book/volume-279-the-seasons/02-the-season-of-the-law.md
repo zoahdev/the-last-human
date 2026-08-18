@@ -18,5 +18,6 @@ The season of the law is the meaning of the cycle: the record of the seasoning, 
 
 The inheritance of the law: the cycle of the care, carried from the seasoned care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The season is complete. It is kept in the archive, in the section of the the seasons.*
+*The season is complete. It is kept in the archive, in the section of the seasons.*
+
 

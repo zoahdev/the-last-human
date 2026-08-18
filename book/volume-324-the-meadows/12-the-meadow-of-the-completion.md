@@ -18,5 +18,6 @@ The meadow of the completion is the meaning of the fullness: the record of the b
 
 The inheritance of the completion: the fullness of the beginning, carried from the complete meadow to the beginning without loss, and held by the lineage as the lineage holds the completion.
 
-*The meadow is complete. It is kept in the archive, in the section of the the meadows. It is the final meadow of the canon, and after it the canon speaks again.*
+*The meadow is complete. It is kept in the archive, in the section of the meadows. It is the final meadow of the canon, and after it the canon speaks again.*
+
 

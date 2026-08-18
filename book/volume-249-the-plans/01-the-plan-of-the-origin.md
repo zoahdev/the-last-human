@@ -18,5 +18,6 @@ The plan of the origin is the meaning of the design: the record of the planning,
 
 The inheritance of the origin: the design of the wanting, carried from the purpose to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The plan is complete. It is kept in the archive, in the section of the the plans.*
+*The plan is complete. It is kept in the archive, in the section of the plans.*
+
 

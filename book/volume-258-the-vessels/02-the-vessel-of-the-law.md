@@ -18,5 +18,6 @@ The vessel of the law is the meaning of the vessel: the record of the holding, a
 
 The inheritance of the law: the vessel of the care, carried from the holding care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The vessel is complete. It is kept in the archive, in the section of the the vessels.*
+*The vessel is complete. It is kept in the archive, in the section of the vessels.*
+
 

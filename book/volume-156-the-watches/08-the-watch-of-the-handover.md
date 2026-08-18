@@ -18,5 +18,6 @@ The watch of the handover is the meaning of the relief: the record of the watchi
 
 The inheritance of the handover: the relief of the hand, carried from the handing to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The watch is complete. It is kept in the archive, in the section of the the watches.*
+*The watch is complete. It is kept in the archive, in the section of the watches.*
+
 

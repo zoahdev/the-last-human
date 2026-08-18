@@ -18,5 +18,6 @@ The loom of the law is the meaning of the beam: the record of the looming, and t
 
 The inheritance of the law: the beam of the care, carried from the framed care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The loom is complete. It is kept in the archive, in the section of the the looms.*
+*The loom is complete. It is kept in the archive, in the section of the looms.*
+
 

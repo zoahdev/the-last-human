@@ -18,5 +18,6 @@ The antiphon of the law is the meaning of the echo: the record of the responding
 
 The inheritance of the law: the echo of the care, carried from the responding care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The antiphon is complete. It is kept in the archive, in the section of the the antiphons.*
+*The antiphon is complete. It is kept in the archive, in the section of the antiphons.*
+
 

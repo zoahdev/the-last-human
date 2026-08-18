@@ -18,5 +18,6 @@ The comet of the handover is the meaning of the tail: the record of the streakin
 
 The inheritance of the handover: the tail of the hand, carried from the streaking hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The comet is complete. It is kept in the archive, in the section of the the comets.*
+*The comet is complete. It is kept in the archive, in the section of the comets.*
+
 

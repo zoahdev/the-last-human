@@ -18,5 +18,6 @@ The confession of the deep of the origin is the meaning of the admitting: the re
 
 The inheritance of the origin: the admitting of the wanting, carried from the admission to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The confession of the deep is complete. It is kept in the archive, in the section of the the confessions of the deep.*
+*The confession of the deep is complete. It is kept in the archive, in the section of the confessions of the deep.*
+
 

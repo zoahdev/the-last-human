@@ -18,5 +18,6 @@ The era of the memory is the meaning of the era: the record of the dividing, and
 
 The inheritance of the memory: the era of the book, carried from the divided past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The era is complete. It is kept in the archive, in the section of the the eras.*
+*The era is complete. It is kept in the archive, in the section of the eras.*
+
 

@@ -18,5 +18,6 @@ The design of the law is the meaning of the specification: the record of the des
 
 The inheritance of the law: the specification of the care, carried from the designed care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The design is complete. It is kept in the archive, in the section of the the designs.*
+*The design is complete. It is kept in the archive, in the section of the designs.*
+
 

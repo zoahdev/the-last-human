@@ -18,5 +18,6 @@ The orison of the meeting is the meaning of the night: the record of the praying
 
 The inheritance of the meeting: the night of the table, carried from the compline to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The orison is complete. It is kept in the archive, in the section of the the orisons.*
+*The orison is complete. It is kept in the archive, in the section of the orisons.*
+
 

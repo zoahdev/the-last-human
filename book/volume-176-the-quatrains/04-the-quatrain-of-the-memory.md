@@ -18,5 +18,6 @@ The quatrain of the memory is the meaning of the quartet: the record of the quar
 
 The inheritance of the memory: the quartet of the book, carried from the fourfold record to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The quatrain is complete. It is kept in the archive, in the section of the the quatrains.*
+*The quatrain is complete. It is kept in the archive, in the section of the quatrains.*
+
 

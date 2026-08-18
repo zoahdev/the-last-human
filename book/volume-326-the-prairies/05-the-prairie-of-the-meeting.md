@@ -18,5 +18,6 @@ The prairie of the meeting is the meaning of the prairie: the record of the stre
 
 The inheritance of the meeting: the prairie of the table, carried from the prairie table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The prairie is complete. It is kept in the archive, in the section of the the prairies.*
+*The prairie is complete. It is kept in the archive, in the section of the prairies.*
+
 

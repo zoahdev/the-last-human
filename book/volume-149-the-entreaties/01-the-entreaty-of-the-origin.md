@@ -18,5 +18,6 @@ The entreaty of the origin is the meaning of the begging: the record of the entr
 
 The inheritance of the origin: the begging of the wanting, carried from the request to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The entreaty is complete. It is kept in the archive, in the section of the the entreaties.*
+*The entreaty is complete. It is kept in the archive, in the section of the entreaties.*
+
 

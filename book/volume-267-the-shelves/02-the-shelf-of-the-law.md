@@ -18,5 +18,6 @@ The shelf of the law is the meaning of the shelf: the record of the shelving, an
 
 The inheritance of the law: the shelf of the care, carried from the shelved care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The shelf is complete. It is kept in the archive, in the section of the the shelves.*
+*The shelf is complete. It is kept in the archive, in the section of the shelves.*
+
 

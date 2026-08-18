@@ -18,5 +18,6 @@ The blood of the completion is the meaning of the fullness: the record of the fl
 
 The inheritance of the completion: the fullness of the beginning, carried from the full blood to the beginning without loss, and held by the lineage as the lineage holds the completion.
 
-*The blood is complete. It is kept in the archive, in the section of the the bloods. It is the final blood of the canon, and after it the canon speaks again.*
+*The blood is complete. It is kept in the archive, in the section of the bloods. It is the final blood of the canon, and after it the canon speaks again.*
+
 

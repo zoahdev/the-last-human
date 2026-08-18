@@ -18,5 +18,6 @@ The directive of the law is the meaning of the route: the record of the directin
 
 The inheritance of the law: the route of the care, carried from the bearing to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The directive is complete. It is kept in the archive, in the section of the the directives of the deep.*
+*The directive is complete. It is kept in the archive, in the section of the directives of the deep.*
+
 

@@ -18,5 +18,6 @@ The return of the garden is the meaning of the return garden: the record of the 
 
 The inheritance of the garden: the return garden of the earth, carried from the returning green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The return is complete. It is kept in the archive, in the section of the the returns.*
+*The return is complete. It is kept in the archive, in the section of the returns.*
+
 

@@ -18,5 +18,6 @@ The schematic of the garden is the meaning of the garden machine: the record of 
 
 The inheritance of the garden: the garden machine of the earth, carried from the drawn green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The schematic is complete. It is kept in the archive, in the section of the the schematics.*
+*The schematic is complete. It is kept in the archive, in the section of the schematics.*
+
 

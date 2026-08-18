@@ -18,5 +18,6 @@ The leaf of the origin is the meaning of the sprout: the record of the leafing, 
 
 The inheritance of the origin: the sprout of the wanting, carried from the bud to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The leaf is complete. It is kept in the archive, in the section of the the leaves.*
+*The leaf is complete. It is kept in the archive, in the section of the leaves.*
+
 

@@ -18,5 +18,6 @@ The galaxy of the garden is the meaning of the star garden: the record of the ga
 
 The inheritance of the garden: the star garden of the earth, carried from the galactic green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The galaxy is complete. It is kept in the archive, in the section of the the galaxies.*
+*The galaxy is complete. It is kept in the archive, in the section of the galaxies.*
+
 

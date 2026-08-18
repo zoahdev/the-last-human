@@ -18,5 +18,6 @@ The morning of the meeting is the meaning of the breakfast: the record of the wa
 
 The inheritance of the meeting: the breakfast of the table, carried from the morning table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The morning is complete. It is kept in the archive, in the section of the the mornings.*
+*The morning is complete. It is kept in the archive, in the section of the mornings.*
+
 

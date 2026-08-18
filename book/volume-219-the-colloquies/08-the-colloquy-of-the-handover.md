@@ -18,5 +18,6 @@ The colloquy of the handover is the meaning of the word: the record of the speak
 
 The inheritance of the handover: the word of the hand, carried from the speaking hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The colloquy is complete. It is kept in the archive, in the section of the the colloquies.*
+*The colloquy is complete. It is kept in the archive, in the section of the colloquies.*
+
 

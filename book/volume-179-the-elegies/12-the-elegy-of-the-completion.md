@@ -18,5 +18,6 @@ The elegy of the completion is the meaning of the fullness: the record of the la
 
 The inheritance of the completion: the fullness of the beginning, carried from the consolation to the beginning without loss, and held by the lineage as the lineage holds the completion.
 
-*The elegy is complete. It is kept in the archive, in the section of the the elegies. It is the final elegy of the canon, and after it the canon speaks again.*
+*The elegy is complete. It is kept in the archive, in the section of the elegies. It is the final elegy of the canon, and after it the canon speaks again.*
+
 

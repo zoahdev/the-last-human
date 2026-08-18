@@ -18,5 +18,6 @@ The well of the garden is the meaning of the garden well: the record of the draw
 
 The inheritance of the garden: the garden well of the earth, carried from the well watered green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The well is complete. It is kept in the archive, in the section of the the wells.*
+*The well is complete. It is kept in the archive, in the section of the wells.*
+
 

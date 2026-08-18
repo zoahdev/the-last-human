@@ -18,5 +18,6 @@ The trope of the garden is the meaning of the season: the record of the turning,
 
 The inheritance of the garden: the season of the earth, carried from the turning green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The trope is complete. It is kept in the archive, in the section of the the tropes.*
+*The trope is complete. It is kept in the archive, in the section of the tropes.*
+
 

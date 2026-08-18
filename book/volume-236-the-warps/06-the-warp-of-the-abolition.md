@@ -18,5 +18,6 @@ The warp of the abolition is the meaning of the freedom: the record of the warpi
 
 The inheritance of the abolition: the freedom of the peace, carried from the straightened warp to the peace without loss, and held by the lineage as the lineage holds the abolition.
 
-*The warp is complete. It is kept in the archive, in the section of the the warps.*
+*The warp is complete. It is kept in the archive, in the section of the warps.*
+
 

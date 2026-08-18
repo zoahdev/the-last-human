@@ -18,5 +18,6 @@ The orbit of the completion is the meaning of the fullness: the record of the or
 
 The inheritance of the completion: the fullness of the beginning, carried from the complete orbit to the beginning without loss, and held by the lineage as the lineage holds the completion.
 
-*The orbit is complete. It is kept in the archive, in the section of the the orbits. It is the final orbit of the canon, and after it the canon speaks again.*
+*The orbit is complete. It is kept in the archive, in the section of the orbits. It is the final orbit of the canon, and after it the canon speaks again.*
+
 

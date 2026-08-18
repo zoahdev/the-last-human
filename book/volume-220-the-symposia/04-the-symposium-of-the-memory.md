@@ -18,5 +18,6 @@ The symposium of the memory is the meaning of the toast: the record of the drink
 
 The inheritance of the memory: the toast of the book, carried from the drunk past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The symposium is complete. It is kept in the archive, in the section of the the symposia.*
+*The symposium is complete. It is kept in the archive, in the section of the symposia.*
+
 

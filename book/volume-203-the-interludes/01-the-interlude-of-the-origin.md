@@ -18,5 +18,6 @@ The interlude of the origin is the meaning of the breathing: the record of the r
 
 The inheritance of the origin: the breathing of the wanting, carried from the pause to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The interlude is complete. It is kept in the archive, in the section of the the interludes.*
+*The interlude is complete. It is kept in the archive, in the section of the interludes.*
+
 

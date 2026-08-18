@@ -18,5 +18,6 @@ The desert of the whole is the meaning of the all: the record of the drying, and
 
 The inheritance of the whole: the all of the one, carried from the one desert to the one without loss, and held by the lineage as the lineage holds the whole.
 
-*The desert is complete. It is kept in the archive, in the section of the the deserts.*
+*The desert is complete. It is kept in the archive, in the section of the deserts.*
+
 

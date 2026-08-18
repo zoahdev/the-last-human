@@ -18,5 +18,6 @@ The stack of the future is the meaning of the morning: the record of the stackin
 
 The inheritance of the future: the morning of the dawn, carried from the unstacked paper to the dawn without loss, and held by the lineage as the lineage holds the future.
 
-*The stack is complete. It is kept in the archive, in the section of the the stacks.*
+*The stack is complete. It is kept in the archive, in the section of the stacks.*
+
 

@@ -18,5 +18,6 @@ The harbor of the origin is the meaning of the storm: the record of the harborin
 
 The inheritance of the origin: the storm of the wanting, carried from the safe water to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The harbor is complete. It is kept in the archive, in the section of the the harbors.*
+*The harbor is complete. It is kept in the archive, in the section of the harbors.*
+
 

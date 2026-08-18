@@ -18,5 +18,6 @@ The dirge of the future is the meaning of the morning: the record of the mournin
 
 The inheritance of the future: the morning of the dawn, carried from the morning after to the dawn without loss, and held by the lineage as the lineage holds the future.
 
-*The dirge is complete. It is kept in the archive, in the section of the the dirges.*
+*The dirge is complete. It is kept in the archive, in the section of the dirges.*
+
 

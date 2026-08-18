@@ -18,5 +18,6 @@ The intercession of the garden is the meaning of the greenness: the record of th
 
 The inheritance of the garden: the greenness of the earth, carried from the voice to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The intercession is complete. It is kept in the archive, in the section of the the intercessions.*
+*The intercession is complete. It is kept in the archive, in the section of the intercessions.*
+
 

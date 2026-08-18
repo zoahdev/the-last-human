@@ -18,5 +18,6 @@ The welcome of the end is the meaning of the quiet: the record of the welcoming,
 
 The inheritance of the end: the quiet of the whole, carried from the final welcome to the whole without loss, and held by the lineage as the lineage holds the end.
 
-*The welcome is complete. It is kept in the archive, in the section of the the welcomes.*
+*The welcome is complete. It is kept in the archive, in the section of the welcomes.*
+
 

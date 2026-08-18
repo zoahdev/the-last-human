@@ -18,5 +18,6 @@ The response of the handover is the meaning of the receiving: the record of the 
 
 The inheritance of the handover: the receiving of the hand, carried from the taking to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The response is complete. It is kept in the archive, in the section of the the responses.*
+*The response is complete. It is kept in the archive, in the section of the responses.*
+
 

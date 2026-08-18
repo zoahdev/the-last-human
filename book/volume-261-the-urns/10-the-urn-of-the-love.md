@@ -18,5 +18,6 @@ The urn of the love is the meaning of the fire: the record of the keeping, and t
 
 The inheritance of the love: the fire of the family, carried from the kept heart to the family without loss, and held by the lineage as the lineage holds the love.
 
-*The urn is complete. It is kept in the archive, in the section of the the urns.*
+*The urn is complete. It is kept in the archive, in the section of the urns.*
+
 

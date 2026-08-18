@@ -18,5 +18,6 @@ The psalm of the meeting is the meaning of the banquet: the record of the prayin
 
 The inheritance of the meeting: the banquet of the table, carried from the feast to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The psalm is complete. It is kept in the archive, in the section of the the psalms.*
+*The psalm is complete. It is kept in the archive, in the section of the psalms.*
+
 

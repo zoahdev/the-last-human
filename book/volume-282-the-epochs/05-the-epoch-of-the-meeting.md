@@ -18,5 +18,6 @@ The epoch of the meeting is the meaning of the marker: the record of the marking
 
 The inheritance of the meeting: the marker of the table, carried from the marked table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The epoch is complete. It is kept in the archive, in the section of the the epochs.*
+*The epoch is complete. It is kept in the archive, in the section of the epochs.*
+
 

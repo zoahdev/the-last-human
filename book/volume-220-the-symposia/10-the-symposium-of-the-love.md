@@ -18,5 +18,6 @@ The symposium of the love is the meaning of the fire: the record of the drinking
 
 The inheritance of the love: the fire of the family, carried from the drunk heart to the family without loss, and held by the lineage as the lineage holds the love.
 
-*The symposium is complete. It is kept in the archive, in the section of the the symposia.*
+*The symposium is complete. It is kept in the archive, in the section of the symposia.*
+
 

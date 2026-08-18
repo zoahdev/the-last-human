@@ -18,5 +18,6 @@ The vessel of the meeting is the meaning of the cup: the record of the holding, 
 
 The inheritance of the meeting: the cup of the table, carried from the shared cup to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The vessel is complete. It is kept in the archive, in the section of the the vessels.*
+*The vessel is complete. It is kept in the archive, in the section of the vessels.*
+
 

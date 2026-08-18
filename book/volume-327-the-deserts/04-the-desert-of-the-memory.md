@@ -18,5 +18,6 @@ The desert of the memory is the meaning of the desert: the record of the drying,
 
 The inheritance of the memory: the desert of the book, carried from the dried past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The desert is complete. It is kept in the archive, in the section of the the deserts.*
+*The desert is complete. It is kept in the archive, in the section of the deserts.*
+
 

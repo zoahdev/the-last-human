@@ -18,5 +18,6 @@ The knot of the origin is the meaning of the tie: the record of the knotting, an
 
 The inheritance of the origin: the tie of the wanting, carried from the fastening to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The knot is complete. It is kept in the archive, in the section of the the knots.*
+*The knot is complete. It is kept in the archive, in the section of the knots.*
+
 

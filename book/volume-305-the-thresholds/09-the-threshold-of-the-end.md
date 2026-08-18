@@ -18,5 +18,6 @@ The threshold of the end is the meaning of the quiet: the record of the crossing
 
 The inheritance of the end: the quiet of the whole, carried from the final threshold to the whole without loss, and held by the lineage as the lineage holds the end.
 
-*The threshold is complete. It is kept in the archive, in the section of the the thresholds.*
+*The threshold is complete. It is kept in the archive, in the section of the thresholds.*
+
 

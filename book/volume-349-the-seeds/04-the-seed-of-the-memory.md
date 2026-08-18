@@ -18,5 +18,6 @@ The seed of the memory is the meaning of the seed: the record of the sowing, and
 
 The inheritance of the memory: the seed of the book, carried from the sown past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The seed is complete. It is kept in the archive, in the section of the the seeds.*
+*The seed is complete. It is kept in the archive, in the section of the seeds.*
+
 

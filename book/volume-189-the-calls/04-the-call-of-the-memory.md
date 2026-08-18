@@ -18,5 +18,6 @@ The call of the memory is the meaning of the summons: the record of the calling,
 
 The inheritance of the memory: the summons of the book, carried from the remembered call to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The call is complete. It is kept in the archive, in the section of the the calls.*
+*The call is complete. It is kept in the archive, in the section of the calls.*
+
 

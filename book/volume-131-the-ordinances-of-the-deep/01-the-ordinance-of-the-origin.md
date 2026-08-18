@@ -18,5 +18,6 @@ The ordinance of the origin is the meaning of the beginning: the record of the o
 
 The inheritance of the origin: the beginning of the wanting, carried from the law to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The ordinance is complete. It is kept in the archive, in the section of the the ordinances of the deep.*
+*The ordinance is complete. It is kept in the archive, in the section of the ordinances of the deep.*
+
 

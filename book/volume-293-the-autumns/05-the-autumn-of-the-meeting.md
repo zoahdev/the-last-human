@@ -18,5 +18,6 @@ The autumn of the meeting is the meaning of the feast: the record of the falling
 
 The inheritance of the meeting: the feast of the table, carried from the autumn table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The autumn is complete. It is kept in the archive, in the section of the the autumns.*
+*The autumn is complete. It is kept in the archive, in the section of the autumns.*
+
 

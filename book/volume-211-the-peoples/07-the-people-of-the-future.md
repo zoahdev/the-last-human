@@ -18,5 +18,6 @@ The people of the future is the meaning of the morning: the record of the peopli
 
 The inheritance of the future: the morning of the dawn, carried from the coming people to the dawn without loss, and held by the lineage as the lineage holds the future.
 
-*The people is complete. It is kept in the archive, in the section of the the peoples.*
+*The people is complete. It is kept in the archive, in the section of the peoples.*
+
 

@@ -18,5 +18,6 @@ The stanza of the handover is the meaning of the support: the record of the stan
 
 The inheritance of the handover: the support of the hand, carried from the standing hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The stanza is complete. It is kept in the archive, in the section of the the stanzas.*
+*The stanza is complete. It is kept in the archive, in the section of the stanzas.*
+
 

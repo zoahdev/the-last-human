@@ -18,5 +18,6 @@ The convocation of the law is the meaning of the charter: the record of the conv
 
 The inheritance of the law: the charter of the care, carried from the convoked care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The convocation is complete. It is kept in the archive, in the section of the the convocations.*
+*The convocation is complete. It is kept in the archive, in the section of the convocations.*
+
 

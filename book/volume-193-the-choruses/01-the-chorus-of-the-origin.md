@@ -18,5 +18,6 @@ The chorus of the origin is the meaning of the choir: the record of the chorusin
 
 The inheritance of the origin: the choir of the wanting, carried from the unison to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The chorus is complete. It is kept in the archive, in the section of the the choruses.*
+*The chorus is complete. It is kept in the archive, in the section of the choruses.*
+
 

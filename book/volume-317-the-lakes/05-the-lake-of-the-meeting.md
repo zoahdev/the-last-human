@@ -18,5 +18,6 @@ The lake of the meeting is the meaning of the shore: the record of the mirroring
 
 The inheritance of the meeting: the shore of the table, carried from the lakeside table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The lake is complete. It is kept in the archive, in the section of the the lakes.*
+*The lake is complete. It is kept in the archive, in the section of the lakes.*
+
 

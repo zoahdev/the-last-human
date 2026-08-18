@@ -18,5 +18,6 @@ The box of the meeting is the meaning of the collection: the record of the boxin
 
 The inheritance of the meeting: the collection of the table, carried from the boxed table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The box is complete. It is kept in the archive, in the section of the the boxes.*
+*The box is complete. It is kept in the archive, in the section of the boxes.*
+
 

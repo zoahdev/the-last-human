@@ -18,5 +18,6 @@ The island of the meeting is the meaning of the island: the record of the surrou
 
 The inheritance of the meeting: the island of the table, carried from the island table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The island is complete. It is kept in the archive, in the section of the the islands.*
+*The island is complete. It is kept in the archive, in the section of the islands.*
+
 

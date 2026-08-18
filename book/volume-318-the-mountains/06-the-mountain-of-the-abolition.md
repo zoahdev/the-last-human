@@ -18,5 +18,6 @@ The mountain of the abolition is the meaning of the freedom: the record of the r
 
 The inheritance of the abolition: the freedom of the peace, carried from the open summit to the peace without loss, and held by the lineage as the lineage holds the abolition.
 
-*The mountain is complete. It is kept in the archive, in the section of the the mountains.*
+*The mountain is complete. It is kept in the archive, in the section of the mountains.*
+
 

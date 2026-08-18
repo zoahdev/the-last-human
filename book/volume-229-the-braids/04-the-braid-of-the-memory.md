@@ -18,5 +18,6 @@ The braid of the memory is the meaning of the lock: the record of the braiding, 
 
 The inheritance of the memory: the lock of the book, carried from the braided past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The braid is complete. It is kept in the archive, in the section of the the braids.*
+*The braid is complete. It is kept in the archive, in the section of the braids.*
+
 

@@ -18,5 +18,6 @@ The wheel of the love is the meaning of the fire: the record of the wheeling, an
 
 The inheritance of the love: the fire of the family, carried from the wheeled heart to the family without loss, and held by the lineage as the lineage holds the love.
 
-*The wheel is complete. It is kept in the archive, in the section of the the wheels.*
+*The wheel is complete. It is kept in the archive, in the section of the wheels.*
+
 

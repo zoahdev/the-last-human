@@ -18,5 +18,6 @@ The always of the memory is the meaning of the forever: the record of the remain
 
 The inheritance of the memory: the forever of the book, carried from the remaining past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The always is complete. It is kept in the archive, in the section of the the always.*
+*The always is complete. It is kept in the archive, in the section of the always.*
+
 

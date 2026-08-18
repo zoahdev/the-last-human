@@ -18,5 +18,6 @@ The proclamation of the law is the meaning of the edict: the record of the procl
 
 The inheritance of the law: the edict of the care, carried from the ground to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The proclamation is complete. It is kept in the archive, in the section of the the proclamations.*
+*The proclamation is complete. It is kept in the archive, in the section of the proclamations.*
+
 

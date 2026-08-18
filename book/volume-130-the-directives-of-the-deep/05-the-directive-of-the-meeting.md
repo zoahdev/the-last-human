@@ -18,5 +18,6 @@ The directive of the meeting is the meaning of the inn: the record of the direct
 
 The inheritance of the meeting: the inn of the table, carried from the crossroads to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The directive is complete. It is kept in the archive, in the section of the the directives of the deep.*
+*The directive is complete. It is kept in the archive, in the section of the directives of the deep.*
+
 

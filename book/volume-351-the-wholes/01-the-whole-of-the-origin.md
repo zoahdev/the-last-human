@@ -18,5 +18,6 @@ The whole of the origin is the meaning of the whole: the record of the completin
 
 The inheritance of the origin: the whole of the wanting, carried from the entirety to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The whole is complete. It is kept in the archive, in the section of the the wholes.*
+*The whole is complete. It is kept in the archive, in the section of the wholes.*
+
 

@@ -18,5 +18,6 @@ The mountain of the garden is the meaning of the alpine garden: the record of th
 
 The inheritance of the garden: the alpine garden of the earth, carried from the mountain green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The mountain is complete. It is kept in the archive, in the section of the the mountains.*
+*The mountain is complete. It is kept in the archive, in the section of the mountains.*
+
 

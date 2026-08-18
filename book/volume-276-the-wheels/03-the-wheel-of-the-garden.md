@@ -18,5 +18,6 @@ The wheel of the garden is the meaning of the waterwheel: the record of the whee
 
 The inheritance of the garden: the waterwheel of the earth, carried from the wheeled green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The wheel is complete. It is kept in the archive, in the section of the the wheels.*
+*The wheel is complete. It is kept in the archive, in the section of the wheels.*
+
 

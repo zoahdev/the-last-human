@@ -18,5 +18,6 @@ The lattice of the handover is the meaning of the cross: the record of the latti
 
 The inheritance of the handover: the cross of the hand, carried from the latticed hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The lattice is complete. It is kept in the archive, in the section of the the lattices.*
+*The lattice is complete. It is kept in the archive, in the section of the lattices.*
+
 

@@ -18,5 +18,6 @@ The murmur of the meeting is the meaning of the hum: the record of the murmuring
 
 The inheritance of the meeting: the hum of the table, carried from the low table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The murmur is complete. It is kept in the archive, in the section of the the murmurs.*
+*The murmur is complete. It is kept in the archive, in the section of the murmurs.*
+
 

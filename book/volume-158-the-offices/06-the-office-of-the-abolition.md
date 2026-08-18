@@ -18,5 +18,6 @@ The office of the abolition is the meaning of the freedom: the record of the off
 
 The inheritance of the abolition: the freedom of the peace, carried from the emancipation to the peace without loss, and held by the lineage as the lineage holds the abolition.
 
-*The office is complete. It is kept in the archive, in the section of the the offices.*
+*The office is complete. It is kept in the archive, in the section of the offices.*
+
 

@@ -18,5 +18,6 @@ The verse of the memory is the meaning of the quotation: the record of the versi
 
 The inheritance of the memory: the quotation of the book, carried from the remembered line to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The verse is complete. It is kept in the archive, in the section of the the verses.*
+*The verse is complete. It is kept in the archive, in the section of the verses.*
+
 

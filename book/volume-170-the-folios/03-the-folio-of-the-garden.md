@@ -18,5 +18,6 @@ The folio of the garden is the meaning of the foliage: the record of the folding
 
 The inheritance of the garden: the foliage of the earth, carried from the green fold to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The folio is complete. It is kept in the archive, in the section of the the folios.*
+*The folio is complete. It is kept in the archive, in the section of the folios.*
+
 

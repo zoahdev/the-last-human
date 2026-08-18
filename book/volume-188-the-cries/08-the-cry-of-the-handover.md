@@ -18,5 +18,6 @@ The cry of the handover is the meaning of the comforting: the record of the cryi
 
 The inheritance of the handover: the comforting of the hand, carried from the passing cry to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The cry is complete. It is kept in the archive, in the section of the the cries.*
+*The cry is complete. It is kept in the archive, in the section of the cries.*
+
 

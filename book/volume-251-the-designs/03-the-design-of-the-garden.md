@@ -18,5 +18,6 @@ The design of the garden is the meaning of the landscape: the record of the desi
 
 The inheritance of the garden: the landscape of the earth, carried from the designed green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The design is complete. It is kept in the archive, in the section of the the designs.*
+*The design is complete. It is kept in the archive, in the section of the designs.*
+
 

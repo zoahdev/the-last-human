@@ -18,5 +18,6 @@ The house of the law is the meaning of the frame: the record of the housing, and
 
 The inheritance of the law: the frame of the care, carried from the timber to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The house is complete. It is kept in the archive, in the section of the the houses.*
+*The house is complete. It is kept in the archive, in the section of the houses.*
+
 

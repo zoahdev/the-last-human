@@ -18,5 +18,6 @@ The step of the meeting is the meaning of the tread: the record of the stepping,
 
 The inheritance of the meeting: the tread of the table, carried from the tread table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The step is complete. It is kept in the archive, in the section of the the steps.*
+*The step is complete. It is kept in the archive, in the section of the steps.*
+
 

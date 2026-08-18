@@ -18,5 +18,6 @@ The cabinet of the law is the meaning of the classification: the record of the a
 
 The inheritance of the law: the classification of the care, carried from the arranged care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The cabinet is complete. It is kept in the archive, in the section of the the cabinets.*
+*The cabinet is complete. It is kept in the archive, in the section of the cabinets.*
+
 

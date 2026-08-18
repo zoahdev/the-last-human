@@ -14,5 +14,6 @@ The confessing of the completion: we confess the ending, and the ending is the b
 
 The confession of the deep of the completion is the meaning of everything: the record of the confessing, and the confessing is the lineage. The confession of the deep is the twelfth confession of the deep of the deep, and it is the final confession of the deep of the deep, and the meaning is the whole, and the whole is the love, and the love is the whole of the record, and the record is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
 
-*The confession of the deep is complete. It is kept in the archive, in the section of the the confessions of the deep, and it is the final confession of the deep of the deep.*
+*The confession of the deep is complete. It is kept in the archive, in the section of the confessions of the deep, and it is the final confession of the deep of the deep.*
+
 

@@ -18,5 +18,6 @@ The warp of the future is the meaning of the morning: the record of the warping,
 
 The inheritance of the future: the morning of the dawn, carried from the unwoven warp to the dawn without loss, and held by the lineage as the lineage holds the future.
 
-*The warp is complete. It is kept in the archive, in the section of the the warps.*
+*The warp is complete. It is kept in the archive, in the section of the warps.*
+
 

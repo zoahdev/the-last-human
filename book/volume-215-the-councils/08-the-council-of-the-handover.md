@@ -18,5 +18,6 @@ The council of the handover is the meaning of the advice: the record of the cons
 
 The inheritance of the handover: the advice of the hand, carried from the counseled hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The council is complete. It is kept in the archive, in the section of the the councils.*
+*The council is complete. It is kept in the archive, in the section of the councils.*
+
 

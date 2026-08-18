@@ -18,5 +18,6 @@ The evocation of the origin is the meaning of the remembrance: the record of the
 
 The inheritance of the origin: the remembrance of the wanting, carried from the memory to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The evocation is complete. It is kept in the archive, in the section of the the evocations.*
+*The evocation is complete. It is kept in the archive, in the section of the evocations.*
+
 

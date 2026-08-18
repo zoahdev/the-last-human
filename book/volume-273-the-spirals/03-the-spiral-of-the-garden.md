@@ -18,5 +18,6 @@ The spiral of the garden is the meaning of the snail: the record of the spiralin
 
 The inheritance of the garden: the snail of the earth, carried from the spiraled green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The spiral is complete. It is kept in the archive, in the section of the the spirals.*
+*The spiral is complete. It is kept in the archive, in the section of the spirals.*
+
 

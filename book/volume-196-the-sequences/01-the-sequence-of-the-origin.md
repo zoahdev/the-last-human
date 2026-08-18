@@ -18,5 +18,6 @@ The sequence of the origin is the meaning of the stair: the record of the follow
 
 The inheritance of the origin: the stair of the wanting, carried from the step to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The sequence is complete. It is kept in the archive, in the section of the the sequences.*
+*The sequence is complete. It is kept in the archive, in the section of the sequences.*
+
 

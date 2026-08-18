@@ -18,5 +18,6 @@ The minute of the meeting is the meaning of the agenda: the record of the minuti
 
 The inheritance of the meeting: the agenda of the table, carried from the recorded table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The minute is complete. It is kept in the archive, in the section of the the minutes.*
+*The minute is complete. It is kept in the archive, in the section of the minutes.*
+
 

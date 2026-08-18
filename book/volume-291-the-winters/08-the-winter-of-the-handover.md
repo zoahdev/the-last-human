@@ -18,5 +18,6 @@ The winter of the handover is the meaning of the warmth: the record of the freez
 
 The inheritance of the handover: the warmth of the hand, carried from the frozen hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The winter is complete. It is kept in the archive, in the section of the the winters.*
+*The winter is complete. It is kept in the archive, in the section of the winters.*
+
 

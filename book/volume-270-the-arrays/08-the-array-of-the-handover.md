@@ -18,5 +18,6 @@ The array of the handover is the meaning of the order: the record of the arrayin
 
 The inheritance of the handover: the order of the hand, carried from the arrayed hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The array is complete. It is kept in the archive, in the section of the the arrays.*
+*The array is complete. It is kept in the archive, in the section of the arrays.*
+
 

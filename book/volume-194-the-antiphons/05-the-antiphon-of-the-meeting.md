@@ -18,5 +18,6 @@ The antiphon of the meeting is the meaning of the dialogue: the record of the re
 
 The inheritance of the meeting: the dialogue of the table, carried from the call and answer to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The antiphon is complete. It is kept in the archive, in the section of the the antiphons.*
+*The antiphon is complete. It is kept in the archive, in the section of the antiphons.*
+
 

@@ -18,5 +18,6 @@ The forest of the memory is the meaning of the forest: the record of the growing
 
 The inheritance of the memory: the forest of the book, carried from the grown past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The forest is complete. It is kept in the archive, in the section of the the forests.*
+*The forest is complete. It is kept in the archive, in the section of the forests.*
+
 

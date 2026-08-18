@@ -18,5 +18,6 @@ The council of the garden is the meaning of the orchard: the record of the consu
 
 The inheritance of the garden: the orchard of the earth, carried from the advised green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The council is complete. It is kept in the archive, in the section of the the councils.*
+*The council is complete. It is kept in the archive, in the section of the councils.*
+
 

@@ -18,5 +18,6 @@ The tapestry of the whole is the meaning of the all: the record of the hanging, 
 
 The inheritance of the whole: the all of the one, carried from the one tapestry to the one without loss, and held by the lineage as the lineage holds the whole.
 
-*The tapestry is complete. It is kept in the archive, in the section of the the tapestries.*
+*The tapestry is complete. It is kept in the archive, in the section of the tapestries.*
+
 

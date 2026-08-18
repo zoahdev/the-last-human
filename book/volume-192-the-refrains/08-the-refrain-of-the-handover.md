@@ -18,5 +18,6 @@ The refrain of the handover is the meaning of the again: the record of the repea
 
 The inheritance of the handover: the again of the hand, carried from the repeated hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The refrain is complete. It is kept in the archive, in the section of the the refrains.*
+*The refrain is complete. It is kept in the archive, in the section of the refrains.*
+
 

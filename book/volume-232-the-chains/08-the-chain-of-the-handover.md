@@ -18,5 +18,6 @@ The chain of the handover is the meaning of the chain: the record of the chainin
 
 The inheritance of the handover: the chain of the hand, carried from the chained hands to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The chain is complete. It is kept in the archive, in the section of the the chains.*
+*The chain is complete. It is kept in the archive, in the section of the chains.*
+
 

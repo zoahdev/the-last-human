@@ -18,5 +18,6 @@ The festival of the meeting is the meaning of the festival: the record of the ce
 
 The inheritance of the meeting: the festival of the table, carried from the festival table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The festival is complete. It is kept in the archive, in the section of the the festivals.*
+*The festival is complete. It is kept in the archive, in the section of the festivals.*
+
 

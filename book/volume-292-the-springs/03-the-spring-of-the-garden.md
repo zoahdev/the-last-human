@@ -18,5 +18,6 @@ The spring of the garden is the meaning of the well: the record of the springing
 
 The inheritance of the garden: the well of the earth, carried from the spring green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The spring is complete. It is kept in the archive, in the section of the the springs.*
+*The spring is complete. It is kept in the archive, in the section of the springs.*
+
 

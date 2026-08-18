@@ -18,5 +18,6 @@ The answer of the meeting is the meaning of the communion: the record of the ans
 
 The inheritance of the meeting: the communion of the table, carried from the responsive table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The answer is complete. It is kept in the archive, in the section of the the answers.*
+*The answer is complete. It is kept in the archive, in the section of the answers.*
+
 

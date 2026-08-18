@@ -18,5 +18,6 @@ The homily of the law is the meaning of the guidance: the record of the speaking
 
 The inheritance of the law: the guidance of the care, carried from the counsel to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The homily is complete. It is kept in the archive, in the section of the the homilies.*
+*The homily is complete. It is kept in the archive, in the section of the homilies.*
+
 

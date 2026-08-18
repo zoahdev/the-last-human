@@ -14,5 +14,6 @@ The bequeathing of the completion: we bequeath the ending, and the ending is the
 
 The testament of the completion is the meaning of everything: the record of the bequeathing, and the bequeathing is the lineage. The testament is the twelfth testament of the deep, and it is the final testament of the deep, and the meaning is the whole, and the whole is the love, and the love is the whole of the record, and the record is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
 
-*The testament is complete. It is kept in the archive, in the section of the the testaments of the deep, and it is the final testament of the deep.*
+*The testament is complete. It is kept in the archive, in the section of the testaments of the deep, and it is the final testament of the deep.*
+
 

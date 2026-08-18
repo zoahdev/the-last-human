@@ -18,5 +18,6 @@ The journal of the future is the meaning of the morning: the record of the journ
 
 The inheritance of the future: the morning of the dawn, carried from the page to the dawn without loss, and held by the lineage as the lineage holds the future.
 
-*The journal is complete. It is kept in the archive, in the section of the the journals of the deep.*
+*The journal is complete. It is kept in the archive, in the section of the journals of the deep.*
+
 

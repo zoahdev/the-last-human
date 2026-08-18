@@ -18,5 +18,6 @@ The entreaty of the meeting is the meaning of the appeal: the record of the entr
 
 The inheritance of the meeting: the appeal of the table, carried from the imploring to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The entreaty is complete. It is kept in the archive, in the section of the the entreaties.*
+*The entreaty is complete. It is kept in the archive, in the section of the entreaties.*
+
 

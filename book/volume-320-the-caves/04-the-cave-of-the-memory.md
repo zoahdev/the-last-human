@@ -18,5 +18,6 @@ The cave of the memory is the meaning of the cave: the record of the sheltering,
 
 The inheritance of the memory: the cave of the book, carried from the sheltered past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The cave is complete. It is kept in the archive, in the section of the the caves.*
+*The cave is complete. It is kept in the archive, in the section of the caves.*
+
 

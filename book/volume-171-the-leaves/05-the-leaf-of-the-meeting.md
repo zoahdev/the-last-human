@@ -18,5 +18,6 @@ The leaf of the meeting is the meaning of the extension: the record of the leafi
 
 The inheritance of the meeting: the extension of the table, carried from the table leaf to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The leaf is complete. It is kept in the archive, in the section of the the leaves.*
+*The leaf is complete. It is kept in the archive, in the section of the leaves.*
+
 

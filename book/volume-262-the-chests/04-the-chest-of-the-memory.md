@@ -18,5 +18,6 @@ The chest of the memory is the meaning of the box: the record of the storing, an
 
 The inheritance of the memory: the box of the book, carried from the stored past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The chest is complete. It is kept in the archive, in the section of the the chests.*
+*The chest is complete. It is kept in the archive, in the section of the chests.*
+
 

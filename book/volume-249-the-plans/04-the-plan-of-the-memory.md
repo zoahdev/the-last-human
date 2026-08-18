@@ -18,5 +18,6 @@ The plan of the memory is the meaning of the scheme: the record of the planning,
 
 The inheritance of the memory: the scheme of the book, carried from the planned past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The plan is complete. It is kept in the archive, in the section of the the plans.*
+*The plan is complete. It is kept in the archive, in the section of the plans.*
+
 

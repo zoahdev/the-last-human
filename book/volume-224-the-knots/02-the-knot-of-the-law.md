@@ -18,5 +18,6 @@ The knot of the law is the meaning of the rope: the record of the knotting, and 
 
 The inheritance of the law: the rope of the care, carried from the knotted care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The knot is complete. It is kept in the archive, in the section of the the knots.*
+*The knot is complete. It is kept in the archive, in the section of the knots.*
+
 

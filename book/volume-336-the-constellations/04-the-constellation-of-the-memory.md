@@ -18,5 +18,6 @@ The constellation of the memory is the meaning of the constellation: the record 
 
 The inheritance of the memory: the constellation of the book, carried from the arranged past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The constellation is complete. It is kept in the archive, in the section of the the constellations.*
+*The constellation is complete. It is kept in the archive, in the section of the constellations.*
+
 

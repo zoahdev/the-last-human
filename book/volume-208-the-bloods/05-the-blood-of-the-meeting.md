@@ -18,5 +18,6 @@ The blood of the meeting is the meaning of the family: the record of the flowing
 
 The inheritance of the meeting: the family of the table, carried from the shared blood to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The blood is complete. It is kept in the archive, in the section of the the bloods.*
+*The blood is complete. It is kept in the archive, in the section of the bloods.*
+
 

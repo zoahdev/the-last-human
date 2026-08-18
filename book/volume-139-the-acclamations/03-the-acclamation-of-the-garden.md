@@ -18,5 +18,6 @@ The acclamation of the garden is the meaning of the green: the record of the acc
 
 The inheritance of the garden: the green of the earth, carried from the greeting to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The acclamation is complete. It is kept in the archive, in the section of the the acclamations.*
+*The acclamation is complete. It is kept in the archive, in the section of the acclamations.*
+
 

@@ -18,5 +18,6 @@ The kindred of the memory is the meaning of the genealogy: the record of the kin
 
 The inheritance of the memory: the genealogy of the book, carried from the remembered kin to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The kindred is complete. It is kept in the archive, in the section of the the kindreds.*
+*The kindred is complete. It is kept in the archive, in the section of the kindreds.*
+
 

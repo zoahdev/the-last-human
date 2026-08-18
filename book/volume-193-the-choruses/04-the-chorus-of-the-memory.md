@@ -18,5 +18,6 @@ The chorus of the memory is the meaning of the song: the record of the chorusing
 
 The inheritance of the memory: the song of the book, carried from the remembered chorus to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The chorus is complete. It is kept in the archive, in the section of the the choruses.*
+*The chorus is complete. It is kept in the archive, in the section of the choruses.*
+
 

@@ -18,5 +18,6 @@ The vessel of the memory is the meaning of the urn: the record of the holding, a
 
 The inheritance of the memory: the urn of the book, carried from the held past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The vessel is complete. It is kept in the archive, in the section of the the vessels.*
+*The vessel is complete. It is kept in the archive, in the section of the vessels.*
+
 

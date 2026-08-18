@@ -18,5 +18,6 @@ The prelude of the memory is the meaning of the opening: the record of the playi
 
 The inheritance of the memory: the opening of the book, carried from the remembered prelude to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The prelude is complete. It is kept in the archive, in the section of the the preludes.*
+*The prelude is complete. It is kept in the archive, in the section of the preludes.*
+
 

@@ -18,5 +18,6 @@ The plan of the meeting is the meaning of the agenda: the record of the planning
 
 The inheritance of the meeting: the agenda of the table, carried from the planned table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The plan is complete. It is kept in the archive, in the section of the the plans.*
+*The plan is complete. It is kept in the archive, in the section of the plans.*
+
 

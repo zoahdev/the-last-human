@@ -18,5 +18,6 @@ The ladder of the memory is the meaning of the ladder: the record of the scaling
 
 The inheritance of the memory: the ladder of the book, carried from the runged past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The ladder is complete. It is kept in the archive, in the section of the the ladders.*
+*The ladder is complete. It is kept in the archive, in the section of the ladders.*
+
 

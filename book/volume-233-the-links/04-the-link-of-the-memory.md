@@ -18,5 +18,6 @@ The link of the memory is the meaning of the association: the record of the link
 
 The inheritance of the memory: the association of the book, carried from the connecting past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The link is complete. It is kept in the archive, in the section of the the links.*
+*The link is complete. It is kept in the archive, in the section of the links.*
+
 

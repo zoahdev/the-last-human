@@ -18,5 +18,6 @@ The harbor of the meeting is the meaning of the dock: the record of the harborin
 
 The inheritance of the meeting: the dock of the table, carried from the harbor table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The harbor is complete. It is kept in the archive, in the section of the the harbors.*
+*The harbor is complete. It is kept in the archive, in the section of the harbors.*
+
 

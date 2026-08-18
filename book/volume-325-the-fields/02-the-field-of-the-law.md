@@ -18,5 +18,6 @@ The field of the law is the meaning of the field: the record of the tilling, and
 
 The inheritance of the law: the field of the care, carried from the tilled care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The field is complete. It is kept in the archive, in the section of the the fields.*
+*The field is complete. It is kept in the archive, in the section of the fields.*
+
 

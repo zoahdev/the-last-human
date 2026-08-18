@@ -18,5 +18,6 @@ The oasis of the memory is the meaning of the oasis: the record of the watering,
 
 The inheritance of the memory: the oasis of the book, carried from the watered past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The oasis is complete. It is kept in the archive, in the section of the the oases.*
+*The oasis is complete. It is kept in the archive, in the section of the oases.*
+
 

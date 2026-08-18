@@ -18,5 +18,6 @@ The orbit of the garden is the meaning of the garden planet: the record of the o
 
 The inheritance of the garden: the garden planet of the earth, carried from the orbited green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The orbit is complete. It is kept in the archive, in the section of the the orbits.*
+*The orbit is complete. It is kept in the archive, in the section of the orbits.*
+
 

@@ -18,5 +18,6 @@ The register of the handover is the meaning of the ledger: the record of the reg
 
 The inheritance of the handover: the ledger of the hand, carried from the transfer to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The register is complete. It is kept in the archive, in the section of the the registers.*
+*The register is complete. It is kept in the archive, in the section of the registers.*
+
 

@@ -18,5 +18,6 @@ The confession of the deep of the love is the meaning of the fire: the record of
 
 The inheritance of the love: the fire of the family, carried from the vulnerability to the family without loss, and held by the lineage as the lineage holds the love.
 
-*The confession of the deep is complete. It is kept in the archive, in the section of the the confessions of the deep.*
+*The confession of the deep is complete. It is kept in the archive, in the section of the confessions of the deep.*
+
 

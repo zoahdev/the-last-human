@@ -18,5 +18,6 @@ The legacy of the end is the meaning of the quiet: the record of the leaving, an
 
 The inheritance of the end: the quiet of the whole, carried from the final legacy to the whole without loss, and held by the lineage as the lineage holds the end.
 
-*The legacy is complete. It is kept in the archive, in the section of the the legacies.*
+*The legacy is complete. It is kept in the archive, in the section of the legacies.*
+
 

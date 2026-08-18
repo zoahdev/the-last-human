@@ -18,5 +18,6 @@ The fruit of the handover is the meaning of the fruit: the record of the ripenin
 
 The inheritance of the handover: the fruit of the hand, carried from the ripening hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The fruit is complete. It is kept in the archive, in the section of the the fruits.*
+*The fruit is complete. It is kept in the archive, in the section of the fruits.*
+
 

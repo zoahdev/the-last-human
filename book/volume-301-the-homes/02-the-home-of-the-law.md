@@ -18,5 +18,6 @@ The home of the law is the meaning of the shelter: the record of the homing, and
 
 The inheritance of the law: the shelter of the care, carried from the homing care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The home is complete. It is kept in the archive, in the section of the the homes.*
+*The home is complete. It is kept in the archive, in the section of the homes.*
+
 

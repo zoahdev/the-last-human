@@ -18,5 +18,6 @@ The memorandum of the memory is the meaning of the memorandum: the record of the
 
 The inheritance of the memory: the memorandum of the book, carried from the note to remember to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The memorandum is complete. It is kept in the archive, in the section of the the memoranda.*
+*The memorandum is complete. It is kept in the archive, in the section of the memoranda.*
+
 

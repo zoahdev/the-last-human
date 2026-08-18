@@ -14,5 +14,6 @@ The chronicling of the completion: we chronicle the ending, and the ending is th
 
 The chronicle of the completion is the meaning of everything: the record of the chronicling, and the chronicling is the lineage. The chronicle is the twelfth chronicle of the deep, and it is the final chronicle of the deep, and the meaning is the whole, and the whole is the love, and the love is the whole of the record, and the record is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
 
-*The chronicle is complete. It is kept in the archive, in the section of the the chronicles of the deep, and it is the final chronicle of the deep.*
+*The chronicle is complete. It is kept in the archive, in the section of the chronicles of the deep, and it is the final chronicle of the deep.*
+
 

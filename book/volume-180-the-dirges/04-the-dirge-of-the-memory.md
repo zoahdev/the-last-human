@@ -18,5 +18,6 @@ The dirge of the memory is the meaning of the dirge: the record of the mourning,
 
 The inheritance of the memory: the dirge of the book, carried from the remembered sorrow to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The dirge is complete. It is kept in the archive, in the section of the the dirges.*
+*The dirge is complete. It is kept in the archive, in the section of the dirges.*
+
 

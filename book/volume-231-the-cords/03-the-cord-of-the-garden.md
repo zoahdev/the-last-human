@@ -18,5 +18,6 @@ The cord of the garden is the meaning of the twine: the record of the cording, a
 
 The inheritance of the garden: the twine of the earth, carried from the corded green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The cord is complete. It is kept in the archive, in the section of the the cords.*
+*The cord is complete. It is kept in the archive, in the section of the cords.*
+
 

@@ -18,5 +18,6 @@ The interlude of the law is the meaning of the interval: the record of the resti
 
 The inheritance of the law: the interval of the care, carried from the resting care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The interlude is complete. It is kept in the archive, in the section of the the interludes.*
+*The interlude is complete. It is kept in the archive, in the section of the interludes.*
+
 

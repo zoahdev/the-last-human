@@ -18,5 +18,6 @@ The kinship of the memory is the meaning of the connection: the record of the ty
 
 The inheritance of the memory: the connection of the book, carried from the tied past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The kinship is complete. It is kept in the archive, in the section of the the kinships.*
+*The kinship is complete. It is kept in the archive, in the section of the kinships.*
+
 

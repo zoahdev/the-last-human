@@ -18,5 +18,6 @@ The gyre of the meeting is the meaning of the round: the record of the spinning,
 
 The inheritance of the meeting: the round of the table, carried from the spinning table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The gyre is complete. It is kept in the archive, in the section of the the gyres.*
+*The gyre is complete. It is kept in the archive, in the section of the gyres.*
+
 

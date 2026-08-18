@@ -18,5 +18,6 @@ The cord of the handover is the meaning of the twisting: the record of the cordi
 
 The inheritance of the handover: the twisting of the hand, carried from the corded hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The cord is complete. It is kept in the archive, in the section of the the cords.*
+*The cord is complete. It is kept in the archive, in the section of the cords.*
+
 

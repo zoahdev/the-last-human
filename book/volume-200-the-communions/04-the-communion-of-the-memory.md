@@ -18,5 +18,6 @@ The communion of the memory is the meaning of the fellowship: the record of the 
 
 The inheritance of the memory: the fellowship of the book, carried from the shared memory to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The communion is complete. It is kept in the archive, in the section of the the communions.*
+*The communion is complete. It is kept in the archive, in the section of the communions.*
+
 

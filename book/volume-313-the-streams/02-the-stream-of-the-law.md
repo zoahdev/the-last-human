@@ -18,5 +18,6 @@ The stream of the law is the meaning of the current: the record of the streaming
 
 The inheritance of the law: the current of the care, carried from the streaming care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The stream is complete. It is kept in the archive, in the section of the the streams.*
+*The stream is complete. It is kept in the archive, in the section of the streams.*
+
 

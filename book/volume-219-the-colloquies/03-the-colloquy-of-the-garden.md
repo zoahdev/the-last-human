@@ -18,5 +18,6 @@ The colloquy of the garden is the meaning of the talk: the record of the speakin
 
 The inheritance of the garden: the talk of the earth, carried from the spoken green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The colloquy is complete. It is kept in the archive, in the section of the the colloquies.*
+*The colloquy is complete. It is kept in the archive, in the section of the colloquies.*
+
 

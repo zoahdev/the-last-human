@@ -18,5 +18,6 @@ The field of the origin is the meaning of the field: the record of the tilling, 
 
 The inheritance of the origin: the field of the wanting, carried from the farmland to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The field is complete. It is kept in the archive, in the section of the the fields.*
+*The field is complete. It is kept in the archive, in the section of the fields.*
+
 

@@ -18,5 +18,6 @@ The register of the law is the meaning of the record: the record of the register
 
 The inheritance of the law: the record of the care, carried from the registration to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The register is complete. It is kept in the archive, in the section of the the registers.*
+*The register is complete. It is kept in the archive, in the section of the registers.*
+
 

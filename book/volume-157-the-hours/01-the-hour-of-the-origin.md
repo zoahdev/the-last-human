@@ -18,5 +18,6 @@ The hour of the origin is the meaning of the ringing: the record of the telling,
 
 The inheritance of the origin: the ringing of the wanting, carried from the bell to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The hour is complete. It is kept in the archive, in the section of the the hours.*
+*The hour is complete. It is kept in the archive, in the section of the hours.*
+
 

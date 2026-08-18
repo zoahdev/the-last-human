@@ -18,5 +18,6 @@ The heaven of the memory is the meaning of the beyond: the record of the raising
 
 The inheritance of the memory: the beyond of the book, carried from the raised past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The heaven is complete. It is kept in the archive, in the section of the the heavens.*
+*The heaven is complete. It is kept in the archive, in the section of the heavens.*
+
 

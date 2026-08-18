@@ -18,5 +18,6 @@ The thread of the meeting is the meaning of the needlework: the record of the th
 
 The inheritance of the meeting: the needlework of the table, carried from the threaded table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The thread is complete. It is kept in the archive, in the section of the the threads.*
+*The thread is complete. It is kept in the archive, in the section of the threads.*
+
 

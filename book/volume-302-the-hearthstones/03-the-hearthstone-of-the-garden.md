@@ -18,5 +18,6 @@ The hearthstone of the garden is the meaning of the garden fire: the record of t
 
 The inheritance of the garden: the garden fire of the earth, carried from the warm green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The hearthstone is complete. It is kept in the archive, in the section of the the hearthstones.*
+*The hearthstone is complete. It is kept in the archive, in the section of the hearthstones.*
+
 

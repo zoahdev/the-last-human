@@ -18,5 +18,6 @@ The wheel of the law is the meaning of the axle: the record of the wheeling, and
 
 The inheritance of the law: the axle of the care, carried from the wheeled care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The wheel is complete. It is kept in the archive, in the section of the the wheels.*
+*The wheel is complete. It is kept in the archive, in the section of the wheels.*
+
 

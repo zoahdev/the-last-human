@@ -18,5 +18,6 @@ The orison of the garden is the meaning of the terce: the record of the praying,
 
 The inheritance of the garden: the terce of the earth, carried from the morning to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The orison is complete. It is kept in the archive, in the section of the the orisons.*
+*The orison is complete. It is kept in the archive, in the section of the orisons.*
+
 

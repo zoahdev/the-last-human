@@ -18,5 +18,6 @@ The lake of the completion is the meaning of the fullness: the record of the mir
 
 The inheritance of the completion: the fullness of the beginning, carried from the complete lake to the beginning without loss, and held by the lineage as the lineage holds the completion.
 
-*The lake is complete. It is kept in the archive, in the section of the the lakes. It is the final lake of the canon, and after it the canon speaks again.*
+*The lake is complete. It is kept in the archive, in the section of the lakes. It is the final lake of the canon, and after it the canon speaks again.*
+
 

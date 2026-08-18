@@ -18,5 +18,6 @@ The oasis of the completion is the meaning of the fullness: the record of the wa
 
 The inheritance of the completion: the fullness of the beginning, carried from the complete oasis to the beginning without loss, and held by the lineage as the lineage holds the completion.
 
-*The oasis is complete. It is kept in the archive, in the section of the the oases. It is the final oasis of the canon, and after it the canon speaks again.*
+*The oasis is complete. It is kept in the archive, in the section of the oases. It is the final oasis of the canon, and after it the canon speaks again.*
+
 

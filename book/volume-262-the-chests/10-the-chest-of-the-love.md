@@ -18,5 +18,6 @@ The chest of the love is the meaning of the fire: the record of the storing, and
 
 The inheritance of the love: the fire of the family, carried from the stored heart to the family without loss, and held by the lineage as the lineage holds the love.
 
-*The chest is complete. It is kept in the archive, in the section of the the chests.*
+*The chest is complete. It is kept in the archive, in the section of the chests.*
+
 

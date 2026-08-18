@@ -18,5 +18,6 @@ The diagram of the garden is the meaning of the plot: the record of the diagrami
 
 The inheritance of the garden: the plot of the earth, carried from the outlined green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The diagram is complete. It is kept in the archive, in the section of the the diagrams.*
+*The diagram is complete. It is kept in the archive, in the section of the diagrams.*
+
 

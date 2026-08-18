@@ -18,5 +18,6 @@ The era of the completion is the meaning of the fullness: the record of the divi
 
 The inheritance of the completion: the fullness of the beginning, carried from the complete era to the beginning without loss, and held by the lineage as the lineage holds the completion.
 
-*The era is complete. It is kept in the archive, in the section of the the eras. It is the final era of the canon, and after it the canon speaks again.*
+*The era is complete. It is kept in the archive, in the section of the eras. It is the final era of the canon, and after it the canon speaks again.*
+
 

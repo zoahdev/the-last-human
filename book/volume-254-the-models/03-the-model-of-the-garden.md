@@ -18,5 +18,6 @@ The model of the garden is the meaning of the terrarium: the record of the model
 
 The inheritance of the garden: the terrarium of the earth, carried from the modeled green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The model is complete. It is kept in the archive, in the section of the the models.*
+*The model is complete. It is kept in the archive, in the section of the models.*
+
 

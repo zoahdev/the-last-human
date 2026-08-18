@@ -18,5 +18,6 @@ The fresco of the origin is the meaning of the plaster: the record of the fresco
 
 The inheritance of the origin: the plaster of the wanting, carried from the painted wall to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The fresco is complete. It is kept in the archive, in the section of the the frescoes.*
+*The fresco is complete. It is kept in the archive, in the section of the frescoes.*
+
 

@@ -18,5 +18,6 @@ The letter of the deep of the law is the meaning of the script: the record of th
 
 The inheritance of the law: the script of the care, carried from the handwriting to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The letter of the deep is complete. It is kept in the archive, in the section of the the letters of the deep.*
+*The letter of the deep is complete. It is kept in the archive, in the section of the letters of the deep.*
+
 

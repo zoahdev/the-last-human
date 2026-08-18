@@ -18,5 +18,6 @@ The feast of the law is the meaning of the meal: the record of the feasting, and
 
 The inheritance of the law: the meal of the care, carried from the feasted care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The feast is complete. It is kept in the archive, in the section of the the feasts.*
+*The feast is complete. It is kept in the archive, in the section of the feasts.*
+
 

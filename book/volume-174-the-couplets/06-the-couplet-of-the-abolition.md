@@ -18,5 +18,6 @@ The couplet of the abolition is the meaning of the freedom: the record of the pa
 
 The inheritance of the abolition: the freedom of the peace, carried from the paired freedom to the peace without loss, and held by the lineage as the lineage holds the abolition.
 
-*The couplet is complete. It is kept in the archive, in the section of the the couplets.*
+*The couplet is complete. It is kept in the archive, in the section of the couplets.*
+
 

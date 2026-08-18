@@ -18,5 +18,6 @@ The cave of the garden is the meaning of the cave garden: the record of the shel
 
 The inheritance of the garden: the cave garden of the earth, carried from the cave green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The cave is complete. It is kept in the archive, in the section of the the caves.*
+*The cave is complete. It is kept in the archive, in the section of the caves.*
+
 

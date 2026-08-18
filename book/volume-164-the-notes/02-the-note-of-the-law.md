@@ -18,5 +18,6 @@ The note of the law is the meaning of the script: the record of the noting, and 
 
 The inheritance of the law: the script of the care, carried from the written mark to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The note is complete. It is kept in the archive, in the section of the the notes.*
+*The note is complete. It is kept in the archive, in the section of the notes.*
+
 

@@ -18,5 +18,6 @@ The moon of the abolition is the meaning of the freedom: the record of the waxin
 
 The inheritance of the abolition: the freedom of the peace, carried from the full moon to the peace without loss, and held by the lineage as the lineage holds the abolition.
 
-*The moon is complete. It is kept in the archive, in the section of the the moons.*
+*The moon is complete. It is kept in the archive, in the section of the moons.*
+
 

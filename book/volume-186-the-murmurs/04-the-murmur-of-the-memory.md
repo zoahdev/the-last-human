@@ -18,5 +18,6 @@ The murmur of the memory is the meaning of the ripple: the record of the murmuri
 
 The inheritance of the memory: the ripple of the book, carried from the murmured past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The murmur is complete. It is kept in the archive, in the section of the the murmurs.*
+*The murmur is complete. It is kept in the archive, in the section of the murmurs.*
+
 

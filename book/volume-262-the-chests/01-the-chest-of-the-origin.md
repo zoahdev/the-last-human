@@ -18,5 +18,6 @@ The chest of the origin is the meaning of the oak: the record of the storing, an
 
 The inheritance of the origin: the oak of the wanting, carried from the oak box to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The chest is complete. It is kept in the archive, in the section of the the chests.*
+*The chest is complete. It is kept in the archive, in the section of the chests.*
+
 

@@ -18,5 +18,6 @@ The couplet of the meeting is the meaning of the double: the record of the pairi
 
 The inheritance of the meeting: the double of the table, carried from the paired table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The couplet is complete. It is kept in the archive, in the section of the the couplets.*
+*The couplet is complete. It is kept in the archive, in the section of the couplets.*
+
 

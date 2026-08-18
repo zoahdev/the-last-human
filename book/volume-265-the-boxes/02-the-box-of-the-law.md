@@ -18,5 +18,6 @@ The box of the law is the meaning of the parcel: the record of the boxing, and t
 
 The inheritance of the law: the parcel of the care, carried from the boxed care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The box is complete. It is kept in the archive, in the section of the the boxes.*
+*The box is complete. It is kept in the archive, in the section of the boxes.*
+
 

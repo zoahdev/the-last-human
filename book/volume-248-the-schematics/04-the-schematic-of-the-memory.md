@@ -18,5 +18,6 @@ The schematic of the memory is the meaning of the blueprint: the record of the d
 
 The inheritance of the memory: the blueprint of the book, carried from the drawn past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The schematic is complete. It is kept in the archive, in the section of the the schematics.*
+*The schematic is complete. It is kept in the archive, in the section of the schematics.*
+
 

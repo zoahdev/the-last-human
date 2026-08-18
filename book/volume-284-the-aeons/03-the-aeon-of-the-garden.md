@@ -18,5 +18,6 @@ The aeon of the garden is the meaning of the cosmic garden: the record of the sp
 
 The inheritance of the garden: the cosmic garden of the earth, carried from the spanned green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The aeon is complete. It is kept in the archive, in the section of the the aeons.*
+*The aeon is complete. It is kept in the archive, in the section of the aeons.*
+
 

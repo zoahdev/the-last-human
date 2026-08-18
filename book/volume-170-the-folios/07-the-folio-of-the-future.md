@@ -18,5 +18,6 @@ The folio of the future is the meaning of the morning: the record of the folding
 
 The inheritance of the future: the morning of the dawn, carried from the blank page to the dawn without loss, and held by the lineage as the lineage holds the future.
 
-*The folio is complete. It is kept in the archive, in the section of the the folios.*
+*The folio is complete. It is kept in the archive, in the section of the folios.*
+
 

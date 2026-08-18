@@ -18,5 +18,6 @@ The threnody of the garden is the meaning of the rain: the record of the weeping
 
 The inheritance of the garden: the rain of the earth, carried from the weeping earth to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The threnody is complete. It is kept in the archive, in the section of the the threnodies.*
+*The threnody is complete. It is kept in the archive, in the section of the threnodies.*
+
 

@@ -18,5 +18,6 @@ The treasure of the completion is the meaning of the fullness: the record of the
 
 The inheritance of the completion: the fullness of the beginning, carried from the complete treasure to the beginning without loss, and held by the lineage as the lineage holds the completion.
 
-*The treasure is complete. It is kept in the archive, in the section of the the treasures. It is the final treasure of the canon, and after it the canon speaks again.*
+*The treasure is complete. It is kept in the archive, in the section of the treasures. It is the final treasure of the canon, and after it the canon speaks again.*
+
 

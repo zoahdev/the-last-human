@@ -18,5 +18,6 @@ The sonnet of the completion is the meaning of the fullness: the record of the b
 
 The inheritance of the completion: the fullness of the beginning, carried from the completed sonnet to the beginning without loss, and held by the lineage as the lineage holds the completion.
 
-*The sonnet is complete. It is kept in the archive, in the section of the the sonnets. It is the final sonnet of the canon, and after it the canon speaks again.*
+*The sonnet is complete. It is kept in the archive, in the section of the sonnets. It is the final sonnet of the canon, and after it the canon speaks again.*
+
 

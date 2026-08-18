@@ -18,5 +18,6 @@ The desert of the law is the meaning of the desert: the record of the drying, an
 
 The inheritance of the law: the desert of the care, carried from the drying care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The desert is complete. It is kept in the archive, in the section of the the deserts.*
+*The desert is complete. It is kept in the archive, in the section of the deserts.*
+
 

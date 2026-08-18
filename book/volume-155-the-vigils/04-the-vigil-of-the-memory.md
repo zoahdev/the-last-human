@@ -18,5 +18,6 @@ The vigil of the memory is the meaning of the remembrance: the record of the kee
 
 The inheritance of the memory: the remembrance of the book, carried from the wake to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The vigil is complete. It is kept in the archive, in the section of the the vigils.*
+*The vigil is complete. It is kept in the archive, in the section of the vigils.*
+
 

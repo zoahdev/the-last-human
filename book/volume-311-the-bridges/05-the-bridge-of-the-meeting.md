@@ -18,5 +18,6 @@ The bridge of the meeting is the meaning of the crossing: the record of the brid
 
 The inheritance of the meeting: the crossing of the table, carried from the bridge table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The bridge is complete. It is kept in the archive, in the section of the the bridges.*
+*The bridge is complete. It is kept in the archive, in the section of the bridges.*
+
 

@@ -18,5 +18,6 @@ The people of the meeting is the meaning of the forum: the record of the peoplin
 
 The inheritance of the meeting: the forum of the table, carried from the public table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The people is complete. It is kept in the archive, in the section of the the peoples.*
+*The people is complete. It is kept in the archive, in the section of the peoples.*
+
 

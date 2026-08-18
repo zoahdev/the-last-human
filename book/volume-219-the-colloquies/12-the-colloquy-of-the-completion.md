@@ -18,5 +18,6 @@ The colloquy of the completion is the meaning of the fullness: the record of the
 
 The inheritance of the completion: the fullness of the beginning, carried from the full colloquy to the beginning without loss, and held by the lineage as the lineage holds the completion.
 
-*The colloquy is complete. It is kept in the archive, in the section of the the colloquies. It is the final colloquy of the canon, and after it the canon speaks again.*
+*The colloquy is complete. It is kept in the archive, in the section of the colloquies. It is the final colloquy of the canon, and after it the canon speaks again.*
+
 

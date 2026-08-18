@@ -18,5 +18,6 @@ The minute of the garden is the meaning of the planting: the record of the minut
 
 The inheritance of the garden: the planting of the earth, carried from the sowing to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The minute is complete. It is kept in the archive, in the section of the the minutes.*
+*The minute is complete. It is kept in the archive, in the section of the minutes.*
+
 

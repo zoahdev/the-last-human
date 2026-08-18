@@ -18,5 +18,6 @@ The distich of the origin is the meaning of the pair: the record of the linking,
 
 The inheritance of the origin: the pair of the wanting, carried from the two lines to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The distich is complete. It is kept in the archive, in the section of the the distichs.*
+*The distich is complete. It is kept in the archive, in the section of the distichs.*
+
 

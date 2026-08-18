@@ -18,5 +18,6 @@ The root of the whole is the meaning of the all: the record of the rooting, and 
 
 The inheritance of the whole: the all of the one, carried from the one root to the one without loss, and held by the lineage as the lineage holds the whole.
 
-*The root is complete. It is kept in the archive, in the section of the the roots.*
+*The root is complete. It is kept in the archive, in the section of the roots.*
+
 

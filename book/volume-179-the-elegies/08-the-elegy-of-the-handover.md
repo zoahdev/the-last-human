@@ -18,5 +18,6 @@ The elegy of the handover is the meaning of the farewell: the record of the lame
 
 The inheritance of the handover: the farewell of the hand, carried from the laying down to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The elegy is complete. It is kept in the archive, in the section of the the elegies.*
+*The elegy is complete. It is kept in the archive, in the section of the elegies.*
+
 

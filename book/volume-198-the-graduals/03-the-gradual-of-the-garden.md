@@ -18,5 +18,6 @@ The gradual of the garden is the meaning of the vine: the record of the climbing
 
 The inheritance of the garden: the vine of the earth, carried from the climbing green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The gradual is complete. It is kept in the archive, in the section of the the graduals.*
+*The gradual is complete. It is kept in the archive, in the section of the graduals.*
+
 

@@ -18,5 +18,6 @@ The cry of the future is the meaning of the morning: the record of the crying, a
 
 The inheritance of the future: the morning of the dawn, carried from the newborn cry to the dawn without loss, and held by the lineage as the lineage holds the future.
 
-*The cry is complete. It is kept in the archive, in the section of the the cries.*
+*The cry is complete. It is kept in the archive, in the section of the cries.*
+
 

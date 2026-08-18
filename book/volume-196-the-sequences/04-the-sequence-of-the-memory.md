@@ -18,5 +18,6 @@ The sequence of the memory is the meaning of the series: the record of the follo
 
 The inheritance of the memory: the series of the book, carried from the remembered sequence to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The sequence is complete. It is kept in the archive, in the section of the the sequences.*
+*The sequence is complete. It is kept in the archive, in the section of the sequences.*
+
 

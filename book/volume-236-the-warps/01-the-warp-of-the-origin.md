@@ -18,5 +18,6 @@ The warp of the origin is the meaning of the loom: the record of the warping, an
 
 The inheritance of the origin: the loom of the wanting, carried from the lengthwise thread to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The warp is complete. It is kept in the archive, in the section of the the warps.*
+*The warp is complete. It is kept in the archive, in the section of the warps.*
+
 

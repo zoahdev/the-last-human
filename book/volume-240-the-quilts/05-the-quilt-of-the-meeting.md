@@ -18,5 +18,6 @@ The quilt of the meeting is the meaning of the covering: the record of the quilt
 
 The inheritance of the meeting: the covering of the table, carried from the quilted table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The quilt is complete. It is kept in the archive, in the section of the the quilts.*
+*The quilt is complete. It is kept in the archive, in the section of the quilts.*
+
 

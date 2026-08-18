@@ -18,5 +18,6 @@ The chest of the whole is the meaning of the all: the record of the storing, and
 
 The inheritance of the whole: the all of the one, carried from the one chest to the one without loss, and held by the lineage as the lineage holds the whole.
 
-*The chest is complete. It is kept in the archive, in the section of the the chests.*
+*The chest is complete. It is kept in the archive, in the section of the chests.*
+
 

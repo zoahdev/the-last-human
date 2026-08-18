@@ -18,5 +18,6 @@ The aeon of the abolition is the meaning of the freedom: the record of the spann
 
 The inheritance of the abolition: the freedom of the peace, carried from the new aeon to the peace without loss, and held by the lineage as the lineage holds the abolition.
 
-*The aeon is complete. It is kept in the archive, in the section of the the aeons.*
+*The aeon is complete. It is kept in the archive, in the section of the aeons.*
+
 

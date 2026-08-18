@@ -18,5 +18,6 @@ The watch of the garden is the meaning of the groundskeeper: the record of the w
 
 The inheritance of the garden: the groundskeeper of the earth, carried from the keeper to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The watch is complete. It is kept in the archive, in the section of the the watches.*
+*The watch is complete. It is kept in the archive, in the section of the watches.*
+
 

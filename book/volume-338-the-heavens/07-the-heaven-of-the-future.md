@@ -18,5 +18,6 @@ The heaven of the future is the meaning of the morning: the record of the raisin
 
 The inheritance of the future: the morning of the dawn, carried from the unraised heaven to the dawn without loss, and held by the lineage as the lineage holds the future.
 
-*The heaven is complete. It is kept in the archive, in the section of the the heavens.*
+*The heaven is complete. It is kept in the archive, in the section of the heavens.*
+
 

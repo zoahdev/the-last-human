@@ -18,5 +18,6 @@ The island of the origin is the meaning of the island: the record of the surroun
 
 The inheritance of the origin: the island of the wanting, carried from the land in the sea to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The island is complete. It is kept in the archive, in the section of the the islands.*
+*The island is complete. It is kept in the archive, in the section of the islands.*
+
 

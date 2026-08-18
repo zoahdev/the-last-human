@@ -18,5 +18,6 @@ The kindred of the meeting is the meaning of the relatives: the record of the ki
 
 The inheritance of the meeting: the relatives of the table, carried from the kin table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The kindred is complete. It is kept in the archive, in the section of the the kindreds.*
+*The kindred is complete. It is kept in the archive, in the section of the kindreds.*
+
 

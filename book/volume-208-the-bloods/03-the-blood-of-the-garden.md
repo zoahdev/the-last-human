@@ -18,5 +18,6 @@ The blood of the garden is the meaning of the vein: the record of the flowing, a
 
 The inheritance of the garden: the vein of the earth, carried from the sap to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The blood is complete. It is kept in the archive, in the section of the the bloods.*
+*The blood is complete. It is kept in the archive, in the section of the bloods.*
+
 

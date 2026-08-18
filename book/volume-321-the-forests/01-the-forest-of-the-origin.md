@@ -18,5 +18,6 @@ The forest of the origin is the meaning of the forest: the record of the growing
 
 The inheritance of the origin: the forest of the wanting, carried from the tree to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The forest is complete. It is kept in the archive, in the section of the the forests.*
+*The forest is complete. It is kept in the archive, in the section of the forests.*
+
 

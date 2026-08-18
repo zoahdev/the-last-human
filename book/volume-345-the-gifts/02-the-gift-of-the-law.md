@@ -18,5 +18,6 @@ The gift of the law is the meaning of the gift: the record of the giving, and th
 
 The inheritance of the law: the gift of the care, carried from the giving care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The gift is complete. It is kept in the archive, in the section of the the gifts.*
+*The gift is complete. It is kept in the archive, in the section of the gifts.*
+
 

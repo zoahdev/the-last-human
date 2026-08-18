@@ -18,5 +18,6 @@ The array of the memory is the meaning of the constellation: the record of the a
 
 The inheritance of the memory: the constellation of the book, carried from the arrayed past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The array is complete. It is kept in the archive, in the section of the the arrays.*
+*The array is complete. It is kept in the archive, in the section of the arrays.*
+
 

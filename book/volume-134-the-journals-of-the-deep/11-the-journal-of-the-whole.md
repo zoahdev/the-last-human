@@ -18,5 +18,6 @@ The journal of the whole is the meaning of the all: the record of the journaling
 
 The inheritance of the whole: the all of the one, carried from the volume to the one without loss, and held by the lineage as the lineage holds the whole.
 
-*The journal is complete. It is kept in the archive, in the section of the the journals of the deep.*
+*The journal is complete. It is kept in the archive, in the section of the journals of the deep.*
+
 

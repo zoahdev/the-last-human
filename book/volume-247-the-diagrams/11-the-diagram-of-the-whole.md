@@ -18,5 +18,6 @@ The diagram of the whole is the meaning of the all: the record of the diagraming
 
 The inheritance of the whole: the all of the one, carried from the one diagram to the one without loss, and held by the lineage as the lineage holds the whole.
 
-*The diagram is complete. It is kept in the archive, in the section of the the diagrams.*
+*The diagram is complete. It is kept in the archive, in the section of the diagrams.*
+
 

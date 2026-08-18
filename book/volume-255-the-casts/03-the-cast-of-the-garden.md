@@ -18,5 +18,6 @@ The cast of the garden is the meaning of the statue: the record of the casting, 
 
 The inheritance of the garden: the statue of the earth, carried from the cast green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The cast is complete. It is kept in the archive, in the section of the the casts.*
+*The cast is complete. It is kept in the archive, in the section of the casts.*
+
 

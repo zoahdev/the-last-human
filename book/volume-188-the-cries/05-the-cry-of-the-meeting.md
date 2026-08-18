@@ -18,5 +18,6 @@ The cry of the meeting is the meaning of the response: the record of the crying,
 
 The inheritance of the meeting: the response of the table, carried from the answering table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The cry is complete. It is kept in the archive, in the section of the the cries.*
+*The cry is complete. It is kept in the archive, in the section of the cries.*
+
 

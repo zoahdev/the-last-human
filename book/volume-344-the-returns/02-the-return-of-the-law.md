@@ -18,5 +18,6 @@ The return of the law is the meaning of the road: the record of the returning, a
 
 The inheritance of the law: the road of the care, carried from the returning care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The return is complete. It is kept in the archive, in the section of the the returns.*
+*The return is complete. It is kept in the archive, in the section of the returns.*
+
 

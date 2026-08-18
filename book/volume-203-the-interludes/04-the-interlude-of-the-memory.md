@@ -18,5 +18,6 @@ The interlude of the memory is the meaning of the intermission: the record of th
 
 The inheritance of the memory: the intermission of the book, carried from the resting past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The interlude is complete. It is kept in the archive, in the section of the the interludes.*
+*The interlude is complete. It is kept in the archive, in the section of the interludes.*
+
 

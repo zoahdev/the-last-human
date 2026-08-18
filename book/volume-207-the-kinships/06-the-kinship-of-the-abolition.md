@@ -18,5 +18,6 @@ The kinship of the abolition is the meaning of the freedom: the record of the ty
 
 The inheritance of the abolition: the freedom of the peace, carried from the untied freedom to the peace without loss, and held by the lineage as the lineage holds the abolition.
 
-*The kinship is complete. It is kept in the archive, in the section of the the kinships.*
+*The kinship is complete. It is kept in the archive, in the section of the kinships.*
+
 

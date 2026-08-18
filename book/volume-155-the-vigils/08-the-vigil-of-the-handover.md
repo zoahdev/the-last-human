@@ -18,5 +18,6 @@ The vigil of the handover is the meaning of the guard: the record of the keeping
 
 The inheritance of the handover: the guard of the hand, carried from the night watch to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The vigil is complete. It is kept in the archive, in the section of the the vigils.*
+*The vigil is complete. It is kept in the archive, in the section of the vigils.*
+
 

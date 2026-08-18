@@ -18,5 +18,6 @@ The tide of the origin is the meaning of the sea: the record of the tiding, and 
 
 The inheritance of the origin: the sea of the wanting, carried from the moon pull to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The tide is complete. It is kept in the archive, in the section of the the tides.*
+*The tide is complete. It is kept in the archive, in the section of the tides.*
+
 

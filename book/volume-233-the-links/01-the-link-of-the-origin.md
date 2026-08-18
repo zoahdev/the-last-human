@@ -18,5 +18,6 @@ The link of the origin is the meaning of the join: the record of the linking, an
 
 The inheritance of the origin: the join of the wanting, carried from the joining to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The link is complete. It is kept in the archive, in the section of the the links.*
+*The link is complete. It is kept in the archive, in the section of the links.*
+
 

@@ -18,5 +18,6 @@ The nebula of the meeting is the meaning of the cloud: the record of the cloudin
 
 The inheritance of the meeting: the cloud of the table, carried from the nebular table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The nebula is complete. It is kept in the archive, in the section of the the nebulae.*
+*The nebula is complete. It is kept in the archive, in the section of the nebulae.*
+
 

@@ -18,5 +18,6 @@ The kinship of the end is the meaning of the quiet: the record of the tying, and
 
 The inheritance of the end: the quiet of the whole, carried from the final kinship to the whole without loss, and held by the lineage as the lineage holds the end.
 
-*The kinship is complete. It is kept in the archive, in the section of the the kinships.*
+*The kinship is complete. It is kept in the archive, in the section of the kinships.*
+
 

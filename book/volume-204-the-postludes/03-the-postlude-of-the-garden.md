@@ -18,5 +18,6 @@ The postlude of the garden is the meaning of the dusk: the record of the closing
 
 The inheritance of the garden: the dusk of the earth, carried from the closing green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The postlude is complete. It is kept in the archive, in the section of the the postludes.*
+*The postlude is complete. It is kept in the archive, in the section of the postludes.*
+
 

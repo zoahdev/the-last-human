@@ -18,5 +18,6 @@ The exclamation of the abolition is the meaning of the freedom: the record of th
 
 The inheritance of the abolition: the freedom of the peace, carried from the cry to the peace without loss, and held by the lineage as the lineage holds the abolition.
 
-*The exclamation is complete. It is kept in the archive, in the section of the the exclamations.*
+*The exclamation is complete. It is kept in the archive, in the section of the exclamations.*
+
 

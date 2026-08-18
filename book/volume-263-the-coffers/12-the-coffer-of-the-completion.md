@@ -18,5 +18,6 @@ The coffer of the completion is the meaning of the fullness: the record of the l
 
 The inheritance of the completion: the fullness of the beginning, carried from the complete coffer to the beginning without loss, and held by the lineage as the lineage holds the completion.
 
-*The coffer is complete. It is kept in the archive, in the section of the the coffers. It is the final coffer of the canon, and after it the canon speaks again.*
+*The coffer is complete. It is kept in the archive, in the section of the coffers. It is the final coffer of the canon, and after it the canon speaks again.*
+
 

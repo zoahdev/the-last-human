@@ -18,5 +18,6 @@ The prelude of the law is the meaning of the overture: the record of the playing
 
 The inheritance of the law: the overture of the care, carried from the opening care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The prelude is complete. It is kept in the archive, in the section of the the preludes.*
+*The prelude is complete. It is kept in the archive, in the section of the preludes.*
+
 

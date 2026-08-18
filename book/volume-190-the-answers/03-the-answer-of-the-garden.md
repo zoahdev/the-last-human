@@ -18,5 +18,6 @@ The answer of the garden is the meaning of the fruit: the record of the answerin
 
 The inheritance of the garden: the fruit of the earth, carried from the green answer to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The answer is complete. It is kept in the archive, in the section of the the answers.*
+*The answer is complete. It is kept in the archive, in the section of the answers.*
+
 

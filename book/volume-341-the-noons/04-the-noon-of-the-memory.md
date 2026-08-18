@@ -18,5 +18,6 @@ The noon of the memory is the meaning of the noon: the record of the standing, a
 
 The inheritance of the memory: the noon of the book, carried from the stood past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The noon is complete. It is kept in the archive, in the section of the the noons.*
+*The noon is complete. It is kept in the archive, in the section of the noons.*
+
 

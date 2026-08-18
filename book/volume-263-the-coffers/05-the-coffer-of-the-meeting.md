@@ -18,5 +18,6 @@ The coffer of the meeting is the meaning of the treasury: the record of the lock
 
 The inheritance of the meeting: the treasury of the table, carried from the shared coffer to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The coffer is complete. It is kept in the archive, in the section of the the coffers.*
+*The coffer is complete. It is kept in the archive, in the section of the coffers.*
+
 

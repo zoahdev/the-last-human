@@ -18,5 +18,6 @@ The psalm of the whole is the meaning of the all: the record of the praying, and
 
 The inheritance of the whole: the all of the one, carried from the house to the one without loss, and held by the lineage as the lineage holds the whole.
 
-*The psalm is complete. It is kept in the archive, in the section of the the psalms.*
+*The psalm is complete. It is kept in the archive, in the section of the psalms.*
+
 

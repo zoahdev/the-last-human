@@ -18,5 +18,6 @@ The folio of the handover is the meaning of the palm: the record of the folding,
 
 The inheritance of the handover: the palm of the hand, carried from the folded hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The folio is complete. It is kept in the archive, in the section of the the folios.*
+*The folio is complete. It is kept in the archive, in the section of the folios.*
+
 

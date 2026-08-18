@@ -18,5 +18,6 @@ The bowl of the memory is the meaning of the hollow: the record of the rounding,
 
 The inheritance of the memory: the hollow of the book, carried from the rounded past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The bowl is complete. It is kept in the archive, in the section of the the bowls.*
+*The bowl is complete. It is kept in the archive, in the section of the bowls.*
+
 

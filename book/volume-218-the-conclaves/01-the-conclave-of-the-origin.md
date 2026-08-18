@@ -18,5 +18,6 @@ The conclave of the origin is the meaning of the selection: the record of the cl
 
 The inheritance of the origin: the selection of the wanting, carried from the closed gathering to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The conclave is complete. It is kept in the archive, in the section of the the conclaves.*
+*The conclave is complete. It is kept in the archive, in the section of the conclaves.*
+
 

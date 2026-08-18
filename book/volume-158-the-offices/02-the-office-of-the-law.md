@@ -18,5 +18,6 @@ The office of the law is the meaning of the rule: the record of the officiating,
 
 The inheritance of the law: the rule of the care, carried from the rubric to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The office is complete. It is kept in the archive, in the section of the the offices.*
+*The office is complete. It is kept in the archive, in the section of the offices.*
+
 

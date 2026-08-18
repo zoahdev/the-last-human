@@ -18,5 +18,6 @@ The register of the memory is the meaning of the archive: the record of the regi
 
 The inheritance of the memory: the archive of the book, carried from the registry to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The register is complete. It is kept in the archive, in the section of the the registers.*
+*The register is complete. It is kept in the archive, in the section of the registers.*
+
 

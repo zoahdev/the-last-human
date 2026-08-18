@@ -18,5 +18,6 @@ The doxology of the abolition is the meaning of the freedom: the record of the g
 
 The inheritance of the abolition: the freedom of the peace, carried from the hosanna to the peace without loss, and held by the lineage as the lineage holds the abolition.
 
-*The doxology is complete. It is kept in the archive, in the section of the the doxologies.*
+*The doxology is complete. It is kept in the archive, in the section of the doxologies.*
+
 

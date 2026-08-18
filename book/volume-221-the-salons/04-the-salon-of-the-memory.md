@@ -18,5 +18,6 @@ The salon of the memory is the meaning of the conversation: the record of the me
 
 The inheritance of the memory: the conversation of the book, carried from the cultured past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The salon is complete. It is kept in the archive, in the section of the the salons.*
+*The salon is complete. It is kept in the archive, in the section of the salons.*
+
 

@@ -18,5 +18,6 @@ The diagram of the meeting is the meaning of the layout: the record of the diagr
 
 The inheritance of the meeting: the layout of the table, carried from the diagramed table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The diagram is complete. It is kept in the archive, in the section of the the diagrams.*
+*The diagram is complete. It is kept in the archive, in the section of the diagrams.*
+
 

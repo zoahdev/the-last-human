@@ -18,5 +18,6 @@ The memorandum of the origin is the meaning of the reminder: the record of the m
 
 The inheritance of the origin: the reminder of the wanting, carried from the thing remembered to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The memorandum is complete. It is kept in the archive, in the section of the the memoranda.*
+*The memorandum is complete. It is kept in the archive, in the section of the memoranda.*
+
 

@@ -18,5 +18,6 @@ The codex of the garden is the meaning of the chlorophyll: the record of the cod
 
 The inheritance of the garden: the chlorophyll of the earth, carried from the coded green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The codex is complete. It is kept in the archive, in the section of the the codices.*
+*The codex is complete. It is kept in the archive, in the section of the codices.*
+
 

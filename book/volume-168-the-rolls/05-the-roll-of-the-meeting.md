@@ -18,5 +18,6 @@ The roll of the meeting is the meaning of the order: the record of the rolling, 
 
 The inheritance of the meeting: the order of the table, carried from the seating roll to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The roll is complete. It is kept in the archive, in the section of the the rolls.*
+*The roll is complete. It is kept in the archive, in the section of the rolls.*
+
 

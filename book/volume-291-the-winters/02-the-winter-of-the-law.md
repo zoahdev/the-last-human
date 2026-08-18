@@ -18,5 +18,6 @@ The winter of the law is the meaning of the ice: the record of the freezing, and
 
 The inheritance of the law: the ice of the care, carried from the frozen care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The winter is complete. It is kept in the archive, in the section of the the winters.*
+*The winter is complete. It is kept in the archive, in the section of the winters.*
+
 

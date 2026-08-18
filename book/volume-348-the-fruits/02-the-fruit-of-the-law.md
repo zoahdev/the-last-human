@@ -18,5 +18,6 @@ The fruit of the law is the meaning of the fruit: the record of the ripening, an
 
 The inheritance of the law: the fruit of the care, carried from the ripening care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The fruit is complete. It is kept in the archive, in the section of the the fruits.*
+*The fruit is complete. It is kept in the archive, in the section of the fruits.*
+
 

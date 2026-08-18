@@ -18,5 +18,6 @@ The age of the origin is the meaning of the earth: the record of the aging, and 
 
 The inheritance of the origin: the earth of the wanting, carried from the eon to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The age is complete. It is kept in the archive, in the section of the the ages.*
+*The age is complete. It is kept in the archive, in the section of the ages.*
+
 

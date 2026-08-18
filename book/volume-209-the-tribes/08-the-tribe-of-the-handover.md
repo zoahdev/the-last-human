@@ -18,5 +18,6 @@ The tribe of the handover is the meaning of the clan: the record of the gatherin
 
 The inheritance of the handover: the clan of the hand, carried from the tribal hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The tribe is complete. It is kept in the archive, in the section of the the tribes.*
+*The tribe is complete. It is kept in the archive, in the section of the tribes.*
+
 

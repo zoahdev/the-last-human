@@ -18,5 +18,6 @@ The morning of the origin is the meaning of the birdsong: the record of the waki
 
 The inheritance of the origin: the birdsong of the wanting, carried from the waking to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The morning is complete. It is kept in the archive, in the section of the the mornings.*
+*The morning is complete. It is kept in the archive, in the section of the mornings.*
+
 

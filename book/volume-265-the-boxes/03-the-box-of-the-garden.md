@@ -18,5 +18,6 @@ The box of the garden is the meaning of the boxwood: the record of the boxing, a
 
 The inheritance of the garden: the boxwood of the earth, carried from the boxed green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The box is complete. It is kept in the archive, in the section of the the boxes.*
+*The box is complete. It is kept in the archive, in the section of the boxes.*
+
 

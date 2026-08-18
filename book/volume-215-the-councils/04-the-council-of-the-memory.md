@@ -18,5 +18,6 @@ The council of the memory is the meaning of the advisory: the record of the cons
 
 The inheritance of the memory: the advisory of the book, carried from the consulted past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The council is complete. It is kept in the archive, in the section of the the councils.*
+*The council is complete. It is kept in the archive, in the section of the councils.*
+
 

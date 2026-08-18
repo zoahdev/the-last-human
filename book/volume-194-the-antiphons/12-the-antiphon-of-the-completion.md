@@ -18,5 +18,6 @@ The antiphon of the completion is the meaning of the fullness: the record of the
 
 The inheritance of the completion: the fullness of the beginning, carried from the complete antiphon to the beginning without loss, and held by the lineage as the lineage holds the completion.
 
-*The antiphon is complete. It is kept in the archive, in the section of the the antiphons. It is the final antiphon of the canon, and after it the canon speaks again.*
+*The antiphon is complete. It is kept in the archive, in the section of the antiphons. It is the final antiphon of the canon, and after it the canon speaks again.*
+
 

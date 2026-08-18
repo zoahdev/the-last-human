@@ -18,5 +18,6 @@ The galaxy of the memory is the meaning of the galaxy: the record of the gatheri
 
 The inheritance of the memory: the galaxy of the book, carried from the gathered past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The galaxy is complete. It is kept in the archive, in the section of the the galaxies.*
+*The galaxy is complete. It is kept in the archive, in the section of the galaxies.*
+
 

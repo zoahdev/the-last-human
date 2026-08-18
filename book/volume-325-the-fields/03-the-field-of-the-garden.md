@@ -18,5 +18,6 @@ The field of the garden is the meaning of the field: the record of the tilling, 
 
 The inheritance of the garden: the field of the earth, carried from the field green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The field is complete. It is kept in the archive, in the section of the the fields.*
+*The field is complete. It is kept in the archive, in the section of the fields.*
+
 

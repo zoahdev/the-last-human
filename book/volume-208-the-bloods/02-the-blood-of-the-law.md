@@ -18,5 +18,6 @@ The blood of the law is the meaning of the circulation: the record of the flowin
 
 The inheritance of the law: the circulation of the care, carried from the life to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The blood is complete. It is kept in the archive, in the section of the the bloods.*
+*The blood is complete. It is kept in the archive, in the section of the bloods.*
+
 

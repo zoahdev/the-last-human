@@ -18,5 +18,6 @@ The wheel of the abolition is the meaning of the freedom: the record of the whee
 
 The inheritance of the abolition: the freedom of the peace, carried from the turning wheel to the peace without loss, and held by the lineage as the lineage holds the abolition.
 
-*The wheel is complete. It is kept in the archive, in the section of the the wheels.*
+*The wheel is complete. It is kept in the archive, in the section of the wheels.*
+
 

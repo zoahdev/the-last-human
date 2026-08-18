@@ -18,5 +18,6 @@ The codex of the origin is the meaning of the decipherment: the record of the co
 
 The inheritance of the origin: the decipherment of the wanting, carried from the code to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The codex is complete. It is kept in the archive, in the section of the the codices.*
+*The codex is complete. It is kept in the archive, in the section of the codices.*
+
 

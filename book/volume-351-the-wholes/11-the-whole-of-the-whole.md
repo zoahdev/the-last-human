@@ -18,5 +18,6 @@ The whole of the whole is the meaning of the all: the record of the completing, 
 
 The inheritance of the whole: the all of the one, carried from the one whole to the one without loss, and held by the lineage as the lineage holds the whole.
 
-*The whole is complete. It is kept in the archive, in the section of the the wholes.*
+*The whole is complete. It is kept in the archive, in the section of the wholes.*
+
 

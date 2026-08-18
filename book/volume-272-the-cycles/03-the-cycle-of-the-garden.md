@@ -18,5 +18,6 @@ The cycle of the garden is the meaning of the cycle: the record of the cycling, 
 
 The inheritance of the garden: the cycle of the earth, carried from the cycled green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The cycle is complete. It is kept in the archive, in the section of the the cycles.*
+*The cycle is complete. It is kept in the archive, in the section of the cycles.*
+
 

@@ -18,5 +18,6 @@ The plan of the future is the meaning of the morning: the record of the planning
 
 The inheritance of the future: the morning of the dawn, carried from the unplanned dawn to the dawn without loss, and held by the lineage as the lineage holds the future.
 
-*The plan is complete. It is kept in the archive, in the section of the the plans.*
+*The plan is complete. It is kept in the archive, in the section of the plans.*
+
 

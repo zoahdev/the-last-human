@@ -18,5 +18,6 @@ The lake of the handover is the meaning of the mirror: the record of the mirrori
 
 The inheritance of the handover: the mirror of the hand, carried from the mirroring hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The lake is complete. It is kept in the archive, in the section of the the lakes.*
+*The lake is complete. It is kept in the archive, in the section of the lakes.*
+
 

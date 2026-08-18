@@ -18,5 +18,6 @@ The grove of the garden is the meaning of the grove: the record of the planting,
 
 The inheritance of the garden: the grove of the earth, carried from the grove green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The grove is complete. It is kept in the archive, in the section of the the groves.*
+*The grove is complete. It is kept in the archive, in the section of the groves.*
+
 

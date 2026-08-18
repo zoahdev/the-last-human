@@ -18,5 +18,6 @@ The salon of the origin is the meaning of the parlor: the record of the meeting,
 
 The inheritance of the origin: the parlor of the wanting, carried from the drawing room to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The salon is complete. It is kept in the archive, in the section of the the salons.*
+*The salon is complete. It is kept in the archive, in the section of the salons.*
+
 

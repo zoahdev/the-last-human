@@ -18,5 +18,6 @@ The nebula of the future is the meaning of the morning: the record of the cloudi
 
 The inheritance of the future: the morning of the dawn, carried from the unformed nebula to the dawn without loss, and held by the lineage as the lineage holds the future.
 
-*The nebula is complete. It is kept in the archive, in the section of the the nebulae.*
+*The nebula is complete. It is kept in the archive, in the section of the nebulae.*
+
 

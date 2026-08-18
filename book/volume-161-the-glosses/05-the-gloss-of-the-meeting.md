@@ -18,5 +18,6 @@ The gloss of the meeting is the meaning of the dialogue: the record of the gloss
 
 The inheritance of the meeting: the dialogue of the table, carried from the discussion to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The gloss is complete. It is kept in the archive, in the section of the the glosses.*
+*The gloss is complete. It is kept in the archive, in the section of the glosses.*
+
 

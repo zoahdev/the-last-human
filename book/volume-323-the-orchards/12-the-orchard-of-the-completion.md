@@ -18,5 +18,6 @@ The orchard of the completion is the meaning of the fullness: the record of the 
 
 The inheritance of the completion: the fullness of the beginning, carried from the complete orchard to the beginning without loss, and held by the lineage as the lineage holds the completion.
 
-*The orchard is complete. It is kept in the archive, in the section of the the orchards. It is the final orchard of the canon, and after it the canon speaks again.*
+*The orchard is complete. It is kept in the archive, in the section of the orchards. It is the final orchard of the canon, and after it the canon speaks again.*
+
 

@@ -18,5 +18,6 @@ The noon of the law is the meaning of the noon: the record of the standing, and 
 
 The inheritance of the law: the noon of the care, carried from the standing care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The noon is complete. It is kept in the archive, in the section of the the noons.*
+*The noon is complete. It is kept in the archive, in the section of the noons.*
+
 

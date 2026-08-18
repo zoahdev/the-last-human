@@ -18,5 +18,6 @@ The chorus of the abolition is the meaning of the freedom: the record of the cho
 
 The inheritance of the abolition: the freedom of the peace, carried from the freed chorus to the peace without loss, and held by the lineage as the lineage holds the abolition.
 
-*The chorus is complete. It is kept in the archive, in the section of the the choruses.*
+*The chorus is complete. It is kept in the archive, in the section of the choruses.*
+
 

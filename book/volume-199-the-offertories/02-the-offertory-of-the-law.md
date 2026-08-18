@@ -18,5 +18,6 @@ The offertory of the law is the meaning of the oblation: the record of the offer
 
 The inheritance of the law: the oblation of the care, carried from the offered care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The offertory is complete. It is kept in the archive, in the section of the the offertories.*
+*The offertory is complete. It is kept in the archive, in the section of the offertories.*
+
 

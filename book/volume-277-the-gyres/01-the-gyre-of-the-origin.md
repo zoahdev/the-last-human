@@ -18,5 +18,6 @@ The gyre of the origin is the meaning of the spinning: the record of the spinnin
 
 The inheritance of the origin: the spinning of the wanting, carried from the spinning to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The gyre is complete. It is kept in the archive, in the section of the the gyres.*
+*The gyre is complete. It is kept in the archive, in the section of the gyres.*
+
 

@@ -18,5 +18,6 @@ The shout of the memory is the meaning of the name: the record of the shouting, 
 
 The inheritance of the memory: the name of the book, carried from the shouted roll to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The shout is complete. It is kept in the archive, in the section of the the shouts.*
+*The shout is complete. It is kept in the archive, in the section of the shouts.*
+
 

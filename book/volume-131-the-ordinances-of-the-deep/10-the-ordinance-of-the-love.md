@@ -18,5 +18,6 @@ The ordinance of the love is the meaning of the fire: the record of the ordainin
 
 The inheritance of the love: the fire of the family, carried from the equity to the family without loss, and held by the lineage as the lineage holds the love.
 
-*The ordinance is complete. It is kept in the archive, in the section of the the ordinances of the deep.*
+*The ordinance is complete. It is kept in the archive, in the section of the ordinances of the deep.*
+
 

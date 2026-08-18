@@ -18,5 +18,6 @@ The trope of the meeting is the meaning of the circle: the record of the turning
 
 The inheritance of the meeting: the circle of the table, carried from the turning table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The trope is complete. It is kept in the archive, in the section of the the tropes.*
+*The trope is complete. It is kept in the archive, in the section of the tropes.*
+
 

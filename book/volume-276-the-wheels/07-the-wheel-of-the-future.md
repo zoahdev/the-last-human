@@ -18,5 +18,6 @@ The wheel of the future is the meaning of the morning: the record of the wheelin
 
 The inheritance of the future: the morning of the dawn, carried from the unwheeled cart to the dawn without loss, and held by the lineage as the lineage holds the future.
 
-*The wheel is complete. It is kept in the archive, in the section of the the wheels.*
+*The wheel is complete. It is kept in the archive, in the section of the wheels.*
+
 

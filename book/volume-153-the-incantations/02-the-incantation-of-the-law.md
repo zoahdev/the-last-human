@@ -18,5 +18,6 @@ The incantation of the law is the meaning of the beat: the record of the incanti
 
 The inheritance of the law: the beat of the care, carried from the rhythm to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The incantation is complete. It is kept in the archive, in the section of the the incantations.*
+*The incantation is complete. It is kept in the archive, in the section of the incantations.*
+
 

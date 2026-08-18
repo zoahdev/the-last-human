@@ -18,5 +18,6 @@ The spring of the law is the meaning of the source: the record of the springing,
 
 The inheritance of the law: the source of the care, carried from the springing care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The spring is complete. It is kept in the archive, in the section of the the springs.*
+*The spring is complete. It is kept in the archive, in the section of the springs.*
+
 

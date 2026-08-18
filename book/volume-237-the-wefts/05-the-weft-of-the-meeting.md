@@ -18,5 +18,6 @@ The weft of the meeting is the meaning of the table: the record of the weaving, 
 
 The inheritance of the meeting: the table of the table, carried from the shared loom to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The weft is complete. It is kept in the archive, in the section of the the wefts.*
+*The weft is complete. It is kept in the archive, in the section of the wefts.*
+
 

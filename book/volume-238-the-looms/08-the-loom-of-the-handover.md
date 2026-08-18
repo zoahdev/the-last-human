@@ -18,5 +18,6 @@ The loom of the handover is the meaning of the weaver: the record of the looming
 
 The inheritance of the handover: the weaver of the hand, carried from the passed loom to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The loom is complete. It is kept in the archive, in the section of the the looms.*
+*The loom is complete. It is kept in the archive, in the section of the looms.*
+
 

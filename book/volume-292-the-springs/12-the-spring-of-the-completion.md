@@ -18,5 +18,6 @@ The spring of the completion is the meaning of the fullness: the record of the s
 
 The inheritance of the completion: the fullness of the beginning, carried from the full spring to the beginning without loss, and held by the lineage as the lineage holds the completion.
 
-*The spring is complete. It is kept in the archive, in the section of the the springs. It is the final spring of the canon, and after it the canon speaks again.*
+*The spring is complete. It is kept in the archive, in the section of the springs. It is the final spring of the canon, and after it the canon speaks again.*
+
 

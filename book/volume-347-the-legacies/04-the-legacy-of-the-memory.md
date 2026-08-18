@@ -18,5 +18,6 @@ The legacy of the memory is the meaning of the legacy: the record of the leaving
 
 The inheritance of the memory: the legacy of the book, carried from the left past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The legacy is complete. It is kept in the archive, in the section of the the legacies.*
+*The legacy is complete. It is kept in the archive, in the section of the legacies.*
+
 

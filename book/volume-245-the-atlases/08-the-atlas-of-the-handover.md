@@ -18,5 +18,6 @@ The atlas of the handover is the meaning of the shoulder: the record of the carr
 
 The inheritance of the handover: the shoulder of the hand, carried from the carried hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The atlas is complete. It is kept in the archive, in the section of the the atlases.*
+*The atlas is complete. It is kept in the archive, in the section of the atlases.*
+
 

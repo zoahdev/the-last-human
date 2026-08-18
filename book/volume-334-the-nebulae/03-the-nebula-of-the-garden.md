@@ -18,5 +18,6 @@ The nebula of the garden is the meaning of the cosmic cloud: the record of the c
 
 The inheritance of the garden: the cosmic cloud of the earth, carried from the nebular green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The nebula is complete. It is kept in the archive, in the section of the the nebulae.*
+*The nebula is complete. It is kept in the archive, in the section of the nebulae.*
+
 

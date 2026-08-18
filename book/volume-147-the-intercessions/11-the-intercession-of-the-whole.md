@@ -18,5 +18,6 @@ The intercession of the whole is the meaning of the all: the record of the inter
 
 The inheritance of the whole: the all of the one, carried from the jury to the one without loss, and held by the lineage as the lineage holds the whole.
 
-*The intercession is complete. It is kept in the archive, in the section of the the intercessions.*
+*The intercession is complete. It is kept in the archive, in the section of the intercessions.*
+
 

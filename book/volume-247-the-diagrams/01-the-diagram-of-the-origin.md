@@ -18,5 +18,6 @@ The diagram of the origin is the meaning of the plan: the record of the diagrami
 
 The inheritance of the origin: the plan of the wanting, carried from the outline to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The diagram is complete. It is kept in the archive, in the section of the the diagrams.*
+*The diagram is complete. It is kept in the archive, in the section of the diagrams.*
+
 

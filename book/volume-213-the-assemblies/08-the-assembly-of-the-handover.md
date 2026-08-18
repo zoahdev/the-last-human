@@ -18,5 +18,6 @@ The assembly of the handover is the meaning of the caucus: the record of the ass
 
 The inheritance of the handover: the caucus of the hand, carried from the assembled hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The assembly is complete. It is kept in the archive, in the section of the the assemblies.*
+*The assembly is complete. It is kept in the archive, in the section of the assemblies.*
+
 

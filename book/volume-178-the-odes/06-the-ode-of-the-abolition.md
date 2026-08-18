@@ -18,5 +18,6 @@ The ode of the abolition is the meaning of the freedom: the record of the soarin
 
 The inheritance of the abolition: the freedom of the peace, carried from the liberated flight to the peace without loss, and held by the lineage as the lineage holds the abolition.
 
-*The ode is complete. It is kept in the archive, in the section of the the odes.*
+*The ode is complete. It is kept in the archive, in the section of the odes.*
+
 

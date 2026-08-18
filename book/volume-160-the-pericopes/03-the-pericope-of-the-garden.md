@@ -18,5 +18,6 @@ The pericope of the garden is the meaning of the branch: the record of the cutti
 
 The inheritance of the garden: the branch of the earth, carried from the pruning to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The pericope is complete. It is kept in the archive, in the section of the the pericopes.*
+*The pericope is complete. It is kept in the archive, in the section of the pericopes.*
+
 

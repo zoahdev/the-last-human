@@ -18,5 +18,6 @@ The journal of the memory is the meaning of the entry: the record of the journal
 
 The inheritance of the memory: the entry of the book, carried from the ledger to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The journal is complete. It is kept in the archive, in the section of the the journals of the deep.*
+*The journal is complete. It is kept in the archive, in the section of the journals of the deep.*
+
 

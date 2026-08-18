@@ -18,5 +18,6 @@ The aeon of the future is the meaning of the morning: the record of the spanning
 
 The inheritance of the future: the morning of the dawn, carried from the unspanned aeon to the dawn without loss, and held by the lineage as the lineage holds the future.
 
-*The aeon is complete. It is kept in the archive, in the section of the the aeons.*
+*The aeon is complete. It is kept in the archive, in the section of the aeons.*
+
 

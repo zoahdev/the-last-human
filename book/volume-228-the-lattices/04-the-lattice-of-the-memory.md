@@ -18,5 +18,6 @@ The lattice of the memory is the meaning of the pane: the record of the latticin
 
 The inheritance of the memory: the pane of the book, carried from the latticed past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The lattice is complete. It is kept in the archive, in the section of the the lattices.*
+*The lattice is complete. It is kept in the archive, in the section of the lattices.*
+
 

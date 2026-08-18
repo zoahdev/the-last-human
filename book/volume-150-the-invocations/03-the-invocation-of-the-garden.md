@@ -18,5 +18,6 @@ The invocation of the garden is the meaning of the blooming: the record of the i
 
 The inheritance of the garden: the blooming of the earth, carried from the blessing to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The invocation is complete. It is kept in the archive, in the section of the the invocations.*
+*The invocation is complete. It is kept in the archive, in the section of the invocations.*
+
 

@@ -18,5 +18,6 @@ The conjuration of the garden is the meaning of the green: the record of the con
 
 The inheritance of the garden: the green of the earth, carried from the greening to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The conjuration is complete. It is kept in the archive, in the section of the the conjurations.*
+*The conjuration is complete. It is kept in the archive, in the section of the conjurations.*
+
 

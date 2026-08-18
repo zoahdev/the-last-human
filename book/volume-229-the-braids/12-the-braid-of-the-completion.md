@@ -18,5 +18,6 @@ The braid of the completion is the meaning of the fullness: the record of the br
 
 The inheritance of the completion: the fullness of the beginning, carried from the complete braid to the beginning without loss, and held by the lineage as the lineage holds the completion.
 
-*The braid is complete. It is kept in the archive, in the section of the the braids. It is the final braid of the canon, and after it the canon speaks again.*
+*The braid is complete. It is kept in the archive, in the section of the braids. It is the final braid of the canon, and after it the canon speaks again.*
+
 

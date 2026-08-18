@@ -18,5 +18,6 @@ The hearthstone of the memory is the meaning of the fire: the record of the warm
 
 The inheritance of the memory: the fire of the book, carried from the warmed past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The hearthstone is complete. It is kept in the archive, in the section of the the hearthstones.*
+*The hearthstone is complete. It is kept in the archive, in the section of the hearthstones.*
+
 

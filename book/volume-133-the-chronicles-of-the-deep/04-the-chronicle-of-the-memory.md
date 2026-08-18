@@ -18,5 +18,6 @@ The chronicle of the memory is the meaning of the record: the record of the chro
 
 The inheritance of the memory: the record of the book, carried from the annal to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The chronicle is complete. It is kept in the archive, in the section of the the chronicles of the deep.*
+*The chronicle is complete. It is kept in the archive, in the section of the chronicles of the deep.*
+
 

@@ -18,5 +18,6 @@ The mold of the garden is the meaning of the terracotta: the record of the moldi
 
 The inheritance of the garden: the terracotta of the earth, carried from the molded green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The mold is complete. It is kept in the archive, in the section of the the molds.*
+*The mold is complete. It is kept in the archive, in the section of the molds.*
+
 

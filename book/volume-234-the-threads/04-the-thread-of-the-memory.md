@@ -18,5 +18,6 @@ The thread of the memory is the meaning of the seam: the record of the threading
 
 The inheritance of the memory: the seam of the book, carried from the threaded past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The thread is complete. It is kept in the archive, in the section of the the threads.*
+*The thread is complete. It is kept in the archive, in the section of the threads.*
+
 

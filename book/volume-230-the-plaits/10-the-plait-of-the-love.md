@@ -18,5 +18,6 @@ The plait of the love is the meaning of the fire: the record of the plaiting, an
 
 The inheritance of the love: the fire of the family, carried from the plaited heart to the family without loss, and held by the lineage as the lineage holds the love.
 
-*The plait is complete. It is kept in the archive, in the section of the the plaits.*
+*The plait is complete. It is kept in the archive, in the section of the plaits.*
+
 

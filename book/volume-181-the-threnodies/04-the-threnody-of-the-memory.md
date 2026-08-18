@@ -18,5 +18,6 @@ The threnody of the memory is the meaning of the dirge: the record of the weepin
 
 The inheritance of the memory: the dirge of the book, carried from the mourning remembrance to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The threnody is complete. It is kept in the archive, in the section of the the threnodies.*
+*The threnody is complete. It is kept in the archive, in the section of the threnodies.*
+
 

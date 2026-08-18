@@ -18,5 +18,6 @@ The letter of the deep of the handover is the meaning of the signature: the reco
 
 The inheritance of the handover: the signature of the hand, carried from the signing to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The letter of the deep is complete. It is kept in the archive, in the section of the the letters of the deep.*
+*The letter of the deep is complete. It is kept in the archive, in the section of the letters of the deep.*
+
 

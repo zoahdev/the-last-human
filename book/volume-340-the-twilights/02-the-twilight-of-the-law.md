@@ -18,5 +18,6 @@ The twilight of the law is the meaning of the twilight: the record of the fading
 
 The inheritance of the law: the twilight of the care, carried from the fading care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The twilight is complete. It is kept in the archive, in the section of the the twilights.*
+*The twilight is complete. It is kept in the archive, in the section of the twilights.*
+
 

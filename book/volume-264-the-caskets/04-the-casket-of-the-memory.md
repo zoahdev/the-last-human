@@ -18,5 +18,6 @@ The casket of the memory is the meaning of the jewel: the record of the shutting
 
 The inheritance of the memory: the jewel of the book, carried from the shut past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The casket is complete. It is kept in the archive, in the section of the the caskets.*
+*The casket is complete. It is kept in the archive, in the section of the caskets.*
+
 

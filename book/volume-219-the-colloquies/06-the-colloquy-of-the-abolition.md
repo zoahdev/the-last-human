@@ -18,5 +18,6 @@ The colloquy of the abolition is the meaning of the freedom: the record of the s
 
 The inheritance of the abolition: the freedom of the peace, carried from the open conversation to the peace without loss, and held by the lineage as the lineage holds the abolition.
 
-*The colloquy is complete. It is kept in the archive, in the section of the the colloquies.*
+*The colloquy is complete. It is kept in the archive, in the section of the colloquies.*
+
 

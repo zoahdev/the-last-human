@@ -18,5 +18,6 @@ The day of the memory is the meaning of the diary: the record of the opening, an
 
 The inheritance of the memory: the diary of the book, carried from the opened past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The day is complete. It is kept in the archive, in the section of the the days.*
+*The day is complete. It is kept in the archive, in the section of the days.*
+
 

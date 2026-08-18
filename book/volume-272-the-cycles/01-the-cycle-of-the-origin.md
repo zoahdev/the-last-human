@@ -18,5 +18,6 @@ The cycle of the origin is the meaning of the moon: the record of the cycling, a
 
 The inheritance of the origin: the moon of the wanting, carried from the moon to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The cycle is complete. It is kept in the archive, in the section of the the cycles.*
+*The cycle is complete. It is kept in the archive, in the section of the cycles.*
+
 

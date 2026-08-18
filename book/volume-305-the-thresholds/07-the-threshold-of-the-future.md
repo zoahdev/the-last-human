@@ -18,5 +18,6 @@ The threshold of the future is the meaning of the morning: the record of the cro
 
 The inheritance of the future: the morning of the dawn, carried from the uncrossed threshold to the dawn without loss, and held by the lineage as the lineage holds the future.
 
-*The threshold is complete. It is kept in the archive, in the section of the the thresholds.*
+*The threshold is complete. It is kept in the archive, in the section of the thresholds.*
+
 

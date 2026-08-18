@@ -18,5 +18,6 @@ The minute of the future is the meaning of the morning: the record of the minuti
 
 The inheritance of the future: the morning of the dawn, carried from the intention to the dawn without loss, and held by the lineage as the lineage holds the future.
 
-*The minute is complete. It is kept in the archive, in the section of the the minutes.*
+*The minute is complete. It is kept in the archive, in the section of the minutes.*
+
 

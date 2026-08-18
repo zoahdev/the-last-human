@@ -18,5 +18,6 @@ The valley of the handover is the meaning of the valley: the record of the hollo
 
 The inheritance of the handover: the valley of the hand, carried from the hollowing hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The valley is complete. It is kept in the archive, in the section of the the valleys.*
+*The valley is complete. It is kept in the archive, in the section of the valleys.*
+
 

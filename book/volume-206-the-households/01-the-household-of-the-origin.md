@@ -18,5 +18,6 @@ The household of the origin is the meaning of the dwelling: the record of the ho
 
 The inheritance of the origin: the dwelling of the wanting, carried from the home to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The household is complete. It is kept in the archive, in the section of the the households.*
+*The household is complete. It is kept in the archive, in the section of the households.*
+
 

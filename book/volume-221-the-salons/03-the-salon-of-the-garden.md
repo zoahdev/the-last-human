@@ -18,5 +18,6 @@ The salon of the garden is the meaning of the conservatory: the record of the me
 
 The inheritance of the garden: the conservatory of the earth, carried from the cultured green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The salon is complete. It is kept in the archive, in the section of the the salons.*
+*The salon is complete. It is kept in the archive, in the section of the salons.*
+
 

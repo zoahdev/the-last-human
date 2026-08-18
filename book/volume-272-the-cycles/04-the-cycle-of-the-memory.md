@@ -18,5 +18,6 @@ The cycle of the memory is the meaning of the recurrence: the record of the cycl
 
 The inheritance of the memory: the recurrence of the book, carried from the cycled past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The cycle is complete. It is kept in the archive, in the section of the the cycles.*
+*The cycle is complete. It is kept in the archive, in the section of the cycles.*
+
 

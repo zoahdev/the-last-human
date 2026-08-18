@@ -18,5 +18,6 @@ The testament of the origin is the meaning of the bequest: the record of the beq
 
 The inheritance of the origin: the bequest of the wanting, carried from the inheritance to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The testament is complete. It is kept in the archive, in the section of the the testaments of the deep.*
+*The testament is complete. It is kept in the archive, in the section of the testaments of the deep.*
+
 

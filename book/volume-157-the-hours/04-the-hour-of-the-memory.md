@@ -18,5 +18,6 @@ The hour of the memory is the meaning of the minute: the record of the telling, 
 
 The inheritance of the memory: the minute of the book, carried from the remembered time to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The hour is complete. It is kept in the archive, in the section of the the hours.*
+*The hour is complete. It is kept in the archive, in the section of the hours.*
+
 

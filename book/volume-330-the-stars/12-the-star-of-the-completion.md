@@ -18,5 +18,6 @@ The star of the completion is the meaning of the fullness: the record of the shi
 
 The inheritance of the completion: the fullness of the beginning, carried from the complete star to the beginning without loss, and held by the lineage as the lineage holds the completion.
 
-*The star is complete. It is kept in the archive, in the section of the the stars. It is the final star of the canon, and after it the canon speaks again.*
+*The star is complete. It is kept in the archive, in the section of the stars. It is the final star of the canon, and after it the canon speaks again.*
+
 

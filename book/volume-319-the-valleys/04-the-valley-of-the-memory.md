@@ -18,5 +18,6 @@ The valley of the memory is the meaning of the valley: the record of the hollowi
 
 The inheritance of the memory: the valley of the book, carried from the hollowed past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The valley is complete. It is kept in the archive, in the section of the the valleys.*
+*The valley is complete. It is kept in the archive, in the section of the valleys.*
+
 

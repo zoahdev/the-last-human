@@ -18,5 +18,6 @@ The season of the memory is the meaning of the year: the record of the seasoning
 
 The inheritance of the memory: the year of the book, carried from the seasoned past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The season is complete. It is kept in the archive, in the section of the the seasons.*
+*The season is complete. It is kept in the archive, in the section of the seasons.*
+
 

@@ -18,5 +18,6 @@ The house of the garden is the meaning of the greenhouse: the record of the hous
 
 The inheritance of the garden: the greenhouse of the earth, carried from the greenhouse to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The house is complete. It is kept in the archive, in the section of the the houses.*
+*The house is complete. It is kept in the archive, in the section of the houses.*
+
 

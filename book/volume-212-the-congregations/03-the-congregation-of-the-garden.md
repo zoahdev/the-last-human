@@ -18,5 +18,6 @@ The congregation of the garden is the meaning of the parish garden: the record o
 
 The inheritance of the garden: the parish garden of the earth, carried from the gathered green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The congregation is complete. It is kept in the archive, in the section of the the congregations.*
+*The congregation is complete. It is kept in the archive, in the section of the congregations.*
+
 

@@ -18,5 +18,6 @@ The circle of the future is the meaning of the morning: the record of the circli
 
 The inheritance of the future: the morning of the dawn, carried from the circling dawn to the dawn without loss, and held by the lineage as the lineage holds the future.
 
-*The circle is complete. It is kept in the archive, in the section of the the circles.*
+*The circle is complete. It is kept in the archive, in the section of the circles.*
+
 

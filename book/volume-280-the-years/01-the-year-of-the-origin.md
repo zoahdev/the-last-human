@@ -18,5 +18,6 @@ The year of the origin is the meaning of the clock: the record of the counting, 
 
 The inheritance of the origin: the clock of the wanting, carried from the completed circle to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The year is complete. It is kept in the archive, in the section of the the years.*
+*The year is complete. It is kept in the archive, in the section of the years.*
+
 

@@ -18,5 +18,6 @@ The age of the meeting is the meaning of the era: the record of the aging, and t
 
 The inheritance of the meeting: the era of the table, carried from the aged table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The age is complete. It is kept in the archive, in the section of the the ages.*
+*The age is complete. It is kept in the archive, in the section of the ages.*
+
 

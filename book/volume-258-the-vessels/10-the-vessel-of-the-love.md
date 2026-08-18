@@ -18,5 +18,6 @@ The vessel of the love is the meaning of the fire: the record of the holding, an
 
 The inheritance of the love: the fire of the family, carried from the held heart to the family without loss, and held by the lineage as the lineage holds the love.
 
-*The vessel is complete. It is kept in the archive, in the section of the the vessels.*
+*The vessel is complete. It is kept in the archive, in the section of the vessels.*
+
 

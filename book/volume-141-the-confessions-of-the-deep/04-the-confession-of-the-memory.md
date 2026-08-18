@@ -18,5 +18,6 @@ The confession of the deep of the memory is the meaning of the avowal: the recor
 
 The inheritance of the memory: the avowal of the book, carried from the disclosure to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The confession of the deep is complete. It is kept in the archive, in the section of the the confessions of the deep.*
+*The confession of the deep is complete. It is kept in the archive, in the section of the confessions of the deep.*
+
 

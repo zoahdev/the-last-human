@@ -18,5 +18,6 @@ The refrain of the garden is the meaning of the cycle: the record of the repeati
 
 The inheritance of the garden: the cycle of the earth, carried from the recurring green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The refrain is complete. It is kept in the archive, in the section of the the refrains.*
+*The refrain is complete. It is kept in the archive, in the section of the refrains.*
+
 

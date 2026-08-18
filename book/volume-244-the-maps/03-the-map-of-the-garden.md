@@ -18,5 +18,6 @@ The map of the garden is the meaning of the orchard: the record of the mapping, 
 
 The inheritance of the garden: the orchard of the earth, carried from the mapped green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The map is complete. It is kept in the archive, in the section of the the maps.*
+*The map is complete. It is kept in the archive, in the section of the maps.*
+
 

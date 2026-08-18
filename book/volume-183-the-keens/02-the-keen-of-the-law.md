@@ -18,5 +18,6 @@ The keen of the law is the meaning of the edge: the record of the keening, and t
 
 The inheritance of the law: the edge of the care, carried from the sharp care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The keen is complete. It is kept in the archive, in the section of the the keens.*
+*The keen is complete. It is kept in the archive, in the section of the keens.*
+
 

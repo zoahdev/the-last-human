@@ -18,5 +18,6 @@ The ocean of the garden is the meaning of the garden ocean: the record of the en
 
 The inheritance of the garden: the garden ocean of the earth, carried from the ocean green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The ocean is complete. It is kept in the archive, in the section of the the oceans.*
+*The ocean is complete. It is kept in the archive, in the section of the oceans.*
+
 

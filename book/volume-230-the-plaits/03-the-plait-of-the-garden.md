@@ -18,5 +18,6 @@ The plait of the garden is the meaning of the hay: the record of the plaiting, a
 
 The inheritance of the garden: the hay of the earth, carried from the plaited green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The plait is complete. It is kept in the archive, in the section of the the plaits.*
+*The plait is complete. It is kept in the archive, in the section of the plaits.*
+
 

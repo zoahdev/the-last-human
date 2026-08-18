@@ -18,5 +18,6 @@ The stanza of the garden is the meaning of the grove: the record of the standing
 
 The inheritance of the garden: the grove of the earth, carried from the standing green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The stanza is complete. It is kept in the archive, in the section of the the stanzas.*
+*The stanza is complete. It is kept in the archive, in the section of the stanzas.*
+
 

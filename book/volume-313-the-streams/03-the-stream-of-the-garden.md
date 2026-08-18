@@ -18,5 +18,6 @@ The stream of the garden is the meaning of the streamside: the record of the str
 
 The inheritance of the garden: the streamside of the earth, carried from the streaming green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The stream is complete. It is kept in the archive, in the section of the the streams.*
+*The stream is complete. It is kept in the archive, in the section of the streams.*
+
 

@@ -18,5 +18,6 @@ The tapestry of the future is the meaning of the morning: the record of the hang
 
 The inheritance of the future: the morning of the dawn, carried from the unfinished tapestry to the dawn without loss, and held by the lineage as the lineage holds the future.
 
-*The tapestry is complete. It is kept in the archive, in the section of the the tapestries.*
+*The tapestry is complete. It is kept in the archive, in the section of the tapestries.*
+
 

@@ -18,5 +18,6 @@ The valley of the completion is the meaning of the fullness: the record of the h
 
 The inheritance of the completion: the fullness of the beginning, carried from the complete valley to the beginning without loss, and held by the lineage as the lineage holds the completion.
 
-*The valley is complete. It is kept in the archive, in the section of the the valleys. It is the final valley of the canon, and after it the canon speaks again.*
+*The valley is complete. It is kept in the archive, in the section of the valleys. It is the final valley of the canon, and after it the canon speaks again.*
+
 

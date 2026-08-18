@@ -18,5 +18,6 @@ The nation of the abolition is the meaning of the freedom: the record of the uni
 
 The inheritance of the abolition: the freedom of the peace, carried from the open nation to the peace without loss, and held by the lineage as the lineage holds the abolition.
 
-*The nation is complete. It is kept in the archive, in the section of the the nations.*
+*The nation is complete. It is kept in the archive, in the section of the nations.*
+
 

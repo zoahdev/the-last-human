@@ -18,5 +18,6 @@ The row of the origin is the meaning of the field: the record of the rowing, and
 
 The inheritance of the origin: the field of the wanting, carried from the furrow to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The row is complete. It is kept in the archive, in the section of the the rows.*
+*The row is complete. It is kept in the archive, in the section of the rows.*
+
 

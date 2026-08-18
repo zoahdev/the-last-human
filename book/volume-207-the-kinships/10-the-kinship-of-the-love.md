@@ -18,5 +18,6 @@ The kinship of the love is the meaning of the fire: the record of the tying, and
 
 The inheritance of the love: the fire of the family, carried from the tied heart to the family without loss, and held by the lineage as the lineage holds the love.
 
-*The kinship is complete. It is kept in the archive, in the section of the the kinships.*
+*The kinship is complete. It is kept in the archive, in the section of the kinships.*
+
 

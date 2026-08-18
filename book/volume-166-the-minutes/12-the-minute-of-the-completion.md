@@ -18,5 +18,6 @@ The minute of the completion is the meaning of the fullness: the record of the m
 
 The inheritance of the completion: the fullness of the beginning, carried from the final minute to the beginning without loss, and held by the lineage as the lineage holds the completion.
 
-*The minute is complete. It is kept in the archive, in the section of the the minutes. It is the final minute of the canon, and after it the canon speaks again.*
+*The minute is complete. It is kept in the archive, in the section of the minutes. It is the final minute of the canon, and after it the canon speaks again.*
+
 

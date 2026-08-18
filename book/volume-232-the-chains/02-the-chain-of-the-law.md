@@ -18,5 +18,6 @@ The chain of the law is the meaning of the sequence: the record of the chaining,
 
 The inheritance of the law: the sequence of the care, carried from the chained care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The chain is complete. It is kept in the archive, in the section of the the chains.*
+*The chain is complete. It is kept in the archive, in the section of the chains.*
+
 

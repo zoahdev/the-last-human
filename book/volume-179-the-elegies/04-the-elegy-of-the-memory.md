@@ -18,5 +18,6 @@ The elegy of the memory is the meaning of the tears: the record of the lamenting
 
 The inheritance of the memory: the tears of the book, carried from the weeping to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The elegy is complete. It is kept in the archive, in the section of the the elegies.*
+*The elegy is complete. It is kept in the archive, in the section of the elegies.*
+
 

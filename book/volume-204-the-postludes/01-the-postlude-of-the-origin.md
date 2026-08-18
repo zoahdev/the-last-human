@@ -18,5 +18,6 @@ The postlude of the origin is the meaning of the conclusion: the record of the c
 
 The inheritance of the origin: the conclusion of the wanting, carried from the evening song to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The postlude is complete. It is kept in the archive, in the section of the the postludes.*
+*The postlude is complete. It is kept in the archive, in the section of the postludes.*
+
 

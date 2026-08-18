@@ -18,5 +18,6 @@ The canticle of the memory is the meaning of the echo: the record of the chantin
 
 The inheritance of the memory: the echo of the book, carried from the recall to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The canticle is complete. It is kept in the archive, in the section of the the canticles.*
+*The canticle is complete. It is kept in the archive, in the section of the canticles.*
+
 

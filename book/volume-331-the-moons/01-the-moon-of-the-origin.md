@@ -18,5 +18,6 @@ The moon of the origin is the meaning of the night: the record of the waxing, an
 
 The inheritance of the origin: the night of the wanting, carried from the pale light to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The moon is complete. It is kept in the archive, in the section of the the moons.*
+*The moon is complete. It is kept in the archive, in the section of the moons.*
+
 

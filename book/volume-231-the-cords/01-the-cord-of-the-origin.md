@@ -18,5 +18,6 @@ The cord of the origin is the meaning of the line: the record of the cording, an
 
 The inheritance of the origin: the line of the wanting, carried from the twisted thread to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The cord is complete. It is kept in the archive, in the section of the the cords.*
+*The cord is complete. It is kept in the archive, in the section of the cords.*
+
 

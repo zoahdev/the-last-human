@@ -18,5 +18,6 @@ The meditation of the deep of the meeting is the meaning of the attending: the r
 
 The inheritance of the meeting: the attending of the table, carried from the presence to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The meditation of the deep is complete. It is kept in the archive, in the section of the the meditations of the deep.*
+*The meditation of the deep is complete. It is kept in the archive, in the section of the meditations of the deep.*
+
 

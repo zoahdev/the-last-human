@@ -18,5 +18,6 @@ The mural of the memory is the meaning of the mural: the record of the painting,
 
 The inheritance of the memory: the mural of the book, carried from the public painting to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The mural is complete. It is kept in the archive, in the section of the the murals.*
+*The mural is complete. It is kept in the archive, in the section of the murals.*
+
 

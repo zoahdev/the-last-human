@@ -18,5 +18,6 @@ The design of the completion is the meaning of the fullness: the record of the d
 
 The inheritance of the completion: the fullness of the beginning, carried from the complete design to the beginning without loss, and held by the lineage as the lineage holds the completion.
 
-*The design is complete. It is kept in the archive, in the section of the the designs. It is the final design of the canon, and after it the canon speaks again.*
+*The design is complete. It is kept in the archive, in the section of the designs. It is the final design of the canon, and after it the canon speaks again.*
+
 

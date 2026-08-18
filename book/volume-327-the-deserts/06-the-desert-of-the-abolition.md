@@ -18,5 +18,6 @@ The desert of the abolition is the meaning of the freedom: the record of the dry
 
 The inheritance of the abolition: the freedom of the peace, carried from the green desert to the peace without loss, and held by the lineage as the lineage holds the abolition.
 
-*The desert is complete. It is kept in the archive, in the section of the the deserts.*
+*The desert is complete. It is kept in the archive, in the section of the deserts.*
+
 

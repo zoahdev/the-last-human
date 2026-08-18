@@ -18,5 +18,6 @@ The cycle of the meeting is the meaning of the round: the record of the cycling,
 
 The inheritance of the meeting: the round of the table, carried from the cycled table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The cycle is complete. It is kept in the archive, in the section of the the cycles.*
+*The cycle is complete. It is kept in the archive, in the section of the cycles.*
+
 

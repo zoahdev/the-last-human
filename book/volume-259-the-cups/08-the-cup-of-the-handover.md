@@ -18,5 +18,6 @@ The cup of the handover is the meaning of the hand: the record of the cupping, a
 
 The inheritance of the handover: the hand of the hand, carried from the cupped hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The cup is complete. It is kept in the archive, in the section of the the cups.*
+*The cup is complete. It is kept in the archive, in the section of the cups.*
+
 

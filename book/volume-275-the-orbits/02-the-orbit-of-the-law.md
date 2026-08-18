@@ -18,5 +18,6 @@ The orbit of the law is the meaning of the path: the record of the orbiting, and
 
 The inheritance of the law: the path of the care, carried from the orbited care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The orbit is complete. It is kept in the archive, in the section of the the orbits.*
+*The orbit is complete. It is kept in the archive, in the section of the orbits.*
+
 

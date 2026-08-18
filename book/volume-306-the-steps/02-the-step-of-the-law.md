@@ -18,5 +18,6 @@ The step of the law is the meaning of the measure: the record of the stepping, a
 
 The inheritance of the law: the measure of the care, carried from the tread to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The step is complete. It is kept in the archive, in the section of the the steps.*
+*The step is complete. It is kept in the archive, in the section of the steps.*
+
 

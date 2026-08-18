@@ -18,5 +18,6 @@ The sermon of the deep of the meeting is the meaning of the communion: the recor
 
 The inheritance of the meeting: the communion of the table, carried from the congregation to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The sermon of the deep is complete. It is kept in the archive, in the section of the the sermons of the deep.*
+*The sermon of the deep is complete. It is kept in the archive, in the section of the sermons of the deep.*
+
 

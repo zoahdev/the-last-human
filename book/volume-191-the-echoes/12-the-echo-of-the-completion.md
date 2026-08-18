@@ -18,5 +18,6 @@ The echo of the completion is the meaning of the fullness: the record of the ech
 
 The inheritance of the completion: the fullness of the beginning, carried from the fulfilled echo to the beginning without loss, and held by the lineage as the lineage holds the completion.
 
-*The echo is complete. It is kept in the archive, in the section of the the echoes. It is the final echo of the canon, and after it the canon speaks again.*
+*The echo is complete. It is kept in the archive, in the section of the echoes. It is the final echo of the canon, and after it the canon speaks again.*
+
 

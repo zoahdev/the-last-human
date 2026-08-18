@@ -18,5 +18,6 @@ The autumn of the handover is the meaning of the harvest: the record of the fall
 
 The inheritance of the handover: the harvest of the hand, carried from the falling hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The autumn is complete. It is kept in the archive, in the section of the the autumns.*
+*The autumn is complete. It is kept in the archive, in the section of the autumns.*
+
 

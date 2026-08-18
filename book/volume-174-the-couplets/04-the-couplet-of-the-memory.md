@@ -18,5 +18,6 @@ The couplet of the memory is the meaning of the echo: the record of the pairing,
 
 The inheritance of the memory: the echo of the book, carried from the paired lines to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The couplet is complete. It is kept in the archive, in the section of the the couplets.*
+*The couplet is complete. It is kept in the archive, in the section of the couplets.*
+
 

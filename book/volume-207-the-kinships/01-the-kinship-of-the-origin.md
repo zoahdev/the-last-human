@@ -18,5 +18,6 @@ The kinship of the origin is the meaning of the connection: the record of the ty
 
 The inheritance of the origin: the connection of the wanting, carried from the bond to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The kinship is complete. It is kept in the archive, in the section of the the kinships.*
+*The kinship is complete. It is kept in the archive, in the section of the kinships.*
+
 

@@ -18,5 +18,6 @@ The model of the meeting is the meaning of the mock up: the record of the modeli
 
 The inheritance of the meeting: the mock up of the table, carried from the modeled table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The model is complete. It is kept in the archive, in the section of the the models.*
+*The model is complete. It is kept in the archive, in the section of the models.*
+
 

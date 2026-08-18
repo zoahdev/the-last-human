@@ -18,5 +18,6 @@ The remark of the memory is the meaning of the record: the record of the remarki
 
 The inheritance of the memory: the record of the book, carried from the observed past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The remark is complete. It is kept in the archive, in the section of the the remarks.*
+*The remark is complete. It is kept in the archive, in the section of the remarks.*
+
 

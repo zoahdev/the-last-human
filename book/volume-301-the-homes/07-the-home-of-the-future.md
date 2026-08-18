@@ -18,5 +18,6 @@ The home of the future is the meaning of the morning: the record of the homing, 
 
 The inheritance of the future: the morning of the dawn, carried from the new home to the dawn without loss, and held by the lineage as the lineage holds the future.
 
-*The home is complete. It is kept in the archive, in the section of the the homes.*
+*The home is complete. It is kept in the archive, in the section of the homes.*
+
 

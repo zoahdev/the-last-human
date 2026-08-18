@@ -18,5 +18,6 @@ The plait of the handover is the meaning of the plaiting: the record of the plai
 
 The inheritance of the handover: the plaiting of the hand, carried from the plaited hands to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The plait is complete. It is kept in the archive, in the section of the the plaits.*
+*The plait is complete. It is kept in the archive, in the section of the plaits.*
+
 

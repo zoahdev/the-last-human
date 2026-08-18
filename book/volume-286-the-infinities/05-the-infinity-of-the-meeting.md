@@ -18,5 +18,6 @@ The infinity of the meeting is the meaning of the gathering: the record of the e
 
 The inheritance of the meeting: the gathering of the table, carried from the endless table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The infinity is complete. It is kept in the archive, in the section of the the infinities.*
+*The infinity is complete. It is kept in the archive, in the section of the infinities.*
+
 

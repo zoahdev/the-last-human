@@ -18,5 +18,6 @@ The murmur of the origin is the meaning of the flow: the record of the murmuring
 
 The inheritance of the origin: the flow of the wanting, carried from the stream to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The murmur is complete. It is kept in the archive, in the section of the the murmurs.*
+*The murmur is complete. It is kept in the archive, in the section of the murmurs.*
+
 

@@ -18,5 +18,6 @@ The couplet of the law is the meaning of the balance: the record of the pairing,
 
 The inheritance of the law: the balance of the care, carried from the paired care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The couplet is complete. It is kept in the archive, in the section of the the couplets.*
+*The couplet is complete. It is kept in the archive, in the section of the couplets.*
+
 

@@ -18,5 +18,6 @@ The array of the law is the meaning of the arrangement: the record of the arrayi
 
 The inheritance of the law: the arrangement of the care, carried from the arrayed care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The array is complete. It is kept in the archive, in the section of the the arrays.*
+*The array is complete. It is kept in the archive, in the section of the arrays.*
+
 

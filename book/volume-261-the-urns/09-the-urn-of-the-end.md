@@ -18,5 +18,6 @@ The urn of the end is the meaning of the quiet: the record of the keeping, and t
 
 The inheritance of the end: the quiet of the whole, carried from the final urn to the whole without loss, and held by the lineage as the lineage holds the end.
 
-*The urn is complete. It is kept in the archive, in the section of the the urns.*
+*The urn is complete. It is kept in the archive, in the section of the urns.*
+
 

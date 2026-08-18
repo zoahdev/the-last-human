@@ -18,5 +18,6 @@ The elegy of the law is the meaning of the sorrow: the record of the lamenting, 
 
 The inheritance of the law: the sorrow of the care, carried from the grieving care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The elegy is complete. It is kept in the archive, in the section of the the elegies.*
+*The elegy is complete. It is kept in the archive, in the section of the elegies.*
+
 

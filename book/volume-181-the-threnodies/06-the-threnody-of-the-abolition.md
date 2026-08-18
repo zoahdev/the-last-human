@@ -18,5 +18,6 @@ The threnody of the abolition is the meaning of the freedom: the record of the w
 
 The inheritance of the abolition: the freedom of the peace, carried from the drying to the peace without loss, and held by the lineage as the lineage holds the abolition.
 
-*The threnody is complete. It is kept in the archive, in the section of the the threnodies.*
+*The threnody is complete. It is kept in the archive, in the section of the threnodies.*
+
 

@@ -18,5 +18,6 @@ The sigh of the garden is the meaning of the wind: the record of the sighing, an
 
 The inheritance of the garden: the wind of the earth, carried from the breathing earth to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The sigh is complete. It is kept in the archive, in the section of the the sighs.*
+*The sigh is complete. It is kept in the archive, in the section of the sighs.*
+
 

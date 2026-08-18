@@ -18,5 +18,6 @@ The doxology of the meeting is the meaning of the offering: the record of the gl
 
 The inheritance of the meeting: the offering of the table, carried from the altar to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The doxology is complete. It is kept in the archive, in the section of the the doxologies.*
+*The doxology is complete. It is kept in the archive, in the section of the doxologies.*
+
 

@@ -18,5 +18,6 @@ The morning of the future is the meaning of the morning: the record of the wakin
 
 The inheritance of the future: the morning of the dawn, carried from the coming morning to the dawn without loss, and held by the lineage as the lineage holds the future.
 
-*The morning is complete. It is kept in the archive, in the section of the the mornings.*
+*The morning is complete. It is kept in the archive, in the section of the mornings.*
+
 

@@ -18,5 +18,6 @@ The sea of the garden is the meaning of the shore: the record of the surrounding
 
 The inheritance of the garden: the shore of the earth, carried from the sea green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The sea is complete. It is kept in the archive, in the section of the the seas.*
+*The sea is complete. It is kept in the archive, in the section of the seas.*
+
 

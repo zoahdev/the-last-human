@@ -18,5 +18,6 @@ The ocean of the law is the meaning of the depth: the record of the encompassing
 
 The inheritance of the law: the depth of the care, carried from the encompassing care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The ocean is complete. It is kept in the archive, in the section of the the oceans.*
+*The ocean is complete. It is kept in the archive, in the section of the oceans.*
+
 

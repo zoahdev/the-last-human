@@ -18,5 +18,6 @@ The summer of the garden is the meaning of the harvest: the record of the ripeni
 
 The inheritance of the garden: the harvest of the earth, carried from the summer green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The summer is complete. It is kept in the archive, in the section of the the summers.*
+*The summer is complete. It is kept in the archive, in the section of the summers.*
+
 

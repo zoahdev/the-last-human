@@ -18,5 +18,6 @@ The folio of the origin is the meaning of the sheet: the record of the folding, 
 
 The inheritance of the origin: the sheet of the wanting, carried from the folded leaf to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The folio is complete. It is kept in the archive, in the section of the the folios.*
+*The folio is complete. It is kept in the archive, in the section of the folios.*
+
 

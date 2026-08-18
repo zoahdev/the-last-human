@@ -18,5 +18,6 @@ The stream of the memory is the meaning of the brook: the record of the streamin
 
 The inheritance of the memory: the brook of the book, carried from the streamed past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The stream is complete. It is kept in the archive, in the section of the the streams.*
+*The stream is complete. It is kept in the archive, in the section of the streams.*
+
 

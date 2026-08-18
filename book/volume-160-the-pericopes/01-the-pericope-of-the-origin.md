@@ -18,5 +18,6 @@ The pericope of the origin is the meaning of the excerpt: the record of the cutt
 
 The inheritance of the origin: the excerpt of the wanting, carried from the cut to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The pericope is complete. It is kept in the archive, in the section of the the pericopes.*
+*The pericope is complete. It is kept in the archive, in the section of the pericopes.*
+
 

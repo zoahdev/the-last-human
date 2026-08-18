@@ -18,5 +18,6 @@ The winter of the origin is the meaning of the snow: the record of the freezing,
 
 The inheritance of the origin: the snow of the wanting, carried from the snow to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The winter is complete. It is kept in the archive, in the section of the the winters.*
+*The winter is complete. It is kept in the archive, in the section of the winters.*
+
 

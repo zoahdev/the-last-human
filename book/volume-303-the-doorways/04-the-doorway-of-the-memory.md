@@ -18,5 +18,6 @@ The doorway of the memory is the meaning of the doorway: the record of the openi
 
 The inheritance of the memory: the doorway of the book, carried from the remembered doorway to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The doorway is complete. It is kept in the archive, in the section of the the doorways.*
+*The doorway is complete. It is kept in the archive, in the section of the doorways.*
+
 

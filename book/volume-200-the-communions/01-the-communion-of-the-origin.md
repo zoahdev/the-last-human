@@ -18,5 +18,6 @@ The communion of the origin is the meaning of the partaking: the record of the c
 
 The inheritance of the origin: the partaking of the wanting, carried from the sharing to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The communion is complete. It is kept in the archive, in the section of the the communions.*
+*The communion is complete. It is kept in the archive, in the section of the communions.*
+
 

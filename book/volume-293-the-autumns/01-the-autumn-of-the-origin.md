@@ -18,5 +18,6 @@ The autumn of the origin is the meaning of the harvest: the record of the fallin
 
 The inheritance of the origin: the harvest of the wanting, carried from the fall to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The autumn is complete. It is kept in the archive, in the section of the the autumns.*
+*The autumn is complete. It is kept in the archive, in the section of the autumns.*
+
 

@@ -18,5 +18,6 @@ The eternity of the origin is the meaning of the measure: the record of the exce
 
 The inheritance of the origin: the measure of the wanting, carried from the beyond to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The eternity is complete. It is kept in the archive, in the section of the the eternities.*
+*The eternity is complete. It is kept in the archive, in the section of the eternities.*
+
 

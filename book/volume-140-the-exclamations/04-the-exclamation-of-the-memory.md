@@ -18,5 +18,6 @@ The exclamation of the memory is the meaning of the startlement: the record of t
 
 The inheritance of the memory: the startlement of the book, carried from the surprise to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The exclamation is complete. It is kept in the archive, in the section of the the exclamations.*
+*The exclamation is complete. It is kept in the archive, in the section of the exclamations.*
+
 

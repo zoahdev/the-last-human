@@ -18,5 +18,6 @@ The chest of the handover is the meaning of the key: the record of the storing, 
 
 The inheritance of the handover: the key of the hand, carried from the stored hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The chest is complete. It is kept in the archive, in the section of the the chests.*
+*The chest is complete. It is kept in the archive, in the section of the chests.*
+
 

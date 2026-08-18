@@ -18,5 +18,6 @@ The forest of the abolition is the meaning of the freedom: the record of the gro
 
 The inheritance of the abolition: the freedom of the peace, carried from the open clearing to the peace without loss, and held by the lineage as the lineage holds the abolition.
 
-*The forest is complete. It is kept in the archive, in the section of the the forests.*
+*The forest is complete. It is kept in the archive, in the section of the forests.*
+
 

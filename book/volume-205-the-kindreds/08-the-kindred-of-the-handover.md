@@ -18,5 +18,6 @@ The kindred of the handover is the meaning of the relation: the record of the ki
 
 The inheritance of the handover: the relation of the hand, carried from the kin hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The kindred is complete. It is kept in the archive, in the section of the the kindreds.*
+*The kindred is complete. It is kept in the archive, in the section of the kindreds.*
+
 

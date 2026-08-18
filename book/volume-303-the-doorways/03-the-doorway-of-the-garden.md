@@ -18,5 +18,6 @@ The doorway of the garden is the meaning of the gate: the record of the opening,
 
 The inheritance of the garden: the gate of the earth, carried from the garden gate to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The doorway is complete. It is kept in the archive, in the section of the the doorways.*
+*The doorway is complete. It is kept in the archive, in the section of the doorways.*
+
 

@@ -18,5 +18,6 @@ The web of the law is the meaning of the pattern: the record of the weaving, and
 
 The inheritance of the law: the pattern of the care, carried from the woven care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The web is complete. It is kept in the archive, in the section of the the webs.*
+*The web is complete. It is kept in the archive, in the section of the webs.*
+
 

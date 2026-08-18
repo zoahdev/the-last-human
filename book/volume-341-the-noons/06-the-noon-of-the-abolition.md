@@ -18,5 +18,6 @@ The noon of the abolition is the meaning of the freedom: the record of the stand
 
 The inheritance of the abolition: the freedom of the peace, carried from the high noon to the peace without loss, and held by the lineage as the lineage holds the abolition.
 
-*The noon is complete. It is kept in the archive, in the section of the the noons.*
+*The noon is complete. It is kept in the archive, in the section of the noons.*
+
 

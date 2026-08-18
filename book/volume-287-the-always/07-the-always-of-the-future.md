@@ -18,5 +18,6 @@ The always of the future is the meaning of the morning: the record of the remain
 
 The inheritance of the future: the morning of the dawn, carried from the remaining dawn to the dawn without loss, and held by the lineage as the lineage holds the future.
 
-*The always is complete. It is kept in the archive, in the section of the the always.*
+*The always is complete. It is kept in the archive, in the section of the always.*
+
 

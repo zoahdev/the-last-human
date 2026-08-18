@@ -18,5 +18,6 @@ The lament of the law is the meaning of the plea: the record of the lamenting, a
 
 The inheritance of the law: the plea of the care, carried from the calling out to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The lament is complete. It is kept in the archive, in the section of the the laments.*
+*The lament is complete. It is kept in the archive, in the section of the laments.*
+
 

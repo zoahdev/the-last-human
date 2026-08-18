@@ -18,5 +18,6 @@ The gradual of the meeting is the meaning of the stairway: the record of the cli
 
 The inheritance of the meeting: the stairway of the table, carried from the climbing table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The gradual is complete. It is kept in the archive, in the section of the the graduals.*
+*The gradual is complete. It is kept in the archive, in the section of the graduals.*
+
 

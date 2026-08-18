@@ -18,5 +18,6 @@ The window of the abolition is the meaning of the freedom: the record of the ope
 
 The inheritance of the abolition: the freedom of the peace, carried from the opened casement to the peace without loss, and held by the lineage as the lineage holds the abolition.
 
-*The window is complete. It is kept in the archive, in the section of the the windows.*
+*The window is complete. It is kept in the archive, in the section of the windows.*
+
 

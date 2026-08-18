@@ -18,5 +18,6 @@ The testament of the law is the meaning of the covenant: the record of the beque
 
 The inheritance of the law: the covenant of the care, carried from the will to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The testament is complete. It is kept in the archive, in the section of the the testaments of the deep.*
+*The testament is complete. It is kept in the archive, in the section of the testaments of the deep.*
+
 

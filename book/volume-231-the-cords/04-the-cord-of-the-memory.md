@@ -18,5 +18,6 @@ The cord of the memory is the meaning of the binding: the record of the cording,
 
 The inheritance of the memory: the binding of the book, carried from the corded past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The cord is complete. It is kept in the archive, in the section of the the cords.*
+*The cord is complete. It is kept in the archive, in the section of the cords.*
+
 

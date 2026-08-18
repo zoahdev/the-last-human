@@ -18,5 +18,6 @@ The supplication of the origin is the meaning of the need: the record of the sup
 
 The inheritance of the origin: the need of the wanting, carried from the want to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The supplication is complete. It is kept in the archive, in the section of the the supplications.*
+*The supplication is complete. It is kept in the archive, in the section of the supplications.*
+
 

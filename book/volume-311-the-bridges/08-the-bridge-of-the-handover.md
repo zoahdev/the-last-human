@@ -18,5 +18,6 @@ The bridge of the handover is the meaning of the span: the record of the bridgin
 
 The inheritance of the handover: the span of the hand, carried from the bridging hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The bridge is complete. It is kept in the archive, in the section of the the bridges.*
+*The bridge is complete. It is kept in the archive, in the section of the bridges.*
+
 

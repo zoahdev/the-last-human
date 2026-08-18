@@ -18,5 +18,6 @@ The nation of the future is the meaning of the morning: the record of the unitin
 
 The inheritance of the future: the morning of the dawn, carried from the new nation to the dawn without loss, and held by the lineage as the lineage holds the future.
 
-*The nation is complete. It is kept in the archive, in the section of the the nations.*
+*The nation is complete. It is kept in the archive, in the section of the nations.*
+
 

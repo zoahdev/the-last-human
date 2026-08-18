@@ -18,5 +18,6 @@ The register of the whole is the meaning of the all: the record of the registeri
 
 The inheritance of the whole: the all of the one, carried from the complete register to the one without loss, and held by the lineage as the lineage holds the whole.
 
-*The register is complete. It is kept in the archive, in the section of the the registers.*
+*The register is complete. It is kept in the archive, in the section of the registers.*
+
 

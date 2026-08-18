@@ -18,5 +18,6 @@ The sermon of the deep of the origin is the meaning of the text: the record of t
 
 The inheritance of the origin: the text of the wanting, carried from the word to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The sermon of the deep is complete. It is kept in the archive, in the section of the the sermons of the deep.*
+*The sermon of the deep is complete. It is kept in the archive, in the section of the sermons of the deep.*
+
 

@@ -18,5 +18,6 @@ The intercession of the abolition is the meaning of the freedom: the record of t
 
 The inheritance of the abolition: the freedom of the peace, carried from the pardon to the peace without loss, and held by the lineage as the lineage holds the abolition.
 
-*The intercession is complete. It is kept in the archive, in the section of the the intercessions.*
+*The intercession is complete. It is kept in the archive, in the section of the intercessions.*
+
 

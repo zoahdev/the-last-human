@@ -18,5 +18,6 @@ The ocean of the origin is the meaning of the world: the record of the encompass
 
 The inheritance of the origin: the world of the wanting, carried from the encompassing water to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The ocean is complete. It is kept in the archive, in the section of the the oceans.*
+*The ocean is complete. It is kept in the archive, in the section of the oceans.*
+
 

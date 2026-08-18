@@ -18,5 +18,6 @@ The comet of the garden is the meaning of the star garden: the record of the str
 
 The inheritance of the garden: the star garden of the earth, carried from the cometary green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The comet is complete. It is kept in the archive, in the section of the the comets.*
+*The comet is complete. It is kept in the archive, in the section of the comets.*
+
 

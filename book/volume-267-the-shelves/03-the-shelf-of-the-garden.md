@@ -18,5 +18,6 @@ The shelf of the garden is the meaning of the terrace: the record of the shelvin
 
 The inheritance of the garden: the terrace of the earth, carried from the shelved green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The shelf is complete. It is kept in the archive, in the section of the the shelves.*
+*The shelf is complete. It is kept in the archive, in the section of the shelves.*
+
 

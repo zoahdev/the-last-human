@@ -18,5 +18,6 @@ The tapestry of the law is the meaning of the arras: the record of the hanging, 
 
 The inheritance of the law: the arras of the care, carried from the hung care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The tapestry is complete. It is kept in the archive, in the section of the the tapestries.*
+*The tapestry is complete. It is kept in the archive, in the section of the tapestries.*
+
 

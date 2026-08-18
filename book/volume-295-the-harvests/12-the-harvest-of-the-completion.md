@@ -18,5 +18,6 @@ The harvest of the completion is the meaning of the fullness: the record of the 
 
 The inheritance of the completion: the fullness of the beginning, carried from the complete harvest to the beginning without loss, and held by the lineage as the lineage holds the completion.
 
-*The harvest is complete. It is kept in the archive, in the section of the the harvests. It is the final harvest of the canon, and after it the canon speaks again.*
+*The harvest is complete. It is kept in the archive, in the section of the harvests. It is the final harvest of the canon, and after it the canon speaks again.*
+
 

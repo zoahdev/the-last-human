@@ -18,5 +18,6 @@ The matrix of the abolition is the meaning of the freedom: the record of the pre
 
 The inheritance of the abolition: the freedom of the peace, carried from the unstamped freedom to the peace without loss, and held by the lineage as the lineage holds the abolition.
 
-*The matrix is complete. It is kept in the archive, in the section of the the matrices.*
+*The matrix is complete. It is kept in the archive, in the section of the matrices.*
+
 

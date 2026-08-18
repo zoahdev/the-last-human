@@ -18,5 +18,6 @@ The season of the future is the meaning of the morning: the record of the season
 
 The inheritance of the future: the morning of the dawn, carried from the coming season to the dawn without loss, and held by the lineage as the lineage holds the future.
 
-*The season is complete. It is kept in the archive, in the section of the the seasons.*
+*The season is complete. It is kept in the archive, in the section of the seasons.*
+
 

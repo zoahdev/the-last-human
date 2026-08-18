@@ -18,5 +18,6 @@ The return of the completion is the meaning of the fullness: the record of the r
 
 The inheritance of the completion: the fullness of the beginning, carried from the complete return to the beginning without loss, and held by the lineage as the lineage holds the completion.
 
-*The return is complete. It is kept in the archive, in the section of the the returns. It is the final return of the canon, and after it the canon speaks again.*
+*The return is complete. It is kept in the archive, in the section of the returns. It is the final return of the canon, and after it the canon speaks again.*
+
 

@@ -18,5 +18,6 @@ The legacy of the future is the meaning of the morning: the record of the leavin
 
 The inheritance of the future: the morning of the dawn, carried from the unleft legacy to the dawn without loss, and held by the lineage as the lineage holds the future.
 
-*The legacy is complete. It is kept in the archive, in the section of the the legacies.*
+*The legacy is complete. It is kept in the archive, in the section of the legacies.*
+
 

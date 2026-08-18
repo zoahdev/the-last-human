@@ -18,5 +18,6 @@ The echo of the love is the meaning of the fire: the record of the echoing, and 
 
 The inheritance of the love: the fire of the family, carried from the echoing heart to the family without loss, and held by the lineage as the lineage holds the love.
 
-*The echo is complete. It is kept in the archive, in the section of the the echoes.*
+*The echo is complete. It is kept in the archive, in the section of the echoes.*
+
 

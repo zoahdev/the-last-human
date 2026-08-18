@@ -18,5 +18,6 @@ The port of the garden is the meaning of the garden port: the record of the arri
 
 The inheritance of the garden: the garden port of the earth, carried from the harbor green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The port is complete. It is kept in the archive, in the section of the the ports.*
+*The port is complete. It is kept in the archive, in the section of the ports.*
+
 

@@ -18,5 +18,6 @@ The invocation of the future is the meaning of the morning: the record of the in
 
 The inheritance of the future: the morning of the dawn, carried from the beckoning to the dawn without loss, and held by the lineage as the lineage holds the future.
 
-*The invocation is complete. It is kept in the archive, in the section of the the invocations.*
+*The invocation is complete. It is kept in the archive, in the section of the invocations.*
+
 

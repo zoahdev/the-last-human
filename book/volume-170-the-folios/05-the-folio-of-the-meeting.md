@@ -18,5 +18,6 @@ The folio of the meeting is the meaning of the board: the record of the folding,
 
 The inheritance of the meeting: the board of the table, carried from the spread to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The folio is complete. It is kept in the archive, in the section of the the folios.*
+*The folio is complete. It is kept in the archive, in the section of the folios.*
+
 

@@ -18,5 +18,6 @@ The dirge of the law is the meaning of the darkness: the record of the mourning,
 
 The inheritance of the law: the darkness of the care, carried from the mourning care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The dirge is complete. It is kept in the archive, in the section of the the dirges.*
+*The dirge is complete. It is kept in the archive, in the section of the dirges.*
+
 

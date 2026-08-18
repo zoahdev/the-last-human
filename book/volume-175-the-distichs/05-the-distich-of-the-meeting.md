@@ -18,5 +18,6 @@ The distich of the meeting is the meaning of the linkage: the record of the link
 
 The inheritance of the meeting: the linkage of the table, carried from the linked table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The distich is complete. It is kept in the archive, in the section of the the distichs.*
+*The distich is complete. It is kept in the archive, in the section of the distichs.*
+
 

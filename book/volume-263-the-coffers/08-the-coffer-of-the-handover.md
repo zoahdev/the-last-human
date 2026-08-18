@@ -18,5 +18,6 @@ The coffer of the handover is the meaning of the coffer: the record of the locki
 
 The inheritance of the handover: the coffer of the hand, carried from the locked hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The coffer is complete. It is kept in the archive, in the section of the the coffers.*
+*The coffer is complete. It is kept in the archive, in the section of the coffers.*
+
 

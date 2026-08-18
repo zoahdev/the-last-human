@@ -18,5 +18,6 @@ The note of the meeting is the meaning of the paper: the record of the noting, a
 
 The inheritance of the meeting: the paper of the table, carried from the shared note to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The note is complete. It is kept in the archive, in the section of the the notes.*
+*The note is complete. It is kept in the archive, in the section of the notes.*
+
 

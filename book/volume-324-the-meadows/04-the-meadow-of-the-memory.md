@@ -18,5 +18,6 @@ The meadow of the memory is the meaning of the meadow: the record of the bloomin
 
 The inheritance of the memory: the meadow of the book, carried from the bloomed past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The meadow is complete. It is kept in the archive, in the section of the the meadows.*
+*The meadow is complete. It is kept in the archive, in the section of the meadows.*
+
 

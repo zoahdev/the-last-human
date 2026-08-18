@@ -18,5 +18,6 @@ The river of the future is the meaning of the morning: the record of the flowing
 
 The inheritance of the future: the morning of the dawn, carried from the unflowed river to the dawn without loss, and held by the lineage as the lineage holds the future.
 
-*The river is complete. It is kept in the archive, in the section of the the rivers.*
+*The river is complete. It is kept in the archive, in the section of the rivers.*
+
 

@@ -18,5 +18,6 @@ The answer of the end is the meaning of the quiet: the record of the answering, 
 
 The inheritance of the end: the quiet of the whole, carried from the final answer to the whole without loss, and held by the lineage as the lineage holds the end.
 
-*The answer is complete. It is kept in the archive, in the section of the the answers.*
+*The answer is complete. It is kept in the archive, in the section of the answers.*
+
 

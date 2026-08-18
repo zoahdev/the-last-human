@@ -18,5 +18,6 @@ The harvest of the garden is the meaning of the crop: the record of the harvesti
 
 The inheritance of the garden: the crop of the earth, carried from the harvested green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The harvest is complete. It is kept in the archive, in the section of the the harvests.*
+*The harvest is complete. It is kept in the archive, in the section of the harvests.*
+
 

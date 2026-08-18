@@ -18,5 +18,6 @@ The treasure of the meeting is the meaning of the treasure: the record of the tr
 
 The inheritance of the meeting: the treasure of the table, carried from the treasure table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The treasure is complete. It is kept in the archive, in the section of the the treasures.*
+*The treasure is complete. It is kept in the archive, in the section of the treasures.*
+
 

@@ -18,5 +18,6 @@ The pattern of the garden is the meaning of the parterre: the record of the patt
 
 The inheritance of the garden: the parterre of the earth, carried from the patterned green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The pattern is complete. It is kept in the archive, in the section of the the patterns.*
+*The pattern is complete. It is kept in the archive, in the section of the patterns.*
+
 

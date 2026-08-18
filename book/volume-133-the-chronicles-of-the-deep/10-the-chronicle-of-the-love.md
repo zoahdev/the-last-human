@@ -18,5 +18,6 @@ The chronicle of the love is the meaning of the fire: the record of the chronicl
 
 The inheritance of the love: the fire of the family, carried from the thread to the family without loss, and held by the lineage as the lineage holds the love.
 
-*The chronicle is complete. It is kept in the archive, in the section of the the chronicles of the deep.*
+*The chronicle is complete. It is kept in the archive, in the section of the chronicles of the deep.*
+
 

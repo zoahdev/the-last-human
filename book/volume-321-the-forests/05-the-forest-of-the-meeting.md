@@ -18,5 +18,6 @@ The forest of the meeting is the meaning of the clearing: the record of the grow
 
 The inheritance of the meeting: the clearing of the table, carried from the forest table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The forest is complete. It is kept in the archive, in the section of the the forests.*
+*The forest is complete. It is kept in the archive, in the section of the forests.*
+
 

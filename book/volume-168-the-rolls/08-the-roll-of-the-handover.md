@@ -18,5 +18,6 @@ The roll of the handover is the meaning of the scroll: the record of the rolling
 
 The inheritance of the handover: the scroll of the hand, carried from the handing to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The roll is complete. It is kept in the archive, in the section of the the rolls.*
+*The roll is complete. It is kept in the archive, in the section of the rolls.*
+
 

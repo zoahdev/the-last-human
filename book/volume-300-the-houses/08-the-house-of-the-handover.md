@@ -18,5 +18,6 @@ The house of the handover is the meaning of the key: the record of the housing, 
 
 The inheritance of the handover: the key of the hand, carried from the keys to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The house is complete. It is kept in the archive, in the section of the the houses.*
+*The house is complete. It is kept in the archive, in the section of the houses.*
+
 

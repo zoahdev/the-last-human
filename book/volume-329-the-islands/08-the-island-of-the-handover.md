@@ -18,5 +18,6 @@ The island of the handover is the meaning of the island: the record of the surro
 
 The inheritance of the handover: the island of the hand, carried from the surrounding hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The island is complete. It is kept in the archive, in the section of the the islands.*
+*The island is complete. It is kept in the archive, in the section of the islands.*
+
 

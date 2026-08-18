@@ -18,5 +18,6 @@ The island of the garden is the meaning of the island garden: the record of the 
 
 The inheritance of the garden: the island garden of the earth, carried from the island green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The island is complete. It is kept in the archive, in the section of the the islands.*
+*The island is complete. It is kept in the archive, in the section of the islands.*
+
 

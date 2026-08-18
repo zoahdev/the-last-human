@@ -18,5 +18,6 @@ The galaxy of the origin is the meaning of the cosmos: the record of the gatheri
 
 The inheritance of the origin: the cosmos of the wanting, carried from the cloud of stars to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The galaxy is complete. It is kept in the archive, in the section of the the galaxies.*
+*The galaxy is complete. It is kept in the archive, in the section of the galaxies.*
+
 

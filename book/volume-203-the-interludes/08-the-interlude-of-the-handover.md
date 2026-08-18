@@ -18,5 +18,6 @@ The interlude of the handover is the meaning of the rest: the record of the rest
 
 The inheritance of the handover: the rest of the hand, carried from the resting hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The interlude is complete. It is kept in the archive, in the section of the the interludes.*
+*The interlude is complete. It is kept in the archive, in the section of the interludes.*
+
 

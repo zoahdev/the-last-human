@@ -18,5 +18,6 @@ The chain of the meeting is the meaning of the circle: the record of the chainin
 
 The inheritance of the meeting: the circle of the table, carried from the chained table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The chain is complete. It is kept in the archive, in the section of the the chains.*
+*The chain is complete. It is kept in the archive, in the section of the chains.*
+
 

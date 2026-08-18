@@ -18,5 +18,6 @@ The stanza of the love is the meaning of the fire: the record of the standing, a
 
 The inheritance of the love: the fire of the family, carried from the standing heart to the family without loss, and held by the lineage as the lineage holds the love.
 
-*The stanza is complete. It is kept in the archive, in the section of the the stanzas.*
+*The stanza is complete. It is kept in the archive, in the section of the stanzas.*
+
 

@@ -18,5 +18,6 @@ The bowl of the origin is the meaning of the meal: the record of the rounding, a
 
 The inheritance of the origin: the meal of the wanting, carried from the rounded hollow to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The bowl is complete. It is kept in the archive, in the section of the the bowls.*
+*The bowl is complete. It is kept in the archive, in the section of the bowls.*
+
 

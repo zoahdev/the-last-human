@@ -18,5 +18,6 @@ The template of the law is the meaning of the standard: the record of the cuttin
 
 The inheritance of the law: the standard of the care, carried from the cut care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The template is complete. It is kept in the archive, in the section of the the templates.*
+*The template is complete. It is kept in the archive, in the section of the templates.*
+
 

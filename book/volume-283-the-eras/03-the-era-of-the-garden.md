@@ -18,5 +18,6 @@ The era of the garden is the meaning of the era garden: the record of the dividi
 
 The inheritance of the garden: the era garden of the earth, carried from the divided green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The era is complete. It is kept in the archive, in the section of the the eras.*
+*The era is complete. It is kept in the archive, in the section of the eras.*
+
 

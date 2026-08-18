@@ -18,5 +18,6 @@ The chorus of the love is the meaning of the fire: the record of the chorusing, 
 
 The inheritance of the love: the fire of the family, carried from the choral heart to the family without loss, and held by the lineage as the lineage holds the love.
 
-*The chorus is complete. It is kept in the archive, in the section of the the choruses.*
+*The chorus is complete. It is kept in the archive, in the section of the choruses.*
+
 

@@ -18,5 +18,6 @@ The mountain of the memory is the meaning of the mountain: the record of the ris
 
 The inheritance of the memory: the mountain of the book, carried from the risen past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The mountain is complete. It is kept in the archive, in the section of the the mountains.*
+*The mountain is complete. It is kept in the archive, in the section of the mountains.*
+
 

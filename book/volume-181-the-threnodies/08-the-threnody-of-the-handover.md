@@ -18,5 +18,6 @@ The threnody of the handover is the meaning of the comfort: the record of the we
 
 The inheritance of the handover: the comfort of the hand, carried from the wiping to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The threnody is complete. It is kept in the archive, in the section of the the threnodies.*
+*The threnody is complete. It is kept in the archive, in the section of the threnodies.*
+
 

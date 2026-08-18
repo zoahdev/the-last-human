@@ -18,5 +18,6 @@ The autumn of the garden is the meaning of the leaves: the record of the falling
 
 The inheritance of the garden: the leaves of the earth, carried from the fallen green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The autumn is complete. It is kept in the archive, in the section of the the autumns.*
+*The autumn is complete. It is kept in the archive, in the section of the autumns.*
+
 

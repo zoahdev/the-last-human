@@ -18,5 +18,6 @@ The festival of the handover is the meaning of the holiday: the record of the ce
 
 The inheritance of the handover: the holiday of the hand, carried from the celebrating hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The festival is complete. It is kept in the archive, in the section of the the festivals.*
+*The festival is complete. It is kept in the archive, in the section of the festivals.*
+
 

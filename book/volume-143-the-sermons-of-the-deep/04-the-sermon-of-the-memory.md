@@ -18,5 +18,6 @@ The sermon of the deep of the memory is the meaning of the witness: the record o
 
 The inheritance of the memory: the witness of the book, carried from the testimony to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The sermon of the deep is complete. It is kept in the archive, in the section of the the sermons of the deep.*
+*The sermon of the deep is complete. It is kept in the archive, in the section of the sermons of the deep.*
+
 

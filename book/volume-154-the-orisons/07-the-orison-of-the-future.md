@@ -18,5 +18,6 @@ The orison of the future is the meaning of the morning: the record of the prayin
 
 The inheritance of the future: the morning of the dawn, carried from the lauds to the dawn without loss, and held by the lineage as the lineage holds the future.
 
-*The orison is complete. It is kept in the archive, in the section of the the orisons.*
+*The orison is complete. It is kept in the archive, in the section of the orisons.*
+
 

@@ -18,5 +18,6 @@ The introit of the handover is the meaning of the threshold: the record of the e
 
 The inheritance of the handover: the threshold of the hand, carried from the entering hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The introit is complete. It is kept in the archive, in the section of the the introits.*
+*The introit is complete. It is kept in the archive, in the section of the introits.*
+
 

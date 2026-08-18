@@ -18,5 +18,6 @@ The row of the abolition is the meaning of the freedom: the record of the rowing
 
 The inheritance of the abolition: the freedom of the peace, carried from the new row to the peace without loss, and held by the lineage as the lineage holds the abolition.
 
-*The row is complete. It is kept in the archive, in the section of the the rows.*
+*The row is complete. It is kept in the archive, in the section of the rows.*
+
 

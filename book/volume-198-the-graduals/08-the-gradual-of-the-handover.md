@@ -18,5 +18,6 @@ The gradual of the handover is the meaning of the ladder: the record of the clim
 
 The inheritance of the handover: the ladder of the hand, carried from the climbing hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The gradual is complete. It is kept in the archive, in the section of the the graduals.*
+*The gradual is complete. It is kept in the archive, in the section of the graduals.*
+
 

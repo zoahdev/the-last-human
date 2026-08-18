@@ -18,5 +18,6 @@ The quilt of the law is the meaning of the stitch: the record of the quilting, a
 
 The inheritance of the law: the stitch of the care, carried from the quilted care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The quilt is complete. It is kept in the archive, in the section of the the quilts.*
+*The quilt is complete. It is kept in the archive, in the section of the quilts.*
+
 

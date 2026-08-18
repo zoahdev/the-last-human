@@ -18,5 +18,6 @@ The river of the memory is the meaning of the source: the record of the flowing,
 
 The inheritance of the memory: the source of the book, carried from the flowed past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The river is complete. It is kept in the archive, in the section of the the rivers.*
+*The river is complete. It is kept in the archive, in the section of the rivers.*
+
 

@@ -18,5 +18,6 @@ The bowl of the law is the meaning of the bowl: the record of the rounding, and 
 
 The inheritance of the law: the bowl of the care, carried from the rounded care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The bowl is complete. It is kept in the archive, in the section of the the bowls.*
+*The bowl is complete. It is kept in the archive, in the section of the bowls.*
+
 

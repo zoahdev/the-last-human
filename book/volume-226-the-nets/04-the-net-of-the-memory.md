@@ -18,5 +18,6 @@ The net of the memory is the meaning of the catch: the record of the netting, an
 
 The inheritance of the memory: the catch of the book, carried from the netted past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The net is complete. It is kept in the archive, in the section of the the nets.*
+*The net is complete. It is kept in the archive, in the section of the nets.*
+
 

@@ -18,5 +18,6 @@ The ladder of the meeting is the meaning of the ladder: the record of the scalin
 
 The inheritance of the meeting: the ladder of the table, carried from the runged table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The ladder is complete. It is kept in the archive, in the section of the the ladders.*
+*The ladder is complete. It is kept in the archive, in the section of the ladders.*
+
 

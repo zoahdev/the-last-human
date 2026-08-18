@@ -18,5 +18,6 @@ The coffer of the future is the meaning of the morning: the record of the lockin
 
 The inheritance of the future: the morning of the dawn, carried from the unopened coffer to the dawn without loss, and held by the lineage as the lineage holds the future.
 
-*The coffer is complete. It is kept in the archive, in the section of the the coffers.*
+*The coffer is complete. It is kept in the archive, in the section of the coffers.*
+
 

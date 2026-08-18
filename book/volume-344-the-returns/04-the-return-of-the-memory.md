@@ -18,5 +18,6 @@ The return of the memory is the meaning of the road: the record of the returning
 
 The inheritance of the memory: the road of the book, carried from the returned past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The return is complete. It is kept in the archive, in the section of the the returns.*
+*The return is complete. It is kept in the archive, in the section of the returns.*
+
 

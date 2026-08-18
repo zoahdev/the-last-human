@@ -18,5 +18,6 @@ The folio of the memory is the meaning of the manuscript: the record of the fold
 
 The inheritance of the memory: the manuscript of the book, carried from the folded record to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The folio is complete. It is kept in the archive, in the section of the the folios.*
+*The folio is complete. It is kept in the archive, in the section of the folios.*
+
 

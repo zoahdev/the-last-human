@@ -18,5 +18,6 @@ The valley of the love is the meaning of the fire: the record of the hollowing, 
 
 The inheritance of the love: the fire of the family, carried from the hollowing heart to the family without loss, and held by the lineage as the lineage holds the love.
 
-*The valley is complete. It is kept in the archive, in the section of the the valleys.*
+*The valley is complete. It is kept in the archive, in the section of the valleys.*
+
 

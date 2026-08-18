@@ -18,5 +18,6 @@ The exclamation of the completion is the meaning of the fullness: the record of 
 
 The inheritance of the completion: the fullness of the beginning, carried from the omega to the beginning without loss, and held by the lineage as the lineage holds the completion.
 
-*The exclamation is complete. It is kept in the archive, in the section of the the exclamations. It is the final exclamation of the canon, and after it the canon speaks again.*
+*The exclamation is complete. It is kept in the archive, in the section of the exclamations. It is the final exclamation of the canon, and after it the canon speaks again.*
+
 

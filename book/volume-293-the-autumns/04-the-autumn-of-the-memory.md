@@ -18,5 +18,6 @@ The autumn of the memory is the meaning of the leaves: the record of the falling
 
 The inheritance of the memory: the leaves of the book, carried from the fallen past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The autumn is complete. It is kept in the archive, in the section of the the autumns.*
+*The autumn is complete. It is kept in the archive, in the section of the autumns.*
+
 

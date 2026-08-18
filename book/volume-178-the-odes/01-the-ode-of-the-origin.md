@@ -18,5 +18,6 @@ The ode of the origin is the meaning of the soaring: the record of the soaring, 
 
 The inheritance of the origin: the soaring of the wanting, carried from the flight to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The ode is complete. It is kept in the archive, in the section of the the odes.*
+*The ode is complete. It is kept in the archive, in the section of the odes.*
+
 

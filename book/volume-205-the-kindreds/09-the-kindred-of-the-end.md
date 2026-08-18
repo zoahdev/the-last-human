@@ -18,5 +18,6 @@ The kindred of the end is the meaning of the quiet: the record of the kinning, a
 
 The inheritance of the end: the quiet of the whole, carried from the final kindred to the whole without loss, and held by the lineage as the lineage holds the end.
 
-*The kindred is complete. It is kept in the archive, in the section of the the kindreds.*
+*The kindred is complete. It is kept in the archive, in the section of the kindreds.*
+
 

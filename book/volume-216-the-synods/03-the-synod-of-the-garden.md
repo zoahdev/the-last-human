@@ -18,5 +18,6 @@ The synod of the garden is the meaning of the bench: the record of the sitting, 
 
 The inheritance of the garden: the bench of the earth, carried from the seated green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The synod is complete. It is kept in the archive, in the section of the the synods.*
+*The synod is complete. It is kept in the archive, in the section of the synods.*
+
 

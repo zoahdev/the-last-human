@@ -18,5 +18,6 @@ The memorandum of the law is the meaning of the remembrance: the record of the m
 
 The inheritance of the law: the remembrance of the care, carried from the remembered care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The memorandum is complete. It is kept in the archive, in the section of the the memoranda.*
+*The memorandum is complete. It is kept in the archive, in the section of the memoranda.*
+
 

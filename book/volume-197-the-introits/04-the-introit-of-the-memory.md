@@ -18,5 +18,6 @@ The introit of the memory is the meaning of the opening song: the record of the 
 
 The inheritance of the memory: the opening song of the book, carried from the entering song to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The introit is complete. It is kept in the archive, in the section of the the introits.*
+*The introit is complete. It is kept in the archive, in the section of the introits.*
+
 

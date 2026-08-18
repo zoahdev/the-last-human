@@ -18,5 +18,6 @@ The age of the garden is the meaning of the ancient garden: the record of the ag
 
 The inheritance of the garden: the ancient garden of the earth, carried from the aged green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The age is complete. It is kept in the archive, in the section of the the ages.*
+*The age is complete. It is kept in the archive, in the section of the ages.*
+
 

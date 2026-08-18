@@ -18,5 +18,6 @@ The table of the handover is the meaning of the table: the record of the sharing
 
 The inheritance of the handover: the table of the hand, carried from the shared hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The table is complete. It is kept in the archive, in the section of the the tables.*
+*The table is complete. It is kept in the archive, in the section of the tables.*
+
 

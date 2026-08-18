@@ -18,5 +18,6 @@ The desert of the origin is the meaning of the desert: the record of the drying,
 
 The inheritance of the origin: the desert of the wanting, carried from the sand to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The desert is complete. It is kept in the archive, in the section of the the deserts.*
+*The desert is complete. It is kept in the archive, in the section of the deserts.*
+
 

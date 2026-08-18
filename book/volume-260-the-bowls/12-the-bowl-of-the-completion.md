@@ -18,5 +18,6 @@ The bowl of the completion is the meaning of the fullness: the record of the rou
 
 The inheritance of the completion: the fullness of the beginning, carried from the complete bowl to the beginning without loss, and held by the lineage as the lineage holds the completion.
 
-*The bowl is complete. It is kept in the archive, in the section of the the bowls. It is the final bowl of the canon, and after it the canon speaks again.*
+*The bowl is complete. It is kept in the archive, in the section of the bowls. It is the final bowl of the canon, and after it the canon speaks again.*
+
 

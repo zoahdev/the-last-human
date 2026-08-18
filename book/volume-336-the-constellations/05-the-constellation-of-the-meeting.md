@@ -18,5 +18,6 @@ The constellation of the meeting is the meaning of the sky: the record of the ar
 
 The inheritance of the meeting: the sky of the table, carried from the constellation table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The constellation is complete. It is kept in the archive, in the section of the the constellations.*
+*The constellation is complete. It is kept in the archive, in the section of the constellations.*
+
 

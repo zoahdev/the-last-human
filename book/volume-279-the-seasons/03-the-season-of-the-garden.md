@@ -18,5 +18,6 @@ The season of the garden is the meaning of the growing season: the record of the
 
 The inheritance of the garden: the growing season of the earth, carried from the seasonal green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The season is complete. It is kept in the archive, in the section of the the seasons.*
+*The season is complete. It is kept in the archive, in the section of the seasons.*
+
 

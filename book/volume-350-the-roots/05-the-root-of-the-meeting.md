@@ -18,5 +18,6 @@ The root of the meeting is the meaning of the root: the record of the rooting, a
 
 The inheritance of the meeting: the root of the table, carried from the root table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The root is complete. It is kept in the archive, in the section of the the roots.*
+*The root is complete. It is kept in the archive, in the section of the roots.*
+
 

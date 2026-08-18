@@ -18,5 +18,6 @@ The call of the law is the meaning of the command: the record of the calling, an
 
 The inheritance of the law: the command of the care, carried from the ordering call to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The call is complete. It is kept in the archive, in the section of the the calls.*
+*The call is complete. It is kept in the archive, in the section of the calls.*
+
 

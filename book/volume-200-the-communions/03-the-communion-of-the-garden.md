@@ -18,5 +18,6 @@ The communion of the garden is the meaning of the commons: the record of the com
 
 The inheritance of the garden: the commons of the earth, carried from the common green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The communion is complete. It is kept in the archive, in the section of the the communions.*
+*The communion is complete. It is kept in the archive, in the section of the communions.*
+
 

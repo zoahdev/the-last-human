@@ -18,5 +18,6 @@ The legacy of the love is the meaning of the fire: the record of the leaving, an
 
 The inheritance of the love: the fire of the family, carried from the leaving heart to the family without loss, and held by the lineage as the lineage holds the love.
 
-*The legacy is complete. It is kept in the archive, in the section of the the legacies.*
+*The legacy is complete. It is kept in the archive, in the section of the legacies.*
+
 

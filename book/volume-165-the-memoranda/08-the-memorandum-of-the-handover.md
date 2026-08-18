@@ -18,5 +18,6 @@ The memorandum of the handover is the meaning of the holding: the record of the 
 
 The inheritance of the handover: the holding of the hand, carried from the remembered hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The memorandum is complete. It is kept in the archive, in the section of the the memoranda.*
+*The memorandum is complete. It is kept in the archive, in the section of the memoranda.*
+
 

@@ -18,5 +18,6 @@ The web of the meeting is the meaning of the net: the record of the weaving, and
 
 The inheritance of the meeting: the net of the table, carried from the woven table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The web is complete. It is kept in the archive, in the section of the the webs.*
+*The web is complete. It is kept in the archive, in the section of the webs.*
+
 

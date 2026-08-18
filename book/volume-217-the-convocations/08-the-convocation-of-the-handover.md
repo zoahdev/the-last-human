@@ -18,5 +18,6 @@ The convocation of the handover is the meaning of the invitation: the record of 
 
 The inheritance of the handover: the invitation of the hand, carried from the convoked hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The convocation is complete. It is kept in the archive, in the section of the the convocations.*
+*The convocation is complete. It is kept in the archive, in the section of the convocations.*
+
 

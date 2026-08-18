@@ -18,5 +18,6 @@ The doorway of the meeting is the meaning of the threshold: the record of the op
 
 The inheritance of the meeting: the threshold of the table, carried from the threshold table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The doorway is complete. It is kept in the archive, in the section of the the doorways.*
+*The doorway is complete. It is kept in the archive, in the section of the doorways.*
+
 

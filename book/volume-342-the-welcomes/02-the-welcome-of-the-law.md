@@ -18,5 +18,6 @@ The welcome of the law is the meaning of the welcome: the record of the welcomin
 
 The inheritance of the law: the welcome of the care, carried from the welcoming care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The welcome is complete. It is kept in the archive, in the section of the the welcomes.*
+*The welcome is complete. It is kept in the archive, in the section of the welcomes.*
+
 

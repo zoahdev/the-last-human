@@ -18,5 +18,6 @@ The bridge of the law is the meaning of the crossing: the record of the bridging
 
 The inheritance of the law: the crossing of the care, carried from the bridging care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The bridge is complete. It is kept in the archive, in the section of the the bridges.*
+*The bridge is complete. It is kept in the archive, in the section of the bridges.*
+
 

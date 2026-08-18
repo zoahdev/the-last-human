@@ -18,5 +18,6 @@ The mountain of the law is the meaning of the ridge: the record of the rising, a
 
 The inheritance of the law: the ridge of the care, carried from the rising care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The mountain is complete. It is kept in the archive, in the section of the the mountains.*
+*The mountain is complete. It is kept in the archive, in the section of the mountains.*
+
 

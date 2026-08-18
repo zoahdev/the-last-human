@@ -18,5 +18,6 @@ The chart of the origin is the meaning of the sky: the record of the charting, a
 
 The inheritance of the origin: the sky of the wanting, carried from the star map to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The chart is complete. It is kept in the archive, in the section of the the charts.*
+*The chart is complete. It is kept in the archive, in the section of the charts.*
+
 

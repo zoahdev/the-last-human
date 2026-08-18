@@ -18,5 +18,6 @@ The twilight of the memory is the meaning of the twilight: the record of the fad
 
 The inheritance of the memory: the twilight of the book, carried from the faded past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The twilight is complete. It is kept in the archive, in the section of the the twilights.*
+*The twilight is complete. It is kept in the archive, in the section of the twilights.*
+
 

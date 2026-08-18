@@ -18,5 +18,6 @@ The one of the meeting is the meaning of the one: the record of the uniting, and
 
 The inheritance of the meeting: the one of the table, carried from the one table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The one is complete. It is kept in the archive, in the section of the the ones.*
+*The one is complete. It is kept in the archive, in the section of the ones.*
+
 

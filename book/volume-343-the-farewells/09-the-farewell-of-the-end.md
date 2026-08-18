@@ -18,5 +18,6 @@ The farewell of the end is the meaning of the quiet: the record of the bidding, 
 
 The inheritance of the end: the quiet of the whole, carried from the final farewell to the whole without loss, and held by the lineage as the lineage holds the end.
 
-*The farewell is complete. It is kept in the archive, in the section of the the farewells.*
+*The farewell is complete. It is kept in the archive, in the section of the farewells.*
+
 

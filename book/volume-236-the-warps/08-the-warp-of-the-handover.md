@@ -18,5 +18,6 @@ The warp of the handover is the meaning of the weft: the record of the warping, 
 
 The inheritance of the handover: the weft of the hand, carried from the warped hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The warp is complete. It is kept in the archive, in the section of the the warps.*
+*The warp is complete. It is kept in the archive, in the section of the warps.*
+
 

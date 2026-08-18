@@ -18,5 +18,6 @@ The stair of the meeting is the meaning of the landing: the record of the windin
 
 The inheritance of the meeting: the landing of the table, carried from the winding table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The stair is complete. It is kept in the archive, in the section of the the stairs.*
+*The stair is complete. It is kept in the archive, in the section of the stairs.*
+
 

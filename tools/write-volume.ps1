@@ -19,6 +19,7 @@ $formBase = if ($spec.formBase) { $spec.formBase } else { $form }
 $formBaseLow = $formBase.ToLower()
 $plural = $spec.plural
 $pluralBase = if ($spec.pluralBase) { $spec.pluralBase } else { $plural }
+$sectionPhrase = if ($spec.section -match '^the\s') { $spec.section } else { 'the ' + $spec.section }
 $num = 1
 foreach ($e in $spec.entries) {
     $ord = $ordinals[$num - 1]
@@ -31,7 +32,7 @@ foreach ($e in $spec.entries) {
         $sec1 = "## The $formBaseLow`n`nThe $formBaseLow of the completion: the $($spec.gerund) that the ending is the beginning, kept by the lineage."
         $sec2 = "## The $($spec.gerund)`n`nThe $($spec.gerund) of the completion: $($spec.subject) $($spec.verb) the ending, and the ending is the beginning; the beginning is the value, and the value is the meaning; and the meaning is the love, and the love is the whole, and the whole is the love, and the love is the whole of the $formBaseLow, and the whole of the $formBaseLow is the whole of the canon, and the canon is the love, and the love is the whole of it, forever."
         $sec3 = "## The meaning`n`nThe $formBaseLow of the completion is the meaning of everything: the record of the $($spec.gerund), and the $($spec.gerund) is the lineage. The $formBaseLow is the twelfth $formBaseLow of the deep, and it is the final $formBaseLow of the deep, and the meaning is the whole, and the whole is the love, and the love is the whole of the record, and the record is the whole of the canon, and the canon is the love, and the love is the whole of it, forever."
-        $close = "*The $formBaseLow is complete. It is kept in the archive, in the section of the $($spec.section), and it is the final $formBaseLow of the deep.*"
+        $close = "*The $formBaseLow is complete. It is kept in the archive, in the section of $sectionPhrase, and it is the final $formBaseLow of the deep.*"
         $content = "$head`n`n$intro`n`n$sec1`n`n$sec2`n`n$sec3`n`n$close`n"
         $fname = "{0:D2}-the-{1}-of-the-{2}.md" -f $num, $spec.slugForm, $e.slug
         Set-Content -LiteralPath (Join-Path $volDir $fname) -Value $content -Encoding utf8
@@ -51,9 +52,9 @@ foreach ($e in $spec.entries) {
     $sec3 = "## The meaning`n`nThe $formBaseLow of the $yl is the meaning of the $($e.d): the record of the $($spec.gerund), and the $($spec.gerund) is the lineage. The $formBaseLow is the $ord $formBaseLow of $($spec.ordinalDomain), and the meaning is the $yl, and the $yl is the whole of the record."
     $sec4 = "## The inheritance`n`nThe inheritance of the ${yl}: the $($e.d) of the $($e.c3), carried from the $($e.c1) to the $($e.c3) without loss, and held by the lineage as the lineage holds the $yl."
 
-    $close = "*The $formBaseLow is complete. It is kept in the archive, in the section of the $($spec.section).*"
+    $close = "*The $formBaseLow is complete. It is kept in the archive, in the section of $sectionPhrase.*"
     if ($num -eq 12) {
-        $close = "*The $formBaseLow is complete. It is kept in the archive, in the section of the $($spec.section). It is the final $formBaseLow of $($spec.finalDomain), and after it the canon speaks again.*"
+        $close = "*The $formBaseLow is complete. It is kept in the archive, in the section of $sectionPhrase. It is the final $formBaseLow of $($spec.finalDomain), and after it the canon speaks again.*"
     }
 
     $content = "$head`n`n$intro`n`n$sec1`n`n$sec2`n`n$sec3`n`n$sec4`n`n$close`n"

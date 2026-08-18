@@ -18,5 +18,6 @@ The thread of the law is the meaning of the stitch: the record of the threading,
 
 The inheritance of the law: the stitch of the care, carried from the threaded care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The thread is complete. It is kept in the archive, in the section of the the threads.*
+*The thread is complete. It is kept in the archive, in the section of the threads.*
+
 

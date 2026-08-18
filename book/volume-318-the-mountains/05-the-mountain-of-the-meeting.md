@@ -18,5 +18,6 @@ The mountain of the meeting is the meaning of the summit: the record of the risi
 
 The inheritance of the meeting: the summit of the table, carried from the mountain table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The mountain is complete. It is kept in the archive, in the section of the the mountains.*
+*The mountain is complete. It is kept in the archive, in the section of the mountains.*
+
 

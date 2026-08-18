@@ -18,5 +18,6 @@ The field of the handover is the meaning of the field: the record of the tilling
 
 The inheritance of the handover: the field of the hand, carried from the tilling hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The field is complete. It is kept in the archive, in the section of the the fields.*
+*The field is complete. It is kept in the archive, in the section of the fields.*
+
 

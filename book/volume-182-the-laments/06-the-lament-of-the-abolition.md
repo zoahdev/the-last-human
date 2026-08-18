@@ -18,5 +18,6 @@ The lament of the abolition is the meaning of the freedom: the record of the lam
 
 The inheritance of the abolition: the freedom of the peace, carried from the answered cry to the peace without loss, and held by the lineage as the lineage holds the abolition.
 
-*The lament is complete. It is kept in the archive, in the section of the the laments.*
+*The lament is complete. It is kept in the archive, in the section of the laments.*
+
 

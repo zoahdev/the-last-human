@@ -18,5 +18,6 @@ The salon of the handover is the meaning of the welcome: the record of the meeti
 
 The inheritance of the handover: the welcome of the hand, carried from the chair to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The salon is complete. It is kept in the archive, in the section of the the salons.*
+*The salon is complete. It is kept in the archive, in the section of the salons.*
+
 

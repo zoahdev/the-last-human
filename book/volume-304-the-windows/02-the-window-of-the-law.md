@@ -18,5 +18,6 @@ The window of the law is the meaning of the casement: the record of the opening,
 
 The inheritance of the law: the casement of the care, carried from the sash to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The window is complete. It is kept in the archive, in the section of the the windows.*
+*The window is complete. It is kept in the archive, in the section of the windows.*
+
 

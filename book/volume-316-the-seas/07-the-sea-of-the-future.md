@@ -18,5 +18,6 @@ The sea of the future is the meaning of the morning: the record of the surroundi
 
 The inheritance of the future: the morning of the dawn, carried from the calm sea to the dawn without loss, and held by the lineage as the lineage holds the future.
 
-*The sea is complete. It is kept in the archive, in the section of the the seas.*
+*The sea is complete. It is kept in the archive, in the section of the seas.*
+
 

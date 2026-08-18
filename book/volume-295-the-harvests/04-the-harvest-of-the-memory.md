@@ -18,5 +18,6 @@ The harvest of the memory is the meaning of the grain: the record of the harvest
 
 The inheritance of the memory: the grain of the book, carried from the harvested past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The harvest is complete. It is kept in the archive, in the section of the the harvests.*
+*The harvest is complete. It is kept in the archive, in the section of the harvests.*
+
 

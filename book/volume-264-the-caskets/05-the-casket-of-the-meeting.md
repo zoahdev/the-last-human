@@ -18,5 +18,6 @@ The casket of the meeting is the meaning of the heirloom: the record of the shut
 
 The inheritance of the meeting: the heirloom of the table, carried from the shared casket to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The casket is complete. It is kept in the archive, in the section of the the caskets.*
+*The casket is complete. It is kept in the archive, in the section of the caskets.*
+
 

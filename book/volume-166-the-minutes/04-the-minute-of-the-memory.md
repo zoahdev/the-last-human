@@ -18,5 +18,6 @@ The minute of the memory is the meaning of the transcript: the record of the min
 
 The inheritance of the memory: the transcript of the book, carried from the recorded past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The minute is complete. It is kept in the archive, in the section of the the minutes.*
+*The minute is complete. It is kept in the archive, in the section of the minutes.*
+
 

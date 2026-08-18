@@ -18,5 +18,6 @@ The vessel of the abolition is the meaning of the freedom: the record of the hol
 
 The inheritance of the abolition: the freedom of the peace, carried from the emptied vessel to the peace without loss, and held by the lineage as the lineage holds the abolition.
 
-*The vessel is complete. It is kept in the archive, in the section of the the vessels.*
+*The vessel is complete. It is kept in the archive, in the section of the vessels.*
+
 

@@ -18,5 +18,6 @@ The matrix of the handover is the meaning of the stamp: the record of the pressi
 
 The inheritance of the handover: the stamp of the hand, carried from the pressed hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The matrix is complete. It is kept in the archive, in the section of the the matrices.*
+*The matrix is complete. It is kept in the archive, in the section of the matrices.*
+
 

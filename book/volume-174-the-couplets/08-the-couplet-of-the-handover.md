@@ -18,5 +18,6 @@ The couplet of the handover is the meaning of the twosome: the record of the pai
 
 The inheritance of the handover: the twosome of the hand, carried from the paired hands to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The couplet is complete. It is kept in the archive, in the section of the the couplets.*
+*The couplet is complete. It is kept in the archive, in the section of the couplets.*
+
 

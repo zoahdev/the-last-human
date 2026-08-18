@@ -18,5 +18,6 @@ The pericope of the handover is the meaning of the portion: the record of the cu
 
 The inheritance of the handover: the portion of the hand, carried from the choosing to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The pericope is complete. It is kept in the archive, in the section of the the pericopes.*
+*The pericope is complete. It is kept in the archive, in the section of the pericopes.*
+
 

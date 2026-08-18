@@ -18,5 +18,6 @@ The tribe of the law is the meaning of the custom: the record of the gathering, 
 
 The inheritance of the law: the custom of the care, carried from the tribal care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The tribe is complete. It is kept in the archive, in the section of the the tribes.*
+*The tribe is complete. It is kept in the archive, in the section of the tribes.*
+
 

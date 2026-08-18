@@ -18,5 +18,6 @@ The galaxy of the love is the meaning of the fire: the record of the gathering, 
 
 The inheritance of the love: the fire of the family, carried from the gathering heart to the family without loss, and held by the lineage as the lineage holds the love.
 
-*The galaxy is complete. It is kept in the archive, in the section of the the galaxies.*
+*The galaxy is complete. It is kept in the archive, in the section of the galaxies.*
+
 

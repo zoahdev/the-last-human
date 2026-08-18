@@ -18,5 +18,6 @@ The gloss of the law is the meaning of the exegesis: the record of the glossing,
 
 The inheritance of the law: the exegesis of the care, carried from the commentary to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The gloss is complete. It is kept in the archive, in the section of the the glosses.*
+*The gloss is complete. It is kept in the archive, in the section of the glosses.*
+
 

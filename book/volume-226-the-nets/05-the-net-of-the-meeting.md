@@ -18,5 +18,6 @@ The net of the meeting is the meaning of the haul: the record of the netting, an
 
 The inheritance of the meeting: the haul of the table, carried from the netted table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The net is complete. It is kept in the archive, in the section of the the nets.*
+*The net is complete. It is kept in the archive, in the section of the nets.*
+
 

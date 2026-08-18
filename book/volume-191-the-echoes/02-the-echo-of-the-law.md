@@ -18,5 +18,6 @@ The echo of the law is the meaning of the reverberation: the record of the echoi
 
 The inheritance of the law: the reverberation of the care, carried from the echoing care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The echo is complete. It is kept in the archive, in the section of the the echoes.*
+*The echo is complete. It is kept in the archive, in the section of the echoes.*
+
 

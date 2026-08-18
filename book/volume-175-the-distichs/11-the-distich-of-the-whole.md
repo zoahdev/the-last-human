@@ -18,5 +18,6 @@ The distich of the whole is the meaning of the all: the record of the linking, a
 
 The inheritance of the whole: the all of the one, carried from the linked many to the one without loss, and held by the lineage as the lineage holds the whole.
 
-*The distich is complete. It is kept in the archive, in the section of the the distichs.*
+*The distich is complete. It is kept in the archive, in the section of the distichs.*
+
 

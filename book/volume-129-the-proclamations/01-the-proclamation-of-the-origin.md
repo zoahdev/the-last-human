@@ -18,5 +18,6 @@ The proclamation of the origin is the meaning of the herald: the record of the p
 
 The inheritance of the origin: the herald of the wanting, carried from the order to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The proclamation is complete. It is kept in the archive, in the section of the the proclamations.*
+*The proclamation is complete. It is kept in the archive, in the section of the proclamations.*
+
 

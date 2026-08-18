@@ -18,5 +18,6 @@ The moon of the meeting is the meaning of the sky: the record of the waxing, and
 
 The inheritance of the meeting: the sky of the table, carried from the moon table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The moon is complete. It is kept in the archive, in the section of the the moons.*
+*The moon is complete. It is kept in the archive, in the section of the moons.*
+
 

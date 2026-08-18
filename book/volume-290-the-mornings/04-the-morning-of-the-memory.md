@@ -18,5 +18,6 @@ The morning of the memory is the meaning of the birdsong: the record of the waki
 
 The inheritance of the memory: the birdsong of the book, carried from the woken past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The morning is complete. It is kept in the archive, in the section of the the mornings.*
+*The morning is complete. It is kept in the archive, in the section of the mornings.*
+
 

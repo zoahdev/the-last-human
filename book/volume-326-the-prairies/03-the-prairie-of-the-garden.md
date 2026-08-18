@@ -18,5 +18,6 @@ The prairie of the garden is the meaning of the prairie: the record of the stret
 
 The inheritance of the garden: the prairie of the earth, carried from the prairie green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The prairie is complete. It is kept in the archive, in the section of the the prairies.*
+*The prairie is complete. It is kept in the archive, in the section of the prairies.*
+
 

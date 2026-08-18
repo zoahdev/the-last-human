@@ -18,5 +18,6 @@ The psalm of the law is the meaning of the rod: the record of the praying, and t
 
 The inheritance of the law: the rod of the care, carried from the staff to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The psalm is complete. It is kept in the archive, in the section of the the psalms.*
+*The psalm is complete. It is kept in the archive, in the section of the psalms.*
+
 

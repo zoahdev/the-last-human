@@ -18,5 +18,6 @@ The one of the garden is the meaning of the one garden: the record of the unitin
 
 The inheritance of the garden: the one garden of the earth, carried from the one green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The one is complete. It is kept in the archive, in the section of the the ones.*
+*The one is complete. It is kept in the archive, in the section of the ones.*
+
 

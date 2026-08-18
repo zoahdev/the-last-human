@@ -18,5 +18,6 @@ The stack of the completion is the meaning of the fullness: the record of the st
 
 The inheritance of the completion: the fullness of the beginning, carried from the complete stack to the beginning without loss, and held by the lineage as the lineage holds the completion.
 
-*The stack is complete. It is kept in the archive, in the section of the the stacks. It is the final stack of the canon, and after it the canon speaks again.*
+*The stack is complete. It is kept in the archive, in the section of the stacks. It is the final stack of the canon, and after it the canon speaks again.*
+
 

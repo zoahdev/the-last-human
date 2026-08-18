@@ -18,5 +18,6 @@ The evocation of the garden is the meaning of the spring: the record of the evok
 
 The inheritance of the garden: the spring of the earth, carried from the awakening to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The evocation is complete. It is kept in the archive, in the section of the the evocations.*
+*The evocation is complete. It is kept in the archive, in the section of the evocations.*
+
 

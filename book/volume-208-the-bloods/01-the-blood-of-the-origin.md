@@ -18,5 +18,6 @@ The blood of the origin is the meaning of the heartbeat: the record of the flowi
 
 The inheritance of the origin: the heartbeat of the wanting, carried from the pulse to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The blood is complete. It is kept in the archive, in the section of the the bloods.*
+*The blood is complete. It is kept in the archive, in the section of the bloods.*
+
 

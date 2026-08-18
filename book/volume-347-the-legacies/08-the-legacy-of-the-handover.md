@@ -18,5 +18,6 @@ The legacy of the handover is the meaning of the legacy: the record of the leavi
 
 The inheritance of the handover: the legacy of the hand, carried from the leaving hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The legacy is complete. It is kept in the archive, in the section of the the legacies.*
+*The legacy is complete. It is kept in the archive, in the section of the legacies.*
+
 

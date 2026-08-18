@@ -18,5 +18,6 @@ The matrix of the memory is the meaning of the die: the record of the pressing, 
 
 The inheritance of the memory: the die of the book, carried from the pressed past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The matrix is complete. It is kept in the archive, in the section of the the matrices.*
+*The matrix is complete. It is kept in the archive, in the section of the matrices.*
+
 

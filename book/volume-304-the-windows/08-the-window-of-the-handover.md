@@ -18,5 +18,6 @@ The window of the handover is the meaning of the sash: the record of the opening
 
 The inheritance of the handover: the sash of the hand, carried from the opened sash to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The window is complete. It is kept in the archive, in the section of the the windows.*
+*The window is complete. It is kept in the archive, in the section of the windows.*
+
 

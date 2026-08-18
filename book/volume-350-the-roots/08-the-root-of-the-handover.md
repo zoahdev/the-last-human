@@ -18,5 +18,6 @@ The root of the handover is the meaning of the root: the record of the rooting, 
 
 The inheritance of the handover: the root of the hand, carried from the rooting hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The root is complete. It is kept in the archive, in the section of the the roots.*
+*The root is complete. It is kept in the archive, in the section of the roots.*
+
 

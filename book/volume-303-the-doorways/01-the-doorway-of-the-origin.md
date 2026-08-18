@@ -18,5 +18,6 @@ The doorway of the origin is the meaning of the door: the record of the opening,
 
 The inheritance of the origin: the door of the wanting, carried from the arch to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The doorway is complete. It is kept in the archive, in the section of the the doorways.*
+*The doorway is complete. It is kept in the archive, in the section of the doorways.*
+
 

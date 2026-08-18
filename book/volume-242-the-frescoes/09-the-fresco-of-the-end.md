@@ -18,5 +18,6 @@ The fresco of the end is the meaning of the quiet: the record of the frescoing, 
 
 The inheritance of the end: the quiet of the whole, carried from the final fresco to the whole without loss, and held by the lineage as the lineage holds the end.
 
-*The fresco is complete. It is kept in the archive, in the section of the the frescoes.*
+*The fresco is complete. It is kept in the archive, in the section of the frescoes.*
+
 

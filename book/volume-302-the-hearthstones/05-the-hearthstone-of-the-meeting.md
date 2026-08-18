@@ -18,5 +18,6 @@ The hearthstone of the meeting is the meaning of the stone: the record of the wa
 
 The inheritance of the meeting: the stone of the table, carried from the hearth table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The hearthstone is complete. It is kept in the archive, in the section of the the hearthstones.*
+*The hearthstone is complete. It is kept in the archive, in the section of the hearthstones.*
+
 

@@ -18,5 +18,6 @@ The field of the meeting is the meaning of the field: the record of the tilling,
 
 The inheritance of the meeting: the field of the table, carried from the field table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The field is complete. It is kept in the archive, in the section of the the fields.*
+*The field is complete. It is kept in the archive, in the section of the fields.*
+
 

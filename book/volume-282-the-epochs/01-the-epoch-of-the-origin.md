@@ -18,5 +18,6 @@ The epoch of the origin is the meaning of the rock: the record of the marking, a
 
 The inheritance of the origin: the rock of the wanting, carried from the stratum to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The epoch is complete. It is kept in the archive, in the section of the the epochs.*
+*The epoch is complete. It is kept in the archive, in the section of the epochs.*
+
 

@@ -18,5 +18,6 @@ The night of the origin is the meaning of the darkness: the record of the darken
 
 The inheritance of the origin: the darkness of the wanting, carried from the darkness to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The night is complete. It is kept in the archive, in the section of the the nights.*
+*The night is complete. It is kept in the archive, in the section of the nights.*
+
 

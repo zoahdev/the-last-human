@@ -18,5 +18,6 @@ The morning of the handover is the meaning of the wakening: the record of the wa
 
 The inheritance of the handover: the wakening of the hand, carried from the waking hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The morning is complete. It is kept in the archive, in the section of the the mornings.*
+*The morning is complete. It is kept in the archive, in the section of the mornings.*
+
 

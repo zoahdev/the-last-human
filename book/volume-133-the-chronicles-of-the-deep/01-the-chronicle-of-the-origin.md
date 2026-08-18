@@ -18,5 +18,6 @@ The chronicle of the origin is the meaning of the epoch: the record of the chron
 
 The inheritance of the origin: the epoch of the wanting, carried from the year to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The chronicle is complete. It is kept in the archive, in the section of the the chronicles of the deep.*
+*The chronicle is complete. It is kept in the archive, in the section of the chronicles of the deep.*
+
 

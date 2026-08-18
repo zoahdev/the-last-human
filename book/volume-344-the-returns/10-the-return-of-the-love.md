@@ -18,5 +18,6 @@ The return of the love is the meaning of the fire: the record of the returning, 
 
 The inheritance of the love: the fire of the family, carried from the returning heart to the family without loss, and held by the lineage as the lineage holds the love.
 
-*The return is complete. It is kept in the archive, in the section of the the returns.*
+*The return is complete. It is kept in the archive, in the section of the returns.*
+
 

@@ -18,5 +18,6 @@ The epoch of the memory is the meaning of the epoch: the record of the marking, 
 
 The inheritance of the memory: the epoch of the book, carried from the marked past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The epoch is complete. It is kept in the archive, in the section of the the epochs.*
+*The epoch is complete. It is kept in the archive, in the section of the epochs.*
+
 

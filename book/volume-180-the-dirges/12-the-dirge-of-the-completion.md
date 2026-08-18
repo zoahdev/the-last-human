@@ -18,5 +18,6 @@ The dirge of the completion is the meaning of the fullness: the record of the mo
 
 The inheritance of the completion: the fullness of the beginning, carried from the calm to the beginning without loss, and held by the lineage as the lineage holds the completion.
 
-*The dirge is complete. It is kept in the archive, in the section of the the dirges. It is the final dirge of the canon, and after it the canon speaks again.*
+*The dirge is complete. It is kept in the archive, in the section of the dirges. It is the final dirge of the canon, and after it the canon speaks again.*
+
 

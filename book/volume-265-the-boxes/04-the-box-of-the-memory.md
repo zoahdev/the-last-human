@@ -18,5 +18,6 @@ The box of the memory is the meaning of the letters: the record of the boxing, a
 
 The inheritance of the memory: the letters of the book, carried from the boxed past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The box is complete. It is kept in the archive, in the section of the the boxes.*
+*The box is complete. It is kept in the archive, in the section of the boxes.*
+
 

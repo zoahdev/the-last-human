@@ -18,5 +18,6 @@ The chronicle of the law is the meaning of the season: the record of the chronic
 
 The inheritance of the law: the season of the care, carried from the turning to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The chronicle is complete. It is kept in the archive, in the section of the the chronicles of the deep.*
+*The chronicle is complete. It is kept in the archive, in the section of the chronicles of the deep.*
+
 

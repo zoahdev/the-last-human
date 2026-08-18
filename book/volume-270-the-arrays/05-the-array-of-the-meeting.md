@@ -18,5 +18,6 @@ The array of the meeting is the meaning of the seating: the record of the arrayi
 
 The inheritance of the meeting: the seating of the table, carried from the arrayed table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The array is complete. It is kept in the archive, in the section of the the arrays.*
+*The array is complete. It is kept in the archive, in the section of the arrays.*
+
 

@@ -18,5 +18,6 @@ The constellation of the abolition is the meaning of the freedom: the record of 
 
 The inheritance of the abolition: the freedom of the peace, carried from the new constellation to the peace without loss, and held by the lineage as the lineage holds the abolition.
 
-*The constellation is complete. It is kept in the archive, in the section of the the constellations.*
+*The constellation is complete. It is kept in the archive, in the section of the constellations.*
+
 

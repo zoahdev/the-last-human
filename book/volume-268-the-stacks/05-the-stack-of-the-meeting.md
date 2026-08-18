@@ -18,5 +18,6 @@ The stack of the meeting is the meaning of the desk: the record of the stacking,
 
 The inheritance of the meeting: the desk of the table, carried from the stacked table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The stack is complete. It is kept in the archive, in the section of the the stacks.*
+*The stack is complete. It is kept in the archive, in the section of the stacks.*
+
 

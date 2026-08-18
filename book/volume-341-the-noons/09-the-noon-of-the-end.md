@@ -18,5 +18,6 @@ The noon of the end is the meaning of the quiet: the record of the standing, and
 
 The inheritance of the end: the quiet of the whole, carried from the final noon to the whole without loss, and held by the lineage as the lineage holds the end.
 
-*The noon is complete. It is kept in the archive, in the section of the the noons.*
+*The noon is complete. It is kept in the archive, in the section of the noons.*
+
 

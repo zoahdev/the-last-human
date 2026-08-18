@@ -18,5 +18,6 @@ The trope of the completion is the meaning of the fullness: the record of the tu
 
 The inheritance of the completion: the fullness of the beginning, carried from the completed turn to the beginning without loss, and held by the lineage as the lineage holds the completion.
 
-*The trope is complete. It is kept in the archive, in the section of the the tropes. It is the final trope of the canon, and after it the canon speaks again.*
+*The trope is complete. It is kept in the archive, in the section of the tropes. It is the final trope of the canon, and after it the canon speaks again.*
+
 

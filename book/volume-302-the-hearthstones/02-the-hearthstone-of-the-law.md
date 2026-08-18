@@ -18,5 +18,6 @@ The hearthstone of the law is the meaning of the fire: the record of the warming
 
 The inheritance of the law: the fire of the care, carried from the warming care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The hearthstone is complete. It is kept in the archive, in the section of the the hearthstones.*
+*The hearthstone is complete. It is kept in the archive, in the section of the hearthstones.*
+
 

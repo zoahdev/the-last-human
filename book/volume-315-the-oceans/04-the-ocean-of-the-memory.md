@@ -18,5 +18,6 @@ The ocean of the memory is the meaning of the world: the record of the encompass
 
 The inheritance of the memory: the world of the book, carried from the encompassed past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The ocean is complete. It is kept in the archive, in the section of the the oceans.*
+*The ocean is complete. It is kept in the archive, in the section of the oceans.*
+
 

@@ -18,5 +18,6 @@ The design of the origin is the meaning of the making: the record of the designi
 
 The inheritance of the origin: the making of the wanting, carried from the maker drawing to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The design is complete. It is kept in the archive, in the section of the the designs.*
+*The design is complete. It is kept in the archive, in the section of the designs.*
+
 

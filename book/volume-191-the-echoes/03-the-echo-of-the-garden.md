@@ -18,5 +18,6 @@ The echo of the garden is the meaning of the valley: the record of the echoing, 
 
 The inheritance of the garden: the valley of the earth, carried from the echoing green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The echo is complete. It is kept in the archive, in the section of the the echoes.*
+*The echo is complete. It is kept in the archive, in the section of the echoes.*
+
 

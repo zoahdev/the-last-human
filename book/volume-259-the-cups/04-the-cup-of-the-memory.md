@@ -18,5 +18,6 @@ The cup of the memory is the meaning of the handful: the record of the cupping, 
 
 The inheritance of the memory: the handful of the book, carried from the cupped past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The cup is complete. It is kept in the archive, in the section of the the cups.*
+*The cup is complete. It is kept in the archive, in the section of the cups.*
+
 

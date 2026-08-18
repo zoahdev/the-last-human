@@ -18,5 +18,6 @@ The net of the handover is the meaning of the fisher: the record of the netting,
 
 The inheritance of the handover: the fisher of the hand, carried from the passed net to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The net is complete. It is kept in the archive, in the section of the the nets.*
+*The net is complete. It is kept in the archive, in the section of the nets.*
+
 

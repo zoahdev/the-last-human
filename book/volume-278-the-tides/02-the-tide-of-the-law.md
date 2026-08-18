@@ -18,5 +18,6 @@ The tide of the law is the meaning of the current: the record of the tiding, and
 
 The inheritance of the law: the current of the care, carried from the tided care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The tide is complete. It is kept in the archive, in the section of the the tides.*
+*The tide is complete. It is kept in the archive, in the section of the tides.*
+
 

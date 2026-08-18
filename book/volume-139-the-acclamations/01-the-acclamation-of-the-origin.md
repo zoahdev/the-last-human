@@ -18,5 +18,6 @@ The acclamation of the origin is the meaning of the cheer: the record of the acc
 
 The inheritance of the origin: the cheer of the wanting, carried from the hail to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The acclamation is complete. It is kept in the archive, in the section of the the acclamations.*
+*The acclamation is complete. It is kept in the archive, in the section of the acclamations.*
+
 

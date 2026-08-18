@@ -18,5 +18,6 @@ The urn of the law is the meaning of the urn: the record of the keeping, and the
 
 The inheritance of the law: the urn of the care, carried from the keeping care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The urn is complete. It is kept in the archive, in the section of the the urns.*
+*The urn is complete. It is kept in the archive, in the section of the urns.*
+
 

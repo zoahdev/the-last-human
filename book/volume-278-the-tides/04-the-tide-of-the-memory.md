@@ -18,5 +18,6 @@ The tide of the memory is the meaning of the sea: the record of the tiding, and 
 
 The inheritance of the memory: the sea of the book, carried from the tided past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The tide is complete. It is kept in the archive, in the section of the the tides.*
+*The tide is complete. It is kept in the archive, in the section of the tides.*
+
 

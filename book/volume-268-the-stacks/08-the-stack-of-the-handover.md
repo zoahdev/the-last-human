@@ -18,5 +18,6 @@ The stack of the handover is the meaning of the pile: the record of the stacking
 
 The inheritance of the handover: the pile of the hand, carried from the stacked hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The stack is complete. It is kept in the archive, in the section of the the stacks.*
+*The stack is complete. It is kept in the archive, in the section of the stacks.*
+
 

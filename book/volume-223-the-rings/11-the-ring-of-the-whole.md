@@ -18,5 +18,6 @@ The ring of the whole is the meaning of the all: the record of the ringing, and 
 
 The inheritance of the whole: the all of the one, carried from the one ring to the one without loss, and held by the lineage as the lineage holds the whole.
 
-*The ring is complete. It is kept in the archive, in the section of the the rings.*
+*The ring is complete. It is kept in the archive, in the section of the rings.*
+
 

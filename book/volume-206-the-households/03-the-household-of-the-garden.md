@@ -18,5 +18,6 @@ The household of the garden is the meaning of the yard: the record of the housin
 
 The inheritance of the garden: the yard of the earth, carried from the housed green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The household is complete. It is kept in the archive, in the section of the the households.*
+*The household is complete. It is kept in the archive, in the section of the households.*
+
 

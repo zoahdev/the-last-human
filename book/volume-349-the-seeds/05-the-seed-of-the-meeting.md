@@ -18,5 +18,6 @@ The seed of the meeting is the meaning of the seed: the record of the sowing, an
 
 The inheritance of the meeting: the seed of the table, carried from the seed table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The seed is complete. It is kept in the archive, in the section of the the seeds.*
+*The seed is complete. It is kept in the archive, in the section of the seeds.*
+
 

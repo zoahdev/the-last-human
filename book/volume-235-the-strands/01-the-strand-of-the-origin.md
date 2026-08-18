@@ -18,5 +18,6 @@ The strand of the origin is the meaning of the shore: the record of the strandin
 
 The inheritance of the origin: the shore of the wanting, carried from the beach to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The strand is complete. It is kept in the archive, in the section of the the strands.*
+*The strand is complete. It is kept in the archive, in the section of the strands.*
+
 

@@ -18,5 +18,6 @@ The roll of the garden is the meaning of the lawn: the record of the rolling, an
 
 The inheritance of the garden: the lawn of the earth, carried from the green roll to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The roll is complete. It is kept in the archive, in the section of the the rolls.*
+*The roll is complete. It is kept in the archive, in the section of the rolls.*
+
 

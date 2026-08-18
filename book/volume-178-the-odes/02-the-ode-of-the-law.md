@@ -18,5 +18,6 @@ The ode of the law is the meaning of the feather: the record of the soaring, and
 
 The inheritance of the law: the feather of the care, carried from the wing to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The ode is complete. It is kept in the archive, in the section of the the odes.*
+*The ode is complete. It is kept in the archive, in the section of the odes.*
+
 

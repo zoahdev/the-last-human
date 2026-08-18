@@ -18,5 +18,6 @@ The interlude of the garden is the meaning of the resting place: the record of t
 
 The inheritance of the garden: the resting place of the earth, carried from the resting green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The interlude is complete. It is kept in the archive, in the section of the the interludes.*
+*The interlude is complete. It is kept in the archive, in the section of the interludes.*
+
 

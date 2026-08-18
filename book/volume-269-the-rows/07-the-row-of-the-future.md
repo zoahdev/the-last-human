@@ -18,5 +18,6 @@ The row of the future is the meaning of the morning: the record of the rowing, a
 
 The inheritance of the future: the morning of the dawn, carried from the unplanted row to the dawn without loss, and held by the lineage as the lineage holds the future.
 
-*The row is complete. It is kept in the archive, in the section of the the rows.*
+*The row is complete. It is kept in the archive, in the section of the rows.*
+
 

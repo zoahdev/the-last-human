@@ -18,5 +18,6 @@ The gathering of the handover is the meaning of the bundle: the record of the ga
 
 The inheritance of the handover: the bundle of the hand, carried from the collected hands to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The gathering is complete. It is kept in the archive, in the section of the the gatherings.*
+*The gathering is complete. It is kept in the archive, in the section of the gatherings.*
+
 

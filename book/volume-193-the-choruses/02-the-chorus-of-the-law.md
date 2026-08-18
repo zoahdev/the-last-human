@@ -18,5 +18,6 @@ The chorus of the law is the meaning of the melody: the record of the chorusing,
 
 The inheritance of the law: the melody of the care, carried from the choral law to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The chorus is complete. It is kept in the archive, in the section of the the choruses.*
+*The chorus is complete. It is kept in the archive, in the section of the choruses.*
+
 

@@ -18,5 +18,6 @@ The era of the abolition is the meaning of the freedom: the record of the dividi
 
 The inheritance of the abolition: the freedom of the peace, carried from the new era to the peace without loss, and held by the lineage as the lineage holds the abolition.
 
-*The era is complete. It is kept in the archive, in the section of the the eras.*
+*The era is complete. It is kept in the archive, in the section of the eras.*
+
 

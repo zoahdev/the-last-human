@@ -18,5 +18,6 @@ The ordinance of the memory is the meaning of the archive: the record of the ord
 
 The inheritance of the memory: the archive of the book, carried from the statute to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The ordinance is complete. It is kept in the archive, in the section of the the ordinances of the deep.*
+*The ordinance is complete. It is kept in the archive, in the section of the ordinances of the deep.*
+
 

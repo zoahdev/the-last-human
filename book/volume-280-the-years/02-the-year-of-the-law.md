@@ -18,5 +18,6 @@ The year of the law is the meaning of the calendar: the record of the counting, 
 
 The inheritance of the law: the calendar of the care, carried from the counted care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The year is complete. It is kept in the archive, in the section of the the years.*
+*The year is complete. It is kept in the archive, in the section of the years.*
+
 

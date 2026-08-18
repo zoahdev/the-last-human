@@ -18,5 +18,6 @@ The stair of the completion is the meaning of the fullness: the record of the wi
 
 The inheritance of the completion: the fullness of the beginning, carried from the complete stair to the beginning without loss, and held by the lineage as the lineage holds the completion.
 
-*The stair is complete. It is kept in the archive, in the section of the the stairs. It is the final stair of the canon, and after it the canon speaks again.*
+*The stair is complete. It is kept in the archive, in the section of the stairs. It is the final stair of the canon, and after it the canon speaks again.*
+
 

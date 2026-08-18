@@ -18,5 +18,6 @@ The sermon of the deep of the love is the meaning of the fire: the record of the
 
 The inheritance of the love: the fire of the family, carried from the gospel to the family without loss, and held by the lineage as the lineage holds the love.
 
-*The sermon of the deep is complete. It is kept in the archive, in the section of the the sermons of the deep.*
+*The sermon of the deep is complete. It is kept in the archive, in the section of the sermons of the deep.*
+
 

@@ -18,5 +18,6 @@ The ring of the garden is the meaning of the bellflower: the record of the ringi
 
 The inheritance of the garden: the bellflower of the earth, carried from the ringing green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The ring is complete. It is kept in the archive, in the section of the the rings.*
+*The ring is complete. It is kept in the archive, in the section of the rings.*
+
 

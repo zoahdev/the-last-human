@@ -18,5 +18,6 @@ The sigh of the love is the meaning of the fire: the record of the sighing, and 
 
 The inheritance of the love: the fire of the family, carried from the longing breath to the family without loss, and held by the lineage as the lineage holds the love.
 
-*The sigh is complete. It is kept in the archive, in the section of the the sighs.*
+*The sigh is complete. It is kept in the archive, in the section of the sighs.*
+
 

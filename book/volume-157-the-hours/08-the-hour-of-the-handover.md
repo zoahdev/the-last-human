@@ -18,5 +18,6 @@ The hour of the handover is the meaning of the clock: the record of the telling,
 
 The inheritance of the handover: the clock of the hand, carried from the passing time to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The hour is complete. It is kept in the archive, in the section of the the hours.*
+*The hour is complete. It is kept in the archive, in the section of the hours.*
+
 

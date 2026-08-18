@@ -18,5 +18,6 @@ The atlas of the law is the meaning of the weight: the record of the carrying, a
 
 The inheritance of the law: the weight of the care, carried from the carried care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The atlas is complete. It is kept in the archive, in the section of the the atlases.*
+*The atlas is complete. It is kept in the archive, in the section of the atlases.*
+
 

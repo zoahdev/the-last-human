@@ -18,5 +18,6 @@ The meditation of the deep of the garden is the meaning of the greenery: the rec
 
 The inheritance of the garden: the greenery of the earth, carried from the quiet to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The meditation of the deep is complete. It is kept in the archive, in the section of the the meditations of the deep.*
+*The meditation of the deep is complete. It is kept in the archive, in the section of the meditations of the deep.*
+
 

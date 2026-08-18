@@ -18,5 +18,6 @@ The echo of the origin is the meaning of the resonance: the record of the echoin
 
 The inheritance of the origin: the resonance of the wanting, carried from the voice returning to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The echo is complete. It is kept in the archive, in the section of the the echoes.*
+*The echo is complete. It is kept in the archive, in the section of the echoes.*
+
 

@@ -18,5 +18,6 @@ The conclave of the future is the meaning of the morning: the record of the clos
 
 The inheritance of the future: the morning of the dawn, carried from the chosen dawn to the dawn without loss, and held by the lineage as the lineage holds the future.
 
-*The conclave is complete. It is kept in the archive, in the section of the the conclaves.*
+*The conclave is complete. It is kept in the archive, in the section of the conclaves.*
+
 

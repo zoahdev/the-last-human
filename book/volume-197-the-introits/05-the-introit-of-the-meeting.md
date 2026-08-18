@@ -18,5 +18,6 @@ The introit of the meeting is the meaning of the welcome: the record of the ente
 
 The inheritance of the meeting: the welcome of the table, carried from the entering table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The introit is complete. It is kept in the archive, in the section of the the introits.*
+*The introit is complete. It is kept in the archive, in the section of the introits.*
+
 

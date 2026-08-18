@@ -18,5 +18,6 @@ The conjuration of the memory is the meaning of the spirit: the record of the co
 
 The inheritance of the memory: the spirit of the book, carried from the ghost to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The conjuration is complete. It is kept in the archive, in the section of the the conjurations.*
+*The conjuration is complete. It is kept in the archive, in the section of the conjurations.*
+
 

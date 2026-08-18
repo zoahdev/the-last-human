@@ -18,5 +18,6 @@ The orbit of the abolition is the meaning of the freedom: the record of the orbi
 
 The inheritance of the abolition: the freedom of the peace, carried from the freed orbit to the peace without loss, and held by the lineage as the lineage holds the abolition.
 
-*The orbit is complete. It is kept in the archive, in the section of the the orbits.*
+*The orbit is complete. It is kept in the archive, in the section of the orbits.*
+
 

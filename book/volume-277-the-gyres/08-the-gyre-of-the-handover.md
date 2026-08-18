@@ -18,5 +18,6 @@ The gyre of the handover is the meaning of the spinner: the record of the spinni
 
 The inheritance of the handover: the spinner of the hand, carried from the spinning hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The gyre is complete. It is kept in the archive, in the section of the the gyres.*
+*The gyre is complete. It is kept in the archive, in the section of the gyres.*
+
 

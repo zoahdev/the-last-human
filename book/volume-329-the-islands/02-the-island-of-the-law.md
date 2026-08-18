@@ -18,5 +18,6 @@ The island of the law is the meaning of the island: the record of the surroundin
 
 The inheritance of the law: the island of the care, carried from the surrounding care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The island is complete. It is kept in the archive, in the section of the the islands.*
+*The island is complete. It is kept in the archive, in the section of the islands.*
+
 

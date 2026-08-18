@@ -18,5 +18,6 @@ The star of the handover is the meaning of the light: the record of the shining,
 
 The inheritance of the handover: the light of the hand, carried from the shining hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The star is complete. It is kept in the archive, in the section of the the stars.*
+*The star is complete. It is kept in the archive, in the section of the stars.*
+
 

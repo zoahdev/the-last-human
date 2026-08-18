@@ -18,5 +18,6 @@ The journal of the origin is the meaning of the dawning: the record of the journ
 
 The inheritance of the origin: the dawning of the wanting, carried from the day to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The journal is complete. It is kept in the archive, in the section of the the journals of the deep.*
+*The journal is complete. It is kept in the archive, in the section of the journals of the deep.*
+
 

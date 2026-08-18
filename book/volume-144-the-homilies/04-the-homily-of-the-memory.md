@@ -18,5 +18,6 @@ The homily of the memory is the meaning of the lesson: the record of the speakin
 
 The inheritance of the memory: the lesson of the book, carried from the reminder to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The homily is complete. It is kept in the archive, in the section of the the homilies.*
+*The homily is complete. It is kept in the archive, in the section of the homilies.*
+
 

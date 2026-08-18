@@ -18,5 +18,6 @@ The helix of the garden is the meaning of the twining: the record of the winding
 
 The inheritance of the garden: the twining of the earth, carried from the wound green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The helix is complete. It is kept in the archive, in the section of the the helices.*
+*The helix is complete. It is kept in the archive, in the section of the helices.*
+
 

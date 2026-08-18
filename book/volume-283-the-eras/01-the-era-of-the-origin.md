@@ -18,5 +18,6 @@ The era of the origin is the meaning of the calendar: the record of the dividing
 
 The inheritance of the origin: the calendar of the wanting, carried from the year one to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The era is complete. It is kept in the archive, in the section of the the eras.*
+*The era is complete. It is kept in the archive, in the section of the eras.*
+
 

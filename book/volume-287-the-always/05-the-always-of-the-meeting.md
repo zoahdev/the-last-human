@@ -18,5 +18,6 @@ The always of the meeting is the meaning of the constancy: the record of the rem
 
 The inheritance of the meeting: the constancy of the table, carried from the remaining table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The always is complete. It is kept in the archive, in the section of the the always.*
+*The always is complete. It is kept in the archive, in the section of the always.*
+
 

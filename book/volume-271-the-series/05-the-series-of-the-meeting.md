@@ -18,5 +18,6 @@ The series of the meeting is the meaning of the sequence: the record of the cont
 
 The inheritance of the meeting: the sequence of the table, carried from the continued table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The series is complete. It is kept in the archive, in the section of the the series.*
+*The series is complete. It is kept in the archive, in the section of the series.*
+
 

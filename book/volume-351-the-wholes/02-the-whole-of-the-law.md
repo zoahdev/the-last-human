@@ -18,5 +18,6 @@ The whole of the law is the meaning of the whole: the record of the completing, 
 
 The inheritance of the law: the whole of the care, carried from the completing care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The whole is complete. It is kept in the archive, in the section of the the wholes.*
+*The whole is complete. It is kept in the archive, in the section of the wholes.*
+
 

@@ -18,5 +18,6 @@ The plait of the meeting is the meaning of the mat: the record of the plaiting, 
 
 The inheritance of the meeting: the mat of the table, carried from the plaited table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The plait is complete. It is kept in the archive, in the section of the the plaits.*
+*The plait is complete. It is kept in the archive, in the section of the plaits.*
+
 

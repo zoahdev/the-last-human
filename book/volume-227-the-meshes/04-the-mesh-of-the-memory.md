@@ -18,5 +18,6 @@ The mesh of the memory is the meaning of the network: the record of the meshing,
 
 The inheritance of the memory: the network of the book, carried from the meshed past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The mesh is complete. It is kept in the archive, in the section of the the meshes.*
+*The mesh is complete. It is kept in the archive, in the section of the meshes.*
+
 

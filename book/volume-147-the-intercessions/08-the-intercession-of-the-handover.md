@@ -18,5 +18,6 @@ The intercession of the handover is the meaning of the guarantee: the record of 
 
 The inheritance of the handover: the guarantee of the hand, carried from the surety to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The intercession is complete. It is kept in the archive, in the section of the the intercessions.*
+*The intercession is complete. It is kept in the archive, in the section of the intercessions.*
+
 

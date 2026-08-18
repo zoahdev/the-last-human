@@ -18,5 +18,6 @@ The stair of the origin is the meaning of the stair: the record of the winding, 
 
 The inheritance of the origin: the stair of the wanting, carried from the tower to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The stair is complete. It is kept in the archive, in the section of the the stairs.*
+*The stair is complete. It is kept in the archive, in the section of the stairs.*
+
 

@@ -18,5 +18,6 @@ The meditation of the deep of the origin is the meaning of the rest: the record 
 
 The inheritance of the origin: the rest of the wanting, carried from the stillness to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The meditation of the deep is complete. It is kept in the archive, in the section of the the meditations of the deep.*
+*The meditation of the deep is complete. It is kept in the archive, in the section of the meditations of the deep.*
+
 

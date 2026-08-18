@@ -18,5 +18,6 @@ The nation of the handover is the meaning of the state: the record of the unitin
 
 The inheritance of the handover: the state of the hand, carried from the national hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The nation is complete. It is kept in the archive, in the section of the the nations.*
+*The nation is complete. It is kept in the archive, in the section of the nations.*
+
 

@@ -18,5 +18,6 @@ The return of the handover is the meaning of the road: the record of the returni
 
 The inheritance of the handover: the road of the hand, carried from the returning hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The return is complete. It is kept in the archive, in the section of the the returns.*
+*The return is complete. It is kept in the archive, in the section of the returns.*
+
 

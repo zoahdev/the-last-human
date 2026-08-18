@@ -18,5 +18,6 @@ The orchard of the meeting is the meaning of the fruit: the record of the fruiti
 
 The inheritance of the meeting: the fruit of the table, carried from the orchard table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The orchard is complete. It is kept in the archive, in the section of the the orchards.*
+*The orchard is complete. It is kept in the archive, in the section of the orchards.*
+
 

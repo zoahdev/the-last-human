@@ -18,5 +18,6 @@ The circle of the handover is the meaning of the hand: the record of the circlin
 
 The inheritance of the handover: the hand of the hand, carried from the passing circle to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The circle is complete. It is kept in the archive, in the section of the the circles.*
+*The circle is complete. It is kept in the archive, in the section of the circles.*
+
 

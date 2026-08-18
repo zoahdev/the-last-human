@@ -18,5 +18,6 @@ The confession of the deep of the meeting is the meaning of the forgiveness: the
 
 The inheritance of the meeting: the forgiveness of the table, carried from the reconciliation to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The confession of the deep is complete. It is kept in the archive, in the section of the the confessions of the deep.*
+*The confession of the deep is complete. It is kept in the archive, in the section of the confessions of the deep.*
+
 

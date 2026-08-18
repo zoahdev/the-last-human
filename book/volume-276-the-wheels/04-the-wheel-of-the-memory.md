@@ -18,5 +18,6 @@ The wheel of the memory is the meaning of the spoke: the record of the wheeling,
 
 The inheritance of the memory: the spoke of the book, carried from the wheeled past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The wheel is complete. It is kept in the archive, in the section of the the wheels.*
+*The wheel is complete. It is kept in the archive, in the section of the wheels.*
+
 

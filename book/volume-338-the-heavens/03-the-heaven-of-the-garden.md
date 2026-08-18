@@ -18,5 +18,6 @@ The heaven of the garden is the meaning of the heaven garden: the record of the 
 
 The inheritance of the garden: the heaven garden of the earth, carried from the heavenly green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The heaven is complete. It is kept in the archive, in the section of the the heavens.*
+*The heaven is complete. It is kept in the archive, in the section of the heavens.*
+
 

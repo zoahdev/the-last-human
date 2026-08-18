@@ -18,5 +18,6 @@ The mold of the love is the meaning of the fire: the record of the molding, and 
 
 The inheritance of the love: the fire of the family, carried from the molded heart to the family without loss, and held by the lineage as the lineage holds the love.
 
-*The mold is complete. It is kept in the archive, in the section of the the molds.*
+*The mold is complete. It is kept in the archive, in the section of the molds.*
+
 

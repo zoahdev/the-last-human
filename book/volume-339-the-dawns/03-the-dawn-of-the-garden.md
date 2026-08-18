@@ -18,5 +18,6 @@ The dawn of the garden is the meaning of the dawn garden: the record of the brea
 
 The inheritance of the garden: the dawn garden of the earth, carried from the dawn green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The dawn is complete. It is kept in the archive, in the section of the the dawns.*
+*The dawn is complete. It is kept in the archive, in the section of the dawns.*
+
 

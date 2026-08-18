@@ -18,5 +18,6 @@ The treasure of the handover is the meaning of the treasure: the record of the t
 
 The inheritance of the handover: the treasure of the hand, carried from the treasuring hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The treasure is complete. It is kept in the archive, in the section of the the treasures.*
+*The treasure is complete. It is kept in the archive, in the section of the treasures.*
+
 

@@ -18,5 +18,6 @@ The forest of the law is the meaning of the forest: the record of the growing, a
 
 The inheritance of the law: the forest of the care, carried from the growing care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The forest is complete. It is kept in the archive, in the section of the the forests.*
+*The forest is complete. It is kept in the archive, in the section of the forests.*
+
 

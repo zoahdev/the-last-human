@@ -18,5 +18,6 @@ The knot of the garden is the meaning of the tendril: the record of the knotting
 
 The inheritance of the garden: the tendril of the earth, carried from the knotted green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The knot is complete. It is kept in the archive, in the section of the the knots.*
+*The knot is complete. It is kept in the archive, in the section of the knots.*
+
 

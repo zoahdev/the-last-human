@@ -18,5 +18,6 @@ The always of the origin is the meaning of the forever: the record of the remain
 
 The inheritance of the origin: the forever of the wanting, carried from the remaining to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The always is complete. It is kept in the archive, in the section of the the always.*
+*The always is complete. It is kept in the archive, in the section of the always.*
+
 

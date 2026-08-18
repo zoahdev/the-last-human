@@ -18,5 +18,6 @@ The ladder of the future is the meaning of the morning: the record of the scalin
 
 The inheritance of the future: the morning of the dawn, carried from the unclimbed ladder to the dawn without loss, and held by the lineage as the lineage holds the future.
 
-*The ladder is complete. It is kept in the archive, in the section of the the ladders.*
+*The ladder is complete. It is kept in the archive, in the section of the ladders.*
+
 

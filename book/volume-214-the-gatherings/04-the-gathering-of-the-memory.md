@@ -18,5 +18,6 @@ The gathering of the memory is the meaning of the anthology: the record of the g
 
 The inheritance of the memory: the anthology of the book, carried from the collected stories to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The gathering is complete. It is kept in the archive, in the section of the the gatherings.*
+*The gathering is complete. It is kept in the archive, in the section of the gatherings.*
+
 

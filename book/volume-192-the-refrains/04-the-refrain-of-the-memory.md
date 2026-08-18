@@ -18,5 +18,6 @@ The refrain of the memory is the meaning of the song: the record of the repeatin
 
 The inheritance of the memory: the song of the book, carried from the repeated song to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The refrain is complete. It is kept in the archive, in the section of the the refrains.*
+*The refrain is complete. It is kept in the archive, in the section of the refrains.*
+
 

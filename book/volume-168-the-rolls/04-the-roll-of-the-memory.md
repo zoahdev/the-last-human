@@ -18,5 +18,6 @@ The roll of the memory is the meaning of the genealogy: the record of the rollin
 
 The inheritance of the memory: the genealogy of the book, carried from the ancestors to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The roll is complete. It is kept in the archive, in the section of the the rolls.*
+*The roll is complete. It is kept in the archive, in the section of the rolls.*
+
 

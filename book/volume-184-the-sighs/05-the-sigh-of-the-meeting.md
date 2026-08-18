@@ -18,5 +18,6 @@ The sigh of the meeting is the meaning of the relief: the record of the sighing,
 
 The inheritance of the meeting: the relief of the table, carried from the shared breath to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The sigh is complete. It is kept in the archive, in the section of the the sighs.*
+*The sigh is complete. It is kept in the archive, in the section of the sighs.*
+
 

@@ -18,5 +18,6 @@ The nebula of the handover is the meaning of the gas: the record of the clouding
 
 The inheritance of the handover: the gas of the hand, carried from the clouding hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The nebula is complete. It is kept in the archive, in the section of the the nebulae.*
+*The nebula is complete. It is kept in the archive, in the section of the nebulae.*
+
 

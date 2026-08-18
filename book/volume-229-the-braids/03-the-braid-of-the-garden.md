@@ -18,5 +18,6 @@ The braid of the garden is the meaning of the garland: the record of the braidin
 
 The inheritance of the garden: the garland of the earth, carried from the braided green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The braid is complete. It is kept in the archive, in the section of the the braids.*
+*The braid is complete. It is kept in the archive, in the section of the braids.*
+
 

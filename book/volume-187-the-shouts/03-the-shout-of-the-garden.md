@@ -18,5 +18,6 @@ The shout of the garden is the meaning of the meadow: the record of the shouting
 
 The inheritance of the garden: the meadow of the earth, carried from the loud green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The shout is complete. It is kept in the archive, in the section of the the shouts.*
+*The shout is complete. It is kept in the archive, in the section of the shouts.*
+
 

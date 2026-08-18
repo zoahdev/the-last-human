@@ -18,5 +18,6 @@ The cave of the future is the meaning of the morning: the record of the shelteri
 
 The inheritance of the future: the morning of the dawn, carried from the unopened cave to the dawn without loss, and held by the lineage as the lineage holds the future.
 
-*The cave is complete. It is kept in the archive, in the section of the the caves.*
+*The cave is complete. It is kept in the archive, in the section of the caves.*
+
 

@@ -18,5 +18,6 @@ The era of the law is the meaning of the era: the record of the dividing, and th
 
 The inheritance of the law: the era of the care, carried from the divided care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The era is complete. It is kept in the archive, in the section of the the eras.*
+*The era is complete. It is kept in the archive, in the section of the eras.*
+
 

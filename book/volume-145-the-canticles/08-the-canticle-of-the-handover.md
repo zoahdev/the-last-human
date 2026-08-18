@@ -18,5 +18,6 @@ The canticle of the handover is the meaning of the hum: the record of the chanti
 
 The inheritance of the handover: the hum of the hand, carried from the tune to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The canticle is complete. It is kept in the archive, in the section of the the canticles.*
+*The canticle is complete. It is kept in the archive, in the section of the canticles.*
+
 

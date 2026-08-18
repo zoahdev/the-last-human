@@ -18,5 +18,6 @@ The step of the garden is the meaning of the terrace: the record of the stepping
 
 The inheritance of the garden: the terrace of the earth, carried from the terraced green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The step is complete. It is kept in the archive, in the section of the the steps.*
+*The step is complete. It is kept in the archive, in the section of the steps.*
+
 

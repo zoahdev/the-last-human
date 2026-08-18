@@ -18,5 +18,6 @@ The winter of the memory is the meaning of the snow: the record of the freezing,
 
 The inheritance of the memory: the snow of the book, carried from the frozen past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The winter is complete. It is kept in the archive, in the section of the the winters.*
+*The winter is complete. It is kept in the archive, in the section of the winters.*
+
 

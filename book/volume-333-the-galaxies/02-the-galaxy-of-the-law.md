@@ -18,5 +18,6 @@ The galaxy of the law is the meaning of the galaxy: the record of the gathering,
 
 The inheritance of the law: the galaxy of the care, carried from the gathering care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The galaxy is complete. It is kept in the archive, in the section of the the galaxies.*
+*The galaxy is complete. It is kept in the archive, in the section of the galaxies.*
+
 

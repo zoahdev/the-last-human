@@ -18,5 +18,6 @@ The elegy of the meeting is the meaning of the visitation: the record of the lam
 
 The inheritance of the meeting: the visitation of the table, carried from the mourning table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The elegy is complete. It is kept in the archive, in the section of the the elegies.*
+*The elegy is complete. It is kept in the archive, in the section of the elegies.*
+
 

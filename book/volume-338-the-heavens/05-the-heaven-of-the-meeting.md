@@ -18,5 +18,6 @@ The heaven of the meeting is the meaning of the height: the record of the raisin
 
 The inheritance of the meeting: the height of the table, carried from the heavenly table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The heaven is complete. It is kept in the archive, in the section of the the heavens.*
+*The heaven is complete. It is kept in the archive, in the section of the heavens.*
+
 

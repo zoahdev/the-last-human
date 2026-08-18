@@ -18,5 +18,6 @@ The weft of the origin is the meaning of the cloth: the record of the weaving, a
 
 The inheritance of the origin: the cloth of the wanting, carried from the crosswise thread to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The weft is complete. It is kept in the archive, in the section of the the wefts.*
+*The weft is complete. It is kept in the archive, in the section of the wefts.*
+
 

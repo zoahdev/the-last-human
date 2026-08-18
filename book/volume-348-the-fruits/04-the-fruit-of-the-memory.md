@@ -18,5 +18,6 @@ The fruit of the memory is the meaning of the fruit: the record of the ripening,
 
 The inheritance of the memory: the fruit of the book, carried from the ripened past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The fruit is complete. It is kept in the archive, in the section of the the fruits.*
+*The fruit is complete. It is kept in the archive, in the section of the fruits.*
+
 

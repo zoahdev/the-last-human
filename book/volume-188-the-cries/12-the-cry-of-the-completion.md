@@ -18,5 +18,6 @@ The cry of the completion is the meaning of the fullness: the record of the cryi
 
 The inheritance of the completion: the fullness of the beginning, carried from the full cry to the beginning without loss, and held by the lineage as the lineage holds the completion.
 
-*The cry is complete. It is kept in the archive, in the section of the the cries. It is the final cry of the canon, and after it the canon speaks again.*
+*The cry is complete. It is kept in the archive, in the section of the cries. It is the final cry of the canon, and after it the canon speaks again.*
+
 

@@ -18,5 +18,6 @@ The orchard of the memory is the meaning of the orchard: the record of the fruit
 
 The inheritance of the memory: the orchard of the book, carried from the fruited past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The orchard is complete. It is kept in the archive, in the section of the the orchards.*
+*The orchard is complete. It is kept in the archive, in the section of the orchards.*
+
 

@@ -18,5 +18,6 @@ The sea of the memory is the meaning of the island: the record of the surroundin
 
 The inheritance of the memory: the island of the book, carried from the surrounded past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The sea is complete. It is kept in the archive, in the section of the the seas.*
+*The sea is complete. It is kept in the archive, in the section of the seas.*
+
 

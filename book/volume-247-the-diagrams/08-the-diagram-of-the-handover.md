@@ -18,5 +18,6 @@ The diagram of the handover is the meaning of the sketch: the record of the diag
 
 The inheritance of the handover: the sketch of the hand, carried from the drawn hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The diagram is complete. It is kept in the archive, in the section of the the diagrams.*
+*The diagram is complete. It is kept in the archive, in the section of the diagrams.*
+
 

@@ -18,5 +18,6 @@ The introit of the garden is the meaning of the garden gate: the record of the e
 
 The inheritance of the garden: the garden gate of the earth, carried from the entering green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The introit is complete. It is kept in the archive, in the section of the the introits.*
+*The introit is complete. It is kept in the archive, in the section of the introits.*
+
 

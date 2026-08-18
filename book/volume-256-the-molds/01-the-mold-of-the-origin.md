@@ -18,5 +18,6 @@ The mold of the origin is the meaning of the vessel: the record of the molding, 
 
 The inheritance of the origin: the vessel of the wanting, carried from the clay to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The mold is complete. It is kept in the archive, in the section of the the molds.*
+*The mold is complete. It is kept in the archive, in the section of the molds.*
+
 

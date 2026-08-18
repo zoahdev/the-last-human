@@ -18,5 +18,6 @@ The loom of the abolition is the meaning of the freedom: the record of the loomi
 
 The inheritance of the abolition: the freedom of the peace, carried from the clear loom to the peace without loss, and held by the lineage as the lineage holds the abolition.
 
-*The loom is complete. It is kept in the archive, in the section of the the looms.*
+*The loom is complete. It is kept in the archive, in the section of the looms.*
+
 

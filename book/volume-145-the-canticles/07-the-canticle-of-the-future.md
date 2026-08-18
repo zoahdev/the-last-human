@@ -18,5 +18,6 @@ The canticle of the future is the meaning of the morning: the record of the chan
 
 The inheritance of the future: the morning of the dawn, carried from the song to the dawn without loss, and held by the lineage as the lineage holds the future.
 
-*The canticle is complete. It is kept in the archive, in the section of the the canticles.*
+*The canticle is complete. It is kept in the archive, in the section of the canticles.*
+
 

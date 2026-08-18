@@ -18,5 +18,6 @@ The distich of the handover is the meaning of the clasp: the record of the linki
 
 The inheritance of the handover: the clasp of the hand, carried from the linked hands to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The distich is complete. It is kept in the archive, in the section of the the distichs.*
+*The distich is complete. It is kept in the archive, in the section of the distichs.*
+
 

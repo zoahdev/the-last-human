@@ -18,5 +18,6 @@ The legacy of the law is the meaning of the legacy: the record of the leaving, a
 
 The inheritance of the law: the legacy of the care, carried from the leaving care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The legacy is complete. It is kept in the archive, in the section of the the legacies.*
+*The legacy is complete. It is kept in the archive, in the section of the legacies.*
+
 

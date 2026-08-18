@@ -18,5 +18,6 @@ The lake of the law is the meaning of the mirror: the record of the mirroring, a
 
 The inheritance of the law: the mirror of the care, carried from the mirroring care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The lake is complete. It is kept in the archive, in the section of the the lakes.*
+*The lake is complete. It is kept in the archive, in the section of the lakes.*
+
 

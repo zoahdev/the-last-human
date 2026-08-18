@@ -18,5 +18,6 @@ The minute of the origin is the meaning of the record: the record of the minutin
 
 The inheritance of the origin: the record of the wanting, carried from the moment to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The minute is complete. It is kept in the archive, in the section of the the minutes.*
+*The minute is complete. It is kept in the archive, in the section of the minutes.*
+
 

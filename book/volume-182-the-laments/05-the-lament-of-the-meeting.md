@@ -18,5 +18,6 @@ The lament of the meeting is the meaning of the comforting: the record of the la
 
 The inheritance of the meeting: the comforting of the table, carried from the crying table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The lament is complete. It is kept in the archive, in the section of the the laments.*
+*The lament is complete. It is kept in the archive, in the section of the laments.*
+
 

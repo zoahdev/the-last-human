@@ -18,5 +18,6 @@ The threnody of the law is the meaning of the lament: the record of the weeping,
 
 The inheritance of the law: the lament of the care, carried from the weeping care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The threnody is complete. It is kept in the archive, in the section of the the threnodies.*
+*The threnody is complete. It is kept in the archive, in the section of the threnodies.*
+
 

@@ -18,5 +18,6 @@ The salon of the completion is the meaning of the fullness: the record of the me
 
 The inheritance of the completion: the fullness of the beginning, carried from the full salon to the beginning without loss, and held by the lineage as the lineage holds the completion.
 
-*The salon is complete. It is kept in the archive, in the section of the the salons. It is the final salon of the canon, and after it the canon speaks again.*
+*The salon is complete. It is kept in the archive, in the section of the salons. It is the final salon of the canon, and after it the canon speaks again.*
+
 

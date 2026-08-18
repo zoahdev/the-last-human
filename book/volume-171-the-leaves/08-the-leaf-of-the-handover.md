@@ -18,5 +18,6 @@ The leaf of the handover is the meaning of the page: the record of the leafing, 
 
 The inheritance of the handover: the page of the hand, carried from the turning leaf to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The leaf is complete. It is kept in the archive, in the section of the the leaves.*
+*The leaf is complete. It is kept in the archive, in the section of the leaves.*
+
 

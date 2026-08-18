@@ -18,5 +18,6 @@ The evocation of the end is the meaning of the silence: the record of the evokin
 
 The inheritance of the end: the silence of the whole, carried from the quiet to the whole without loss, and held by the lineage as the lineage holds the end.
 
-*The evocation is complete. It is kept in the archive, in the section of the the evocations.*
+*The evocation is complete. It is kept in the archive, in the section of the evocations.*
+
 

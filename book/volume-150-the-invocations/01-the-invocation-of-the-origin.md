@@ -18,5 +18,6 @@ The invocation of the origin is the meaning of the naming: the record of the inv
 
 The inheritance of the origin: the naming of the wanting, carried from the name to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The invocation is complete. It is kept in the archive, in the section of the the invocations.*
+*The invocation is complete. It is kept in the archive, in the section of the invocations.*
+
 

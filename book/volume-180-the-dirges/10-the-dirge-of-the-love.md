@@ -18,5 +18,6 @@ The dirge of the love is the meaning of the fire: the record of the mourning, an
 
 The inheritance of the love: the fire of the family, carried from the sorrowful heart to the family without loss, and held by the lineage as the lineage holds the love.
 
-*The dirge is complete. It is kept in the archive, in the section of the the dirges.*
+*The dirge is complete. It is kept in the archive, in the section of the dirges.*
+
 

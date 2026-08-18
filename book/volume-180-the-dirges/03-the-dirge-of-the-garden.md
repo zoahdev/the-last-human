@@ -18,5 +18,6 @@ The dirge of the garden is the meaning of the winter: the record of the mourning
 
 The inheritance of the garden: the winter of the earth, carried from the fallen green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The dirge is complete. It is kept in the archive, in the section of the the dirges.*
+*The dirge is complete. It is kept in the archive, in the section of the dirges.*
+
 

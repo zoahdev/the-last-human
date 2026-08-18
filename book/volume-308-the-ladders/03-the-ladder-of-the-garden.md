@@ -18,5 +18,6 @@ The ladder of the garden is the meaning of the ivy: the record of the scaling, a
 
 The inheritance of the garden: the ivy of the earth, carried from the scaling green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The ladder is complete. It is kept in the archive, in the section of the the ladders.*
+*The ladder is complete. It is kept in the archive, in the section of the ladders.*
+
 

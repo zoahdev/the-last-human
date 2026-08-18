@@ -18,5 +18,6 @@ The dawn of the handover is the meaning of the dawn: the record of the breaking,
 
 The inheritance of the handover: the dawn of the hand, carried from the breaking hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The dawn is complete. It is kept in the archive, in the section of the the dawns.*
+*The dawn is complete. It is kept in the archive, in the section of the dawns.*
+
 

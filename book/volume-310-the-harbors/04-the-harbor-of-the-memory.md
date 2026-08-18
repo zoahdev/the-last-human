@@ -18,5 +18,6 @@ The harbor of the memory is the meaning of the storm: the record of the harborin
 
 The inheritance of the memory: the storm of the book, carried from the harbored past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The harbor is complete. It is kept in the archive, in the section of the the harbors.*
+*The harbor is complete. It is kept in the archive, in the section of the harbors.*
+
 

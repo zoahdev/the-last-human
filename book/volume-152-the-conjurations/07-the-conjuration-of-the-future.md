@@ -18,5 +18,6 @@ The conjuration of the future is the meaning of the morning: the record of the c
 
 The inheritance of the future: the morning of the dawn, carried from the foretelling to the dawn without loss, and held by the lineage as the lineage holds the future.
 
-*The conjuration is complete. It is kept in the archive, in the section of the the conjurations.*
+*The conjuration is complete. It is kept in the archive, in the section of the conjurations.*
+
 

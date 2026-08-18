@@ -18,5 +18,6 @@ The web of the origin is the meaning of the weaving: the record of the weaving, 
 
 The inheritance of the origin: the weaving of the wanting, carried from the strand to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The web is complete. It is kept in the archive, in the section of the the webs.*
+*The web is complete. It is kept in the archive, in the section of the webs.*
+
 

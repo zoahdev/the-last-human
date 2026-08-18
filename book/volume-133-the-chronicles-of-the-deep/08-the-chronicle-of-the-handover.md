@@ -18,5 +18,6 @@ The chronicle of the handover is the meaning of the crown: the record of the chr
 
 The inheritance of the handover: the crown of the hand, carried from the succession to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The chronicle is complete. It is kept in the archive, in the section of the the chronicles of the deep.*
+*The chronicle is complete. It is kept in the archive, in the section of the chronicles of the deep.*
+
 

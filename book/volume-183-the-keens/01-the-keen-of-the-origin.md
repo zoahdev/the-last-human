@@ -18,5 +18,6 @@ The keen of the origin is the meaning of the keen: the record of the keening, an
 
 The inheritance of the origin: the keen of the wanting, carried from the sharp cry to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The keen is complete. It is kept in the archive, in the section of the the keens.*
+*The keen is complete. It is kept in the archive, in the section of the keens.*
+
 

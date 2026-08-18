@@ -18,5 +18,6 @@ The kinship of the handover is the meaning of the cord: the record of the tying,
 
 The inheritance of the handover: the cord of the hand, carried from the tied hands to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The kinship is complete. It is kept in the archive, in the section of the the kinships.*
+*The kinship is complete. It is kept in the archive, in the section of the kinships.*
+
 

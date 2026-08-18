@@ -18,5 +18,6 @@ The kinship of the garden is the meaning of the root: the record of the tying, a
 
 The inheritance of the garden: the root of the earth, carried from the rooted green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The kinship is complete. It is kept in the archive, in the section of the the kinships.*
+*The kinship is complete. It is kept in the archive, in the section of the kinships.*
+
 

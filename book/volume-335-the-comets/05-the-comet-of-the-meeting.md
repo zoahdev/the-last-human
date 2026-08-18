@@ -18,5 +18,6 @@ The comet of the meeting is the meaning of the orbit: the record of the streakin
 
 The inheritance of the meeting: the orbit of the table, carried from the cometary table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The comet is complete. It is kept in the archive, in the section of the the comets.*
+*The comet is complete. It is kept in the archive, in the section of the comets.*
+
 

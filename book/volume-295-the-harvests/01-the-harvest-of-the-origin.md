@@ -18,5 +18,6 @@ The harvest of the origin is the meaning of the field: the record of the harvest
 
 The inheritance of the origin: the field of the wanting, carried from the grain to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The harvest is complete. It is kept in the archive, in the section of the the harvests.*
+*The harvest is complete. It is kept in the archive, in the section of the harvests.*
+
 

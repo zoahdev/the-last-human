@@ -18,5 +18,6 @@ The step of the handover is the meaning of the tread: the record of the stepping
 
 The inheritance of the handover: the tread of the hand, carried from the stepping hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The step is complete. It is kept in the archive, in the section of the the steps.*
+*The step is complete. It is kept in the archive, in the section of the steps.*
+
 

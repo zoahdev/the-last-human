@@ -18,5 +18,6 @@ The dirge of the abolition is the meaning of the freedom: the record of the mour
 
 The inheritance of the abolition: the freedom of the peace, carried from the stilling to the peace without loss, and held by the lineage as the lineage holds the abolition.
 
-*The dirge is complete. It is kept in the archive, in the section of the the dirges.*
+*The dirge is complete. It is kept in the archive, in the section of the dirges.*
+
 

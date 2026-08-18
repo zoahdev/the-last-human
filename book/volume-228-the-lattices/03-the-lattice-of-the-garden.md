@@ -18,5 +18,6 @@ The lattice of the garden is the meaning of the arbor: the record of the lattici
 
 The inheritance of the garden: the arbor of the earth, carried from the trellised green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The lattice is complete. It is kept in the archive, in the section of the the lattices.*
+*The lattice is complete. It is kept in the archive, in the section of the lattices.*
+
 

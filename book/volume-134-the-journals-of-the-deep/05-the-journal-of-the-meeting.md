@@ -18,5 +18,6 @@ The journal of the meeting is the meaning of the calendar: the record of the jou
 
 The inheritance of the meeting: the calendar of the table, carried from the appointment to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The journal is complete. It is kept in the archive, in the section of the the journals of the deep.*
+*The journal is complete. It is kept in the archive, in the section of the journals of the deep.*
+
 

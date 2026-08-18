@@ -18,5 +18,6 @@ The congregation of the origin is the meaning of the parish: the record of the c
 
 The inheritance of the origin: the parish of the wanting, carried from the gathered people to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The congregation is complete. It is kept in the archive, in the section of the the congregations.*
+*The congregation is complete. It is kept in the archive, in the section of the congregations.*
+
 

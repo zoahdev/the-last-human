@@ -18,5 +18,6 @@ The age of the end is the meaning of the quiet: the record of the aging, and the
 
 The inheritance of the end: the quiet of the whole, carried from the final age to the whole without loss, and held by the lineage as the lineage holds the end.
 
-*The age is complete. It is kept in the archive, in the section of the the ages.*
+*The age is complete. It is kept in the archive, in the section of the ages.*
+
 

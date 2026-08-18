@@ -18,5 +18,6 @@ The colloquy of the origin is the meaning of the conversation: the record of the
 
 The inheritance of the origin: the conversation of the wanting, carried from the speaking together to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The colloquy is complete. It is kept in the archive, in the section of the the colloquies.*
+*The colloquy is complete. It is kept in the archive, in the section of the colloquies.*
+
 

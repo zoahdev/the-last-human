@@ -18,5 +18,6 @@ The age of the future is the meaning of the morning: the record of the aging, an
 
 The inheritance of the future: the morning of the dawn, carried from the coming age to the dawn without loss, and held by the lineage as the lineage holds the future.
 
-*The age is complete. It is kept in the archive, in the section of the the ages.*
+*The age is complete. It is kept in the archive, in the section of the ages.*
+
 

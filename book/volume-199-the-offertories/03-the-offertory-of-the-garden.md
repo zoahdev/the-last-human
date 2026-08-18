@@ -18,5 +18,6 @@ The offertory of the garden is the meaning of the loaf: the record of the offeri
 
 The inheritance of the garden: the loaf of the earth, carried from the offered green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The offertory is complete. It is kept in the archive, in the section of the the offertories.*
+*The offertory is complete. It is kept in the archive, in the section of the offertories.*
+
 

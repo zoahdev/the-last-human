@@ -18,5 +18,6 @@ The proclamation of the meeting is the meaning of the feast: the record of the p
 
 The inheritance of the meeting: the feast of the table, carried from the future to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The proclamation is complete. It is kept in the archive, in the section of the the proclamations.*
+*The proclamation is complete. It is kept in the archive, in the section of the proclamations.*
+
 

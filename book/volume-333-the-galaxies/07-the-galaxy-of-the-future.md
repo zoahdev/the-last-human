@@ -18,5 +18,6 @@ The galaxy of the future is the meaning of the morning: the record of the gather
 
 The inheritance of the future: the morning of the dawn, carried from the unformed galaxy to the dawn without loss, and held by the lineage as the lineage holds the future.
 
-*The galaxy is complete. It is kept in the archive, in the section of the the galaxies.*
+*The galaxy is complete. It is kept in the archive, in the section of the galaxies.*
+
 

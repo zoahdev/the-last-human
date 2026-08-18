@@ -18,5 +18,6 @@ The shout of the handover is the meaning of the signaling: the record of the sho
 
 The inheritance of the handover: the signaling of the hand, carried from the passing shout to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The shout is complete. It is kept in the archive, in the section of the the shouts.*
+*The shout is complete. It is kept in the archive, in the section of the shouts.*
+
 

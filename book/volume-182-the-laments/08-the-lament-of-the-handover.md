@@ -18,5 +18,6 @@ The lament of the handover is the meaning of the consolation: the record of the 
 
 The inheritance of the handover: the consolation of the hand, carried from the consoling to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The lament is complete. It is kept in the archive, in the section of the the laments.*
+*The lament is complete. It is kept in the archive, in the section of the laments.*
+
 

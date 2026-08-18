@@ -18,5 +18,6 @@ The harvest of the meeting is the meaning of the threshing: the record of the ha
 
 The inheritance of the meeting: the threshing of the table, carried from the harvest table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The harvest is complete. It is kept in the archive, in the section of the the harvests.*
+*The harvest is complete. It is kept in the archive, in the section of the harvests.*
+
 

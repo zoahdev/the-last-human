@@ -18,5 +18,6 @@ The mosaic of the garden is the meaning of the patio: the record of the setting,
 
 The inheritance of the garden: the patio of the earth, carried from the tiled green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The mosaic is complete. It is kept in the archive, in the section of the the mosaics.*
+*The mosaic is complete. It is kept in the archive, in the section of the mosaics.*
+
 

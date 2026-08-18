@@ -18,5 +18,6 @@ The cry of the law is the meaning of the attention: the record of the crying, an
 
 The inheritance of the law: the attention of the care, carried from the heard care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The cry is complete. It is kept in the archive, in the section of the the cries.*
+*The cry is complete. It is kept in the archive, in the section of the cries.*
+
 

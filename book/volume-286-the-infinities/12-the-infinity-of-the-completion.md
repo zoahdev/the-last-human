@@ -18,5 +18,6 @@ The infinity of the completion is the meaning of the fullness: the record of the
 
 The inheritance of the completion: the fullness of the beginning, carried from the complete infinity to the beginning without loss, and held by the lineage as the lineage holds the completion.
 
-*The infinity is complete. It is kept in the archive, in the section of the the infinities. It is the final infinity of the canon, and after it the canon speaks again.*
+*The infinity is complete. It is kept in the archive, in the section of the infinities. It is the final infinity of the canon, and after it the canon speaks again.*
+
 

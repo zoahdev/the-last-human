@@ -18,5 +18,6 @@ The bridge of the origin is the meaning of the river: the record of the bridging
 
 The inheritance of the origin: the river of the wanting, carried from the plank to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The bridge is complete. It is kept in the archive, in the section of the the bridges.*
+*The bridge is complete. It is kept in the archive, in the section of the bridges.*
+
 

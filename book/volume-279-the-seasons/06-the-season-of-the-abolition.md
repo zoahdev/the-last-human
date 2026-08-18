@@ -18,5 +18,6 @@ The season of the abolition is the meaning of the freedom: the record of the sea
 
 The inheritance of the abolition: the freedom of the peace, carried from the new season to the peace without loss, and held by the lineage as the lineage holds the abolition.
 
-*The season is complete. It is kept in the archive, in the section of the the seasons.*
+*The season is complete. It is kept in the archive, in the section of the seasons.*
+
 

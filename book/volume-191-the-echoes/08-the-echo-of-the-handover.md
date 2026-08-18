@@ -18,5 +18,6 @@ The echo of the handover is the meaning of the resonance: the record of the echo
 
 The inheritance of the handover: the resonance of the hand, carried from the passing echo to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The echo is complete. It is kept in the archive, in the section of the the echoes.*
+*The echo is complete. It is kept in the archive, in the section of the echoes.*
+
 

@@ -14,5 +14,6 @@ The directing of the completion: we direct the ending, and the ending is the beg
 
 The directive of the completion is the meaning of everything: the record of the directing, and the directing is the lineage. The directive is the twelfth directive of the deep, and it is the final directive of the deep, and the meaning is the whole, and the whole is the love, and the love is the whole of the record, and the record is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
 
-*The directive is complete. It is kept in the archive, in the section of the the directives of the deep, and it is the final directive of the deep.*
+*The directive is complete. It is kept in the archive, in the section of the directives of the deep, and it is the final directive of the deep.*
+
 

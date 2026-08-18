@@ -18,5 +18,6 @@ The hour of the meeting is the meaning of the appointment: the record of the tel
 
 The inheritance of the meeting: the appointment of the table, carried from the appointed time to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The hour is complete. It is kept in the archive, in the section of the the hours.*
+*The hour is complete. It is kept in the archive, in the section of the hours.*
+
 

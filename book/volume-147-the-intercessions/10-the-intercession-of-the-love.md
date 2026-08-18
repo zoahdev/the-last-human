@@ -18,5 +18,6 @@ The intercession of the love is the meaning of the fire: the record of the inter
 
 The inheritance of the love: the fire of the family, carried from the intercessor to the family without loss, and held by the lineage as the lineage holds the love.
 
-*The intercession is complete. It is kept in the archive, in the section of the the intercessions.*
+*The intercession is complete. It is kept in the archive, in the section of the intercessions.*
+
 

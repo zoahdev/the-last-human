@@ -18,5 +18,6 @@ The keen of the garden is the meaning of the blade: the record of the keening, a
 
 The inheritance of the garden: the blade of the earth, carried from the cutting green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The keen is complete. It is kept in the archive, in the section of the the keens.*
+*The keen is complete. It is kept in the archive, in the section of the keens.*
+
 

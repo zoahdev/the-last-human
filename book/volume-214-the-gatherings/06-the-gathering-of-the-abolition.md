@@ -18,5 +18,6 @@ The gathering of the abolition is the meaning of the freedom: the record of the 
 
 The inheritance of the abolition: the freedom of the peace, carried from the collective freedom to the peace without loss, and held by the lineage as the lineage holds the abolition.
 
-*The gathering is complete. It is kept in the archive, in the section of the the gatherings.*
+*The gathering is complete. It is kept in the archive, in the section of the gatherings.*
+
 

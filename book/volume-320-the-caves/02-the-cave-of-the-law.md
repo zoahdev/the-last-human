@@ -18,5 +18,6 @@ The cave of the law is the meaning of the cave: the record of the sheltering, an
 
 The inheritance of the law: the cave of the care, carried from the sheltering care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The cave is complete. It is kept in the archive, in the section of the the caves.*
+*The cave is complete. It is kept in the archive, in the section of the caves.*
+
 

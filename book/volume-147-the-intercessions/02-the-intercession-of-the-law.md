@@ -18,5 +18,6 @@ The intercession of the law is the meaning of the mediation: the record of the i
 
 The inheritance of the law: the mediation of the care, carried from the advocate to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The intercession is complete. It is kept in the archive, in the section of the the intercessions.*
+*The intercession is complete. It is kept in the archive, in the section of the intercessions.*
+
 

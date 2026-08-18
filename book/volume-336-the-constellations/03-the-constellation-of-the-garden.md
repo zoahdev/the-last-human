@@ -18,5 +18,6 @@ The constellation of the garden is the meaning of the star garden: the record of
 
 The inheritance of the garden: the star garden of the earth, carried from the starry green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The constellation is complete. It is kept in the archive, in the section of the the constellations.*
+*The constellation is complete. It is kept in the archive, in the section of the constellations.*
+
 

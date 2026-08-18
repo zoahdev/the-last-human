@@ -18,5 +18,6 @@ The cup of the meeting is the meaning of the cup: the record of the cupping, and
 
 The inheritance of the meeting: the cup of the table, carried from the shared cup to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The cup is complete. It is kept in the archive, in the section of the the cups.*
+*The cup is complete. It is kept in the archive, in the section of the cups.*
+
 

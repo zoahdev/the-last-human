@@ -18,5 +18,6 @@ The feast of the meeting is the meaning of the banquet: the record of the feasti
 
 The inheritance of the meeting: the banquet of the table, carried from the feast table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The feast is complete. It is kept in the archive, in the section of the the feasts.*
+*The feast is complete. It is kept in the archive, in the section of the feasts.*
+
 

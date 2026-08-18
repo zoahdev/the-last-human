@@ -18,5 +18,6 @@ The intercession of the meeting is the meaning of the hearing: the record of the
 
 The inheritance of the meeting: the hearing of the table, carried from the tribunal to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The intercession is complete. It is kept in the archive, in the section of the the intercessions.*
+*The intercession is complete. It is kept in the archive, in the section of the intercessions.*
+
 

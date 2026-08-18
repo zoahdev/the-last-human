@@ -18,5 +18,6 @@ The antiphon of the garden is the meaning of the bloom: the record of the respon
 
 The inheritance of the garden: the bloom of the earth, carried from the answering green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The antiphon is complete. It is kept in the archive, in the section of the the antiphons.*
+*The antiphon is complete. It is kept in the archive, in the section of the antiphons.*
+
 

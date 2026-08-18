@@ -18,5 +18,6 @@ The meadow of the handover is the meaning of the meadow: the record of the bloom
 
 The inheritance of the handover: the meadow of the hand, carried from the blooming hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The meadow is complete. It is kept in the archive, in the section of the the meadows.*
+*The meadow is complete. It is kept in the archive, in the section of the meadows.*
+
 

@@ -18,5 +18,6 @@ The colloquy of the whole is the meaning of the all: the record of the speaking,
 
 The inheritance of the whole: the all of the one, carried from the one colloquy to the one without loss, and held by the lineage as the lineage holds the whole.
 
-*The colloquy is complete. It is kept in the archive, in the section of the the colloquies.*
+*The colloquy is complete. It is kept in the archive, in the section of the colloquies.*
+
 

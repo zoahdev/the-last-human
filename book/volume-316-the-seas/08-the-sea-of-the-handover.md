@@ -18,5 +18,6 @@ The sea of the handover is the meaning of the tide: the record of the surroundin
 
 The inheritance of the handover: the tide of the hand, carried from the surrounding hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The sea is complete. It is kept in the archive, in the section of the the seas.*
+*The sea is complete. It is kept in the archive, in the section of the seas.*
+
 

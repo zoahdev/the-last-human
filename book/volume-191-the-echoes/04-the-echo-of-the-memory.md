@@ -18,5 +18,6 @@ The echo of the memory is the meaning of the sound: the record of the echoing, a
 
 The inheritance of the memory: the sound of the book, carried from the echoed voice to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The echo is complete. It is kept in the archive, in the section of the the echoes.*
+*The echo is complete. It is kept in the archive, in the section of the echoes.*
+
 

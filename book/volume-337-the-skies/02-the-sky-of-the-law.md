@@ -18,5 +18,6 @@ The sky of the law is the meaning of the heaven: the record of the arching, and 
 
 The inheritance of the law: the heaven of the care, carried from the arching care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The sky is complete. It is kept in the archive, in the section of the the skies.*
+*The sky is complete. It is kept in the archive, in the section of the skies.*
+
 

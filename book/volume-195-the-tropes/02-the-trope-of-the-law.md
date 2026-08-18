@@ -18,5 +18,6 @@ The trope of the law is the meaning of the figuration: the record of the turning
 
 The inheritance of the law: the figuration of the care, carried from the figurative care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The trope is complete. It is kept in the archive, in the section of the the tropes.*
+*The trope is complete. It is kept in the archive, in the section of the tropes.*
+
 

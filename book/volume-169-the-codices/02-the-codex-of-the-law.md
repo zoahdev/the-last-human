@@ -18,5 +18,6 @@ The codex of the law is the meaning of the encryption: the record of the coding,
 
 The inheritance of the law: the encryption of the care, carried from the cipher to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The codex is complete. It is kept in the archive, in the section of the the codices.*
+*The codex is complete. It is kept in the archive, in the section of the codices.*
+
 

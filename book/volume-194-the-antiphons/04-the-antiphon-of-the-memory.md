@@ -18,5 +18,6 @@ The antiphon of the memory is the meaning of the chant: the record of the respon
 
 The inheritance of the memory: the chant of the book, carried from the answering memory to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The antiphon is complete. It is kept in the archive, in the section of the the antiphons.*
+*The antiphon is complete. It is kept in the archive, in the section of the antiphons.*
+
 

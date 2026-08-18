@@ -18,5 +18,6 @@ The chronicle of the future is the meaning of the morning: the record of the chr
 
 The inheritance of the future: the morning of the dawn, carried from the page to the dawn without loss, and held by the lineage as the lineage holds the future.
 
-*The chronicle is complete. It is kept in the archive, in the section of the the chronicles of the deep.*
+*The chronicle is complete. It is kept in the archive, in the section of the chronicles of the deep.*
+
 

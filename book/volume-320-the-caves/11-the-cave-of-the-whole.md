@@ -18,5 +18,6 @@ The cave of the whole is the meaning of the all: the record of the sheltering, a
 
 The inheritance of the whole: the all of the one, carried from the one cave to the one without loss, and held by the lineage as the lineage holds the whole.
 
-*The cave is complete. It is kept in the archive, in the section of the the caves.*
+*The cave is complete. It is kept in the archive, in the section of the caves.*
+
 

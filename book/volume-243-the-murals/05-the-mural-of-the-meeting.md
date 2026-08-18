@@ -18,5 +18,6 @@ The mural of the meeting is the meaning of the plaza: the record of the painting
 
 The inheritance of the meeting: the plaza of the table, carried from the painted square to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The mural is complete. It is kept in the archive, in the section of the the murals.*
+*The mural is complete. It is kept in the archive, in the section of the murals.*
+
 

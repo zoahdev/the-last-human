@@ -18,5 +18,6 @@ The remark of the garden is the meaning of the seeing: the record of the remarki
 
 The inheritance of the garden: the seeing of the earth, carried from the seen growth to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The remark is complete. It is kept in the archive, in the section of the the remarks.*
+*The remark is complete. It is kept in the archive, in the section of the remarks.*
+
 

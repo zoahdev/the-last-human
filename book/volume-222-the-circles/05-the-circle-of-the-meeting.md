@@ -18,5 +18,6 @@ The circle of the meeting is the meaning of the round: the record of the circlin
 
 The inheritance of the meeting: the round of the table, carried from the round table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The circle is complete. It is kept in the archive, in the section of the the circles.*
+*The circle is complete. It is kept in the archive, in the section of the circles.*
+
 

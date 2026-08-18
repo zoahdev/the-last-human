@@ -18,5 +18,6 @@ The port of the whole is the meaning of the all: the record of the arriving, and
 
 The inheritance of the whole: the all of the one, carried from the one port to the one without loss, and held by the lineage as the lineage holds the whole.
 
-*The port is complete. It is kept in the archive, in the section of the the ports.*
+*The port is complete. It is kept in the archive, in the section of the ports.*
+
 

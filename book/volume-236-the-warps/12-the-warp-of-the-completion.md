@@ -18,5 +18,6 @@ The warp of the completion is the meaning of the fullness: the record of the war
 
 The inheritance of the completion: the fullness of the beginning, carried from the complete warp to the beginning without loss, and held by the lineage as the lineage holds the completion.
 
-*The warp is complete. It is kept in the archive, in the section of the the warps. It is the final warp of the canon, and after it the canon speaks again.*
+*The warp is complete. It is kept in the archive, in the section of the warps. It is the final warp of the canon, and after it the canon speaks again.*
+
 

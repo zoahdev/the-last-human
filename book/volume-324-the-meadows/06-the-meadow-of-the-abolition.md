@@ -18,5 +18,6 @@ The meadow of the abolition is the meaning of the freedom: the record of the blo
 
 The inheritance of the abolition: the freedom of the peace, carried from the open meadow to the peace without loss, and held by the lineage as the lineage holds the abolition.
 
-*The meadow is complete. It is kept in the archive, in the section of the the meadows.*
+*The meadow is complete. It is kept in the archive, in the section of the meadows.*
+
 

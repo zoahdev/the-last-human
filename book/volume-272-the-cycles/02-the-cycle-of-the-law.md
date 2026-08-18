@@ -18,5 +18,6 @@ The cycle of the law is the meaning of the period: the record of the cycling, an
 
 The inheritance of the law: the period of the care, carried from the cycled care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The cycle is complete. It is kept in the archive, in the section of the the cycles.*
+*The cycle is complete. It is kept in the archive, in the section of the cycles.*
+
 

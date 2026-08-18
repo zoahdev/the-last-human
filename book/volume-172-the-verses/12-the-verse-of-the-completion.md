@@ -18,5 +18,6 @@ The verse of the completion is the meaning of the fullness: the record of the ve
 
 The inheritance of the completion: the fullness of the beginning, carried from the finished poem to the beginning without loss, and held by the lineage as the lineage holds the completion.
 
-*The verse is complete. It is kept in the archive, in the section of the the verses. It is the final verse of the canon, and after it the canon speaks again.*
+*The verse is complete. It is kept in the archive, in the section of the verses. It is the final verse of the canon, and after it the canon speaks again.*
+
 

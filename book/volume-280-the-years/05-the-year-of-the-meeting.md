@@ -18,5 +18,6 @@ The year of the meeting is the meaning of the anniversary: the record of the cou
 
 The inheritance of the meeting: the anniversary of the table, carried from the counted table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The year is complete. It is kept in the archive, in the section of the the years.*
+*The year is complete. It is kept in the archive, in the section of the years.*
+
 

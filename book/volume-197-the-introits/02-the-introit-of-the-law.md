@@ -18,5 +18,6 @@ The introit of the law is the meaning of the portal: the record of the entering,
 
 The inheritance of the law: the portal of the care, carried from the entering care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The introit is complete. It is kept in the archive, in the section of the the introits.*
+*The introit is complete. It is kept in the archive, in the section of the introits.*
+
 

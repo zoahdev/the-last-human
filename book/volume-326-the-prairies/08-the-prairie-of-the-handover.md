@@ -18,5 +18,6 @@ The prairie of the handover is the meaning of the prairie: the record of the str
 
 The inheritance of the handover: the prairie of the hand, carried from the stretching hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The prairie is complete. It is kept in the archive, in the section of the the prairies.*
+*The prairie is complete. It is kept in the archive, in the section of the prairies.*
+
 

@@ -18,5 +18,6 @@ The lattice of the meeting is the meaning of the frame: the record of the lattic
 
 The inheritance of the meeting: the frame of the table, carried from the latticed table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The lattice is complete. It is kept in the archive, in the section of the the lattices.*
+*The lattice is complete. It is kept in the archive, in the section of the lattices.*
+
 

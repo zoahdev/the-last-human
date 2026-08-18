@@ -18,5 +18,6 @@ The helix of the whole is the meaning of the all: the record of the winding, and
 
 The inheritance of the whole: the all of the one, carried from the one helix to the one without loss, and held by the lineage as the lineage holds the whole.
 
-*The helix is complete. It is kept in the archive, in the section of the the helices.*
+*The helix is complete. It is kept in the archive, in the section of the helices.*
+
 

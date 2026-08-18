@@ -18,5 +18,6 @@ The mold of the meeting is the meaning of the wheel: the record of the molding, 
 
 The inheritance of the meeting: the wheel of the table, carried from the molded table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The mold is complete. It is kept in the archive, in the section of the the molds.*
+*The mold is complete. It is kept in the archive, in the section of the molds.*
+
 

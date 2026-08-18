@@ -18,5 +18,6 @@ The symposium of the completion is the meaning of the fullness: the record of th
 
 The inheritance of the completion: the fullness of the beginning, carried from the full symposium to the beginning without loss, and held by the lineage as the lineage holds the completion.
 
-*The symposium is complete. It is kept in the archive, in the section of the the symposia. It is the final symposium of the canon, and after it the canon speaks again.*
+*The symposium is complete. It is kept in the archive, in the section of the symposia. It is the final symposium of the canon, and after it the canon speaks again.*
+
 

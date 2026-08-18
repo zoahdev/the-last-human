@@ -18,5 +18,6 @@ The sermon of the deep of the handover is the meaning of the vocation: the recor
 
 The inheritance of the handover: the vocation of the hand, carried from the ordination to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The sermon of the deep is complete. It is kept in the archive, in the section of the the sermons of the deep.*
+*The sermon of the deep is complete. It is kept in the archive, in the section of the sermons of the deep.*
+
 

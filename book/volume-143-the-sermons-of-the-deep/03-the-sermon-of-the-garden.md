@@ -18,5 +18,6 @@ The sermon of the deep of the garden is the meaning of the seed: the record of t
 
 The inheritance of the garden: the seed of the earth, carried from the parable to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The sermon of the deep is complete. It is kept in the archive, in the section of the the sermons of the deep.*
+*The sermon of the deep is complete. It is kept in the archive, in the section of the sermons of the deep.*
+
 

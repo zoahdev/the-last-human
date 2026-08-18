@@ -18,5 +18,6 @@ The lection of the handover is the meaning of the tradition: the record of the r
 
 The inheritance of the handover: the tradition of the hand, carried from the handing on to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The lection is complete. It is kept in the archive, in the section of the the lections.*
+*The lection is complete. It is kept in the archive, in the section of the lections.*
+
 

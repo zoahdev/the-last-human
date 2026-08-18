@@ -18,5 +18,6 @@ The vigil of the end is the meaning of the quiet: the record of the keeping, and
 
 The inheritance of the end: the quiet of the whole, carried from the last watch to the whole without loss, and held by the lineage as the lineage holds the end.
 
-*The vigil is complete. It is kept in the archive, in the section of the the vigils.*
+*The vigil is complete. It is kept in the archive, in the section of the vigils.*
+
 

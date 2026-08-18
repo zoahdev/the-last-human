@@ -18,5 +18,6 @@ The harbor of the law is the meaning of the shelter: the record of the harboring
 
 The inheritance of the law: the shelter of the care, carried from the harboring care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The harbor is complete. It is kept in the archive, in the section of the the harbors.*
+*The harbor is complete. It is kept in the archive, in the section of the harbors.*
+
 

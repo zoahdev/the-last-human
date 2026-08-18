@@ -18,5 +18,6 @@ The winter of the meeting is the meaning of the fireplace: the record of the fre
 
 The inheritance of the meeting: the fireplace of the table, carried from the winter table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The winter is complete. It is kept in the archive, in the section of the the winters.*
+*The winter is complete. It is kept in the archive, in the section of the winters.*
+
 

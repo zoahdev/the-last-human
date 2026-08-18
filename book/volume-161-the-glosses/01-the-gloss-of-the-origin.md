@@ -18,5 +18,6 @@ The gloss of the origin is the meaning of the annotation: the record of the glos
 
 The inheritance of the origin: the annotation of the wanting, carried from the comment to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The gloss is complete. It is kept in the archive, in the section of the the glosses.*
+*The gloss is complete. It is kept in the archive, in the section of the glosses.*
+
 

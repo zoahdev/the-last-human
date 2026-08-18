@@ -18,5 +18,6 @@ The confession of the deep of the abolition is the meaning of the freedom: the r
 
 The inheritance of the abolition: the freedom of the peace, carried from the unburdening to the peace without loss, and held by the lineage as the lineage holds the abolition.
 
-*The confession of the deep is complete. It is kept in the archive, in the section of the the confessions of the deep.*
+*The confession of the deep is complete. It is kept in the archive, in the section of the confessions of the deep.*
+
 

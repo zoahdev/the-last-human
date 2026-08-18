@@ -18,5 +18,6 @@ The whisper of the garden is the meaning of the softness: the record of the whis
 
 The inheritance of the garden: the softness of the earth, carried from the quiet green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The whisper is complete. It is kept in the archive, in the section of the the whispers.*
+*The whisper is complete. It is kept in the archive, in the section of the whispers.*
+
 

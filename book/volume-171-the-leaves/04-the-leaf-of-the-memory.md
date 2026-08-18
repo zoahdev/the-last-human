@@ -18,5 +18,6 @@ The leaf of the memory is the meaning of the autumn: the record of the leafing, 
 
 The inheritance of the memory: the autumn of the book, carried from the fallen leaf to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The leaf is complete. It is kept in the archive, in the section of the the leaves.*
+*The leaf is complete. It is kept in the archive, in the section of the leaves.*
+
 

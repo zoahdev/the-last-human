@@ -18,5 +18,6 @@ The gradual of the memory is the meaning of the ascent: the record of the climbi
 
 The inheritance of the memory: the ascent of the book, carried from the climbing song to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The gradual is complete. It is kept in the archive, in the section of the the graduals.*
+*The gradual is complete. It is kept in the archive, in the section of the graduals.*
+
 

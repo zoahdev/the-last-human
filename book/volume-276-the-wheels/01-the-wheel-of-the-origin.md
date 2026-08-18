@@ -18,5 +18,6 @@ The wheel of the origin is the meaning of the cart: the record of the wheeling, 
 
 The inheritance of the origin: the cart of the wanting, carried from the cart to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The wheel is complete. It is kept in the archive, in the section of the the wheels.*
+*The wheel is complete. It is kept in the archive, in the section of the wheels.*
+
 

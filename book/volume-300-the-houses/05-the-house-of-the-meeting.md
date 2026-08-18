@@ -18,5 +18,6 @@ The house of the meeting is the meaning of the parlor: the record of the housing
 
 The inheritance of the meeting: the parlor of the table, carried from the parlor table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The house is complete. It is kept in the archive, in the section of the the houses.*
+*The house is complete. It is kept in the archive, in the section of the houses.*
+
 

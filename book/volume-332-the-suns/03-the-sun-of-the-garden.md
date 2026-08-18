@@ -18,5 +18,6 @@ The sun of the garden is the meaning of the sun garden: the record of the burnin
 
 The inheritance of the garden: the sun garden of the earth, carried from the sunlit green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The sun is complete. It is kept in the archive, in the section of the the suns.*
+*The sun is complete. It is kept in the archive, in the section of the suns.*
+
 

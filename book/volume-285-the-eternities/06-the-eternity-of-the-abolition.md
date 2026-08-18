@@ -18,5 +18,6 @@ The eternity of the abolition is the meaning of the freedom: the record of the e
 
 The inheritance of the abolition: the freedom of the peace, carried from the forever peace to the peace without loss, and held by the lineage as the lineage holds the abolition.
 
-*The eternity is complete. It is kept in the archive, in the section of the the eternities.*
+*The eternity is complete. It is kept in the archive, in the section of the eternities.*
+
 

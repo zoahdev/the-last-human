@@ -18,5 +18,6 @@ The orison of the memory is the meaning of the evening: the record of the prayin
 
 The inheritance of the memory: the evening of the book, carried from the vespers to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The orison is complete. It is kept in the archive, in the section of the the orisons.*
+*The orison is complete. It is kept in the archive, in the section of the orisons.*
+
 

@@ -18,5 +18,6 @@ The directive of the handover is the meaning of the relay: the record of the dir
 
 The inheritance of the handover: the relay of the hand, carried from the changing to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The directive is complete. It is kept in the archive, in the section of the the directives of the deep.*
+*The directive is complete. It is kept in the archive, in the section of the directives of the deep.*
+
 

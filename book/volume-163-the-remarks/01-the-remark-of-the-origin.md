@@ -18,5 +18,6 @@ The remark of the origin is the meaning of the notice: the record of the remarki
 
 The inheritance of the origin: the notice of the wanting, carried from the observation to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The remark is complete. It is kept in the archive, in the section of the the remarks.*
+*The remark is complete. It is kept in the archive, in the section of the remarks.*
+
 

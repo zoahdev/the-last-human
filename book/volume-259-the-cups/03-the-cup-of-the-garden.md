@@ -18,5 +18,6 @@ The cup of the garden is the meaning of the bowl: the record of the cupping, and
 
 The inheritance of the garden: the bowl of the earth, carried from the cupped green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The cup is complete. It is kept in the archive, in the section of the the cups.*
+*The cup is complete. It is kept in the archive, in the section of the cups.*
+
 

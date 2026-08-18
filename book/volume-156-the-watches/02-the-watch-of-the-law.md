@@ -18,5 +18,6 @@ The watch of the law is the meaning of the guard: the record of the watching, an
 
 The inheritance of the law: the guard of the care, carried from the sentinel to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The watch is complete. It is kept in the archive, in the section of the the watches.*
+*The watch is complete. It is kept in the archive, in the section of the watches.*
+
 

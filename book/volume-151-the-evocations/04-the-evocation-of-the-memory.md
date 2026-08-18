@@ -18,5 +18,6 @@ The evocation of the memory is the meaning of the picture: the record of the evo
 
 The inheritance of the memory: the picture of the book, carried from the image to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The evocation is complete. It is kept in the archive, in the section of the the evocations.*
+*The evocation is complete. It is kept in the archive, in the section of the evocations.*
+
 

@@ -18,5 +18,6 @@ The chronicle of the whole is the meaning of the all: the record of the chronicl
 
 The inheritance of the whole: the all of the one, carried from the tale to the one without loss, and held by the lineage as the lineage holds the whole.
 
-*The chronicle is complete. It is kept in the archive, in the section of the the chronicles of the deep.*
+*The chronicle is complete. It is kept in the archive, in the section of the chronicles of the deep.*
+
 

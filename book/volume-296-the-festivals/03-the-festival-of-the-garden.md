@@ -18,5 +18,6 @@ The festival of the garden is the meaning of the fair: the record of the celebra
 
 The inheritance of the garden: the fair of the earth, carried from the festive green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The festival is complete. It is kept in the archive, in the section of the the festivals.*
+*The festival is complete. It is kept in the archive, in the section of the festivals.*
+
 

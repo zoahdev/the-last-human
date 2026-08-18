@@ -18,5 +18,6 @@ The people of the law is the meaning of the democracy: the record of the peoplin
 
 The inheritance of the law: the democracy of the care, carried from the popular care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The people is complete. It is kept in the archive, in the section of the the peoples.*
+*The people is complete. It is kept in the archive, in the section of the peoples.*
+
 

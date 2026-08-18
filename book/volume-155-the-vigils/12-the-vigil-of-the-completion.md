@@ -18,5 +18,6 @@ The vigil of the completion is the meaning of the fullness: the record of the ke
 
 The inheritance of the completion: the fullness of the beginning, carried from the daybreak to the beginning without loss, and held by the lineage as the lineage holds the completion.
 
-*The vigil is complete. It is kept in the archive, in the section of the the vigils. It is the final vigil of the canon, and after it the canon speaks again.*
+*The vigil is complete. It is kept in the archive, in the section of the vigils. It is the final vigil of the canon, and after it the canon speaks again.*
+
 

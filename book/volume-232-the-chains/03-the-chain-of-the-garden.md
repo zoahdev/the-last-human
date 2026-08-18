@@ -18,5 +18,6 @@ The chain of the garden is the meaning of the wreath: the record of the chaining
 
 The inheritance of the garden: the wreath of the earth, carried from the chained green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The chain is complete. It is kept in the archive, in the section of the the chains.*
+*The chain is complete. It is kept in the archive, in the section of the chains.*
+
 

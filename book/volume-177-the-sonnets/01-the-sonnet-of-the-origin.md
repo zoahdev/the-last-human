@@ -18,5 +18,6 @@ The sonnet of the origin is the meaning of the volta: the record of the binding,
 
 The inheritance of the origin: the volta of the wanting, carried from the octave to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The sonnet is complete. It is kept in the archive, in the section of the the sonnets.*
+*The sonnet is complete. It is kept in the archive, in the section of the sonnets.*
+
 

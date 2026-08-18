@@ -18,5 +18,6 @@ The pattern of the completion is the meaning of the fullness: the record of the 
 
 The inheritance of the completion: the fullness of the beginning, carried from the complete pattern to the beginning without loss, and held by the lineage as the lineage holds the completion.
 
-*The pattern is complete. It is kept in the archive, in the section of the the patterns. It is the final pattern of the canon, and after it the canon speaks again.*
+*The pattern is complete. It is kept in the archive, in the section of the patterns. It is the final pattern of the canon, and after it the canon speaks again.*
+
 

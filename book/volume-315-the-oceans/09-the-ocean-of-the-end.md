@@ -18,5 +18,6 @@ The ocean of the end is the meaning of the quiet: the record of the encompassing
 
 The inheritance of the end: the quiet of the whole, carried from the final ocean to the whole without loss, and held by the lineage as the lineage holds the end.
 
-*The ocean is complete. It is kept in the archive, in the section of the the oceans.*
+*The ocean is complete. It is kept in the archive, in the section of the oceans.*
+
 

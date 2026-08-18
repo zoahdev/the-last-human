@@ -18,5 +18,6 @@ The infinity of the whole is the meaning of the all: the record of the extending
 
 The inheritance of the whole: the all of the one, carried from the one infinity to the one without loss, and held by the lineage as the lineage holds the whole.
 
-*The infinity is complete. It is kept in the archive, in the section of the the infinities.*
+*The infinity is complete. It is kept in the archive, in the section of the infinities.*
+
 

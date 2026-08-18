@@ -18,5 +18,6 @@ The spring of the origin is the meaning of the well: the record of the springing
 
 The inheritance of the origin: the well of the wanting, carried from the well to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The spring is complete. It is kept in the archive, in the section of the the springs.*
+*The spring is complete. It is kept in the archive, in the section of the springs.*
+
 

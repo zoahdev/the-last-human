@@ -18,5 +18,6 @@ The nebula of the memory is the meaning of the gas: the record of the clouding, 
 
 The inheritance of the memory: the gas of the book, carried from the clouded past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The nebula is complete. It is kept in the archive, in the section of the the nebulae.*
+*The nebula is complete. It is kept in the archive, in the section of the nebulae.*
+
 

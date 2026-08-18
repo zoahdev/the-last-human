@@ -18,5 +18,6 @@ The matrix of the future is the meaning of the morning: the record of the pressi
 
 The inheritance of the future: the morning of the dawn, carried from the unstruck coin to the dawn without loss, and held by the lineage as the lineage holds the future.
 
-*The matrix is complete. It is kept in the archive, in the section of the the matrices.*
+*The matrix is complete. It is kept in the archive, in the section of the matrices.*
+
 

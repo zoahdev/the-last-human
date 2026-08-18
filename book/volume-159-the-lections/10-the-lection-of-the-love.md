@@ -18,5 +18,6 @@ The lection of the love is the meaning of the fire: the record of the reading, a
 
 The inheritance of the love: the fire of the family, carried from the beloved passage to the family without loss, and held by the lineage as the lineage holds the love.
 
-*The lection is complete. It is kept in the archive, in the section of the the lections.*
+*The lection is complete. It is kept in the archive, in the section of the lections.*
+
 

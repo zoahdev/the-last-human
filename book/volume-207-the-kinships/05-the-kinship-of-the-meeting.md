@@ -18,5 +18,6 @@ The kinship of the meeting is the meaning of the union: the record of the tying,
 
 The inheritance of the meeting: the union of the table, carried from the tied table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The kinship is complete. It is kept in the archive, in the section of the the kinships.*
+*The kinship is complete. It is kept in the archive, in the section of the kinships.*
+
 

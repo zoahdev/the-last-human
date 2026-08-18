@@ -18,5 +18,6 @@ The twilight of the origin is the meaning of the twilight: the record of the fad
 
 The inheritance of the origin: the twilight of the wanting, carried from the fading of light to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The twilight is complete. It is kept in the archive, in the section of the the twilights.*
+*The twilight is complete. It is kept in the archive, in the section of the twilights.*
+
 

@@ -18,5 +18,6 @@ The communion of the love is the meaning of the fire: the record of the communin
 
 The inheritance of the love: the fire of the family, carried from the shared heart to the family without loss, and held by the lineage as the lineage holds the love.
 
-*The communion is complete. It is kept in the archive, in the section of the the communions.*
+*The communion is complete. It is kept in the archive, in the section of the communions.*
+
 

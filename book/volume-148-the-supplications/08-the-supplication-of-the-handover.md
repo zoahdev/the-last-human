@@ -18,5 +18,6 @@ The supplication of the handover is the meaning of the giving: the record of the
 
 The inheritance of the handover: the giving of the hand, carried from the palm to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The supplication is complete. It is kept in the archive, in the section of the the supplications.*
+*The supplication is complete. It is kept in the archive, in the section of the supplications.*
+
 

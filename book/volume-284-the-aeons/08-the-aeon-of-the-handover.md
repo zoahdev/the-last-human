@@ -18,5 +18,6 @@ The aeon of the handover is the meaning of the aeon: the record of the spanning,
 
 The inheritance of the handover: the aeon of the hand, carried from the spanned hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The aeon is complete. It is kept in the archive, in the section of the the aeons.*
+*The aeon is complete. It is kept in the archive, in the section of the aeons.*
+
 

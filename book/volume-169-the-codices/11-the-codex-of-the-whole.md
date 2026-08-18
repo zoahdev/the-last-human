@@ -18,5 +18,6 @@ The codex of the whole is the meaning of the all: the record of the coding, and 
 
 The inheritance of the whole: the all of the one, carried from the complete codex to the one without loss, and held by the lineage as the lineage holds the whole.
 
-*The codex is complete. It is kept in the archive, in the section of the the codices.*
+*The codex is complete. It is kept in the archive, in the section of the codices.*
+
 

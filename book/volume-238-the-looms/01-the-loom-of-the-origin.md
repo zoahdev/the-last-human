@@ -18,5 +18,6 @@ The loom of the origin is the meaning of the frame: the record of the looming, a
 
 The inheritance of the origin: the frame of the wanting, carried from the wooden frame to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The loom is complete. It is kept in the archive, in the section of the the looms.*
+*The loom is complete. It is kept in the archive, in the section of the looms.*
+
 

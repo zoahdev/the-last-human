@@ -18,5 +18,6 @@ The codex of the memory is the meaning of the transcription: the record of the c
 
 The inheritance of the memory: the transcription of the book, carried from the coded record to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The codex is complete. It is kept in the archive, in the section of the the codices.*
+*The codex is complete. It is kept in the archive, in the section of the codices.*
+
 

@@ -18,5 +18,6 @@ The cabinet of the origin is the meaning of the curiosity: the record of the arr
 
 The inheritance of the origin: the curiosity of the wanting, carried from the curiosity to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The cabinet is complete. It is kept in the archive, in the section of the the cabinets.*
+*The cabinet is complete. It is kept in the archive, in the section of the cabinets.*
+
 

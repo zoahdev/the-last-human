@@ -18,5 +18,6 @@ The constellation of the origin is the meaning of the stars: the record of the a
 
 The inheritance of the origin: the stars of the wanting, carried from the named pattern to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The constellation is complete. It is kept in the archive, in the section of the the constellations.*
+*The constellation is complete. It is kept in the archive, in the section of the constellations.*
+
 

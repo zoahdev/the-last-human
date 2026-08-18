@@ -18,5 +18,6 @@ The mesh of the meeting is the meaning of the nexus: the record of the meshing, 
 
 The inheritance of the meeting: the nexus of the table, carried from the meshed table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The mesh is complete. It is kept in the archive, in the section of the the meshes.*
+*The mesh is complete. It is kept in the archive, in the section of the meshes.*
+
 

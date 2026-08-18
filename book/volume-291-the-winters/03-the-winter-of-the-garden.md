@@ -18,5 +18,6 @@ The winter of the garden is the meaning of the hardy garden: the record of the f
 
 The inheritance of the garden: the hardy garden of the earth, carried from the frozen green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The winter is complete. It is kept in the archive, in the section of the the winters.*
+*The winter is complete. It is kept in the archive, in the section of the winters.*
+
 

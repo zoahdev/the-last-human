@@ -18,5 +18,6 @@ The doorway of the completion is the meaning of the fullness: the record of the 
 
 The inheritance of the completion: the fullness of the beginning, carried from the complete doorway to the beginning without loss, and held by the lineage as the lineage holds the completion.
 
-*The doorway is complete. It is kept in the archive, in the section of the the doorways. It is the final doorway of the canon, and after it the canon speaks again.*
+*The doorway is complete. It is kept in the archive, in the section of the doorways. It is the final doorway of the canon, and after it the canon speaks again.*
+
 

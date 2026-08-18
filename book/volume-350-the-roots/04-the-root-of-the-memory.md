@@ -18,5 +18,6 @@ The root of the memory is the meaning of the root: the record of the rooting, an
 
 The inheritance of the memory: the root of the book, carried from the rooted past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The root is complete. It is kept in the archive, in the section of the the roots.*
+*The root is complete. It is kept in the archive, in the section of the roots.*
+
 

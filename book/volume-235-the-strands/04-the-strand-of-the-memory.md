@@ -18,5 +18,6 @@ The strand of the memory is the meaning of the shoreline: the record of the stra
 
 The inheritance of the memory: the shoreline of the book, carried from the stranded past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The strand is complete. It is kept in the archive, in the section of the the strands.*
+*The strand is complete. It is kept in the archive, in the section of the strands.*
+
 

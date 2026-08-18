@@ -18,5 +18,6 @@ The bowl of the abolition is the meaning of the freedom: the record of the round
 
 The inheritance of the abolition: the freedom of the peace, carried from the filled bowl to the peace without loss, and held by the lineage as the lineage holds the abolition.
 
-*The bowl is complete. It is kept in the archive, in the section of the the bowls.*
+*The bowl is complete. It is kept in the archive, in the section of the bowls.*
+
 

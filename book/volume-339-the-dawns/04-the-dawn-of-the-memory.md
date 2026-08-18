@@ -18,5 +18,6 @@ The dawn of the memory is the meaning of the dawn: the record of the breaking, a
 
 The inheritance of the memory: the dawn of the book, carried from the broken past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The dawn is complete. It is kept in the archive, in the section of the the dawns.*
+*The dawn is complete. It is kept in the archive, in the section of the dawns.*
+
 

@@ -18,5 +18,6 @@ The web of the memory is the meaning of the tapestry: the record of the weaving,
 
 The inheritance of the memory: the tapestry of the book, carried from the woven past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The web is complete. It is kept in the archive, in the section of the the webs.*
+*The web is complete. It is kept in the archive, in the section of the webs.*
+
 

@@ -18,5 +18,6 @@ The elegy of the garden is the meaning of the withering: the record of the lamen
 
 The inheritance of the garden: the withering of the earth, carried from the mourning earth to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The elegy is complete. It is kept in the archive, in the section of the the elegies.*
+*The elegy is complete. It is kept in the archive, in the section of the elegies.*
+
 

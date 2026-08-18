@@ -18,5 +18,6 @@ The autumn of the law is the meaning of the gathering: the record of the falling
 
 The inheritance of the law: the gathering of the care, carried from the falling care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The autumn is complete. It is kept in the archive, in the section of the the autumns.*
+*The autumn is complete. It is kept in the archive, in the section of the autumns.*
+
 

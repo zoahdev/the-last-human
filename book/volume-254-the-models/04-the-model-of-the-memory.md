@@ -18,5 +18,6 @@ The model of the memory is the meaning of the miniature: the record of the model
 
 The inheritance of the memory: the miniature of the book, carried from the modeled past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The model is complete. It is kept in the archive, in the section of the the models.*
+*The model is complete. It is kept in the archive, in the section of the models.*
+
 

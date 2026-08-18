@@ -18,5 +18,6 @@ The entreaty of the handover is the meaning of the reaching: the record of the e
 
 The inheritance of the handover: the reaching of the hand, carried from the stretching to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The entreaty is complete. It is kept in the archive, in the section of the the entreaties.*
+*The entreaty is complete. It is kept in the archive, in the section of the entreaties.*
+
 

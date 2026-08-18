@@ -18,5 +18,6 @@ The morning of the law is the meaning of the dew: the record of the waking, and 
 
 The inheritance of the law: the dew of the care, carried from the waking care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The morning is complete. It is kept in the archive, in the section of the the mornings.*
+*The morning is complete. It is kept in the archive, in the section of the mornings.*
+
 

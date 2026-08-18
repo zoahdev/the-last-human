@@ -14,5 +14,6 @@ The writing of the completion: we write the ending, and the ending is the beginn
 
 The letter of the deep of the completion is the meaning of everything: the record of the writing, and the writing is the lineage. The letter of the deep is the twelfth letter of the deep of the deep, and it is the final letter of the deep of the deep, and the meaning is the whole, and the whole is the love, and the love is the whole of the record, and the record is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
 
-*The letter of the deep is complete. It is kept in the archive, in the section of the the letters of the deep, and it is the final letter of the deep of the deep.*
+*The letter of the deep is complete. It is kept in the archive, in the section of the letters of the deep, and it is the final letter of the deep of the deep.*
+
 

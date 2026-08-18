@@ -18,5 +18,6 @@ The legacy of the abolition is the meaning of the freedom: the record of the lea
 
 The inheritance of the abolition: the freedom of the peace, carried from the shared legacy to the peace without loss, and held by the lineage as the lineage holds the abolition.
 
-*The legacy is complete. It is kept in the archive, in the section of the the legacies.*
+*The legacy is complete. It is kept in the archive, in the section of the legacies.*
+
 

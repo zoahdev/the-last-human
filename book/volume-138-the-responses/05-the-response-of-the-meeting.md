@@ -18,5 +18,6 @@ The response of the meeting is the meaning of the antiphon: the record of the re
 
 The inheritance of the meeting: the antiphon of the table, carried from the chorus to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The response is complete. It is kept in the archive, in the section of the the responses.*
+*The response is complete. It is kept in the archive, in the section of the responses.*
+
 

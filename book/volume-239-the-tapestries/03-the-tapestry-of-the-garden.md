@@ -18,5 +18,6 @@ The tapestry of the garden is the meaning of the scene: the record of the hangin
 
 The inheritance of the garden: the scene of the earth, carried from the pictured green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The tapestry is complete. It is kept in the archive, in the section of the the tapestries.*
+*The tapestry is complete. It is kept in the archive, in the section of the tapestries.*
+
 

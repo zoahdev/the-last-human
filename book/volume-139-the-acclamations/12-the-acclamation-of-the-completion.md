@@ -18,5 +18,6 @@ The acclamation of the completion is the meaning of the fullness: the record of 
 
 The inheritance of the completion: the fullness of the beginning, carried from the standing ovation to the beginning without loss, and held by the lineage as the lineage holds the completion.
 
-*The acclamation is complete. It is kept in the archive, in the section of the the acclamations. It is the final acclamation of the canon, and after it the canon speaks again.*
+*The acclamation is complete. It is kept in the archive, in the section of the acclamations. It is the final acclamation of the canon, and after it the canon speaks again.*
+
 

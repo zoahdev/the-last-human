@@ -18,5 +18,6 @@ The response of the abolition is the meaning of the freedom: the record of the r
 
 The inheritance of the abolition: the freedom of the peace, carried from the yes to the peace without loss, and held by the lineage as the lineage holds the abolition.
 
-*The response is complete. It is kept in the archive, in the section of the the responses.*
+*The response is complete. It is kept in the archive, in the section of the responses.*
+
 

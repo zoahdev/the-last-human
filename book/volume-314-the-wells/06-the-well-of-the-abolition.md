@@ -18,5 +18,6 @@ The well of the abolition is the meaning of the freedom: the record of the drawi
 
 The inheritance of the abolition: the freedom of the peace, carried from the deep well to the peace without loss, and held by the lineage as the lineage holds the abolition.
 
-*The well is complete. It is kept in the archive, in the section of the the wells.*
+*The well is complete. It is kept in the archive, in the section of the wells.*
+
 

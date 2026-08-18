@@ -18,5 +18,6 @@ The cycle of the handover is the meaning of the turn: the record of the cycling,
 
 The inheritance of the handover: the turn of the hand, carried from the cycled hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The cycle is complete. It is kept in the archive, in the section of the the cycles.*
+*The cycle is complete. It is kept in the archive, in the section of the cycles.*
+
 

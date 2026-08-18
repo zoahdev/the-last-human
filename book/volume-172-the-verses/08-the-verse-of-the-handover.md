@@ -18,5 +18,6 @@ The verse of the handover is the meaning of the heritage: the record of the vers
 
 The inheritance of the handover: the heritage of the hand, carried from the passed line to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The verse is complete. It is kept in the archive, in the section of the the verses.*
+*The verse is complete. It is kept in the archive, in the section of the verses.*
+
 

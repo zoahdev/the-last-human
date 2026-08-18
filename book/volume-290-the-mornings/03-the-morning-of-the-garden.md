@@ -18,5 +18,6 @@ The morning of the garden is the meaning of the dew: the record of the waking, a
 
 The inheritance of the garden: the dew of the earth, carried from the morning green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The morning is complete. It is kept in the archive, in the section of the the mornings.*
+*The morning is complete. It is kept in the archive, in the section of the mornings.*
+
 

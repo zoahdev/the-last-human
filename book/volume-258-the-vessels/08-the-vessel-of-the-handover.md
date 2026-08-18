@@ -18,5 +18,6 @@ The vessel of the handover is the meaning of the hand: the record of the holding
 
 The inheritance of the handover: the hand of the hand, carried from the held hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The vessel is complete. It is kept in the archive, in the section of the the vessels.*
+*The vessel is complete. It is kept in the archive, in the section of the vessels.*
+
 

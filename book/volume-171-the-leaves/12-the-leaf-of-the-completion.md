@@ -18,5 +18,6 @@ The leaf of the completion is the meaning of the fullness: the record of the lea
 
 The inheritance of the completion: the fullness of the beginning, carried from the full tree to the beginning without loss, and held by the lineage as the lineage holds the completion.
 
-*The leaf is complete. It is kept in the archive, in the section of the the leaves. It is the final leaf of the canon, and after it the canon speaks again.*
+*The leaf is complete. It is kept in the archive, in the section of the leaves. It is the final leaf of the canon, and after it the canon speaks again.*
+
 

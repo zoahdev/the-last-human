@@ -18,5 +18,6 @@ The mold of the law is the meaning of the potter: the record of the molding, and
 
 The inheritance of the law: the potter of the care, carried from the molded care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The mold is complete. It is kept in the archive, in the section of the the molds.*
+*The mold is complete. It is kept in the archive, in the section of the molds.*
+
 

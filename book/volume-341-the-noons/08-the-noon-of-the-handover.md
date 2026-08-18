@@ -18,5 +18,6 @@ The noon of the handover is the meaning of the noon: the record of the standing,
 
 The inheritance of the handover: the noon of the hand, carried from the standing hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The noon is complete. It is kept in the archive, in the section of the the noons.*
+*The noon is complete. It is kept in the archive, in the section of the noons.*
+
 

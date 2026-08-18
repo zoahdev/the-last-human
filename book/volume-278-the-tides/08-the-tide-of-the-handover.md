@@ -18,5 +18,6 @@ The tide of the handover is the meaning of the moon: the record of the tiding, a
 
 The inheritance of the handover: the moon of the hand, carried from the tided hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The tide is complete. It is kept in the archive, in the section of the the tides.*
+*The tide is complete. It is kept in the archive, in the section of the tides.*
+
 

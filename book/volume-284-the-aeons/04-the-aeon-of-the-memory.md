@@ -18,5 +18,6 @@ The aeon of the memory is the meaning of the aeon: the record of the spanning, a
 
 The inheritance of the memory: the aeon of the book, carried from the spanned past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The aeon is complete. It is kept in the archive, in the section of the the aeons.*
+*The aeon is complete. It is kept in the archive, in the section of the aeons.*
+
 

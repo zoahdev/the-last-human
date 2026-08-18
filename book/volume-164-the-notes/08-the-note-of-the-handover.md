@@ -18,5 +18,6 @@ The note of the handover is the meaning of the scrap: the record of the noting, 
 
 The inheritance of the handover: the scrap of the hand, carried from the handed note to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The note is complete. It is kept in the archive, in the section of the the notes.*
+*The note is complete. It is kept in the archive, in the section of the notes.*
+
 

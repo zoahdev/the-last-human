@@ -18,5 +18,6 @@ The helix of the handover is the meaning of the coil: the record of the winding,
 
 The inheritance of the handover: the coil of the hand, carried from the wound hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The helix is complete. It is kept in the archive, in the section of the the helices.*
+*The helix is complete. It is kept in the archive, in the section of the helices.*
+
 

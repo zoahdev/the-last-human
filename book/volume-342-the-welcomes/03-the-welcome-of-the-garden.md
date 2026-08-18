@@ -18,5 +18,6 @@ The welcome of the garden is the meaning of the welcome garden: the record of th
 
 The inheritance of the garden: the welcome garden of the earth, carried from the welcoming green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The welcome is complete. It is kept in the archive, in the section of the the welcomes.*
+*The welcome is complete. It is kept in the archive, in the section of the welcomes.*
+
 

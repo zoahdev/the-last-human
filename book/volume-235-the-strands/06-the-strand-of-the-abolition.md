@@ -18,5 +18,6 @@ The strand of the abolition is the meaning of the freedom: the record of the str
 
 The inheritance of the abolition: the freedom of the peace, carried from the freed strand to the peace without loss, and held by the lineage as the lineage holds the abolition.
 
-*The strand is complete. It is kept in the archive, in the section of the the strands.*
+*The strand is complete. It is kept in the archive, in the section of the strands.*
+
 

@@ -18,5 +18,6 @@ The braid of the handover is the meaning of the plaiting: the record of the brai
 
 The inheritance of the handover: the plaiting of the hand, carried from the braided hands to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The braid is complete. It is kept in the archive, in the section of the the braids.*
+*The braid is complete. It is kept in the archive, in the section of the braids.*
+
 

@@ -18,5 +18,6 @@ The trope of the memory is the meaning of the parable: the record of the turning
 
 The inheritance of the memory: the parable of the book, carried from the figurative past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The trope is complete. It is kept in the archive, in the section of the the tropes.*
+*The trope is complete. It is kept in the archive, in the section of the tropes.*
+
 

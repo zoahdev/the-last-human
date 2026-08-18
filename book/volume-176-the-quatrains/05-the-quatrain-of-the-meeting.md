@@ -18,5 +18,6 @@ The quatrain of the meeting is the meaning of the crossroads: the record of the 
 
 The inheritance of the meeting: the crossroads of the table, carried from the sides to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The quatrain is complete. It is kept in the archive, in the section of the the quatrains.*
+*The quatrain is complete. It is kept in the archive, in the section of the quatrains.*
+
 

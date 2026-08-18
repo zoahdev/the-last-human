@@ -18,5 +18,6 @@ The answer of the whole is the meaning of the all: the record of the answering, 
 
 The inheritance of the whole: the all of the one, carried from the one answer to the one without loss, and held by the lineage as the lineage holds the whole.
 
-*The answer is complete. It is kept in the archive, in the section of the the answers.*
+*The answer is complete. It is kept in the archive, in the section of the answers.*
+
 

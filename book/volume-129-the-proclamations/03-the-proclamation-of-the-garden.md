@@ -18,5 +18,6 @@ The proclamation of the garden is the meaning of the spring: the record of the p
 
 The inheritance of the garden: the spring of the earth, carried from the memory to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The proclamation is complete. It is kept in the archive, in the section of the the proclamations.*
+*The proclamation is complete. It is kept in the archive, in the section of the proclamations.*
+
 

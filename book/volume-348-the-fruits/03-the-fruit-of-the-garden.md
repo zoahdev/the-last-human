@@ -18,5 +18,6 @@ The fruit of the garden is the meaning of the fruit garden: the record of the ri
 
 The inheritance of the garden: the fruit garden of the earth, carried from the fruit green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The fruit is complete. It is kept in the archive, in the section of the the fruits.*
+*The fruit is complete. It is kept in the archive, in the section of the fruits.*
+
 

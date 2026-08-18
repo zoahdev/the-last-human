@@ -18,5 +18,6 @@ The cast of the origin is the meaning of the bronze: the record of the casting, 
 
 The inheritance of the origin: the bronze of the wanting, carried from the molten form to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The cast is complete. It is kept in the archive, in the section of the the casts.*
+*The cast is complete. It is kept in the archive, in the section of the casts.*
+
 

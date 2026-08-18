@@ -18,5 +18,6 @@ The meditation of the deep of the memory is the meaning of the reflection: the r
 
 The inheritance of the memory: the reflection of the book, carried from the contemplation to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The meditation of the deep is complete. It is kept in the archive, in the section of the the meditations of the deep.*
+*The meditation of the deep is complete. It is kept in the archive, in the section of the meditations of the deep.*
+
 

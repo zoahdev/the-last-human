@@ -18,5 +18,6 @@ The link of the garden is the meaning of the hedge: the record of the linking, a
 
 The inheritance of the garden: the hedge of the earth, carried from the joining green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The link is complete. It is kept in the archive, in the section of the the links.*
+*The link is complete. It is kept in the archive, in the section of the links.*
+
 

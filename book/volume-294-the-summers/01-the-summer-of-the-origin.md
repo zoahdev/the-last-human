@@ -18,5 +18,6 @@ The summer of the origin is the meaning of the sun: the record of the ripening, 
 
 The inheritance of the origin: the sun of the wanting, carried from the long day to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The summer is complete. It is kept in the archive, in the section of the the summers.*
+*The summer is complete. It is kept in the archive, in the section of the summers.*
+
 

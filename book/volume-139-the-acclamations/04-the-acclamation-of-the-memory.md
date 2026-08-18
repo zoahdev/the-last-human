@@ -18,5 +18,6 @@ The acclamation of the memory is the meaning of the applause: the record of the 
 
 The inheritance of the memory: the applause of the book, carried from the ovation to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The acclamation is complete. It is kept in the archive, in the section of the the acclamations.*
+*The acclamation is complete. It is kept in the archive, in the section of the acclamations.*
+
 

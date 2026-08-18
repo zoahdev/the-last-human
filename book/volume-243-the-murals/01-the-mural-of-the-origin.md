@@ -18,5 +18,6 @@ The mural of the origin is the meaning of the city: the record of the painting, 
 
 The inheritance of the origin: the city of the wanting, carried from the wall painting to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The mural is complete. It is kept in the archive, in the section of the the murals.*
+*The mural is complete. It is kept in the archive, in the section of the murals.*
+
 

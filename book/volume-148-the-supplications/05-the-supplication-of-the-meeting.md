@@ -18,5 +18,6 @@ The supplication of the meeting is the meaning of the alms: the record of the su
 
 The inheritance of the meeting: the alms of the table, carried from the begging to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The supplication is complete. It is kept in the archive, in the section of the the supplications.*
+*The supplication is complete. It is kept in the archive, in the section of the supplications.*
+
 

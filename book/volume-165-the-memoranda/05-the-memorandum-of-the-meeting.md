@@ -18,5 +18,6 @@ The memorandum of the meeting is the meaning of the minutes: the record of the m
 
 The inheritance of the meeting: the minutes of the table, carried from the remembered table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The memorandum is complete. It is kept in the archive, in the section of the the memoranda.*
+*The memorandum is complete. It is kept in the archive, in the section of the memoranda.*
+
 

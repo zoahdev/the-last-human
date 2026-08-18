@@ -18,5 +18,6 @@ The memorandum of the completion is the meaning of the fullness: the record of t
 
 The inheritance of the completion: the fullness of the beginning, carried from the remembered beginning to the beginning without loss, and held by the lineage as the lineage holds the completion.
 
-*The memorandum is complete. It is kept in the archive, in the section of the the memoranda. It is the final memorandum of the canon, and after it the canon speaks again.*
+*The memorandum is complete. It is kept in the archive, in the section of the memoranda. It is the final memorandum of the canon, and after it the canon speaks again.*
+
 

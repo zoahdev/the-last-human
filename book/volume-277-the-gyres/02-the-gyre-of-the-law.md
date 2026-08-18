@@ -18,5 +18,6 @@ The gyre of the law is the meaning of the spiral: the record of the spinning, an
 
 The inheritance of the law: the spiral of the care, carried from the spinning care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The gyre is complete. It is kept in the archive, in the section of the the gyres.*
+*The gyre is complete. It is kept in the archive, in the section of the gyres.*
+
 

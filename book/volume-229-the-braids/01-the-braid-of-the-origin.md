@@ -18,5 +18,6 @@ The braid of the origin is the meaning of the braiding: the record of the braidi
 
 The inheritance of the origin: the braiding of the wanting, carried from the plait to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The braid is complete. It is kept in the archive, in the section of the the braids.*
+*The braid is complete. It is kept in the archive, in the section of the braids.*
+
 

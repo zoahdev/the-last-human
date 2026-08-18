@@ -18,5 +18,6 @@ The diagram of the love is the meaning of the fire: the record of the diagraming
 
 The inheritance of the love: the fire of the family, carried from the drawn heart to the family without loss, and held by the lineage as the lineage holds the love.
 
-*The diagram is complete. It is kept in the archive, in the section of the the diagrams.*
+*The diagram is complete. It is kept in the archive, in the section of the diagrams.*
+
 

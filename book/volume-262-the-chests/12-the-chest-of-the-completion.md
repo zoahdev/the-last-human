@@ -18,5 +18,6 @@ The chest of the completion is the meaning of the fullness: the record of the st
 
 The inheritance of the completion: the fullness of the beginning, carried from the complete chest to the beginning without loss, and held by the lineage as the lineage holds the completion.
 
-*The chest is complete. It is kept in the archive, in the section of the the chests. It is the final chest of the canon, and after it the canon speaks again.*
+*The chest is complete. It is kept in the archive, in the section of the chests. It is the final chest of the canon, and after it the canon speaks again.*
+
 

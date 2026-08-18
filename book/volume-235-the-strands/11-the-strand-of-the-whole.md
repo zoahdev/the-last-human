@@ -18,5 +18,6 @@ The strand of the whole is the meaning of the all: the record of the stranding, 
 
 The inheritance of the whole: the all of the one, carried from the one strand to the one without loss, and held by the lineage as the lineage holds the whole.
 
-*The strand is complete. It is kept in the archive, in the section of the the strands.*
+*The strand is complete. It is kept in the archive, in the section of the strands.*
+
 

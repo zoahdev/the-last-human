@@ -18,5 +18,6 @@ The root of the origin is the meaning of the root: the record of the rooting, an
 
 The inheritance of the origin: the root of the wanting, carried from the grounding to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The root is complete. It is kept in the archive, in the section of the the roots.*
+*The root is complete. It is kept in the archive, in the section of the roots.*
+
 

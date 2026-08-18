@@ -18,5 +18,6 @@ The coffer of the garden is the meaning of the garden vault: the record of the l
 
 The inheritance of the garden: the garden vault of the earth, carried from the locked green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The coffer is complete. It is kept in the archive, in the section of the the coffers.*
+*The coffer is complete. It is kept in the archive, in the section of the coffers.*
+
 

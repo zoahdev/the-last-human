@@ -18,5 +18,6 @@ The desert of the end is the meaning of the quiet: the record of the drying, and
 
 The inheritance of the end: the quiet of the whole, carried from the final desert to the whole without loss, and held by the lineage as the lineage holds the end.
 
-*The desert is complete. It is kept in the archive, in the section of the the deserts.*
+*The desert is complete. It is kept in the archive, in the section of the deserts.*
+
 

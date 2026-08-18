@@ -18,5 +18,6 @@ The answer of the handover is the meaning of the giving back: the record of the 
 
 The inheritance of the handover: the giving back of the hand, carried from the answering hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The answer is complete. It is kept in the archive, in the section of the the answers.*
+*The answer is complete. It is kept in the archive, in the section of the answers.*
+
 

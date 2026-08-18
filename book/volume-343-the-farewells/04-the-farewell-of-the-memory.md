@@ -18,5 +18,6 @@ The farewell of the memory is the meaning of the leaving: the record of the bidd
 
 The inheritance of the memory: the leaving of the book, carried from the bidden past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The farewell is complete. It is kept in the archive, in the section of the the farewells.*
+*The farewell is complete. It is kept in the archive, in the section of the farewells.*
+
 

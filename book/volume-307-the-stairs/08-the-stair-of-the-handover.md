@@ -18,5 +18,6 @@ The stair of the handover is the meaning of the flight: the record of the windin
 
 The inheritance of the handover: the flight of the hand, carried from the winding hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The stair is complete. It is kept in the archive, in the section of the the stairs.*
+*The stair is complete. It is kept in the archive, in the section of the stairs.*
+
 

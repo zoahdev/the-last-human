@@ -18,5 +18,6 @@ The folio of the completion is the meaning of the fullness: the record of the fo
 
 The inheritance of the completion: the fullness of the beginning, carried from the fully folded beginning to the beginning without loss, and held by the lineage as the lineage holds the completion.
 
-*The folio is complete. It is kept in the archive, in the section of the the folios. It is the final folio of the canon, and after it the canon speaks again.*
+*The folio is complete. It is kept in the archive, in the section of the folios. It is the final folio of the canon, and after it the canon speaks again.*
+
 

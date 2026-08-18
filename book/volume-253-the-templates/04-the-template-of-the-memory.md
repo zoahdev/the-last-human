@@ -18,5 +18,6 @@ The template of the memory is the meaning of the model: the record of the cuttin
 
 The inheritance of the memory: the model of the book, carried from the cut past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The template is complete. It is kept in the archive, in the section of the the templates.*
+*The template is complete. It is kept in the archive, in the section of the templates.*
+
 

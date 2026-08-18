@@ -18,5 +18,6 @@ The doxology of the origin is the meaning of the radiance: the record of the glo
 
 The inheritance of the origin: the radiance of the wanting, carried from the glory to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The doxology is complete. It is kept in the archive, in the section of the the doxologies.*
+*The doxology is complete. It is kept in the archive, in the section of the doxologies.*
+
 

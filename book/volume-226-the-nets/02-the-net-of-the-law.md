@@ -18,5 +18,6 @@ The net of the law is the meaning of the mesh: the record of the netting, and th
 
 The inheritance of the law: the mesh of the care, carried from the meshed care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The net is complete. It is kept in the archive, in the section of the the nets.*
+*The net is complete. It is kept in the archive, in the section of the nets.*
+
 

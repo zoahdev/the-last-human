@@ -18,5 +18,6 @@ The warp of the law is the meaning of the beam: the record of the warping, and t
 
 The inheritance of the law: the beam of the care, carried from the warped care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The warp is complete. It is kept in the archive, in the section of the the warps.*
+*The warp is complete. It is kept in the archive, in the section of the warps.*
+
 

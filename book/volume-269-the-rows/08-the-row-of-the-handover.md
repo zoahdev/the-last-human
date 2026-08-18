@@ -18,5 +18,6 @@ The row of the handover is the meaning of the plough: the record of the rowing, 
 
 The inheritance of the handover: the plough of the hand, carried from the rowed hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The row is complete. It is kept in the archive, in the section of the the rows.*
+*The row is complete. It is kept in the archive, in the section of the rows.*
+
 

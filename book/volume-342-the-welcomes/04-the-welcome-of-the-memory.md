@@ -18,5 +18,6 @@ The welcome of the memory is the meaning of the guest: the record of the welcomi
 
 The inheritance of the memory: the guest of the book, carried from the welcomed past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The welcome is complete. It is kept in the archive, in the section of the the welcomes.*
+*The welcome is complete. It is kept in the archive, in the section of the welcomes.*
+
 

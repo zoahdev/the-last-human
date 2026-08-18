@@ -18,5 +18,6 @@ The sermon of the deep of the law is the meaning of the doctrine: the record of 
 
 The inheritance of the law: the doctrine of the care, carried from the homily to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The sermon of the deep is complete. It is kept in the archive, in the section of the the sermons of the deep.*
+*The sermon of the deep is complete. It is kept in the archive, in the section of the sermons of the deep.*
+
 

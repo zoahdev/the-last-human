@@ -18,5 +18,6 @@ The offertory of the memory is the meaning of the gift: the record of the offeri
 
 The inheritance of the memory: the gift of the book, carried from the offered past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The offertory is complete. It is kept in the archive, in the section of the the offertories.*
+*The offertory is complete. It is kept in the archive, in the section of the offertories.*
+
 

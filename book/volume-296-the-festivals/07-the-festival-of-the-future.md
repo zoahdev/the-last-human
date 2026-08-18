@@ -18,5 +18,6 @@ The festival of the future is the meaning of the morning: the record of the cele
 
 The inheritance of the future: the morning of the dawn, carried from the coming festival to the dawn without loss, and held by the lineage as the lineage holds the future.
 
-*The festival is complete. It is kept in the archive, in the section of the the festivals.*
+*The festival is complete. It is kept in the archive, in the section of the festivals.*
+
 

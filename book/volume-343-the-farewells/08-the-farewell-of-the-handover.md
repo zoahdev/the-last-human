@@ -18,5 +18,6 @@ The farewell of the handover is the meaning of the goodbye: the record of the bi
 
 The inheritance of the handover: the goodbye of the hand, carried from the bidding hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The farewell is complete. It is kept in the archive, in the section of the the farewells.*
+*The farewell is complete. It is kept in the archive, in the section of the farewells.*
+
 

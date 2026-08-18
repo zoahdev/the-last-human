@@ -18,5 +18,6 @@ The thread of the handover is the meaning of the spindle: the record of the thre
 
 The inheritance of the handover: the spindle of the hand, carried from the threaded hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The thread is complete. It is kept in the archive, in the section of the the threads.*
+*The thread is complete. It is kept in the archive, in the section of the threads.*
+
 

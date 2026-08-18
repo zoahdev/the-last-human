@@ -18,5 +18,6 @@ The port of the law is the meaning of the quay: the record of the arriving, and 
 
 The inheritance of the law: the quay of the care, carried from the arriving care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The port is complete. It is kept in the archive, in the section of the the ports.*
+*The port is complete. It is kept in the archive, in the section of the ports.*
+
 

@@ -18,5 +18,6 @@ The postlude of the law is the meaning of the finality: the record of the closin
 
 The inheritance of the law: the finality of the care, carried from the closing care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The postlude is complete. It is kept in the archive, in the section of the the postludes.*
+*The postlude is complete. It is kept in the archive, in the section of the postludes.*
+
 

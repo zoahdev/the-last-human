@@ -18,5 +18,6 @@ The gift of the completion is the meaning of the fullness: the record of the giv
 
 The inheritance of the completion: the fullness of the beginning, carried from the complete gift to the beginning without loss, and held by the lineage as the lineage holds the completion.
 
-*The gift is complete. It is kept in the archive, in the section of the the gifts. It is the final gift of the canon, and after it the canon speaks again.*
+*The gift is complete. It is kept in the archive, in the section of the gifts. It is the final gift of the canon, and after it the canon speaks again.*
+
 

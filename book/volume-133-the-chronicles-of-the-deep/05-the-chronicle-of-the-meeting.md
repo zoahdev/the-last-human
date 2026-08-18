@@ -18,5 +18,6 @@ The chronicle of the meeting is the meaning of the assembly: the record of the c
 
 The inheritance of the meeting: the assembly of the table, carried from the council to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The chronicle is complete. It is kept in the archive, in the section of the the chronicles of the deep.*
+*The chronicle is complete. It is kept in the archive, in the section of the chronicles of the deep.*
+
 

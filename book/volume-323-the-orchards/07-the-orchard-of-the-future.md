@@ -18,5 +18,6 @@ The orchard of the future is the meaning of the morning: the record of the fruit
 
 The inheritance of the future: the morning of the dawn, carried from the unplanted orchard to the dawn without loss, and held by the lineage as the lineage holds the future.
 
-*The orchard is complete. It is kept in the archive, in the section of the the orchards.*
+*The orchard is complete. It is kept in the archive, in the section of the orchards.*
+
 

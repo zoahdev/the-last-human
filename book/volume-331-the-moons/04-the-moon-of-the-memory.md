@@ -18,5 +18,6 @@ The moon of the memory is the meaning of the night: the record of the waxing, an
 
 The inheritance of the memory: the night of the book, carried from the waxed past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The moon is complete. It is kept in the archive, in the section of the the moons.*
+*The moon is complete. It is kept in the archive, in the section of the moons.*
+
 

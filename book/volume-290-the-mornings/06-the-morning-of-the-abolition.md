@@ -18,5 +18,6 @@ The morning of the abolition is the meaning of the freedom: the record of the wa
 
 The inheritance of the abolition: the freedom of the peace, carried from the new morning to the peace without loss, and held by the lineage as the lineage holds the abolition.
 
-*The morning is complete. It is kept in the archive, in the section of the the mornings.*
+*The morning is complete. It is kept in the archive, in the section of the mornings.*
+
 

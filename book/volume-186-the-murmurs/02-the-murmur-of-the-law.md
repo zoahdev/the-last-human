@@ -18,5 +18,6 @@ The murmur of the law is the meaning of the current: the record of the murmuring
 
 The inheritance of the law: the current of the care, carried from the flowing care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The murmur is complete. It is kept in the archive, in the section of the the murmurs.*
+*The murmur is complete. It is kept in the archive, in the section of the murmurs.*
+
 

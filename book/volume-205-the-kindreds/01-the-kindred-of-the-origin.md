@@ -18,5 +18,6 @@ The kindred of the origin is the meaning of the kinship: the record of the kinni
 
 The inheritance of the origin: the kinship of the wanting, carried from the kin to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The kindred is complete. It is kept in the archive, in the section of the the kindreds.*
+*The kindred is complete. It is kept in the archive, in the section of the kindreds.*
+
 

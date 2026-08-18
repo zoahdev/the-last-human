@@ -18,5 +18,6 @@ The symposium of the handover is the meaning of the toast: the record of the dri
 
 The inheritance of the handover: the toast of the hand, carried from the passing cup to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The symposium is complete. It is kept in the archive, in the section of the the symposia.*
+*The symposium is complete. It is kept in the archive, in the section of the symposia.*
+
 

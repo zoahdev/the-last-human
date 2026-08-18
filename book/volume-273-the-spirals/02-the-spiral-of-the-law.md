@@ -18,5 +18,6 @@ The spiral of the law is the meaning of the spiral: the record of the spiraling,
 
 The inheritance of the law: the spiral of the care, carried from the spiraled care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The spiral is complete. It is kept in the archive, in the section of the the spirals.*
+*The spiral is complete. It is kept in the archive, in the section of the spirals.*
+
 

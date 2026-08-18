@@ -18,5 +18,6 @@ The dirge of the handover is the meaning of the letting go: the record of the mo
 
 The inheritance of the handover: the letting go of the hand, carried from the lowering to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The dirge is complete. It is kept in the archive, in the section of the the dirges.*
+*The dirge is complete. It is kept in the archive, in the section of the dirges.*
+
 

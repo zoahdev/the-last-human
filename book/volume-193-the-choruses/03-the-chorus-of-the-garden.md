@@ -18,5 +18,6 @@ The chorus of the garden is the meaning of the chorale: the record of the chorus
 
 The inheritance of the garden: the chorale of the earth, carried from the choral green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The chorus is complete. It is kept in the archive, in the section of the the choruses.*
+*The chorus is complete. It is kept in the archive, in the section of the choruses.*
+
 

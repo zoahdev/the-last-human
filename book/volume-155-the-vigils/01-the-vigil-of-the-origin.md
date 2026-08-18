@@ -18,5 +18,6 @@ The vigil of the origin is the meaning of the awakening: the record of the keepi
 
 The inheritance of the origin: the awakening of the wanting, carried from the watch to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The vigil is complete. It is kept in the archive, in the section of the the vigils.*
+*The vigil is complete. It is kept in the archive, in the section of the vigils.*
+
 

@@ -18,5 +18,6 @@ The grove of the origin is the meaning of the grove: the record of the planting,
 
 The inheritance of the origin: the grove of the wanting, carried from the sacred tree to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The grove is complete. It is kept in the archive, in the section of the the groves.*
+*The grove is complete. It is kept in the archive, in the section of the groves.*
+
 

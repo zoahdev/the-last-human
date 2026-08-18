@@ -18,5 +18,6 @@ The meadow of the origin is the meaning of the meadow: the record of the bloomin
 
 The inheritance of the origin: the meadow of the wanting, carried from the flower to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The meadow is complete. It is kept in the archive, in the section of the the meadows.*
+*The meadow is complete. It is kept in the archive, in the section of the meadows.*
+
 

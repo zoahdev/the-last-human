@@ -18,5 +18,6 @@ The testament of the handover is the meaning of the ring: the record of the bequ
 
 The inheritance of the handover: the ring of the hand, carried from the seal to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The testament is complete. It is kept in the archive, in the section of the the testaments of the deep.*
+*The testament is complete. It is kept in the archive, in the section of the testaments of the deep.*
+
 

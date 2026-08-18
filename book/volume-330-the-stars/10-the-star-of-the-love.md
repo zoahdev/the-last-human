@@ -18,5 +18,6 @@ The star of the love is the meaning of the fire: the record of the shining, and 
 
 The inheritance of the love: the fire of the family, carried from the shining heart to the family without loss, and held by the lineage as the lineage holds the love.
 
-*The star is complete. It is kept in the archive, in the section of the the stars.*
+*The star is complete. It is kept in the archive, in the section of the stars.*
+
 

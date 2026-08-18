@@ -18,5 +18,6 @@ The well of the love is the meaning of the fire: the record of the drawing, and 
 
 The inheritance of the love: the fire of the family, carried from the drawn heart to the family without loss, and held by the lineage as the lineage holds the love.
 
-*The well is complete. It is kept in the archive, in the section of the the wells.*
+*The well is complete. It is kept in the archive, in the section of the wells.*
+
 

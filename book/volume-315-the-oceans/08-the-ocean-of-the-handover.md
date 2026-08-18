@@ -18,5 +18,6 @@ The ocean of the handover is the meaning of the world: the record of the encompa
 
 The inheritance of the handover: the world of the hand, carried from the encompassing hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The ocean is complete. It is kept in the archive, in the section of the the oceans.*
+*The ocean is complete. It is kept in the archive, in the section of the oceans.*
+
 

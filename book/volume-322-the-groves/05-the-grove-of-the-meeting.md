@@ -18,5 +18,6 @@ The grove of the meeting is the meaning of the grove: the record of the planting
 
 The inheritance of the meeting: the grove of the table, carried from the grove table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The grove is complete. It is kept in the archive, in the section of the the groves.*
+*The grove is complete. It is kept in the archive, in the section of the groves.*
+
 

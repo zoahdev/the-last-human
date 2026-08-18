@@ -18,5 +18,6 @@ The assembly of the future is the meaning of the morning: the record of the asse
 
 The inheritance of the future: the morning of the dawn, carried from the assembled dawn to the dawn without loss, and held by the lineage as the lineage holds the future.
 
-*The assembly is complete. It is kept in the archive, in the section of the the assemblies.*
+*The assembly is complete. It is kept in the archive, in the section of the assemblies.*
+
 

@@ -18,5 +18,6 @@ The harvest of the handover is the meaning of the sickle: the record of the harv
 
 The inheritance of the handover: the sickle of the hand, carried from the harvested hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The harvest is complete. It is kept in the archive, in the section of the the harvests.*
+*The harvest is complete. It is kept in the archive, in the section of the harvests.*
+
 

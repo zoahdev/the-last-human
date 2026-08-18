@@ -18,5 +18,6 @@ The dawn of the meeting is the meaning of the dawn: the record of the breaking, 
 
 The inheritance of the meeting: the dawn of the table, carried from the dawn table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The dawn is complete. It is kept in the archive, in the section of the the dawns.*
+*The dawn is complete. It is kept in the archive, in the section of the dawns.*
+
 

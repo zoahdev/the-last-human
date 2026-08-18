@@ -18,5 +18,6 @@ The casket of the garden is the meaning of the jewel box: the record of the shut
 
 The inheritance of the garden: the jewel box of the earth, carried from the shut green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The casket is complete. It is kept in the archive, in the section of the the caskets.*
+*The casket is complete. It is kept in the archive, in the section of the caskets.*
+
 

@@ -18,5 +18,6 @@ The return of the meeting is the meaning of the homecoming: the record of the re
 
 The inheritance of the meeting: the homecoming of the table, carried from the return table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The return is complete. It is kept in the archive, in the section of the the returns.*
+*The return is complete. It is kept in the archive, in the section of the returns.*
+
 

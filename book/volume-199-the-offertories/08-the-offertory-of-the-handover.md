@@ -18,5 +18,6 @@ The offertory of the handover is the meaning of the present: the record of the o
 
 The inheritance of the handover: the present of the hand, carried from the offered hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The offertory is complete. It is kept in the archive, in the section of the the offertories.*
+*The offertory is complete. It is kept in the archive, in the section of the offertories.*
+
 

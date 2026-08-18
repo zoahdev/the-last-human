@@ -18,5 +18,6 @@ The one of the completion is the meaning of the fullness: the record of the unit
 
 The inheritance of the completion: the fullness of the beginning, carried from the complete one to the beginning without loss, and held by the lineage as the lineage holds the completion.
 
-*The one is complete. It is kept in the archive, in the section of the the ones. It is the final one of the canon, and after it the canon speaks again.*
+*The one is complete. It is kept in the archive, in the section of the ones. It is the final one of the canon, and after it the canon speaks again.*
+
 

@@ -18,5 +18,6 @@ The oasis of the handover is the meaning of the oasis: the record of the waterin
 
 The inheritance of the handover: the oasis of the hand, carried from the watering hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The oasis is complete. It is kept in the archive, in the section of the the oases.*
+*The oasis is complete. It is kept in the archive, in the section of the oases.*
+
 

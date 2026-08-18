@@ -18,5 +18,6 @@ The scholium of the memory is the meaning of the insight: the record of the anno
 
 The inheritance of the memory: the insight of the book, carried from the wisdom to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The scholium is complete. It is kept in the archive, in the section of the the scholia.*
+*The scholium is complete. It is kept in the archive, in the section of the scholia.*
+
 

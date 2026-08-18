@@ -18,5 +18,6 @@ The well of the handover is the meaning of the rope: the record of the drawing, 
 
 The inheritance of the handover: the rope of the hand, carried from the drawing hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The well is complete. It is kept in the archive, in the section of the the wells.*
+*The well is complete. It is kept in the archive, in the section of the wells.*
+
 

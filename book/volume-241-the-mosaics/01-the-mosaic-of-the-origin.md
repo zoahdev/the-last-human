@@ -18,5 +18,6 @@ The mosaic of the origin is the meaning of the floor: the record of the setting,
 
 The inheritance of the origin: the floor of the wanting, carried from the tile to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The mosaic is complete. It is kept in the archive, in the section of the the mosaics.*
+*The mosaic is complete. It is kept in the archive, in the section of the mosaics.*
+
 

@@ -18,5 +18,6 @@ The cabinet of the garden is the meaning of the herbarium: the record of the arr
 
 The inheritance of the garden: the herbarium of the earth, carried from the arranged green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The cabinet is complete. It is kept in the archive, in the section of the the cabinets.*
+*The cabinet is complete. It is kept in the archive, in the section of the cabinets.*
+
 

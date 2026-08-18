@@ -18,5 +18,6 @@ The moon of the law is the meaning of the tide: the record of the waxing, and th
 
 The inheritance of the law: the tide of the care, carried from the waxing care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The moon is complete. It is kept in the archive, in the section of the the moons.*
+*The moon is complete. It is kept in the archive, in the section of the moons.*
+
 

@@ -18,5 +18,6 @@ The plait of the memory is the meaning of the weave: the record of the plaiting,
 
 The inheritance of the memory: the weave of the book, carried from the plaited past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The plait is complete. It is kept in the archive, in the section of the the plaits.*
+*The plait is complete. It is kept in the archive, in the section of the plaits.*
+
 

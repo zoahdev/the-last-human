@@ -18,5 +18,6 @@ The sequence of the end is the meaning of the quiet: the record of the following
 
 The inheritance of the end: the quiet of the whole, carried from the final step to the whole without loss, and held by the lineage as the lineage holds the end.
 
-*The sequence is complete. It is kept in the archive, in the section of the the sequences.*
+*The sequence is complete. It is kept in the archive, in the section of the sequences.*
+
 

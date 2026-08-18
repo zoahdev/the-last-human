@@ -18,5 +18,6 @@ The pericope of the memory is the meaning of the selection: the record of the cu
 
 The inheritance of the memory: the selection of the book, carried from the selected passage to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The pericope is complete. It is kept in the archive, in the section of the the pericopes.*
+*The pericope is complete. It is kept in the archive, in the section of the pericopes.*
+
 

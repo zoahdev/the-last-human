@@ -18,5 +18,6 @@ The ordinance of the garden is the meaning of the harvest: the record of the ord
 
 The inheritance of the garden: the harvest of the earth, carried from the provision to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The ordinance is complete. It is kept in the archive, in the section of the the ordinances of the deep.*
+*The ordinance is complete. It is kept in the archive, in the section of the ordinances of the deep.*
+
 

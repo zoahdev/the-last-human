@@ -18,5 +18,6 @@ The sea of the law is the meaning of the tide: the record of the surrounding, an
 
 The inheritance of the law: the tide of the care, carried from the surrounding care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The sea is complete. It is kept in the archive, in the section of the the seas.*
+*The sea is complete. It is kept in the archive, in the section of the seas.*
+
 

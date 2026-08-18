@@ -18,5 +18,6 @@ The conclave of the law is the meaning of the ballot: the record of the closing,
 
 The inheritance of the law: the ballot of the care, carried from the closed care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The conclave is complete. It is kept in the archive, in the section of the the conclaves.*
+*The conclave is complete. It is kept in the archive, in the section of the conclaves.*
+
 

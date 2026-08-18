@@ -18,5 +18,6 @@ The atlas of the completion is the meaning of the fullness: the record of the ca
 
 The inheritance of the completion: the fullness of the beginning, carried from the complete atlas to the beginning without loss, and held by the lineage as the lineage holds the completion.
 
-*The atlas is complete. It is kept in the archive, in the section of the the atlases. It is the final atlas of the canon, and after it the canon speaks again.*
+*The atlas is complete. It is kept in the archive, in the section of the atlases. It is the final atlas of the canon, and after it the canon speaks again.*
+
 

@@ -18,5 +18,6 @@ The mountain of the future is the meaning of the morning: the record of the risi
 
 The inheritance of the future: the morning of the dawn, carried from the unclimbed mountain to the dawn without loss, and held by the lineage as the lineage holds the future.
 
-*The mountain is complete. It is kept in the archive, in the section of the the mountains.*
+*The mountain is complete. It is kept in the archive, in the section of the mountains.*
+
 

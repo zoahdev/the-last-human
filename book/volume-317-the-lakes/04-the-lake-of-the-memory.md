@@ -18,5 +18,6 @@ The lake of the memory is the meaning of the valley: the record of the mirroring
 
 The inheritance of the memory: the valley of the book, carried from the mirrored past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The lake is complete. It is kept in the archive, in the section of the the lakes.*
+*The lake is complete. It is kept in the archive, in the section of the lakes.*
+
 

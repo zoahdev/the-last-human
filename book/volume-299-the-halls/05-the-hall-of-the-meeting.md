@@ -18,5 +18,6 @@ The hall of the meeting is the meaning of the entrance: the record of the welcom
 
 The inheritance of the meeting: the entrance of the table, carried from the hall table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The hall is complete. It is kept in the archive, in the section of the the halls.*
+*The hall is complete. It is kept in the archive, in the section of the halls.*
+
 

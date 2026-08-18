@@ -18,5 +18,6 @@ The coffer of the law is the meaning of the vault: the record of the locking, an
 
 The inheritance of the law: the vault of the care, carried from the locked care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The coffer is complete. It is kept in the archive, in the section of the the coffers.*
+*The coffer is complete. It is kept in the archive, in the section of the coffers.*
+
 

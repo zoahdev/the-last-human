@@ -18,5 +18,6 @@ The council of the law is the meaning of the statute: the record of the consulti
 
 The inheritance of the law: the statute of the care, carried from the deliberated care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The council is complete. It is kept in the archive, in the section of the the councils.*
+*The council is complete. It is kept in the archive, in the section of the councils.*
+
 

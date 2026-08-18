@@ -18,5 +18,6 @@ The gathering of the origin is the meaning of the harvest: the record of the gat
 
 The inheritance of the origin: the harvest of the wanting, carried from the bringing together to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The gathering is complete. It is kept in the archive, in the section of the the gatherings.*
+*The gathering is complete. It is kept in the archive, in the section of the gatherings.*
+
 

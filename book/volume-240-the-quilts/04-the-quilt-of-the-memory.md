@@ -18,5 +18,6 @@ The quilt of the memory is the meaning of the patchwork: the record of the quilt
 
 The inheritance of the memory: the patchwork of the book, carried from the quilted past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The quilt is complete. It is kept in the archive, in the section of the the quilts.*
+*The quilt is complete. It is kept in the archive, in the section of the quilts.*
+
 

@@ -18,5 +18,6 @@ The chest of the garden is the meaning of the seed chest: the record of the stor
 
 The inheritance of the garden: the seed chest of the earth, carried from the stored green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The chest is complete. It is kept in the archive, in the section of the the chests.*
+*The chest is complete. It is kept in the archive, in the section of the chests.*
+
 

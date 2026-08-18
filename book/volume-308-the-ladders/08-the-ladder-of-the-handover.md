@@ -18,5 +18,6 @@ The ladder of the handover is the meaning of the rung: the record of the scaling
 
 The inheritance of the handover: the rung of the hand, carried from the scaling hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The ladder is complete. It is kept in the archive, in the section of the the ladders.*
+*The ladder is complete. It is kept in the archive, in the section of the ladders.*
+
 

@@ -18,5 +18,6 @@ The one of the law is the meaning of the one: the record of the uniting, and the
 
 The inheritance of the law: the one of the care, carried from the uniting care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The one is complete. It is kept in the archive, in the section of the the ones.*
+*The one is complete. It is kept in the archive, in the section of the ones.*
+
 

@@ -18,5 +18,6 @@ The infinity of the handover is the meaning of the reach: the record of the exte
 
 The inheritance of the handover: the reach of the hand, carried from the extended hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The infinity is complete. It is kept in the archive, in the section of the the infinities.*
+*The infinity is complete. It is kept in the archive, in the section of the infinities.*
+
 

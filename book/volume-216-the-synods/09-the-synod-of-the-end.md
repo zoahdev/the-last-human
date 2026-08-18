@@ -18,5 +18,6 @@ The synod of the end is the meaning of the quiet: the record of the sitting, and
 
 The inheritance of the end: the quiet of the whole, carried from the final synod to the whole without loss, and held by the lineage as the lineage holds the end.
 
-*The synod is complete. It is kept in the archive, in the section of the the synods.*
+*The synod is complete. It is kept in the archive, in the section of the synods.*
+
 

@@ -18,5 +18,6 @@ The fresco of the law is the meaning of the pigment: the record of the frescoing
 
 The inheritance of the law: the pigment of the care, carried from the painted care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The fresco is complete. It is kept in the archive, in the section of the the frescoes.*
+*The fresco is complete. It is kept in the archive, in the section of the frescoes.*
+
 

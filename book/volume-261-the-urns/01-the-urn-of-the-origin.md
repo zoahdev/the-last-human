@@ -18,5 +18,6 @@ The urn of the origin is the meaning of the ashes: the record of the keeping, an
 
 The inheritance of the origin: the ashes of the wanting, carried from the ash to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The urn is complete. It is kept in the archive, in the section of the the urns.*
+*The urn is complete. It is kept in the archive, in the section of the urns.*
+
 

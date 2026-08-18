@@ -18,5 +18,6 @@ The circle of the abolition is the meaning of the freedom: the record of the cir
 
 The inheritance of the abolition: the freedom of the peace, carried from the open circle to the peace without loss, and held by the lineage as the lineage holds the abolition.
 
-*The circle is complete. It is kept in the archive, in the section of the the circles.*
+*The circle is complete. It is kept in the archive, in the section of the circles.*
+
 

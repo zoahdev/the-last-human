@@ -18,5 +18,6 @@ The array of the future is the meaning of the morning: the record of the arrayin
 
 The inheritance of the future: the morning of the dawn, carried from the unarrayed stars to the dawn without loss, and held by the lineage as the lineage holds the future.
 
-*The array is complete. It is kept in the archive, in the section of the the arrays.*
+*The array is complete. It is kept in the archive, in the section of the arrays.*
+
 

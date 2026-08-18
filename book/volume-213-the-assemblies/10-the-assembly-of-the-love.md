@@ -18,5 +18,6 @@ The assembly of the love is the meaning of the fire: the record of the assemblin
 
 The inheritance of the love: the fire of the family, carried from the assembled heart to the family without loss, and held by the lineage as the lineage holds the love.
 
-*The assembly is complete. It is kept in the archive, in the section of the the assemblies.*
+*The assembly is complete. It is kept in the archive, in the section of the assemblies.*
+
 

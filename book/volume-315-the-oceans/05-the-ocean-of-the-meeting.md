@@ -18,5 +18,6 @@ The ocean of the meeting is the meaning of the horizon: the record of the encomp
 
 The inheritance of the meeting: the horizon of the table, carried from the ocean table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The ocean is complete. It is kept in the archive, in the section of the the oceans.*
+*The ocean is complete. It is kept in the archive, in the section of the oceans.*
+
 

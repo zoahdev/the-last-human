@@ -18,5 +18,6 @@ The gift of the meeting is the meaning of the gift: the record of the giving, an
 
 The inheritance of the meeting: the gift of the table, carried from the gift table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The gift is complete. It is kept in the archive, in the section of the the gifts.*
+*The gift is complete. It is kept in the archive, in the section of the gifts.*
+
 

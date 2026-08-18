@@ -18,5 +18,6 @@ The gloss of the garden is the meaning of the note: the record of the glossing, 
 
 The inheritance of the garden: the note of the earth, carried from the marginalia to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The gloss is complete. It is kept in the archive, in the section of the the glosses.*
+*The gloss is complete. It is kept in the archive, in the section of the glosses.*
+
 

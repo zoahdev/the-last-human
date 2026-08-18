@@ -18,5 +18,6 @@ The orchard of the handover is the meaning of the orchard: the record of the fru
 
 The inheritance of the handover: the orchard of the hand, carried from the fruiting hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The orchard is complete. It is kept in the archive, in the section of the the orchards.*
+*The orchard is complete. It is kept in the archive, in the section of the orchards.*
+
 

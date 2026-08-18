@@ -18,5 +18,6 @@ The testament of the memory is the meaning of the archive: the record of the beq
 
 The inheritance of the memory: the archive of the book, carried from the heirloom to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The testament is complete. It is kept in the archive, in the section of the the testaments of the deep.*
+*The testament is complete. It is kept in the archive, in the section of the testaments of the deep.*
+
 

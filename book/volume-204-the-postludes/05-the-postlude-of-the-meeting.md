@@ -18,5 +18,6 @@ The postlude of the meeting is the meaning of the goodnight: the record of the c
 
 The inheritance of the meeting: the goodnight of the table, carried from the closing table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The postlude is complete. It is kept in the archive, in the section of the the postludes.*
+*The postlude is complete. It is kept in the archive, in the section of the postludes.*
+
 

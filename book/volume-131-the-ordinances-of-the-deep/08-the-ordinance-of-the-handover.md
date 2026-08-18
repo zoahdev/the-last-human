@@ -18,5 +18,6 @@ The ordinance of the handover is the meaning of the line: the record of the orda
 
 The inheritance of the handover: the line of the hand, carried from the succession to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The ordinance is complete. It is kept in the archive, in the section of the the ordinances of the deep.*
+*The ordinance is complete. It is kept in the archive, in the section of the ordinances of the deep.*
+
 

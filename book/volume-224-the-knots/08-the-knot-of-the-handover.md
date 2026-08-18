@@ -18,5 +18,6 @@ The knot of the handover is the meaning of the cord: the record of the knotting,
 
 The inheritance of the handover: the cord of the hand, carried from the knotted hands to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The knot is complete. It is kept in the archive, in the section of the the knots.*
+*The knot is complete. It is kept in the archive, in the section of the knots.*
+
 

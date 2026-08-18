@@ -18,5 +18,6 @@ The watch of the memory is the meaning of the beacon: the record of the watching
 
 The inheritance of the memory: the beacon of the book, carried from the lookout to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The watch is complete. It is kept in the archive, in the section of the the watches.*
+*The watch is complete. It is kept in the archive, in the section of the watches.*
+
 

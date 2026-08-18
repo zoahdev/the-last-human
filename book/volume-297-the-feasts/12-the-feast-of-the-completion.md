@@ -18,5 +18,6 @@ The feast of the completion is the meaning of the fullness: the record of the fe
 
 The inheritance of the completion: the fullness of the beginning, carried from the complete feast to the beginning without loss, and held by the lineage as the lineage holds the completion.
 
-*The feast is complete. It is kept in the archive, in the section of the the feasts. It is the final feast of the canon, and after it the canon speaks again.*
+*The feast is complete. It is kept in the archive, in the section of the feasts. It is the final feast of the canon, and after it the canon speaks again.*
+
 

@@ -18,5 +18,6 @@ The plan of the abolition is the meaning of the freedom: the record of the plann
 
 The inheritance of the abolition: the freedom of the peace, carried from the new plan to the peace without loss, and held by the lineage as the lineage holds the abolition.
 
-*The plan is complete. It is kept in the archive, in the section of the the plans.*
+*The plan is complete. It is kept in the archive, in the section of the plans.*
+
 

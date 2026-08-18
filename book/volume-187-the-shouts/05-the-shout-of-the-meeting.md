@@ -18,5 +18,6 @@ The shout of the meeting is the meaning of the hurrah: the record of the shoutin
 
 The inheritance of the meeting: the hurrah of the table, carried from the cheering table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The shout is complete. It is kept in the archive, in the section of the the shouts.*
+*The shout is complete. It is kept in the archive, in the section of the shouts.*
+
 

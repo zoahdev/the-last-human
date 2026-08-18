@@ -18,5 +18,6 @@ The weft of the handover is the meaning of the weaving: the record of the weavin
 
 The inheritance of the handover: the weaving of the hand, carried from the passing shuttle to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The weft is complete. It is kept in the archive, in the section of the the wefts.*
+*The weft is complete. It is kept in the archive, in the section of the wefts.*
+
 

@@ -18,5 +18,6 @@ The trope of the handover is the meaning of the rotation: the record of the turn
 
 The inheritance of the handover: the rotation of the hand, carried from the turning hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The trope is complete. It is kept in the archive, in the section of the the tropes.*
+*The trope is complete. It is kept in the archive, in the section of the tropes.*
+
 

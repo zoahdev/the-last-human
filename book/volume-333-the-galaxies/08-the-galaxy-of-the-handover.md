@@ -18,5 +18,6 @@ The galaxy of the handover is the meaning of the galaxy: the record of the gathe
 
 The inheritance of the handover: the galaxy of the hand, carried from the gathering hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The galaxy is complete. It is kept in the archive, in the section of the the galaxies.*
+*The galaxy is complete. It is kept in the archive, in the section of the galaxies.*
+
 

@@ -18,5 +18,6 @@ The harvest of the law is the meaning of the yield: the record of the harvesting
 
 The inheritance of the law: the yield of the care, carried from the harvested care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The harvest is complete. It is kept in the archive, in the section of the the harvests.*
+*The harvest is complete. It is kept in the archive, in the section of the harvests.*
+
 

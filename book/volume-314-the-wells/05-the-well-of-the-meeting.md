@@ -18,5 +18,6 @@ The well of the meeting is the meaning of the bucket: the record of the drawing,
 
 The inheritance of the meeting: the bucket of the table, carried from the well table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The well is complete. It is kept in the archive, in the section of the the wells.*
+*The well is complete. It is kept in the archive, in the section of the wells.*
+
 

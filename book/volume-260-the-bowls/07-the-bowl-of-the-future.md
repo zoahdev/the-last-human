@@ -18,5 +18,6 @@ The bowl of the future is the meaning of the morning: the record of the rounding
 
 The inheritance of the future: the morning of the dawn, carried from the empty bowl to the dawn without loss, and held by the lineage as the lineage holds the future.
 
-*The bowl is complete. It is kept in the archive, in the section of the the bowls.*
+*The bowl is complete. It is kept in the archive, in the section of the bowls.*
+
 

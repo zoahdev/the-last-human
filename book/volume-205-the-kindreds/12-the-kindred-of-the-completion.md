@@ -18,5 +18,6 @@ The kindred of the completion is the meaning of the fullness: the record of the 
 
 The inheritance of the completion: the fullness of the beginning, carried from the full kinship to the beginning without loss, and held by the lineage as the lineage holds the completion.
 
-*The kindred is complete. It is kept in the archive, in the section of the the kindreds. It is the final kindred of the canon, and after it the canon speaks again.*
+*The kindred is complete. It is kept in the archive, in the section of the kindreds. It is the final kindred of the canon, and after it the canon speaks again.*
+
 

@@ -18,5 +18,6 @@ The recession of the memory is the meaning of the horizon: the record of the rec
 
 The inheritance of the memory: the horizon of the book, carried from the receding past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The recession is complete. It is kept in the archive, in the section of the the recessions.*
+*The recession is complete. It is kept in the archive, in the section of the recessions.*
+
 

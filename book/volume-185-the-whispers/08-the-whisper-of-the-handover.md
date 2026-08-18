@@ -18,5 +18,6 @@ The whisper of the handover is the meaning of the murmur: the record of the whis
 
 The inheritance of the handover: the murmur of the hand, carried from the whispered word to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The whisper is complete. It is kept in the archive, in the section of the the whispers.*
+*The whisper is complete. It is kept in the archive, in the section of the whispers.*
+
 

@@ -18,5 +18,6 @@ The response of the memory is the meaning of the recollection: the record of the
 
 The inheritance of the memory: the recollection of the book, carried from the recalling to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The response is complete. It is kept in the archive, in the section of the the responses.*
+*The response is complete. It is kept in the archive, in the section of the responses.*
+
 

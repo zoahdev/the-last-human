@@ -18,5 +18,6 @@ The sigh of the memory is the meaning of the sighing: the record of the sighing,
 
 The inheritance of the memory: the sighing of the book, carried from the sighed recollection to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The sigh is complete. It is kept in the archive, in the section of the the sighs.*
+*The sigh is complete. It is kept in the archive, in the section of the sighs.*
+
 

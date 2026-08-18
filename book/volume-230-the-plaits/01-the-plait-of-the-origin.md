@@ -18,5 +18,6 @@ The plait of the origin is the meaning of the plaiting: the record of the plaiti
 
 The inheritance of the origin: the plaiting of the wanting, carried from the straw to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The plait is complete. It is kept in the archive, in the section of the the plaits.*
+*The plait is complete. It is kept in the archive, in the section of the plaits.*
+
 

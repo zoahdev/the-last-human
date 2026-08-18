@@ -18,5 +18,6 @@ The home of the completion is the meaning of the fullness: the record of the hom
 
 The inheritance of the completion: the fullness of the beginning, carried from the complete home to the beginning without loss, and held by the lineage as the lineage holds the completion.
 
-*The home is complete. It is kept in the archive, in the section of the the homes. It is the final home of the canon, and after it the canon speaks again.*
+*The home is complete. It is kept in the archive, in the section of the homes. It is the final home of the canon, and after it the canon speaks again.*
+
 

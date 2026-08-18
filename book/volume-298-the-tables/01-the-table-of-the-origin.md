@@ -18,5 +18,6 @@ The table of the origin is the meaning of the family: the record of the sharing,
 
 The inheritance of the origin: the family of the wanting, carried from the shared surface to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The table is complete. It is kept in the archive, in the section of the the tables.*
+*The table is complete. It is kept in the archive, in the section of the tables.*
+
 

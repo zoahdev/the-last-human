@@ -18,5 +18,6 @@ The mural of the law is the meaning of the street: the record of the painting, a
 
 The inheritance of the law: the street of the care, carried from the communal painting to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The mural is complete. It is kept in the archive, in the section of the the murals.*
+*The mural is complete. It is kept in the archive, in the section of the murals.*
+
 

@@ -18,5 +18,6 @@ The codex of the meeting is the meaning of the companion: the record of the codi
 
 The inheritance of the meeting: the companion of the table, carried from the shared codex to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The codex is complete. It is kept in the archive, in the section of the the codices.*
+*The codex is complete. It is kept in the archive, in the section of the codices.*
+
 

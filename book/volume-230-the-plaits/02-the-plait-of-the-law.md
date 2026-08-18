@@ -18,5 +18,6 @@ The plait of the law is the meaning of the basket: the record of the plaiting, a
 
 The inheritance of the law: the basket of the care, carried from the plaited care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The plait is complete. It is kept in the archive, in the section of the the plaits.*
+*The plait is complete. It is kept in the archive, in the section of the plaits.*
+
 

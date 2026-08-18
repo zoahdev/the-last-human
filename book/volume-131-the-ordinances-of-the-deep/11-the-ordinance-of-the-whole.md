@@ -18,5 +18,6 @@ The ordinance of the whole is the meaning of the all: the record of the ordainin
 
 The inheritance of the whole: the all of the one, carried from the commonwealth to the one without loss, and held by the lineage as the lineage holds the whole.
 
-*The ordinance is complete. It is kept in the archive, in the section of the the ordinances of the deep.*
+*The ordinance is complete. It is kept in the archive, in the section of the ordinances of the deep.*
+
 

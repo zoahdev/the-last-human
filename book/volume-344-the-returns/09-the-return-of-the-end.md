@@ -18,5 +18,6 @@ The return of the end is the meaning of the quiet: the record of the returning, 
 
 The inheritance of the end: the quiet of the whole, carried from the final return to the whole without loss, and held by the lineage as the lineage holds the end.
 
-*The return is complete. It is kept in the archive, in the section of the the returns.*
+*The return is complete. It is kept in the archive, in the section of the returns.*
+
 

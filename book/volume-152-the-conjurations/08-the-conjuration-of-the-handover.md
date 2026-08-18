@@ -18,5 +18,6 @@ The conjuration of the handover is the meaning of the amulet: the record of the 
 
 The inheritance of the handover: the amulet of the hand, carried from the charm to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The conjuration is complete. It is kept in the archive, in the section of the the conjurations.*
+*The conjuration is complete. It is kept in the archive, in the section of the conjurations.*
+
 

@@ -18,5 +18,6 @@ The quatrain of the law is the meaning of the square: the record of the quarteri
 
 The inheritance of the law: the square of the care, carried from the fourfold care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The quatrain is complete. It is kept in the archive, in the section of the the quatrains.*
+*The quatrain is complete. It is kept in the archive, in the section of the quatrains.*
+
 

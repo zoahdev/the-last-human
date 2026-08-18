@@ -18,5 +18,6 @@ The home of the garden is the meaning of the homestead: the record of the homing
 
 The inheritance of the garden: the homestead of the earth, carried from the home green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The home is complete. It is kept in the archive, in the section of the the homes.*
+*The home is complete. It is kept in the archive, in the section of the homes.*
+
 

@@ -18,5 +18,6 @@ The home of the origin is the meaning of the heart: the record of the homing, an
 
 The inheritance of the origin: the heart of the wanting, carried from the heart place to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The home is complete. It is kept in the archive, in the section of the the homes.*
+*The home is complete. It is kept in the archive, in the section of the homes.*
+
 

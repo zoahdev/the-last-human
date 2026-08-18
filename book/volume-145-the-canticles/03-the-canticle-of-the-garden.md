@@ -18,5 +18,6 @@ The canticle of the garden is the meaning of the petal: the record of the chanti
 
 The inheritance of the garden: the petal of the earth, carried from the flowering to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The canticle is complete. It is kept in the archive, in the section of the the canticles.*
+*The canticle is complete. It is kept in the archive, in the section of the canticles.*
+
 

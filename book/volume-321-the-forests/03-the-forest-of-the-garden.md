@@ -18,5 +18,6 @@ The forest of the garden is the meaning of the forest garden: the record of the 
 
 The inheritance of the garden: the forest garden of the earth, carried from the forest green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The forest is complete. It is kept in the archive, in the section of the the forests.*
+*The forest is complete. It is kept in the archive, in the section of the forests.*
+
 

@@ -18,5 +18,6 @@ The blueprint of the completion is the meaning of the fullness: the record of th
 
 The inheritance of the completion: the fullness of the beginning, carried from the complete blueprint to the beginning without loss, and held by the lineage as the lineage holds the completion.
 
-*The blueprint is complete. It is kept in the archive, in the section of the the blueprints. It is the final blueprint of the canon, and after it the canon speaks again.*
+*The blueprint is complete. It is kept in the archive, in the section of the blueprints. It is the final blueprint of the canon, and after it the canon speaks again.*
+
 

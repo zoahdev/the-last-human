@@ -18,5 +18,6 @@ The series of the garden is the meaning of the succession: the record of the con
 
 The inheritance of the garden: the succession of the earth, carried from the continued green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The series is complete. It is kept in the archive, in the section of the the series.*
+*The series is complete. It is kept in the archive, in the section of the series.*
+
 

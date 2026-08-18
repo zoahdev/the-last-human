@@ -18,5 +18,6 @@ The lection of the law is the meaning of the text: the record of the reading, an
 
 The inheritance of the law: the text of the care, carried from the passage to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The lection is complete. It is kept in the archive, in the section of the the lections.*
+*The lection is complete. It is kept in the archive, in the section of the lections.*
+
 

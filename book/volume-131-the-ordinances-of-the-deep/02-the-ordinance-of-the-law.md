@@ -18,5 +18,6 @@ The ordinance of the law is the meaning of the charter: the record of the ordain
 
 The inheritance of the law: the charter of the care, carried from the constitution to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The ordinance is complete. It is kept in the archive, in the section of the the ordinances of the deep.*
+*The ordinance is complete. It is kept in the archive, in the section of the ordinances of the deep.*
+
 

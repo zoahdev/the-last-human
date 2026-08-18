@@ -18,5 +18,6 @@ The assembly of the abolition is the meaning of the freedom: the record of the a
 
 The inheritance of the abolition: the freedom of the peace, carried from the assembled freedom to the peace without loss, and held by the lineage as the lineage holds the abolition.
 
-*The assembly is complete. It is kept in the archive, in the section of the the assemblies.*
+*The assembly is complete. It is kept in the archive, in the section of the assemblies.*
+
 

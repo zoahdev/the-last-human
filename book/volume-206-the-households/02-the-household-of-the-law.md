@@ -18,5 +18,6 @@ The household of the law is the meaning of the shelter: the record of the housin
 
 The inheritance of the law: the shelter of the care, carried from the housing care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The household is complete. It is kept in the archive, in the section of the the households.*
+*The household is complete. It is kept in the archive, in the section of the households.*
+
 

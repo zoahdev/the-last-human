@@ -18,5 +18,6 @@ The memorandum of the garden is the meaning of the planting: the record of the m
 
 The inheritance of the garden: the planting of the earth, carried from the remembered earth to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The memorandum is complete. It is kept in the archive, in the section of the the memoranda.*
+*The memorandum is complete. It is kept in the archive, in the section of the memoranda.*
+
 

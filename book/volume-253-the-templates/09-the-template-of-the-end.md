@@ -18,5 +18,6 @@ The template of the end is the meaning of the quiet: the record of the cutting, 
 
 The inheritance of the end: the quiet of the whole, carried from the final template to the whole without loss, and held by the lineage as the lineage holds the end.
 
-*The template is complete. It is kept in the archive, in the section of the the templates.*
+*The template is complete. It is kept in the archive, in the section of the templates.*
+
 

@@ -18,5 +18,6 @@ The bridge of the completion is the meaning of the fullness: the record of the b
 
 The inheritance of the completion: the fullness of the beginning, carried from the complete bridge to the beginning without loss, and held by the lineage as the lineage holds the completion.
 
-*The bridge is complete. It is kept in the archive, in the section of the the bridges. It is the final bridge of the canon, and after it the canon speaks again.*
+*The bridge is complete. It is kept in the archive, in the section of the bridges. It is the final bridge of the canon, and after it the canon speaks again.*
+
 

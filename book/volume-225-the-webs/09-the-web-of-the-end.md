@@ -18,5 +18,6 @@ The web of the end is the meaning of the quiet: the record of the weaving, and t
 
 The inheritance of the end: the quiet of the whole, carried from the final web to the whole without loss, and held by the lineage as the lineage holds the end.
 
-*The web is complete. It is kept in the archive, in the section of the the webs.*
+*The web is complete. It is kept in the archive, in the section of the webs.*
+
 

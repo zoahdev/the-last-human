@@ -18,5 +18,6 @@ The communion of the law is the meaning of the communality: the record of the co
 
 The inheritance of the law: the communality of the care, carried from the common care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The communion is complete. It is kept in the archive, in the section of the the communions.*
+*The communion is complete. It is kept in the archive, in the section of the communions.*
+
 

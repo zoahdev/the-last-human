@@ -18,5 +18,6 @@ The wheel of the meeting is the meaning of the round: the record of the wheeling
 
 The inheritance of the meeting: the round of the table, carried from the wheeled table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The wheel is complete. It is kept in the archive, in the section of the the wheels.*
+*The wheel is complete. It is kept in the archive, in the section of the wheels.*
+
 

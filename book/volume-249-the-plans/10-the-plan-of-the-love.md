@@ -18,5 +18,6 @@ The plan of the love is the meaning of the fire: the record of the planning, and
 
 The inheritance of the love: the fire of the family, carried from the planned heart to the family without loss, and held by the lineage as the lineage holds the love.
 
-*The plan is complete. It is kept in the archive, in the section of the the plans.*
+*The plan is complete. It is kept in the archive, in the section of the plans.*
+
 

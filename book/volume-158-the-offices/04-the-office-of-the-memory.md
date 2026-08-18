@@ -18,5 +18,6 @@ The office of the memory is the meaning of the observance: the record of the off
 
 The inheritance of the memory: the observance of the book, carried from the commemoration to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The office is complete. It is kept in the archive, in the section of the the offices.*
+*The office is complete. It is kept in the archive, in the section of the offices.*
+
 

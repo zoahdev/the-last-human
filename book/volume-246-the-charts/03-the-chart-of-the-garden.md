@@ -18,5 +18,6 @@ The chart of the garden is the meaning of the latitude: the record of the charti
 
 The inheritance of the garden: the latitude of the earth, carried from the charted green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The chart is complete. It is kept in the archive, in the section of the the charts.*
+*The chart is complete. It is kept in the archive, in the section of the charts.*
+
 

@@ -18,5 +18,6 @@ The nation of the garden is the meaning of the field: the record of the uniting,
 
 The inheritance of the garden: the field of the earth, carried from the national green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The nation is complete. It is kept in the archive, in the section of the the nations.*
+*The nation is complete. It is kept in the archive, in the section of the nations.*
+
 

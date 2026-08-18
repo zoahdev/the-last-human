@@ -18,5 +18,6 @@ The murmur of the future is the meaning of the morning: the record of the murmur
 
 The inheritance of the future: the morning of the dawn, carried from the fresh stream to the dawn without loss, and held by the lineage as the lineage holds the future.
 
-*The murmur is complete. It is kept in the archive, in the section of the the murmurs.*
+*The murmur is complete. It is kept in the archive, in the section of the murmurs.*
+
 

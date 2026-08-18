@@ -18,5 +18,6 @@ The night of the handover is the meaning of the lamp: the record of the darkenin
 
 The inheritance of the handover: the lamp of the hand, carried from the darkened hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The night is complete. It is kept in the archive, in the section of the the nights.*
+*The night is complete. It is kept in the archive, in the section of the nights.*
+
 

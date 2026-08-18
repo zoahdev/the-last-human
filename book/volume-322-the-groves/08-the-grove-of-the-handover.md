@@ -18,5 +18,6 @@ The grove of the handover is the meaning of the grove: the record of the plantin
 
 The inheritance of the handover: the grove of the hand, carried from the planting hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The grove is complete. It is kept in the archive, in the section of the the groves.*
+*The grove is complete. It is kept in the archive, in the section of the groves.*
+
 

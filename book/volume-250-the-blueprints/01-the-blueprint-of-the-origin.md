@@ -18,5 +18,6 @@ The blueprint of the origin is the meaning of the cyanotype: the record of the b
 
 The inheritance of the origin: the cyanotype of the wanting, carried from the blue line to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The blueprint is complete. It is kept in the archive, in the section of the the blueprints.*
+*The blueprint is complete. It is kept in the archive, in the section of the blueprints.*
+
 

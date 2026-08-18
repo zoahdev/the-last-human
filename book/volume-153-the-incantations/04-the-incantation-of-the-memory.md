@@ -18,5 +18,6 @@ The incantation of the memory is the meaning of the recitation: the record of th
 
 The inheritance of the memory: the recitation of the book, carried from the remembered word to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The incantation is complete. It is kept in the archive, in the section of the the incantations.*
+*The incantation is complete. It is kept in the archive, in the section of the incantations.*
+
 

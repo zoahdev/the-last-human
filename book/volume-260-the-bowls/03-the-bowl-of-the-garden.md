@@ -18,5 +18,6 @@ The bowl of the garden is the meaning of the garden bowl: the record of the roun
 
 The inheritance of the garden: the garden bowl of the earth, carried from the rounded green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The bowl is complete. It is kept in the archive, in the section of the the bowls.*
+*The bowl is complete. It is kept in the archive, in the section of the bowls.*
+
 

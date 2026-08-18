@@ -18,5 +18,6 @@ The well of the law is the meaning of the well: the record of the drawing, and t
 
 The inheritance of the law: the well of the care, carried from the drawn care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The well is complete. It is kept in the archive, in the section of the the wells.*
+*The well is complete. It is kept in the archive, in the section of the wells.*
+
 

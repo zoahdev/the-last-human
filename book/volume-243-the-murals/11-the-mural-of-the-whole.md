@@ -18,5 +18,6 @@ The mural of the whole is the meaning of the all: the record of the painting, an
 
 The inheritance of the whole: the all of the one, carried from the one mural to the one without loss, and held by the lineage as the lineage holds the whole.
 
-*The mural is complete. It is kept in the archive, in the section of the the murals.*
+*The mural is complete. It is kept in the archive, in the section of the murals.*
+
 

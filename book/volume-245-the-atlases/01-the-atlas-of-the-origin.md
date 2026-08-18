@@ -18,5 +18,6 @@ The atlas of the origin is the meaning of the burden: the record of the carrying
 
 The inheritance of the origin: the burden of the wanting, carried from the carried world to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The atlas is complete. It is kept in the archive, in the section of the the atlases.*
+*The atlas is complete. It is kept in the archive, in the section of the atlases.*
+
 

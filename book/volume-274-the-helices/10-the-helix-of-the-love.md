@@ -18,5 +18,6 @@ The helix of the love is the meaning of the fire: the record of the winding, and
 
 The inheritance of the love: the fire of the family, carried from the wound heart to the family without loss, and held by the lineage as the lineage holds the love.
 
-*The helix is complete. It is kept in the archive, in the section of the the helices.*
+*The helix is complete. It is kept in the archive, in the section of the helices.*
+
 

@@ -18,5 +18,6 @@ The directive of the origin is the meaning of the course: the record of the dire
 
 The inheritance of the origin: the course of the wanting, carried from the station to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The directive is complete. It is kept in the archive, in the section of the the directives of the deep.*
+*The directive is complete. It is kept in the archive, in the section of the directives of the deep.*
+
 

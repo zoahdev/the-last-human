@@ -18,5 +18,6 @@ The return of the future is the meaning of the morning: the record of the return
 
 The inheritance of the future: the morning of the dawn, carried from the unreturned return to the dawn without loss, and held by the lineage as the lineage holds the future.
 
-*The return is complete. It is kept in the archive, in the section of the the returns.*
+*The return is complete. It is kept in the archive, in the section of the returns.*
+
 

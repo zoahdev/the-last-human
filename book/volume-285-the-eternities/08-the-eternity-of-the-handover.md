@@ -18,5 +18,6 @@ The eternity of the handover is the meaning of the beyond: the record of the exc
 
 The inheritance of the handover: the beyond of the hand, carried from the exceeding hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The eternity is complete. It is kept in the archive, in the section of the the eternities.*
+*The eternity is complete. It is kept in the archive, in the section of the eternities.*
+
 

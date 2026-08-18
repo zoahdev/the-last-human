@@ -18,5 +18,6 @@ The threshold of the law is the meaning of the door: the record of the crossing,
 
 The inheritance of the law: the door of the care, carried from the crossing care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The threshold is complete. It is kept in the archive, in the section of the the thresholds.*
+*The threshold is complete. It is kept in the archive, in the section of the thresholds.*
+
 

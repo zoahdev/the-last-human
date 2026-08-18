@@ -18,5 +18,6 @@ The scholium of the love is the meaning of the fire: the record of the annotatin
 
 The inheritance of the love: the fire of the family, carried from the understanding to the family without loss, and held by the lineage as the lineage holds the love.
 
-*The scholium is complete. It is kept in the archive, in the section of the the scholia.*
+*The scholium is complete. It is kept in the archive, in the section of the scholia.*
+
 

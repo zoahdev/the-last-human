@@ -18,5 +18,6 @@ The psalm of the handover is the meaning of the unction: the record of the prayi
 
 The inheritance of the handover: the unction of the hand, carried from the anointing to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The psalm is complete. It is kept in the archive, in the section of the the psalms.*
+*The psalm is complete. It is kept in the archive, in the section of the psalms.*
+
 

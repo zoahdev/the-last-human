@@ -18,5 +18,6 @@ The sea of the meeting is the meaning of the shore: the record of the surroundin
 
 The inheritance of the meeting: the shore of the table, carried from the seaside table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The sea is complete. It is kept in the archive, in the section of the the seas.*
+*The sea is complete. It is kept in the archive, in the section of the seas.*
+
 

@@ -18,5 +18,6 @@ The minute of the law is the meaning of the agenda: the record of the minuting, 
 
 The inheritance of the law: the agenda of the care, carried from the recorded care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The minute is complete. It is kept in the archive, in the section of the the minutes.*
+*The minute is complete. It is kept in the archive, in the section of the minutes.*
+
 

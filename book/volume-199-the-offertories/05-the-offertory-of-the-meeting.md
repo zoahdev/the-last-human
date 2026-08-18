@@ -18,5 +18,6 @@ The offertory of the meeting is the meaning of the table: the record of the offe
 
 The inheritance of the meeting: the table of the table, carried from the shared bread to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The offertory is complete. It is kept in the archive, in the section of the the offertories.*
+*The offertory is complete. It is kept in the archive, in the section of the offertories.*
+
 

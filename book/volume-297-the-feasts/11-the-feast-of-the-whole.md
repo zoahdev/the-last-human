@@ -18,5 +18,6 @@ The feast of the whole is the meaning of the all: the record of the feasting, an
 
 The inheritance of the whole: the all of the one, carried from the one feast to the one without loss, and held by the lineage as the lineage holds the whole.
 
-*The feast is complete. It is kept in the archive, in the section of the the feasts.*
+*The feast is complete. It is kept in the archive, in the section of the feasts.*
+
 

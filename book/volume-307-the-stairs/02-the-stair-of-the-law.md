@@ -18,5 +18,6 @@ The stair of the law is the meaning of the flight: the record of the winding, an
 
 The inheritance of the law: the flight of the care, carried from the winding care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The stair is complete. It is kept in the archive, in the section of the the stairs.*
+*The stair is complete. It is kept in the archive, in the section of the stairs.*
+
 

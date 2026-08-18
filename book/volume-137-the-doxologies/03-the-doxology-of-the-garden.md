@@ -18,5 +18,6 @@ The doxology of the garden is the meaning of the flower: the record of the glori
 
 The inheritance of the garden: the flower of the earth, carried from the bloom to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The doxology is complete. It is kept in the archive, in the section of the the doxologies.*
+*The doxology is complete. It is kept in the archive, in the section of the doxologies.*
+
 

@@ -18,5 +18,6 @@ The tapestry of the origin is the meaning of the hanging: the record of the hang
 
 The inheritance of the origin: the hanging of the wanting, carried from the woven picture to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The tapestry is complete. It is kept in the archive, in the section of the the tapestries.*
+*The tapestry is complete. It is kept in the archive, in the section of the tapestries.*
+
 

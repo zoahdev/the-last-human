@@ -18,5 +18,6 @@ The gloss of the memory is the meaning of the reference: the record of the gloss
 
 The inheritance of the memory: the reference of the book, carried from the footnote to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The gloss is complete. It is kept in the archive, in the section of the the glosses.*
+*The gloss is complete. It is kept in the archive, in the section of the glosses.*
+
 

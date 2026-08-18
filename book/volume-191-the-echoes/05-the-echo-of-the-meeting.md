@@ -18,5 +18,6 @@ The echo of the meeting is the meaning of the round: the record of the echoing, 
 
 The inheritance of the meeting: the round of the table, carried from the echoing table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The echo is complete. It is kept in the archive, in the section of the the echoes.*
+*The echo is complete. It is kept in the archive, in the section of the echoes.*
+
 

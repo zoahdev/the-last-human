@@ -18,5 +18,6 @@ The supplication of the memory is the meaning of the entreaty: the record of the
 
 The inheritance of the memory: the entreaty of the book, carried from the beseeching to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The supplication is complete. It is kept in the archive, in the section of the the supplications.*
+*The supplication is complete. It is kept in the archive, in the section of the supplications.*
+
 

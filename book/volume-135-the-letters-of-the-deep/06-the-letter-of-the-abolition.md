@@ -18,5 +18,6 @@ The letter of the deep of the abolition is the meaning of the freedom: the recor
 
 The inheritance of the abolition: the freedom of the peace, carried from the farewell to the peace without loss, and held by the lineage as the lineage holds the abolition.
 
-*The letter of the deep is complete. It is kept in the archive, in the section of the the letters of the deep.*
+*The letter of the deep is complete. It is kept in the archive, in the section of the letters of the deep.*
+
 

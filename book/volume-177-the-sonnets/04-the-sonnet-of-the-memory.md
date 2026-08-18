@@ -18,5 +18,6 @@ The sonnet of the memory is the meaning of the octave: the record of the binding
 
 The inheritance of the memory: the octave of the book, carried from the bound lines to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The sonnet is complete. It is kept in the archive, in the section of the the sonnets.*
+*The sonnet is complete. It is kept in the archive, in the section of the sonnets.*
+
 

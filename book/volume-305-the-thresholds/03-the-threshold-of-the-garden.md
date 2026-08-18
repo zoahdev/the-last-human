@@ -18,5 +18,6 @@ The threshold of the garden is the meaning of the garden gate: the record of the
 
 The inheritance of the garden: the garden gate of the earth, carried from the crossing green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The threshold is complete. It is kept in the archive, in the section of the the thresholds.*
+*The threshold is complete. It is kept in the archive, in the section of the thresholds.*
+
 

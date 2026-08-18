@@ -18,5 +18,6 @@ The psalm of the garden is the meaning of the grass: the record of the praying, 
 
 The inheritance of the garden: the grass of the earth, carried from the pasture to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The psalm is complete. It is kept in the archive, in the section of the the psalms.*
+*The psalm is complete. It is kept in the archive, in the section of the psalms.*
+
 

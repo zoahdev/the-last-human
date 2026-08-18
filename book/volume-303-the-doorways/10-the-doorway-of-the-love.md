@@ -18,5 +18,6 @@ The doorway of the love is the meaning of the fire: the record of the opening, a
 
 The inheritance of the love: the fire of the family, carried from the open heart to the family without loss, and held by the lineage as the lineage holds the love.
 
-*The doorway is complete. It is kept in the archive, in the section of the the doorways.*
+*The doorway is complete. It is kept in the archive, in the section of the doorways.*
+
 

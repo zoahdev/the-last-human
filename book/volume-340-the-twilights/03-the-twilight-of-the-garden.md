@@ -18,5 +18,6 @@ The twilight of the garden is the meaning of the twilight garden: the record of 
 
 The inheritance of the garden: the twilight garden of the earth, carried from the twilight green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The twilight is complete. It is kept in the archive, in the section of the the twilights.*
+*The twilight is complete. It is kept in the archive, in the section of the twilights.*
+
 

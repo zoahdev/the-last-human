@@ -18,5 +18,6 @@ The net of the origin is the meaning of the catch: the record of the netting, an
 
 The inheritance of the origin: the catch of the wanting, carried from the casting to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The net is complete. It is kept in the archive, in the section of the the nets.*
+*The net is complete. It is kept in the archive, in the section of the nets.*
+
 

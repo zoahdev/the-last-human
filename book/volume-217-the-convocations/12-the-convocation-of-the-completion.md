@@ -18,5 +18,6 @@ The convocation of the completion is the meaning of the fullness: the record of 
 
 The inheritance of the completion: the fullness of the beginning, carried from the full convocation to the beginning without loss, and held by the lineage as the lineage holds the completion.
 
-*The convocation is complete. It is kept in the archive, in the section of the the convocations. It is the final convocation of the canon, and after it the canon speaks again.*
+*The convocation is complete. It is kept in the archive, in the section of the convocations. It is the final convocation of the canon, and after it the canon speaks again.*
+
 

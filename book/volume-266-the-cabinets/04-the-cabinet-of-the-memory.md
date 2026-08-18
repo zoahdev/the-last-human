@@ -18,5 +18,6 @@ The cabinet of the memory is the meaning of the curiosities: the record of the a
 
 The inheritance of the memory: the curiosities of the book, carried from the arranged past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The cabinet is complete. It is kept in the archive, in the section of the the cabinets.*
+*The cabinet is complete. It is kept in the archive, in the section of the cabinets.*
+
 

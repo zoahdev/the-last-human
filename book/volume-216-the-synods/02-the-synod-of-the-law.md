@@ -18,5 +18,6 @@ The synod of the law is the meaning of the synodal decree: the record of the sit
 
 The inheritance of the law: the synodal decree of the care, carried from the seated care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The synod is complete. It is kept in the archive, in the section of the the synods.*
+*The synod is complete. It is kept in the archive, in the section of the synods.*
+
 

@@ -18,5 +18,6 @@ The legacy of the origin is the meaning of the legacy: the record of the leaving
 
 The inheritance of the origin: the legacy of the wanting, carried from the inheritance to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The legacy is complete. It is kept in the archive, in the section of the the legacies.*
+*The legacy is complete. It is kept in the archive, in the section of the legacies.*
+
 

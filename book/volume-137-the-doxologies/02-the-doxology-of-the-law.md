@@ -18,5 +18,6 @@ The doxology of the law is the meaning of the righteousness: the record of the g
 
 The inheritance of the law: the righteousness of the care, carried from the justice to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The doxology is complete. It is kept in the archive, in the section of the the doxologies.*
+*The doxology is complete. It is kept in the archive, in the section of the doxologies.*
+
 

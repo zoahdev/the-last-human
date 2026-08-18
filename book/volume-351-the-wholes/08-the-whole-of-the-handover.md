@@ -18,5 +18,6 @@ The whole of the handover is the meaning of the whole: the record of the complet
 
 The inheritance of the handover: the whole of the hand, carried from the completing hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The whole is complete. It is kept in the archive, in the section of the the wholes.*
+*The whole is complete. It is kept in the archive, in the section of the wholes.*
+
 

@@ -18,5 +18,6 @@ The antiphon of the handover is the meaning of the exchange: the record of the r
 
 The inheritance of the handover: the exchange of the hand, carried from the responding hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The antiphon is complete. It is kept in the archive, in the section of the the antiphons.*
+*The antiphon is complete. It is kept in the archive, in the section of the antiphons.*
+
 

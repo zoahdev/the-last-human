@@ -18,5 +18,6 @@ The house of the origin is the meaning of the house: the record of the housing, 
 
 The inheritance of the origin: the house of the wanting, carried from the roof to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The house is complete. It is kept in the archive, in the section of the the houses.*
+*The house is complete. It is kept in the archive, in the section of the houses.*
+
 

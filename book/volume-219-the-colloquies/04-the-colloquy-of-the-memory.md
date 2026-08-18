@@ -18,5 +18,6 @@ The colloquy of the memory is the meaning of the colloquy: the record of the spe
 
 The inheritance of the memory: the colloquy of the book, carried from the spoken past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The colloquy is complete. It is kept in the archive, in the section of the the colloquies.*
+*The colloquy is complete. It is kept in the archive, in the section of the colloquies.*
+
 

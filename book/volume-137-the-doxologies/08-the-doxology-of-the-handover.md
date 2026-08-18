@@ -18,5 +18,6 @@ The doxology of the handover is the meaning of the halo: the record of the glori
 
 The inheritance of the handover: the halo of the hand, carried from the scepter to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The doxology is complete. It is kept in the archive, in the section of the the doxologies.*
+*The doxology is complete. It is kept in the archive, in the section of the doxologies.*
+
 

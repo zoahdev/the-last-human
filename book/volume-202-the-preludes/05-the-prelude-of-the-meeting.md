@@ -18,5 +18,6 @@ The prelude of the meeting is the meaning of the introduction: the record of the
 
 The inheritance of the meeting: the introduction of the table, carried from the opening table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The prelude is complete. It is kept in the archive, in the section of the the preludes.*
+*The prelude is complete. It is kept in the archive, in the section of the preludes.*
+
 

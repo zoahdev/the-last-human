@@ -18,5 +18,6 @@ The lament of the memory is the meaning of the crying: the record of the lamenti
 
 The inheritance of the memory: the crying of the book, carried from the remembered cry to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The lament is complete. It is kept in the archive, in the section of the the laments.*
+*The lament is complete. It is kept in the archive, in the section of the laments.*
+
 

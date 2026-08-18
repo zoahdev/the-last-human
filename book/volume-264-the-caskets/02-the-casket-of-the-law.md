@@ -18,5 +18,6 @@ The casket of the law is the meaning of the jewel: the record of the shutting, a
 
 The inheritance of the law: the jewel of the care, carried from the shut care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The casket is complete. It is kept in the archive, in the section of the the caskets.*
+*The casket is complete. It is kept in the archive, in the section of the caskets.*
+
 

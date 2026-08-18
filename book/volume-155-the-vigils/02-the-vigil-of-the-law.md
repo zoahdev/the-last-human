@@ -18,5 +18,6 @@ The vigil of the law is the meaning of the watchfulness: the record of the keepi
 
 The inheritance of the law: the watchfulness of the care, carried from the keeping to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The vigil is complete. It is kept in the archive, in the section of the the vigils.*
+*The vigil is complete. It is kept in the archive, in the section of the vigils.*
+
 

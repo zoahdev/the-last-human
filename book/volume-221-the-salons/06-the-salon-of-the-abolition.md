@@ -18,5 +18,6 @@ The salon of the abolition is the meaning of the freedom: the record of the meet
 
 The inheritance of the abolition: the freedom of the peace, carried from the open drawing room to the peace without loss, and held by the lineage as the lineage holds the abolition.
 
-*The salon is complete. It is kept in the archive, in the section of the the salons.*
+*The salon is complete. It is kept in the archive, in the section of the salons.*
+
 

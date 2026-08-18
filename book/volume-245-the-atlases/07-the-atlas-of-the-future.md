@@ -18,5 +18,6 @@ The atlas of the future is the meaning of the morning: the record of the carryin
 
 The inheritance of the future: the morning of the dawn, carried from the carried dawn to the dawn without loss, and held by the lineage as the lineage holds the future.
 
-*The atlas is complete. It is kept in the archive, in the section of the the atlases.*
+*The atlas is complete. It is kept in the archive, in the section of the atlases.*
+
 

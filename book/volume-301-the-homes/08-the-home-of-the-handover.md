@@ -18,5 +18,6 @@ The home of the handover is the meaning of the heart: the record of the homing, 
 
 The inheritance of the handover: the heart of the hand, carried from the homing hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The home is complete. It is kept in the archive, in the section of the the homes.*
+*The home is complete. It is kept in the archive, in the section of the homes.*
+
 

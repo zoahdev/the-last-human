@@ -18,5 +18,6 @@ The note of the memory is the meaning of the margin: the record of the noting, a
 
 The inheritance of the memory: the margin of the book, carried from the remembered note to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The note is complete. It is kept in the archive, in the section of the the notes.*
+*The note is complete. It is kept in the archive, in the section of the notes.*
+
 

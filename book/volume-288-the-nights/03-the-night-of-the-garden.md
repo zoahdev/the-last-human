@@ -18,5 +18,6 @@ The night of the garden is the meaning of the night garden: the record of the da
 
 The inheritance of the garden: the night garden of the earth, carried from the dark green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The night is complete. It is kept in the archive, in the section of the the nights.*
+*The night is complete. It is kept in the archive, in the section of the nights.*
+
 

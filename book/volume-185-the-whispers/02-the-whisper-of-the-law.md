@@ -18,5 +18,6 @@ The whisper of the law is the meaning of the hush: the record of the whispering,
 
 The inheritance of the law: the hush of the care, carried from the quiet care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The whisper is complete. It is kept in the archive, in the section of the the whispers.*
+*The whisper is complete. It is kept in the archive, in the section of the whispers.*
+
 

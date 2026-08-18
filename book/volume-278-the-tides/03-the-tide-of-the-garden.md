@@ -18,5 +18,6 @@ The tide of the garden is the meaning of the salt marsh: the record of the tidin
 
 The inheritance of the garden: the salt marsh of the earth, carried from the tided green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The tide is complete. It is kept in the archive, in the section of the the tides.*
+*The tide is complete. It is kept in the archive, in the section of the tides.*
+
 

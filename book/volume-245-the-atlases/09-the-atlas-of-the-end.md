@@ -18,5 +18,6 @@ The atlas of the end is the meaning of the quiet: the record of the carrying, an
 
 The inheritance of the end: the quiet of the whole, carried from the final atlas to the whole without loss, and held by the lineage as the lineage holds the end.
 
-*The atlas is complete. It is kept in the archive, in the section of the the atlases.*
+*The atlas is complete. It is kept in the archive, in the section of the atlases.*
+
 

@@ -18,5 +18,6 @@ The orbit of the whole is the meaning of the all: the record of the orbiting, an
 
 The inheritance of the whole: the all of the one, carried from the one orbit to the one without loss, and held by the lineage as the lineage holds the whole.
 
-*The orbit is complete. It is kept in the archive, in the section of the the orbits.*
+*The orbit is complete. It is kept in the archive, in the section of the orbits.*
+
 

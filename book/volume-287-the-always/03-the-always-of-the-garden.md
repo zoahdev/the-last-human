@@ -18,5 +18,6 @@ The always of the garden is the meaning of the evergreen: the record of the rema
 
 The inheritance of the garden: the evergreen of the earth, carried from the remaining green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The always is complete. It is kept in the archive, in the section of the the always.*
+*The always is complete. It is kept in the archive, in the section of the always.*
+
 

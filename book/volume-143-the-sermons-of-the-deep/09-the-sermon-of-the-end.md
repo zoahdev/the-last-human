@@ -18,5 +18,6 @@ The sermon of the deep of the end is the meaning of the quiet: the record of the
 
 The inheritance of the end: the quiet of the whole, carried from the sabbath to the whole without loss, and held by the lineage as the lineage holds the end.
 
-*The sermon of the deep is complete. It is kept in the archive, in the section of the the sermons of the deep.*
+*The sermon of the deep is complete. It is kept in the archive, in the section of the sermons of the deep.*
+
 

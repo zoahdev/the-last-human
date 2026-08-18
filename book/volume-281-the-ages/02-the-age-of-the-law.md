@@ -18,5 +18,6 @@ The age of the law is the meaning of the age: the record of the aging, and the a
 
 The inheritance of the law: the age of the care, carried from the aged care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The age is complete. It is kept in the archive, in the section of the the ages.*
+*The age is complete. It is kept in the archive, in the section of the ages.*
+
 

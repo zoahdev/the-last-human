@@ -18,5 +18,6 @@ The casket of the handover is the meaning of the jewel: the record of the shutti
 
 The inheritance of the handover: the jewel of the hand, carried from the shut hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The casket is complete. It is kept in the archive, in the section of the the caskets.*
+*The casket is complete. It is kept in the archive, in the section of the caskets.*
+
 

@@ -18,5 +18,6 @@ The recession of the completion is the meaning of the fullness: the record of th
 
 The inheritance of the completion: the fullness of the beginning, carried from the return to the beginning without loss, and held by the lineage as the lineage holds the completion.
 
-*The recession is complete. It is kept in the archive, in the section of the the recessions. It is the final recession of the canon, and after it the canon speaks again.*
+*The recession is complete. It is kept in the archive, in the section of the recessions. It is the final recession of the canon, and after it the canon speaks again.*
+
 

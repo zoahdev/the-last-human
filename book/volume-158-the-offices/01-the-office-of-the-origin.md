@@ -18,5 +18,6 @@ The office of the origin is the meaning of the duty: the record of the officiati
 
 The inheritance of the origin: the duty of the wanting, carried from the service to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The office is complete. It is kept in the archive, in the section of the the offices.*
+*The office is complete. It is kept in the archive, in the section of the offices.*
+
 

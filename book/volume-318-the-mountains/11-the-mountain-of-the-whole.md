@@ -18,5 +18,6 @@ The mountain of the whole is the meaning of the all: the record of the rising, a
 
 The inheritance of the whole: the all of the one, carried from the one mountain to the one without loss, and held by the lineage as the lineage holds the whole.
 
-*The mountain is complete. It is kept in the archive, in the section of the the mountains.*
+*The mountain is complete. It is kept in the archive, in the section of the mountains.*
+
 

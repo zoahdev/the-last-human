@@ -18,5 +18,6 @@ The eternity of the memory is the meaning of the always: the record of the excee
 
 The inheritance of the memory: the always of the book, carried from the exceeding past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The eternity is complete. It is kept in the archive, in the section of the the eternities.*
+*The eternity is complete. It is kept in the archive, in the section of the eternities.*
+
 

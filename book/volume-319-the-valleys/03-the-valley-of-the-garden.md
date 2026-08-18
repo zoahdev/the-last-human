@@ -18,5 +18,6 @@ The valley of the garden is the meaning of the valley garden: the record of the 
 
 The inheritance of the garden: the valley garden of the earth, carried from the valley green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The valley is complete. It is kept in the archive, in the section of the the valleys.*
+*The valley is complete. It is kept in the archive, in the section of the valleys.*
+
 

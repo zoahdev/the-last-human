@@ -18,5 +18,6 @@ The thread of the abolition is the meaning of the freedom: the record of the thr
 
 The inheritance of the abolition: the freedom of the peace, carried from the pulled thread to the peace without loss, and held by the lineage as the lineage holds the abolition.
 
-*The thread is complete. It is kept in the archive, in the section of the the threads.*
+*The thread is complete. It is kept in the archive, in the section of the threads.*
+
 

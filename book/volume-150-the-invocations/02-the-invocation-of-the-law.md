@@ -18,5 +18,6 @@ The invocation of the law is the meaning of the summons: the record of the invok
 
 The inheritance of the law: the summons of the care, carried from the calling to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The invocation is complete. It is kept in the archive, in the section of the the invocations.*
+*The invocation is complete. It is kept in the archive, in the section of the invocations.*
+
 

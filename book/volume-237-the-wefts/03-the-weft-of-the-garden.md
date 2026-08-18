@@ -18,5 +18,6 @@ The weft of the garden is the meaning of the pattern: the record of the weaving,
 
 The inheritance of the garden: the pattern of the earth, carried from the flowering cloth to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The weft is complete. It is kept in the archive, in the section of the the wefts.*
+*The weft is complete. It is kept in the archive, in the section of the wefts.*
+
 

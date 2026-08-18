@@ -18,5 +18,6 @@ The folio of the law is the meaning of the case: the record of the folding, and 
 
 The inheritance of the law: the case of the care, carried from the folded care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The folio is complete. It is kept in the archive, in the section of the the folios.*
+*The folio is complete. It is kept in the archive, in the section of the folios.*
+
 

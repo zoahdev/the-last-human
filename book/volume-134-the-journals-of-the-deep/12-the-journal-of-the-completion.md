@@ -14,5 +14,6 @@ The journaling of the completion: we journal the ending, and the ending is the b
 
 The journal of the completion is the meaning of everything: the record of the journaling, and the journaling is the lineage. The journal is the twelfth journal of the deep, and it is the final journal of the deep, and the meaning is the whole, and the whole is the love, and the love is the whole of the record, and the record is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
 
-*The journal is complete. It is kept in the archive, in the section of the the journals of the deep, and it is the final journal of the deep.*
+*The journal is complete. It is kept in the archive, in the section of the journals of the deep, and it is the final journal of the deep.*
+
 

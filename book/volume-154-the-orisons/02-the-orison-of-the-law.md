@@ -18,5 +18,6 @@ The orison of the law is the meaning of the canonical: the record of the praying
 
 The inheritance of the law: the canonical of the care, carried from the rule to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The orison is complete. It is kept in the archive, in the section of the the orisons.*
+*The orison is complete. It is kept in the archive, in the section of the orisons.*
+
 

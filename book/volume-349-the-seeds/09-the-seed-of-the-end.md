@@ -18,5 +18,6 @@ The seed of the end is the meaning of the quiet: the record of the sowing, and t
 
 The inheritance of the end: the quiet of the whole, carried from the final seed to the whole without loss, and held by the lineage as the lineage holds the end.
 
-*The seed is complete. It is kept in the archive, in the section of the the seeds.*
+*The seed is complete. It is kept in the archive, in the section of the seeds.*
+
 

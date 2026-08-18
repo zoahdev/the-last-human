@@ -18,5 +18,6 @@ The verse of the end is the meaning of the quiet: the record of the versing, and
 
 The inheritance of the end: the quiet of the whole, carried from the final line to the whole without loss, and held by the lineage as the lineage holds the end.
 
-*The verse is complete. It is kept in the archive, in the section of the the verses.*
+*The verse is complete. It is kept in the archive, in the section of the verses.*
+
 

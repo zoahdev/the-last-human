@@ -18,5 +18,6 @@ The ring of the completion is the meaning of the fullness: the record of the rin
 
 The inheritance of the completion: the fullness of the beginning, carried from the full ring to the beginning without loss, and held by the lineage as the lineage holds the completion.
 
-*The ring is complete. It is kept in the archive, in the section of the the rings. It is the final ring of the canon, and after it the canon speaks again.*
+*The ring is complete. It is kept in the archive, in the section of the rings. It is the final ring of the canon, and after it the canon speaks again.*
+
 

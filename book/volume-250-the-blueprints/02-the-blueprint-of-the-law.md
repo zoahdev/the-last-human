@@ -18,5 +18,6 @@ The blueprint of the law is the meaning of the ordinance: the record of the blue
 
 The inheritance of the law: the ordinance of the care, carried from the blueprinted care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The blueprint is complete. It is kept in the archive, in the section of the the blueprints.*
+*The blueprint is complete. It is kept in the archive, in the section of the blueprints.*
+
 

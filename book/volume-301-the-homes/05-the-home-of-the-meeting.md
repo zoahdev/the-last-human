@@ -18,5 +18,6 @@ The home of the meeting is the meaning of the hearth: the record of the homing, 
 
 The inheritance of the meeting: the hearth of the table, carried from the home table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The home is complete. It is kept in the archive, in the section of the the homes.*
+*The home is complete. It is kept in the archive, in the section of the homes.*
+
 

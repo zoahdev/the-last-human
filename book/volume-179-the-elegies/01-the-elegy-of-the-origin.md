@@ -18,5 +18,6 @@ The elegy of the origin is the meaning of the mourning: the record of the lament
 
 The inheritance of the origin: the mourning of the wanting, carried from the loss to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The elegy is complete. It is kept in the archive, in the section of the the elegies.*
+*The elegy is complete. It is kept in the archive, in the section of the elegies.*
+
 

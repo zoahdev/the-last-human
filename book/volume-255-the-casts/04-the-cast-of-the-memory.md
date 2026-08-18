@@ -18,5 +18,6 @@ The cast of the memory is the meaning of the bronze: the record of the casting, 
 
 The inheritance of the memory: the bronze of the book, carried from the cast past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The cast is complete. It is kept in the archive, in the section of the the casts.*
+*The cast is complete. It is kept in the archive, in the section of the casts.*
+
 

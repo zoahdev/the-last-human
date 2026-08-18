@@ -18,5 +18,6 @@ The incantation of the completion is the meaning of the fullness: the record of 
 
 The inheritance of the completion: the fullness of the beginning, carried from the whole word to the beginning without loss, and held by the lineage as the lineage holds the completion.
 
-*The incantation is complete. It is kept in the archive, in the section of the the incantations. It is the final incantation of the canon, and after it the canon speaks again.*
+*The incantation is complete. It is kept in the archive, in the section of the incantations. It is the final incantation of the canon, and after it the canon speaks again.*
+
 

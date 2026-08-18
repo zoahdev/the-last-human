@@ -18,5 +18,6 @@ The register of the meeting is the meaning of the attendance: the record of the 
 
 The inheritance of the meeting: the attendance of the table, carried from the roll call to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The register is complete. It is kept in the archive, in the section of the the registers.*
+*The register is complete. It is kept in the archive, in the section of the registers.*
+
 

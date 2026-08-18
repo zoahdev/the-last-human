@@ -18,5 +18,6 @@ The homily of the meeting is the meaning of the call: the record of the speaking
 
 The inheritance of the meeting: the call of the table, carried from the exhortation to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The homily is complete. It is kept in the archive, in the section of the the homilies.*
+*The homily is complete. It is kept in the archive, in the section of the homilies.*
+
 

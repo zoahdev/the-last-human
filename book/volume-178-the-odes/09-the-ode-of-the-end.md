@@ -18,5 +18,6 @@ The ode of the end is the meaning of the quiet: the record of the soaring, and t
 
 The inheritance of the end: the quiet of the whole, carried from the landing to the whole without loss, and held by the lineage as the lineage holds the end.
 
-*The ode is complete. It is kept in the archive, in the section of the the odes.*
+*The ode is complete. It is kept in the archive, in the section of the odes.*
+
 

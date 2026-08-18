@@ -18,5 +18,6 @@ The mold of the memory is the meaning of the clay: the record of the molding, an
 
 The inheritance of the memory: the clay of the book, carried from the molded past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The mold is complete. It is kept in the archive, in the section of the the molds.*
+*The mold is complete. It is kept in the archive, in the section of the molds.*
+
 

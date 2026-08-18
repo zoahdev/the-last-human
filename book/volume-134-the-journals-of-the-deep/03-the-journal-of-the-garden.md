@@ -18,5 +18,6 @@ The journal of the garden is the meaning of the growing: the record of the journ
 
 The inheritance of the garden: the growing of the earth, carried from the season to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The journal is complete. It is kept in the archive, in the section of the the journals of the deep.*
+*The journal is complete. It is kept in the archive, in the section of the journals of the deep.*
+
 

@@ -18,5 +18,6 @@ The strand of the law is the meaning of the twist: the record of the stranding, 
 
 The inheritance of the law: the twist of the care, carried from the stranded care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The strand is complete. It is kept in the archive, in the section of the the strands.*
+*The strand is complete. It is kept in the archive, in the section of the strands.*
+
 

@@ -18,5 +18,6 @@ The seed of the law is the meaning of the seed: the record of the sowing, and th
 
 The inheritance of the law: the seed of the care, carried from the sowing care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The seed is complete. It is kept in the archive, in the section of the the seeds.*
+*The seed is complete. It is kept in the archive, in the section of the seeds.*
+
 

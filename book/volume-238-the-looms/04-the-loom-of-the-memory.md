@@ -18,5 +18,6 @@ The loom of the memory is the meaning of the frame: the record of the looming, a
 
 The inheritance of the memory: the frame of the book, carried from the loomed past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The loom is complete. It is kept in the archive, in the section of the the looms.*
+*The loom is complete. It is kept in the archive, in the section of the looms.*
+
 

@@ -18,5 +18,6 @@ The cast of the completion is the meaning of the fullness: the record of the cas
 
 The inheritance of the completion: the fullness of the beginning, carried from the complete cast to the beginning without loss, and held by the lineage as the lineage holds the completion.
 
-*The cast is complete. It is kept in the archive, in the section of the the casts. It is the final cast of the canon, and after it the canon speaks again.*
+*The cast is complete. It is kept in the archive, in the section of the casts. It is the final cast of the canon, and after it the canon speaks again.*
+
 

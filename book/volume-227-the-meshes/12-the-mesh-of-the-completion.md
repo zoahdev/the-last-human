@@ -18,5 +18,6 @@ The mesh of the completion is the meaning of the fullness: the record of the mes
 
 The inheritance of the completion: the fullness of the beginning, carried from the complete mesh to the beginning without loss, and held by the lineage as the lineage holds the completion.
 
-*The mesh is complete. It is kept in the archive, in the section of the the meshes. It is the final mesh of the canon, and after it the canon speaks again.*
+*The mesh is complete. It is kept in the archive, in the section of the meshes. It is the final mesh of the canon, and after it the canon speaks again.*
+
 

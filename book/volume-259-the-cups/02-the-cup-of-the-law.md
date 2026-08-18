@@ -18,5 +18,6 @@ The cup of the law is the meaning of the cup: the record of the cupping, and the
 
 The inheritance of the law: the cup of the care, carried from the cupped care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The cup is complete. It is kept in the archive, in the section of the the cups.*
+*The cup is complete. It is kept in the archive, in the section of the cups.*
+
 

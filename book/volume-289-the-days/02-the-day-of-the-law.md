@@ -18,5 +18,6 @@ The day of the law is the meaning of the day: the record of the opening, and the
 
 The inheritance of the law: the day of the care, carried from the opening care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The day is complete. It is kept in the archive, in the section of the the days.*
+*The day is complete. It is kept in the archive, in the section of the days.*
+
 

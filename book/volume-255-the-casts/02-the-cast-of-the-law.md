@@ -18,5 +18,6 @@ The cast of the law is the meaning of the alloy: the record of the casting, and 
 
 The inheritance of the law: the alloy of the care, carried from the cast care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The cast is complete. It is kept in the archive, in the section of the the casts.*
+*The cast is complete. It is kept in the archive, in the section of the casts.*
+
 

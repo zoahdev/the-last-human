@@ -18,5 +18,6 @@ The shelf of the meeting is the meaning of the reading room: the record of the s
 
 The inheritance of the meeting: the reading room of the table, carried from the shelved table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The shelf is complete. It is kept in the archive, in the section of the the shelves.*
+*The shelf is complete. It is kept in the archive, in the section of the shelves.*
+
 

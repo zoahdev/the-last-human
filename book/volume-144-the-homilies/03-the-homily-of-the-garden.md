@@ -18,5 +18,6 @@ The homily of the garden is the meaning of the tending: the record of the speaki
 
 The inheritance of the garden: the tending of the earth, carried from the instruction to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The homily is complete. It is kept in the archive, in the section of the the homilies.*
+*The homily is complete. It is kept in the archive, in the section of the homilies.*
+
 

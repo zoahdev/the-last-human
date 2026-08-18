@@ -18,5 +18,6 @@ The map of the meeting is the meaning of the rendezvous: the record of the mappi
 
 The inheritance of the meeting: the rendezvous of the table, carried from the mapped table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The map is complete. It is kept in the archive, in the section of the the maps.*
+*The map is complete. It is kept in the archive, in the section of the maps.*
+
 

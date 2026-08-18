@@ -18,5 +18,6 @@ The ode of the memory is the meaning of the loft: the record of the soaring, and
 
 The inheritance of the memory: the loft of the book, carried from the remembered flight to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The ode is complete. It is kept in the archive, in the section of the the odes.*
+*The ode is complete. It is kept in the archive, in the section of the odes.*
+
 

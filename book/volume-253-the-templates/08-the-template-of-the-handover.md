@@ -18,5 +18,6 @@ The template of the handover is the meaning of the mold: the record of the cutti
 
 The inheritance of the handover: the mold of the hand, carried from the cut hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The template is complete. It is kept in the archive, in the section of the the templates.*
+*The template is complete. It is kept in the archive, in the section of the templates.*
+
 

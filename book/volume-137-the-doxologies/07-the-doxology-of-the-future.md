@@ -18,5 +18,6 @@ The doxology of the future is the meaning of the morning: the record of the glor
 
 The inheritance of the future: the morning of the dawn, carried from the light to the dawn without loss, and held by the lineage as the lineage holds the future.
 
-*The doxology is complete. It is kept in the archive, in the section of the the doxologies.*
+*The doxology is complete. It is kept in the archive, in the section of the doxologies.*
+
 

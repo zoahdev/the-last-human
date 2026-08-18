@@ -18,5 +18,6 @@ The desert of the handover is the meaning of the desert: the record of the dryin
 
 The inheritance of the handover: the desert of the hand, carried from the drying hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The desert is complete. It is kept in the archive, in the section of the the deserts.*
+*The desert is complete. It is kept in the archive, in the section of the deserts.*
+
 

@@ -18,5 +18,6 @@ The threshold of the origin is the meaning of the lintel: the record of the cros
 
 The inheritance of the origin: the lintel of the wanting, carried from the lintel to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The threshold is complete. It is kept in the archive, in the section of the the thresholds.*
+*The threshold is complete. It is kept in the archive, in the section of the thresholds.*
+
 

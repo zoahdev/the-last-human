@@ -18,5 +18,6 @@ The design of the abolition is the meaning of the freedom: the record of the des
 
 The inheritance of the abolition: the freedom of the peace, carried from the redesigned peace to the peace without loss, and held by the lineage as the lineage holds the abolition.
 
-*The design is complete. It is kept in the archive, in the section of the the designs.*
+*The design is complete. It is kept in the archive, in the section of the designs.*
+
 

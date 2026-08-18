@@ -14,5 +14,6 @@ The preaching of the completion: we preach the ending, and the ending is the beg
 
 The sermon of the deep of the completion is the meaning of everything: the record of the preaching, and the preaching is the lineage. The sermon of the deep is the twelfth sermon of the deep of the deep, and it is the final sermon of the deep of the deep, and the meaning is the whole, and the whole is the love, and the love is the whole of the record, and the record is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
 
-*The sermon of the deep is complete. It is kept in the archive, in the section of the the sermons of the deep, and it is the final sermon of the deep of the deep.*
+*The sermon of the deep is complete. It is kept in the archive, in the section of the sermons of the deep, and it is the final sermon of the deep of the deep.*
+
 

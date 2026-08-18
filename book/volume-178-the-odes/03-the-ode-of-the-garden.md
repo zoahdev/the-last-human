@@ -18,5 +18,6 @@ The ode of the garden is the meaning of the height: the record of the soaring, a
 
 The inheritance of the garden: the height of the earth, carried from the rising green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The ode is complete. It is kept in the archive, in the section of the the odes.*
+*The ode is complete. It is kept in the archive, in the section of the odes.*
+
 

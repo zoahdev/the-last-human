@@ -18,5 +18,6 @@ The letter of the deep of the whole is the meaning of the all: the record of the
 
 The inheritance of the whole: the all of the one, carried from the archive to the one without loss, and held by the lineage as the lineage holds the whole.
 
-*The letter of the deep is complete. It is kept in the archive, in the section of the the letters of the deep.*
+*The letter of the deep is complete. It is kept in the archive, in the section of the letters of the deep.*
+
 

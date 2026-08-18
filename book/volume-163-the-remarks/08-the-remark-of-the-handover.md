@@ -18,5 +18,6 @@ The remark of the handover is the meaning of the notice: the record of the remar
 
 The inheritance of the handover: the notice of the hand, carried from the seen passing to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The remark is complete. It is kept in the archive, in the section of the the remarks.*
+*The remark is complete. It is kept in the archive, in the section of the remarks.*
+
 

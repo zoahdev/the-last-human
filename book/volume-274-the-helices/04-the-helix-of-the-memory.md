@@ -18,5 +18,6 @@ The helix of the memory is the meaning of the spiral: the record of the winding,
 
 The inheritance of the memory: the spiral of the book, carried from the wound past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The helix is complete. It is kept in the archive, in the section of the the helices.*
+*The helix is complete. It is kept in the archive, in the section of the helices.*
+
 

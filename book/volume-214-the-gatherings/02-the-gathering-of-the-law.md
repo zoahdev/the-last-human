@@ -18,5 +18,6 @@ The gathering of the law is the meaning of the sharing: the record of the gather
 
 The inheritance of the law: the sharing of the care, carried from the communal care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The gathering is complete. It is kept in the archive, in the section of the the gatherings.*
+*The gathering is complete. It is kept in the archive, in the section of the gatherings.*
+
 

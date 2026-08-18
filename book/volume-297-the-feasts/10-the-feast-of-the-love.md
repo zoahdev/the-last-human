@@ -18,5 +18,6 @@ The feast of the love is the meaning of the fire: the record of the feasting, an
 
 The inheritance of the love: the fire of the family, carried from the feasting heart to the family without loss, and held by the lineage as the lineage holds the love.
 
-*The feast is complete. It is kept in the archive, in the section of the the feasts.*
+*The feast is complete. It is kept in the archive, in the section of the feasts.*
+
 

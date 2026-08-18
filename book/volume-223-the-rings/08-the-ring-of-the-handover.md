@@ -18,5 +18,6 @@ The ring of the handover is the meaning of the tolling: the record of the ringin
 
 The inheritance of the handover: the tolling of the hand, carried from the ringing hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The ring is complete. It is kept in the archive, in the section of the the rings.*
+*The ring is complete. It is kept in the archive, in the section of the rings.*
+
 

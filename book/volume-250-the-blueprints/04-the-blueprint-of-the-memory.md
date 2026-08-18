@@ -18,5 +18,6 @@ The blueprint of the memory is the meaning of the archive: the record of the blu
 
 The inheritance of the memory: the archive of the book, carried from the blueprinted past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The blueprint is complete. It is kept in the archive, in the section of the the blueprints.*
+*The blueprint is complete. It is kept in the archive, in the section of the blueprints.*
+
 

@@ -18,5 +18,6 @@ The directive of the memory is the meaning of the map: the record of the directi
 
 The inheritance of the memory: the map of the book, carried from the compass to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The directive is complete. It is kept in the archive, in the section of the the directives of the deep.*
+*The directive is complete. It is kept in the archive, in the section of the directives of the deep.*
+
 

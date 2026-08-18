@@ -18,5 +18,6 @@ The ladder of the origin is the meaning of the sky: the record of the scaling, a
 
 The inheritance of the origin: the sky of the wanting, carried from the leaning ladder to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The ladder is complete. It is kept in the archive, in the section of the the ladders.*
+*The ladder is complete. It is kept in the archive, in the section of the ladders.*
+
 

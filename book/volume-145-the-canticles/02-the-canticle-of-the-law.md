@@ -18,5 +18,6 @@ The canticle of the law is the meaning of the beat: the record of the chanting, 
 
 The inheritance of the law: the beat of the care, carried from the measure to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The canticle is complete. It is kept in the archive, in the section of the the canticles.*
+*The canticle is complete. It is kept in the archive, in the section of the canticles.*
+
 

@@ -18,5 +18,6 @@ The lake of the garden is the meaning of the lakeside: the record of the mirrori
 
 The inheritance of the garden: the lakeside of the earth, carried from the lakeside green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The lake is complete. It is kept in the archive, in the section of the the lakes.*
+*The lake is complete. It is kept in the archive, in the section of the lakes.*
+
 

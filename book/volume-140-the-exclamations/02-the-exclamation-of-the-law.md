@@ -18,5 +18,6 @@ The exclamation of the law is the meaning of the awe: the record of the exclaimi
 
 The inheritance of the law: the awe of the care, carried from the marvel to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The exclamation is complete. It is kept in the archive, in the section of the the exclamations.*
+*The exclamation is complete. It is kept in the archive, in the section of the exclamations.*
+
 

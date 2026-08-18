@@ -18,5 +18,6 @@ The recession of the garden is the meaning of the slope: the record of the reced
 
 The inheritance of the garden: the slope of the earth, carried from the receding green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The recession is complete. It is kept in the archive, in the section of the the recessions.*
+*The recession is complete. It is kept in the archive, in the section of the recessions.*
+
 

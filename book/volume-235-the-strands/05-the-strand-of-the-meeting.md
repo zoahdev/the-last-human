@@ -18,5 +18,6 @@ The strand of the meeting is the meaning of the landing: the record of the stran
 
 The inheritance of the meeting: the landing of the table, carried from the stranded table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The strand is complete. It is kept in the archive, in the section of the the strands.*
+*The strand is complete. It is kept in the archive, in the section of the strands.*
+
 

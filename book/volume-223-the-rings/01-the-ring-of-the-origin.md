@@ -18,5 +18,6 @@ The ring of the origin is the meaning of the toll: the record of the ringing, an
 
 The inheritance of the origin: the toll of the wanting, carried from the peal to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The ring is complete. It is kept in the archive, in the section of the the rings.*
+*The ring is complete. It is kept in the archive, in the section of the rings.*
+
 

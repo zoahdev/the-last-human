@@ -18,5 +18,6 @@ The matrix of the garden is the meaning of the impression: the record of the pre
 
 The inheritance of the garden: the impression of the earth, carried from the pressed green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The matrix is complete. It is kept in the archive, in the section of the the matrices.*
+*The matrix is complete. It is kept in the archive, in the section of the matrices.*
+
 

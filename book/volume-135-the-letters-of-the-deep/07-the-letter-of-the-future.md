@@ -18,5 +18,6 @@ The letter of the deep of the future is the meaning of the morning: the record o
 
 The inheritance of the future: the morning of the dawn, carried from the message to the dawn without loss, and held by the lineage as the lineage holds the future.
 
-*The letter of the deep is complete. It is kept in the archive, in the section of the the letters of the deep.*
+*The letter of the deep is complete. It is kept in the archive, in the section of the letters of the deep.*
+
 

@@ -18,5 +18,6 @@ The quatrain of the origin is the meaning of the quartet: the record of the quar
 
 The inheritance of the origin: the quartet of the wanting, carried from the four lines to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The quatrain is complete. It is kept in the archive, in the section of the the quatrains.*
+*The quatrain is complete. It is kept in the archive, in the section of the quatrains.*
+
 

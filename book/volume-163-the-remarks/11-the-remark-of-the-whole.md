@@ -18,5 +18,6 @@ The remark of the whole is the meaning of the all: the record of the remarking, 
 
 The inheritance of the whole: the all of the one, carried from the full observation to the one without loss, and held by the lineage as the lineage holds the whole.
 
-*The remark is complete. It is kept in the archive, in the section of the the remarks.*
+*The remark is complete. It is kept in the archive, in the section of the remarks.*
+
 

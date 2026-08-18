@@ -18,5 +18,6 @@ The step of the memory is the meaning of the step: the record of the stepping, a
 
 The inheritance of the memory: the step of the book, carried from the footstep to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The step is complete. It is kept in the archive, in the section of the the steps.*
+*The step is complete. It is kept in the archive, in the section of the steps.*
+
 

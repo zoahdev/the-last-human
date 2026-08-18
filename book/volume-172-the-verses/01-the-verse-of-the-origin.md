@@ -18,5 +18,6 @@ The verse of the origin is the meaning of the metre: the record of the versing, 
 
 The inheritance of the origin: the metre of the wanting, carried from the opening line to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The verse is complete. It is kept in the archive, in the section of the the verses.*
+*The verse is complete. It is kept in the archive, in the section of the verses.*
+
 

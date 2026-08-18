@@ -18,5 +18,6 @@ The confession of the deep of the handover is the meaning of the openness: the r
 
 The inheritance of the handover: the openness of the hand, carried from the honesty to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The confession of the deep is complete. It is kept in the archive, in the section of the the confessions of the deep.*
+*The confession of the deep is complete. It is kept in the archive, in the section of the confessions of the deep.*
+
 

@@ -18,5 +18,6 @@ The matrix of the meeting is the meaning of the mint: the record of the pressing
 
 The inheritance of the meeting: the mint of the table, carried from the pressed table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The matrix is complete. It is kept in the archive, in the section of the the matrices.*
+*The matrix is complete. It is kept in the archive, in the section of the matrices.*
+
 

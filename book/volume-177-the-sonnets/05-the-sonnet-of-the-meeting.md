@@ -18,5 +18,6 @@ The sonnet of the meeting is the meaning of the tableau: the record of the bindi
 
 The inheritance of the meeting: the tableau of the table, carried from the sestet to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The sonnet is complete. It is kept in the archive, in the section of the the sonnets.*
+*The sonnet is complete. It is kept in the archive, in the section of the sonnets.*
+
 

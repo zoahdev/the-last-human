@@ -18,5 +18,6 @@ The people of the memory is the meaning of the folklore: the record of the peopl
 
 The inheritance of the memory: the folklore of the book, carried from the popular memory to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The people is complete. It is kept in the archive, in the section of the the peoples.*
+*The people is complete. It is kept in the archive, in the section of the peoples.*
+
 

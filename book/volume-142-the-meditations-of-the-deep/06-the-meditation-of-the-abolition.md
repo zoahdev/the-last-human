@@ -18,5 +18,6 @@ The meditation of the deep of the abolition is the meaning of the freedom: the r
 
 The inheritance of the abolition: the freedom of the peace, carried from the letting go to the peace without loss, and held by the lineage as the lineage holds the abolition.
 
-*The meditation of the deep is complete. It is kept in the archive, in the section of the the meditations of the deep.*
+*The meditation of the deep is complete. It is kept in the archive, in the section of the meditations of the deep.*
+
 

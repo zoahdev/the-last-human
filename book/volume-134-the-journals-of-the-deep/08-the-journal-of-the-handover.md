@@ -18,5 +18,6 @@ The journal of the handover is the meaning of the writing: the record of the jou
 
 The inheritance of the handover: the writing of the hand, carried from the entry to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The journal is complete. It is kept in the archive, in the section of the the journals of the deep.*
+*The journal is complete. It is kept in the archive, in the section of the journals of the deep.*
+
 

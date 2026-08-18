@@ -18,5 +18,6 @@ The incantation of the end is the meaning of the quiet: the record of the incant
 
 The inheritance of the end: the quiet of the whole, carried from the closing word to the whole without loss, and held by the lineage as the lineage holds the end.
 
-*The incantation is complete. It is kept in the archive, in the section of the the incantations.*
+*The incantation is complete. It is kept in the archive, in the section of the incantations.*
+
 

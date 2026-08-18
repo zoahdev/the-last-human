@@ -18,5 +18,6 @@ The oasis of the origin is the meaning of the oasis: the record of the watering,
 
 The inheritance of the origin: the oasis of the wanting, carried from the palm to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The oasis is complete. It is kept in the archive, in the section of the the oases.*
+*The oasis is complete. It is kept in the archive, in the section of the oases.*
+
 

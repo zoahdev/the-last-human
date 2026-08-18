@@ -18,5 +18,6 @@ The sky of the handover is the meaning of the blue: the record of the arching, a
 
 The inheritance of the handover: the blue of the hand, carried from the arching hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The sky is complete. It is kept in the archive, in the section of the the skies.*
+*The sky is complete. It is kept in the archive, in the section of the skies.*
+
 

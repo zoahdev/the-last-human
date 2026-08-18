@@ -18,5 +18,6 @@ The call of the garden is the meaning of the seed: the record of the calling, an
 
 The inheritance of the garden: the seed of the earth, carried from the greening call to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The call is complete. It is kept in the archive, in the section of the the calls.*
+*The call is complete. It is kept in the archive, in the section of the calls.*
+
 

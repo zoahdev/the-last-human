@@ -18,5 +18,6 @@ The port of the memory is the meaning of the harbor: the record of the arriving,
 
 The inheritance of the memory: the harbor of the book, carried from the arrived past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The port is complete. It is kept in the archive, in the section of the the ports.*
+*The port is complete. It is kept in the archive, in the section of the ports.*
+
 

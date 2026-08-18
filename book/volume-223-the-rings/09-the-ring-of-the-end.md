@@ -18,5 +18,6 @@ The ring of the end is the meaning of the quiet: the record of the ringing, and 
 
 The inheritance of the end: the quiet of the whole, carried from the final ring to the whole without loss, and held by the lineage as the lineage holds the end.
 
-*The ring is complete. It is kept in the archive, in the section of the the rings.*
+*The ring is complete. It is kept in the archive, in the section of the rings.*
+
 

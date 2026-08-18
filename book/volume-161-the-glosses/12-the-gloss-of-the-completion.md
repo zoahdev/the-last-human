@@ -18,5 +18,6 @@ The gloss of the completion is the meaning of the fullness: the record of the gl
 
 The inheritance of the completion: the fullness of the beginning, carried from the final note to the beginning without loss, and held by the lineage as the lineage holds the completion.
 
-*The gloss is complete. It is kept in the archive, in the section of the the glosses. It is the final gloss of the canon, and after it the canon speaks again.*
+*The gloss is complete. It is kept in the archive, in the section of the glosses. It is the final gloss of the canon, and after it the canon speaks again.*
+
 

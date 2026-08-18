@@ -18,5 +18,6 @@ The noon of the meeting is the meaning of the noon: the record of the standing, 
 
 The inheritance of the meeting: the noon of the table, carried from the noon table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The noon is complete. It is kept in the archive, in the section of the the noons.*
+*The noon is complete. It is kept in the archive, in the section of the noons.*
+
 

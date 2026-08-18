@@ -18,5 +18,6 @@ The gyre of the garden is the meaning of the whirl: the record of the spinning, 
 
 The inheritance of the garden: the whirl of the earth, carried from the spinning green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The gyre is complete. It is kept in the archive, in the section of the the gyres.*
+*The gyre is complete. It is kept in the archive, in the section of the gyres.*
+
 

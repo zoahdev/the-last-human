@@ -18,5 +18,6 @@ The doorway of the handover is the meaning of the threshold: the record of the o
 
 The inheritance of the handover: the threshold of the hand, carried from the passing through to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The doorway is complete. It is kept in the archive, in the section of the the doorways.*
+*The doorway is complete. It is kept in the archive, in the section of the doorways.*
+
 

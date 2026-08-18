@@ -18,5 +18,6 @@ The call of the meeting is the meaning of the convocation: the record of the cal
 
 The inheritance of the meeting: the convocation of the table, carried from the gathering call to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The call is complete. It is kept in the archive, in the section of the the calls.*
+*The call is complete. It is kept in the archive, in the section of the calls.*
+
 

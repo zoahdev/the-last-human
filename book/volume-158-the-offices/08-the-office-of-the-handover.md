@@ -18,5 +18,6 @@ The office of the handover is the meaning of the charge: the record of the offic
 
 The inheritance of the handover: the charge of the hand, carried from the commissioning to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The office is complete. It is kept in the archive, in the section of the the offices.*
+*The office is complete. It is kept in the archive, in the section of the offices.*
+
 

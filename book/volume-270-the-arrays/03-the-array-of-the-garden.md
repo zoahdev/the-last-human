@@ -18,5 +18,6 @@ The array of the garden is the meaning of the garden array: the record of the ar
 
 The inheritance of the garden: the garden array of the earth, carried from the arrayed green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The array is complete. It is kept in the archive, in the section of the the arrays.*
+*The array is complete. It is kept in the archive, in the section of the arrays.*
+
 

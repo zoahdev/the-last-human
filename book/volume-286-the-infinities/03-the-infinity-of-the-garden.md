@@ -18,5 +18,6 @@ The infinity of the garden is the meaning of the meadow: the record of the exten
 
 The inheritance of the garden: the meadow of the earth, carried from the endless green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The infinity is complete. It is kept in the archive, in the section of the the infinities.*
+*The infinity is complete. It is kept in the archive, in the section of the infinities.*
+
 

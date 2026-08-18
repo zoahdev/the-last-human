@@ -18,5 +18,6 @@ The shelf of the memory is the meaning of the book: the record of the shelving, 
 
 The inheritance of the memory: the book of the book, carried from the shelved past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The shelf is complete. It is kept in the archive, in the section of the the shelves.*
+*The shelf is complete. It is kept in the archive, in the section of the shelves.*
+
 

@@ -18,5 +18,6 @@ The hymn of the memory is the meaning of the verse: the record of the singing, a
 
 The inheritance of the memory: the verse of the book, carried from the refrain to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The hymn is complete. It is kept in the archive, in the section of the the hymns.*
+*The hymn is complete. It is kept in the archive, in the section of the hymns.*
+
 

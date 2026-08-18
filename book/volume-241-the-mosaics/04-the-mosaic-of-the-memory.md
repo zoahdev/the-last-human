@@ -18,5 +18,6 @@ The mosaic of the memory is the meaning of the picture: the record of the settin
 
 The inheritance of the memory: the picture of the book, carried from the set past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The mosaic is complete. It is kept in the archive, in the section of the the mosaics.*
+*The mosaic is complete. It is kept in the archive, in the section of the mosaics.*
+
 

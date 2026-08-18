@@ -18,5 +18,6 @@ The bowl of the whole is the meaning of the all: the record of the rounding, and
 
 The inheritance of the whole: the all of the one, carried from the one bowl to the one without loss, and held by the lineage as the lineage holds the whole.
 
-*The bowl is complete. It is kept in the archive, in the section of the the bowls.*
+*The bowl is complete. It is kept in the archive, in the section of the bowls.*
+
 

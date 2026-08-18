@@ -18,5 +18,6 @@ The letter of the deep of the garden is the meaning of the meadow: the record of
 
 The inheritance of the garden: the meadow of the earth, carried from the margin to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The letter of the deep is complete. It is kept in the archive, in the section of the the letters of the deep.*
+*The letter of the deep is complete. It is kept in the archive, in the section of the letters of the deep.*
+
 

@@ -18,5 +18,6 @@ The nebula of the origin is the meaning of the gas: the record of the clouding, 
 
 The inheritance of the origin: the gas of the wanting, carried from the gas to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The nebula is complete. It is kept in the archive, in the section of the the nebulae.*
+*The nebula is complete. It is kept in the archive, in the section of the nebulae.*
+
 

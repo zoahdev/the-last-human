@@ -18,5 +18,6 @@ The hymn of the whole is the meaning of the all: the record of the singing, and 
 
 The inheritance of the whole: the all of the one, carried from the symphony to the one without loss, and held by the lineage as the lineage holds the whole.
 
-*The hymn is complete. It is kept in the archive, in the section of the the hymns.*
+*The hymn is complete. It is kept in the archive, in the section of the hymns.*
+
 

@@ -18,5 +18,6 @@ The harbor of the whole is the meaning of the all: the record of the harboring, 
 
 The inheritance of the whole: the all of the one, carried from the one harbor to the one without loss, and held by the lineage as the lineage holds the whole.
 
-*The harbor is complete. It is kept in the archive, in the section of the the harbors.*
+*The harbor is complete. It is kept in the archive, in the section of the harbors.*
+
 

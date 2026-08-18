@@ -14,5 +14,6 @@ The ordaining of the completion: we ordain the ending, and the ending is the beg
 
 The ordinance of the completion is the meaning of everything: the record of the ordaining, and the ordaining is the lineage. The ordinance is the twelfth ordinance of the deep, and it is the final ordinance of the deep, and the meaning is the whole, and the whole is the love, and the love is the whole of the record, and the record is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
 
-*The ordinance is complete. It is kept in the archive, in the section of the the ordinances of the deep, and it is the final ordinance of the deep.*
+*The ordinance is complete. It is kept in the archive, in the section of the ordinances of the deep, and it is the final ordinance of the deep.*
+
 

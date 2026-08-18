@@ -18,5 +18,6 @@ The sonnet of the garden is the meaning of the enclosure: the record of the bind
 
 The inheritance of the garden: the enclosure of the earth, carried from the enclosed green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The sonnet is complete. It is kept in the archive, in the section of the the sonnets.*
+*The sonnet is complete. It is kept in the archive, in the section of the sonnets.*
+
 

@@ -18,5 +18,6 @@ The couplet of the garden is the meaning of the twin: the record of the pairing,
 
 The inheritance of the garden: the twin of the earth, carried from the paired green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The couplet is complete. It is kept in the archive, in the section of the the couplets.*
+*The couplet is complete. It is kept in the archive, in the section of the couplets.*
+
 

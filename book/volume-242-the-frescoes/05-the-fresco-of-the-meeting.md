@@ -18,5 +18,6 @@ The fresco of the meeting is the meaning of the banquet hall: the record of the 
 
 The inheritance of the meeting: the banquet hall of the table, carried from the painted table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The fresco is complete. It is kept in the archive, in the section of the the frescoes.*
+*The fresco is complete. It is kept in the archive, in the section of the frescoes.*
+
 

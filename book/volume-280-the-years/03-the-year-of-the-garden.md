@@ -18,5 +18,6 @@ The year of the garden is the meaning of the harvest year: the record of the cou
 
 The inheritance of the garden: the harvest year of the earth, carried from the counted green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The year is complete. It is kept in the archive, in the section of the the years.*
+*The year is complete. It is kept in the archive, in the section of the years.*
+
 

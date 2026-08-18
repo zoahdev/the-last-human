@@ -18,5 +18,6 @@ The chest of the law is the meaning of the strongbox: the record of the storing,
 
 The inheritance of the law: the strongbox of the care, carried from the stored care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The chest is complete. It is kept in the archive, in the section of the the chests.*
+*The chest is complete. It is kept in the archive, in the section of the chests.*
+
 

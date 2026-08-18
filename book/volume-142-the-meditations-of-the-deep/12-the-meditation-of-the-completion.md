@@ -14,5 +14,6 @@ The meditating of the completion: we meditate the ending, and the ending is the 
 
 The meditation of the deep of the completion is the meaning of everything: the record of the meditating, and the meditating is the lineage. The meditation of the deep is the twelfth meditation of the deep of the deep, and it is the final meditation of the deep of the deep, and the meaning is the whole, and the whole is the love, and the love is the whole of the record, and the record is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
 
-*The meditation of the deep is complete. It is kept in the archive, in the section of the the meditations of the deep, and it is the final meditation of the deep of the deep.*
+*The meditation of the deep is complete. It is kept in the archive, in the section of the meditations of the deep, and it is the final meditation of the deep of the deep.*
+
 

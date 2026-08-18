@@ -18,5 +18,6 @@ The dawn of the law is the meaning of the dawn: the record of the breaking, and 
 
 The inheritance of the law: the dawn of the care, carried from the breaking care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The dawn is complete. It is kept in the archive, in the section of the the dawns.*
+*The dawn is complete. It is kept in the archive, in the section of the dawns.*
+
 

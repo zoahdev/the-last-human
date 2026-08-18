@@ -18,5 +18,6 @@ The grove of the completion is the meaning of the fullness: the record of the pl
 
 The inheritance of the completion: the fullness of the beginning, carried from the complete grove to the beginning without loss, and held by the lineage as the lineage holds the completion.
 
-*The grove is complete. It is kept in the archive, in the section of the the groves. It is the final grove of the canon, and after it the canon speaks again.*
+*The grove is complete. It is kept in the archive, in the section of the groves. It is the final grove of the canon, and after it the canon speaks again.*
+
 

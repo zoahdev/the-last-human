@@ -18,5 +18,6 @@ The lattice of the completion is the meaning of the fullness: the record of the 
 
 The inheritance of the completion: the fullness of the beginning, carried from the complete lattice to the beginning without loss, and held by the lineage as the lineage holds the completion.
 
-*The lattice is complete. It is kept in the archive, in the section of the the lattices. It is the final lattice of the canon, and after it the canon speaks again.*
+*The lattice is complete. It is kept in the archive, in the section of the lattices. It is the final lattice of the canon, and after it the canon speaks again.*
+
 

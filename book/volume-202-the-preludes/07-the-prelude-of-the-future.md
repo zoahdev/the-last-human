@@ -18,5 +18,6 @@ The prelude of the future is the meaning of the morning: the record of the playi
 
 The inheritance of the future: the morning of the dawn, carried from the opening dawn to the dawn without loss, and held by the lineage as the lineage holds the future.
 
-*The prelude is complete. It is kept in the archive, in the section of the the preludes.*
+*The prelude is complete. It is kept in the archive, in the section of the preludes.*
+
 

@@ -18,5 +18,6 @@ The register of the origin is the meaning of the baptism: the record of the regi
 
 The inheritance of the origin: the baptism of the wanting, carried from the birth to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The register is complete. It is kept in the archive, in the section of the the registers.*
+*The register is complete. It is kept in the archive, in the section of the registers.*
+
 

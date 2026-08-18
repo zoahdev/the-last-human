@@ -18,5 +18,6 @@ The whole of the meeting is the meaning of the whole: the record of the completi
 
 The inheritance of the meeting: the whole of the table, carried from the whole table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The whole is complete. It is kept in the archive, in the section of the the wholes.*
+*The whole is complete. It is kept in the archive, in the section of the wholes.*
+
 

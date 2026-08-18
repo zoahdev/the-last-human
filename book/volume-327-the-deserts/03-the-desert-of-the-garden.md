@@ -18,5 +18,6 @@ The desert of the garden is the meaning of the desert garden: the record of the 
 
 The inheritance of the garden: the desert garden of the earth, carried from the desert green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The desert is complete. It is kept in the archive, in the section of the the deserts.*
+*The desert is complete. It is kept in the archive, in the section of the deserts.*
+
 

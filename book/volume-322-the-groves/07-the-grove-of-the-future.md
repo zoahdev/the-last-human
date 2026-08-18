@@ -18,5 +18,6 @@ The grove of the future is the meaning of the morning: the record of the plantin
 
 The inheritance of the future: the morning of the dawn, carried from the unplanted grove to the dawn without loss, and held by the lineage as the lineage holds the future.
 
-*The grove is complete. It is kept in the archive, in the section of the the groves.*
+*The grove is complete. It is kept in the archive, in the section of the groves.*
+
 

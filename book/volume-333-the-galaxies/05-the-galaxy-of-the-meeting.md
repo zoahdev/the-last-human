@@ -18,5 +18,6 @@ The galaxy of the meeting is the meaning of the cosmos: the record of the gather
 
 The inheritance of the meeting: the cosmos of the table, carried from the galactic table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The galaxy is complete. It is kept in the archive, in the section of the the galaxies.*
+*The galaxy is complete. It is kept in the archive, in the section of the galaxies.*
+
 

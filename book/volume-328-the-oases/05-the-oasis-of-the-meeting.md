@@ -18,5 +18,6 @@ The oasis of the meeting is the meaning of the oasis: the record of the watering
 
 The inheritance of the meeting: the oasis of the table, carried from the oasis table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The oasis is complete. It is kept in the archive, in the section of the the oases.*
+*The oasis is complete. It is kept in the archive, in the section of the oases.*
+
 

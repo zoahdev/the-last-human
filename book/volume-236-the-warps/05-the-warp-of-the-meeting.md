@@ -18,5 +18,6 @@ The warp of the meeting is the meaning of the shed: the record of the warping, a
 
 The inheritance of the meeting: the shed of the table, carried from the warped table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The warp is complete. It is kept in the archive, in the section of the the warps.*
+*The warp is complete. It is kept in the archive, in the section of the warps.*
+
 

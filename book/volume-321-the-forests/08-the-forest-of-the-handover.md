@@ -18,5 +18,6 @@ The forest of the handover is the meaning of the forest: the record of the growi
 
 The inheritance of the handover: the forest of the hand, carried from the growing hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The forest is complete. It is kept in the archive, in the section of the the forests.*
+*The forest is complete. It is kept in the archive, in the section of the forests.*
+
 

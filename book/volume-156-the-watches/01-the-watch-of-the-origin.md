@@ -18,5 +18,6 @@ The watch of the origin is the meaning of the constellation: the record of the w
 
 The inheritance of the origin: the constellation of the wanting, carried from the star to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The watch is complete. It is kept in the archive, in the section of the the watches.*
+*The watch is complete. It is kept in the archive, in the section of the watches.*
+
 

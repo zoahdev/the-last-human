@@ -18,5 +18,6 @@ The orison of the whole is the meaning of the all: the record of the praying, an
 
 The inheritance of the whole: the all of the one, carried from the office to the one without loss, and held by the lineage as the lineage holds the whole.
 
-*The orison is complete. It is kept in the archive, in the section of the the orisons.*
+*The orison is complete. It is kept in the archive, in the section of the orisons.*
+
 

@@ -18,5 +18,6 @@ The council of the meeting is the meaning of the board: the record of the consul
 
 The inheritance of the meeting: the board of the table, carried from the council table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The council is complete. It is kept in the archive, in the section of the the councils.*
+*The council is complete. It is kept in the archive, in the section of the councils.*
+
 

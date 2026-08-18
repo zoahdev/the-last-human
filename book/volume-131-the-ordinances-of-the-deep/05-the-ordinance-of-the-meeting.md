@@ -18,5 +18,6 @@ The ordinance of the meeting is the meaning of the council: the record of the or
 
 The inheritance of the meeting: the council of the table, carried from the court to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The ordinance is complete. It is kept in the archive, in the section of the the ordinances of the deep.*
+*The ordinance is complete. It is kept in the archive, in the section of the ordinances of the deep.*
+
 

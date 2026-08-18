@@ -18,5 +18,6 @@ The nation of the origin is the meaning of the land: the record of the uniting, 
 
 The inheritance of the origin: the land of the wanting, carried from the country to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The nation is complete. It is kept in the archive, in the section of the the nations.*
+*The nation is complete. It is kept in the archive, in the section of the nations.*
+
 

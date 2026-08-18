@@ -18,5 +18,6 @@ The season of the handover is the meaning of the turn: the record of the seasoni
 
 The inheritance of the handover: the turn of the hand, carried from the seasoned hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The season is complete. It is kept in the archive, in the section of the the seasons.*
+*The season is complete. It is kept in the archive, in the section of the seasons.*
+
 

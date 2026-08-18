@@ -18,5 +18,6 @@ The cycle of the abolition is the meaning of the freedom: the record of the cycl
 
 The inheritance of the abolition: the freedom of the peace, carried from the broken cycle to the peace without loss, and held by the lineage as the lineage holds the abolition.
 
-*The cycle is complete. It is kept in the archive, in the section of the the cycles.*
+*The cycle is complete. It is kept in the archive, in the section of the cycles.*
+
 

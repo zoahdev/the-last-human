@@ -18,5 +18,6 @@ The star of the origin is the meaning of the night sky: the record of the shinin
 
 The inheritance of the origin: the night sky of the wanting, carried from the shining point to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The star is complete. It is kept in the archive, in the section of the the stars.*
+*The star is complete. It is kept in the archive, in the section of the stars.*
+
 

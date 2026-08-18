@@ -18,5 +18,6 @@ The twilight of the handover is the meaning of the twilight: the record of the f
 
 The inheritance of the handover: the twilight of the hand, carried from the fading hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The twilight is complete. It is kept in the archive, in the section of the the twilights.*
+*The twilight is complete. It is kept in the archive, in the section of the twilights.*
+
 

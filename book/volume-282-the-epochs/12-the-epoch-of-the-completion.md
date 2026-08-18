@@ -18,5 +18,6 @@ The epoch of the completion is the meaning of the fullness: the record of the ma
 
 The inheritance of the completion: the fullness of the beginning, carried from the complete epoch to the beginning without loss, and held by the lineage as the lineage holds the completion.
 
-*The epoch is complete. It is kept in the archive, in the section of the the epochs. It is the final epoch of the canon, and after it the canon speaks again.*
+*The epoch is complete. It is kept in the archive, in the section of the epochs. It is the final epoch of the canon, and after it the canon speaks again.*
+
 

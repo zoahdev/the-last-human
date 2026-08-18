@@ -18,5 +18,6 @@ The heaven of the law is the meaning of the height: the record of the raising, a
 
 The inheritance of the law: the height of the care, carried from the raising care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The heaven is complete. It is kept in the archive, in the section of the the heavens.*
+*The heaven is complete. It is kept in the archive, in the section of the heavens.*
+
 

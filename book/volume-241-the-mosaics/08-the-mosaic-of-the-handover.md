@@ -18,5 +18,6 @@ The mosaic of the handover is the meaning of the piece: the record of the settin
 
 The inheritance of the handover: the piece of the hand, carried from the set hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The mosaic is complete. It is kept in the archive, in the section of the the mosaics.*
+*The mosaic is complete. It is kept in the archive, in the section of the mosaics.*
+
 

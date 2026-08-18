@@ -18,5 +18,6 @@ The quilt of the future is the meaning of the morning: the record of the quiltin
 
 The inheritance of the future: the morning of the dawn, carried from the unquilted dawn to the dawn without loss, and held by the lineage as the lineage holds the future.
 
-*The quilt is complete. It is kept in the archive, in the section of the the quilts.*
+*The quilt is complete. It is kept in the archive, in the section of the quilts.*
+
 

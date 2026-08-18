@@ -18,5 +18,6 @@ The noon of the garden is the meaning of the noon garden: the record of the stan
 
 The inheritance of the garden: the noon garden of the earth, carried from the noon green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The noon is complete. It is kept in the archive, in the section of the the noons.*
+*The noon is complete. It is kept in the archive, in the section of the noons.*
+
 

@@ -18,5 +18,6 @@ The pattern of the handover is the meaning of the motif: the record of the patte
 
 The inheritance of the handover: the motif of the hand, carried from the patterned hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The pattern is complete. It is kept in the archive, in the section of the the patterns.*
+*The pattern is complete. It is kept in the archive, in the section of the patterns.*
+
 

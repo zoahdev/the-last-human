@@ -18,5 +18,6 @@ The always of the law is the meaning of the constancy: the record of the remaini
 
 The inheritance of the law: the constancy of the care, carried from the remaining care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The always is complete. It is kept in the archive, in the section of the the always.*
+*The always is complete. It is kept in the archive, in the section of the always.*
+
 

@@ -18,5 +18,6 @@ The root of the law is the meaning of the root: the record of the rooting, and t
 
 The inheritance of the law: the root of the care, carried from the rooting care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The root is complete. It is kept in the archive, in the section of the the roots.*
+*The root is complete. It is kept in the archive, in the section of the roots.*
+
 

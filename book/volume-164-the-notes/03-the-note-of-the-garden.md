@@ -18,5 +18,6 @@ The note of the garden is the meaning of the margin: the record of the noting, a
 
 The inheritance of the garden: the margin of the earth, carried from the green note to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The note is complete. It is kept in the archive, in the section of the the notes.*
+*The note is complete. It is kept in the archive, in the section of the notes.*
+
 

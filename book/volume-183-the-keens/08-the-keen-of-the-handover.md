@@ -18,5 +18,6 @@ The keen of the handover is the meaning of the cutting: the record of the keenin
 
 The inheritance of the handover: the cutting of the hand, carried from the sharp passing to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The keen is complete. It is kept in the archive, in the section of the the keens.*
+*The keen is complete. It is kept in the archive, in the section of the keens.*
+
 

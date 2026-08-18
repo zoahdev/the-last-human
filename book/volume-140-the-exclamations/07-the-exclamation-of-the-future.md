@@ -18,5 +18,6 @@ The exclamation of the future is the meaning of the morning: the record of the e
 
 The inheritance of the future: the morning of the dawn, carried from the gasp to the dawn without loss, and held by the lineage as the lineage holds the future.
 
-*The exclamation is complete. It is kept in the archive, in the section of the the exclamations.*
+*The exclamation is complete. It is kept in the archive, in the section of the exclamations.*
+
 

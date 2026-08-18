@@ -18,5 +18,6 @@ The infinity of the memory is the meaning of the series: the record of the exten
 
 The inheritance of the memory: the series of the book, carried from the extended past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The infinity is complete. It is kept in the archive, in the section of the the infinities.*
+*The infinity is complete. It is kept in the archive, in the section of the infinities.*
+
 

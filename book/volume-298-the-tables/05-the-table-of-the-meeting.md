@@ -18,5 +18,6 @@ The table of the meeting is the meaning of the house: the record of the sharing,
 
 The inheritance of the meeting: the house of the table, carried from the family table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The table is complete. It is kept in the archive, in the section of the the tables.*
+*The table is complete. It is kept in the archive, in the section of the tables.*
+
 

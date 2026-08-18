@@ -18,5 +18,6 @@ The feast of the handover is the meaning of the table: the record of the feastin
 
 The inheritance of the handover: the table of the hand, carried from the feasting hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The feast is complete. It is kept in the archive, in the section of the the feasts.*
+*The feast is complete. It is kept in the archive, in the section of the feasts.*
+
 

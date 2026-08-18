@@ -18,5 +18,6 @@ The kindred of the garden is the meaning of the relationship: the record of the 
 
 The inheritance of the garden: the relationship of the earth, carried from the related green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The kindred is complete. It is kept in the archive, in the section of the the kindreds.*
+*The kindred is complete. It is kept in the archive, in the section of the kindreds.*
+
 

@@ -18,5 +18,6 @@ The scholium of the garden is the meaning of the learning: the record of the ann
 
 The inheritance of the garden: the learning of the earth, carried from the learned growth to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The scholium is complete. It is kept in the archive, in the section of the the scholia.*
+*The scholium is complete. It is kept in the archive, in the section of the scholia.*
+
 

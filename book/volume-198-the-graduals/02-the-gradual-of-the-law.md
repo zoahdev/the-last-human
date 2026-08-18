@@ -18,5 +18,6 @@ The gradual of the law is the meaning of the staircase: the record of the climbi
 
 The inheritance of the law: the staircase of the care, carried from the climbing care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The gradual is complete. It is kept in the archive, in the section of the the graduals.*
+*The gradual is complete. It is kept in the archive, in the section of the graduals.*
+
 

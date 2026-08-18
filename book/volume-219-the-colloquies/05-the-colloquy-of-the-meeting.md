@@ -18,5 +18,6 @@ The colloquy of the meeting is the meaning of the exchange: the record of the sp
 
 The inheritance of the meeting: the exchange of the table, carried from the speaking table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The colloquy is complete. It is kept in the archive, in the section of the the colloquies.*
+*The colloquy is complete. It is kept in the archive, in the section of the colloquies.*
+
 

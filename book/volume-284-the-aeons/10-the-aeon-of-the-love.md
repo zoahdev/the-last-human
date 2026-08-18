@@ -18,5 +18,6 @@ The aeon of the love is the meaning of the fire: the record of the spanning, and
 
 The inheritance of the love: the fire of the family, carried from the spanned heart to the family without loss, and held by the lineage as the lineage holds the love.
 
-*The aeon is complete. It is kept in the archive, in the section of the the aeons.*
+*The aeon is complete. It is kept in the archive, in the section of the aeons.*
+
 

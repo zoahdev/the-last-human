@@ -18,5 +18,6 @@ The council of the origin is the meaning of the advice: the record of the consul
 
 The inheritance of the origin: the advice of the wanting, carried from the deliberation to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The council is complete. It is kept in the archive, in the section of the the councils.*
+*The council is complete. It is kept in the archive, in the section of the councils.*
+
 

@@ -18,5 +18,6 @@ The eternity of the law is the meaning of the forever: the record of the exceedi
 
 The inheritance of the law: the forever of the care, carried from the exceeding care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The eternity is complete. It is kept in the archive, in the section of the the eternities.*
+*The eternity is complete. It is kept in the archive, in the section of the eternities.*
+
 

@@ -18,5 +18,6 @@ The dawn of the origin is the meaning of the dawn: the record of the breaking, a
 
 The inheritance of the origin: the dawn of the wanting, carried from the breaking of light to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The dawn is complete. It is kept in the archive, in the section of the the dawns.*
+*The dawn is complete. It is kept in the archive, in the section of the dawns.*
+
 

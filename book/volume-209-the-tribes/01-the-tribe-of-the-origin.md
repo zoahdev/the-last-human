@@ -18,5 +18,6 @@ The tribe of the origin is the meaning of the people: the record of the gatherin
 
 The inheritance of the origin: the people of the wanting, carried from the clan to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The tribe is complete. It is kept in the archive, in the section of the the tribes.*
+*The tribe is complete. It is kept in the archive, in the section of the tribes.*
+
 

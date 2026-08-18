@@ -18,5 +18,6 @@ The window of the garden is the meaning of the bay: the record of the opening, a
 
 The inheritance of the garden: the bay of the earth, carried from the bay green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The window is complete. It is kept in the archive, in the section of the the windows.*
+*The window is complete. It is kept in the archive, in the section of the windows.*
+
 

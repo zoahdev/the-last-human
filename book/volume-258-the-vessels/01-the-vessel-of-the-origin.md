@@ -18,5 +18,6 @@ The vessel of the origin is the meaning of the cup: the record of the holding, a
 
 The inheritance of the origin: the cup of the wanting, carried from the holding thing to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The vessel is complete. It is kept in the archive, in the section of the the vessels.*
+*The vessel is complete. It is kept in the archive, in the section of the vessels.*
+
 

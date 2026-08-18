@@ -18,5 +18,6 @@ The port of the handover is the meaning of the harbor: the record of the arrivin
 
 The inheritance of the handover: the harbor of the hand, carried from the arriving hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The port is complete. It is kept in the archive, in the section of the the ports.*
+*The port is complete. It is kept in the archive, in the section of the ports.*
+
 

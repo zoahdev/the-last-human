@@ -18,5 +18,6 @@ The synod of the memory is the meaning of the proceedings: the record of the sit
 
 The inheritance of the memory: the proceedings of the book, carried from the seated past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The synod is complete. It is kept in the archive, in the section of the the synods.*
+*The synod is complete. It is kept in the archive, in the section of the synods.*
+
 

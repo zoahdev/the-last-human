@@ -18,5 +18,6 @@ The note of the whole is the meaning of the all: the record of the noting, and t
 
 The inheritance of the whole: the all of the one, carried from the complete note to the one without loss, and held by the lineage as the lineage holds the whole.
 
-*The note is complete. It is kept in the archive, in the section of the the notes.*
+*The note is complete. It is kept in the archive, in the section of the notes.*
+
 

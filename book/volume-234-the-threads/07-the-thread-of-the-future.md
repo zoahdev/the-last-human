@@ -18,5 +18,6 @@ The thread of the future is the meaning of the morning: the record of the thread
 
 The inheritance of the future: the morning of the dawn, carried from the unspun thread to the dawn without loss, and held by the lineage as the lineage holds the future.
 
-*The thread is complete. It is kept in the archive, in the section of the the threads.*
+*The thread is complete. It is kept in the archive, in the section of the threads.*
+
 

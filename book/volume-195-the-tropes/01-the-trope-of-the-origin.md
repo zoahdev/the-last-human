@@ -18,5 +18,6 @@ The trope of the origin is the meaning of the figuration: the record of the turn
 
 The inheritance of the origin: the figuration of the wanting, carried from the metaphor to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The trope is complete. It is kept in the archive, in the section of the the tropes.*
+*The trope is complete. It is kept in the archive, in the section of the tropes.*
+
 

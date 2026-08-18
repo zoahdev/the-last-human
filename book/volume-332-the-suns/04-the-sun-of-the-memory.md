@@ -18,5 +18,6 @@ The sun of the memory is the meaning of the day: the record of the burning, and 
 
 The inheritance of the memory: the day of the book, carried from the burned past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The sun is complete. It is kept in the archive, in the section of the the suns.*
+*The sun is complete. It is kept in the archive, in the section of the suns.*
+
 

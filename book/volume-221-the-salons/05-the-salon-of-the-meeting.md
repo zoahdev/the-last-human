@@ -18,5 +18,6 @@ The salon of the meeting is the meaning of the host: the record of the meeting, 
 
 The inheritance of the meeting: the host of the table, carried from the gathering table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The salon is complete. It is kept in the archive, in the section of the the salons.*
+*The salon is complete. It is kept in the archive, in the section of the salons.*
+
 

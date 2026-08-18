@@ -18,5 +18,6 @@ The aeon of the meeting is the meaning of the aeon: the record of the spanning, 
 
 The inheritance of the meeting: the aeon of the table, carried from the spanned table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The aeon is complete. It is kept in the archive, in the section of the the aeons.*
+*The aeon is complete. It is kept in the archive, in the section of the aeons.*
+
 

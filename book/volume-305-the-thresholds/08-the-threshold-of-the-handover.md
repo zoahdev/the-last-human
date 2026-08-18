@@ -18,5 +18,6 @@ The threshold of the handover is the meaning of the lintel: the record of the cr
 
 The inheritance of the handover: the lintel of the hand, carried from the crossing hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The threshold is complete. It is kept in the archive, in the section of the the thresholds.*
+*The threshold is complete. It is kept in the archive, in the section of the thresholds.*
+
 

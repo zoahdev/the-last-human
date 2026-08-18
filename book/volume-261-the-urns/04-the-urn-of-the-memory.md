@@ -18,5 +18,6 @@ The urn of the memory is the meaning of the ashes: the record of the keeping, an
 
 The inheritance of the memory: the ashes of the book, carried from the kept past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The urn is complete. It is kept in the archive, in the section of the the urns.*
+*The urn is complete. It is kept in the archive, in the section of the urns.*
+
 

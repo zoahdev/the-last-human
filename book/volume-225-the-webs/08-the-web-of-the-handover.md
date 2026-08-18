@@ -18,5 +18,6 @@ The web of the handover is the meaning of the strand: the record of the weaving,
 
 The inheritance of the handover: the strand of the hand, carried from the woven hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The web is complete. It is kept in the archive, in the section of the the webs.*
+*The web is complete. It is kept in the archive, in the section of the webs.*
+
 

@@ -18,5 +18,6 @@ The couplet of the origin is the meaning of the rhyme: the record of the pairing
 
 The inheritance of the origin: the rhyme of the wanting, carried from the pair to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The couplet is complete. It is kept in the archive, in the section of the the couplets.*
+*The couplet is complete. It is kept in the archive, in the section of the couplets.*
+
 

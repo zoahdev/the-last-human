@@ -18,5 +18,6 @@ The age of the memory is the meaning of the epoch: the record of the aging, and 
 
 The inheritance of the memory: the epoch of the book, carried from the aged past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The age is complete. It is kept in the archive, in the section of the the ages.*
+*The age is complete. It is kept in the archive, in the section of the ages.*
+
 

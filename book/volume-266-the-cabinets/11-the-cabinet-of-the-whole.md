@@ -18,5 +18,6 @@ The cabinet of the whole is the meaning of the all: the record of the arranging,
 
 The inheritance of the whole: the all of the one, carried from the one cabinet to the one without loss, and held by the lineage as the lineage holds the whole.
 
-*The cabinet is complete. It is kept in the archive, in the section of the the cabinets.*
+*The cabinet is complete. It is kept in the archive, in the section of the cabinets.*
+
 

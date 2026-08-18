@@ -18,5 +18,6 @@ The treasure of the memory is the meaning of the treasure: the record of the tre
 
 The inheritance of the memory: the treasure of the book, carried from the treasured past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The treasure is complete. It is kept in the archive, in the section of the the treasures.*
+*The treasure is complete. It is kept in the archive, in the section of the treasures.*
+
 

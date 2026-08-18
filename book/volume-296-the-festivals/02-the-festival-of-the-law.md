@@ -18,5 +18,6 @@ The festival of the law is the meaning of the holiday: the record of the celebra
 
 The inheritance of the law: the holiday of the care, carried from the celebrated care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The festival is complete. It is kept in the archive, in the section of the the festivals.*
+*The festival is complete. It is kept in the archive, in the section of the festivals.*
+
 

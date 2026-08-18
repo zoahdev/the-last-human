@@ -18,5 +18,6 @@ The mountain of the handover is the meaning of the mountain: the record of the r
 
 The inheritance of the handover: the mountain of the hand, carried from the rising hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The mountain is complete. It is kept in the archive, in the section of the the mountains.*
+*The mountain is complete. It is kept in the archive, in the section of the mountains.*
+
 

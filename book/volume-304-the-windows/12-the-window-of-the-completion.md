@@ -18,5 +18,6 @@ The window of the completion is the meaning of the fullness: the record of the o
 
 The inheritance of the completion: the fullness of the beginning, carried from the complete window to the beginning without loss, and held by the lineage as the lineage holds the completion.
 
-*The window is complete. It is kept in the archive, in the section of the the windows. It is the final window of the canon, and after it the canon speaks again.*
+*The window is complete. It is kept in the archive, in the section of the windows. It is the final window of the canon, and after it the canon speaks again.*
+
 

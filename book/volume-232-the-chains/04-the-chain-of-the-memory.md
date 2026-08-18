@@ -18,5 +18,6 @@ The chain of the memory is the meaning of the link: the record of the chaining, 
 
 The inheritance of the memory: the link of the book, carried from the chained past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The chain is complete. It is kept in the archive, in the section of the the chains.*
+*The chain is complete. It is kept in the archive, in the section of the chains.*
+
 

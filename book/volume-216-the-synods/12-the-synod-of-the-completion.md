@@ -18,5 +18,6 @@ The synod of the completion is the meaning of the fullness: the record of the si
 
 The inheritance of the completion: the fullness of the beginning, carried from the full synod to the beginning without loss, and held by the lineage as the lineage holds the completion.
 
-*The synod is complete. It is kept in the archive, in the section of the the synods. It is the final synod of the canon, and after it the canon speaks again.*
+*The synod is complete. It is kept in the archive, in the section of the synods. It is the final synod of the canon, and after it the canon speaks again.*
+
 

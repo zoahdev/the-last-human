@@ -18,5 +18,6 @@ The template of the future is the meaning of the morning: the record of the cutt
 
 The inheritance of the future: the morning of the dawn, carried from the uncut template to the dawn without loss, and held by the lineage as the lineage holds the future.
 
-*The template is complete. It is kept in the archive, in the section of the the templates.*
+*The template is complete. It is kept in the archive, in the section of the templates.*
+
 

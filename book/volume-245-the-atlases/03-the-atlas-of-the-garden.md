@@ -18,5 +18,6 @@ The atlas of the garden is the meaning of the globe: the record of the carrying,
 
 The inheritance of the garden: the globe of the earth, carried from the carried green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The atlas is complete. It is kept in the archive, in the section of the the atlases.*
+*The atlas is complete. It is kept in the archive, in the section of the atlases.*
+
 

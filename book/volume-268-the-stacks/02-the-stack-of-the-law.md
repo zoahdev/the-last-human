@@ -18,5 +18,6 @@ The stack of the law is the meaning of the stack: the record of the stacking, an
 
 The inheritance of the law: the stack of the care, carried from the stacked care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The stack is complete. It is kept in the archive, in the section of the the stacks.*
+*The stack is complete. It is kept in the archive, in the section of the stacks.*
+
 

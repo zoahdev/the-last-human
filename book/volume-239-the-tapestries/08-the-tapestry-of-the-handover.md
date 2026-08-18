@@ -18,5 +18,6 @@ The tapestry of the handover is the meaning of the thread: the record of the han
 
 The inheritance of the handover: the thread of the hand, carried from the passed weaving to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The tapestry is complete. It is kept in the archive, in the section of the the tapestries.*
+*The tapestry is complete. It is kept in the archive, in the section of the tapestries.*
+
 

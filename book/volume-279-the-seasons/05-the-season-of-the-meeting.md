@@ -18,5 +18,6 @@ The season of the meeting is the meaning of the festival: the record of the seas
 
 The inheritance of the meeting: the festival of the table, carried from the seasonal table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The season is complete. It is kept in the archive, in the section of the the seasons.*
+*The season is complete. It is kept in the archive, in the section of the seasons.*
+
 

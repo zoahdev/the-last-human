@@ -18,5 +18,6 @@ The ode of the future is the meaning of the morning: the record of the soaring, 
 
 The inheritance of the future: the morning of the dawn, carried from the rising flight to the dawn without loss, and held by the lineage as the lineage holds the future.
 
-*The ode is complete. It is kept in the archive, in the section of the the odes.*
+*The ode is complete. It is kept in the archive, in the section of the odes.*
+
 

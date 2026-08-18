@@ -18,5 +18,6 @@ The gathering of the future is the meaning of the morning: the record of the gat
 
 The inheritance of the future: the morning of the dawn, carried from the awaited dawn to the dawn without loss, and held by the lineage as the lineage holds the future.
 
-*The gathering is complete. It is kept in the archive, in the section of the the gatherings.*
+*The gathering is complete. It is kept in the archive, in the section of the gatherings.*
+
 

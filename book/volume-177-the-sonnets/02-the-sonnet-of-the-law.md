@@ -18,5 +18,6 @@ The sonnet of the law is the meaning of the rhyme scheme: the record of the bind
 
 The inheritance of the law: the rhyme scheme of the care, carried from the binding care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The sonnet is complete. It is kept in the archive, in the section of the the sonnets.*
+*The sonnet is complete. It is kept in the archive, in the section of the sonnets.*
+
 

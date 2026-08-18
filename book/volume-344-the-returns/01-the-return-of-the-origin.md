@@ -18,5 +18,6 @@ The return of the origin is the meaning of the road: the record of the returning
 
 The inheritance of the origin: the road of the wanting, carried from the coming back to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The return is complete. It is kept in the archive, in the section of the the returns.*
+*The return is complete. It is kept in the archive, in the section of the returns.*
+
 

@@ -18,5 +18,6 @@ The ring of the law is the meaning of the chime: the record of the ringing, and 
 
 The inheritance of the law: the chime of the care, carried from the ringing care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The ring is complete. It is kept in the archive, in the section of the the rings.*
+*The ring is complete. It is kept in the archive, in the section of the rings.*
+
 

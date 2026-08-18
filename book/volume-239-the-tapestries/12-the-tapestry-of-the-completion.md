@@ -18,5 +18,6 @@ The tapestry of the completion is the meaning of the fullness: the record of the
 
 The inheritance of the completion: the fullness of the beginning, carried from the complete tapestry to the beginning without loss, and held by the lineage as the lineage holds the completion.
 
-*The tapestry is complete. It is kept in the archive, in the section of the the tapestries. It is the final tapestry of the canon, and after it the canon speaks again.*
+*The tapestry is complete. It is kept in the archive, in the section of the tapestries. It is the final tapestry of the canon, and after it the canon speaks again.*
+
 

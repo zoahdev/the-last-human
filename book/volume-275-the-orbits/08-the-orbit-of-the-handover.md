@@ -18,5 +18,6 @@ The orbit of the handover is the meaning of the path: the record of the orbiting
 
 The inheritance of the handover: the path of the hand, carried from the orbited hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The orbit is complete. It is kept in the archive, in the section of the the orbits.*
+*The orbit is complete. It is kept in the archive, in the section of the orbits.*
+
 

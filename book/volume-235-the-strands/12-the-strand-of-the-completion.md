@@ -18,5 +18,6 @@ The strand of the completion is the meaning of the fullness: the record of the s
 
 The inheritance of the completion: the fullness of the beginning, carried from the complete strand to the beginning without loss, and held by the lineage as the lineage holds the completion.
 
-*The strand is complete. It is kept in the archive, in the section of the the strands. It is the final strand of the canon, and after it the canon speaks again.*
+*The strand is complete. It is kept in the archive, in the section of the strands. It is the final strand of the canon, and after it the canon speaks again.*
+
 

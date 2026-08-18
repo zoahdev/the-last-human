@@ -18,5 +18,6 @@ The cry of the memory is the meaning of the lullaby: the record of the crying, a
 
 The inheritance of the memory: the lullaby of the book, carried from the crying memory to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The cry is complete. It is kept in the archive, in the section of the the cries.*
+*The cry is complete. It is kept in the archive, in the section of the cries.*
+
 

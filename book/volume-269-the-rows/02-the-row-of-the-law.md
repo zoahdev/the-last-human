@@ -18,5 +18,6 @@ The row of the law is the meaning of the row: the record of the rowing, and the 
 
 The inheritance of the law: the row of the care, carried from the rowed care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The row is complete. It is kept in the archive, in the section of the the rows.*
+*The row is complete. It is kept in the archive, in the section of the rows.*
+
 

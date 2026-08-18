@@ -18,5 +18,6 @@ The threshold of the abolition is the meaning of the freedom: the record of the 
 
 The inheritance of the abolition: the freedom of the peace, carried from the crossed threshold to the peace without loss, and held by the lineage as the lineage holds the abolition.
 
-*The threshold is complete. It is kept in the archive, in the section of the the thresholds.*
+*The threshold is complete. It is kept in the archive, in the section of the thresholds.*
+
 

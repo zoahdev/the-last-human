@@ -18,5 +18,6 @@ The letter of the deep of the memory is the meaning of the envelope: the record 
 
 The inheritance of the memory: the envelope of the book, carried from the correspondence to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The letter of the deep is complete. It is kept in the archive, in the section of the the letters of the deep.*
+*The letter of the deep is complete. It is kept in the archive, in the section of the letters of the deep.*
+
 

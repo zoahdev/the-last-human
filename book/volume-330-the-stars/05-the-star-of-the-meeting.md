@@ -18,5 +18,6 @@ The star of the meeting is the meaning of the sky: the record of the shining, an
 
 The inheritance of the meeting: the sky of the table, carried from the star table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The star is complete. It is kept in the archive, in the section of the the stars.*
+*The star is complete. It is kept in the archive, in the section of the stars.*
+
 

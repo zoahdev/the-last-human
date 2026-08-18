@@ -18,5 +18,6 @@ The synod of the handover is the meaning of the throne: the record of the sittin
 
 The inheritance of the handover: the throne of the hand, carried from the seated hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The synod is complete. It is kept in the archive, in the section of the the synods.*
+*The synod is complete. It is kept in the archive, in the section of the synods.*
+
 

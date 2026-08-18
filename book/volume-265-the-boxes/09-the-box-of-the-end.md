@@ -18,5 +18,6 @@ The box of the end is the meaning of the quiet: the record of the boxing, and th
 
 The inheritance of the end: the quiet of the whole, carried from the final box to the whole without loss, and held by the lineage as the lineage holds the end.
 
-*The box is complete. It is kept in the archive, in the section of the the boxes.*
+*The box is complete. It is kept in the archive, in the section of the boxes.*
+
 

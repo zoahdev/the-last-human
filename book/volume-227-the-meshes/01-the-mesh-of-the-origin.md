@@ -18,5 +18,6 @@ The mesh of the origin is the meaning of the grille: the record of the meshing, 
 
 The inheritance of the origin: the grille of the wanting, carried from the lattice to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The mesh is complete. It is kept in the archive, in the section of the the meshes.*
+*The mesh is complete. It is kept in the archive, in the section of the meshes.*
+
 

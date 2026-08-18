@@ -18,5 +18,6 @@ The window of the love is the meaning of the fire: the record of the opening, an
 
 The inheritance of the love: the fire of the family, carried from the bright heart to the family without loss, and held by the lineage as the lineage holds the love.
 
-*The window is complete. It is kept in the archive, in the section of the the windows.*
+*The window is complete. It is kept in the archive, in the section of the windows.*
+
 

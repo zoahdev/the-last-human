@@ -18,5 +18,6 @@ The sequence of the garden is the meaning of the sprouting: the record of the fo
 
 The inheritance of the garden: the sprouting of the earth, carried from the following green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The sequence is complete. It is kept in the archive, in the section of the the sequences.*
+*The sequence is complete. It is kept in the archive, in the section of the sequences.*
+
 

@@ -18,5 +18,6 @@ The distich of the memory is the meaning of the chain: the record of the linking
 
 The inheritance of the memory: the chain of the book, carried from the linked lines to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The distich is complete. It is kept in the archive, in the section of the the distichs.*
+*The distich is complete. It is kept in the archive, in the section of the distichs.*
+
 

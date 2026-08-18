@@ -18,5 +18,6 @@ The prairie of the love is the meaning of the fire: the record of the stretching
 
 The inheritance of the love: the fire of the family, carried from the stretching heart to the family without loss, and held by the lineage as the lineage holds the love.
 
-*The prairie is complete. It is kept in the archive, in the section of the the prairies.*
+*The prairie is complete. It is kept in the archive, in the section of the prairies.*
+
 

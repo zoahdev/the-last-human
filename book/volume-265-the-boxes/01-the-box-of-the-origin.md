@@ -18,5 +18,6 @@ The box of the origin is the meaning of the container: the record of the boxing,
 
 The inheritance of the origin: the container of the wanting, carried from the container to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The box is complete. It is kept in the archive, in the section of the the boxes.*
+*The box is complete. It is kept in the archive, in the section of the boxes.*
+
 

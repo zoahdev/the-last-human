@@ -18,5 +18,6 @@ The prairie of the whole is the meaning of the all: the record of the stretching
 
 The inheritance of the whole: the all of the one, carried from the one prairie to the one without loss, and held by the lineage as the lineage holds the whole.
 
-*The prairie is complete. It is kept in the archive, in the section of the the prairies.*
+*The prairie is complete. It is kept in the archive, in the section of the prairies.*
+
 

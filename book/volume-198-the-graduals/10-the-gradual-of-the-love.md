@@ -18,5 +18,6 @@ The gradual of the love is the meaning of the fire: the record of the climbing, 
 
 The inheritance of the love: the fire of the family, carried from the climbing heart to the family without loss, and held by the lineage as the lineage holds the love.
 
-*The gradual is complete. It is kept in the archive, in the section of the the graduals.*
+*The gradual is complete. It is kept in the archive, in the section of the graduals.*
+
 

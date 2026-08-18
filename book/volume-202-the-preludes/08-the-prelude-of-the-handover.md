@@ -18,5 +18,6 @@ The prelude of the handover is the meaning of the greeting: the record of the pl
 
 The inheritance of the handover: the greeting of the hand, carried from the opening hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The prelude is complete. It is kept in the archive, in the section of the the preludes.*
+*The prelude is complete. It is kept in the archive, in the section of the preludes.*
+
 

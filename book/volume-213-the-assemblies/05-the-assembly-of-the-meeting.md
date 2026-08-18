@@ -18,5 +18,6 @@ The assembly of the meeting is the meaning of the session: the record of the ass
 
 The inheritance of the meeting: the session of the table, carried from the assembled table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The assembly is complete. It is kept in the archive, in the section of the the assemblies.*
+*The assembly is complete. It is kept in the archive, in the section of the assemblies.*
+
 

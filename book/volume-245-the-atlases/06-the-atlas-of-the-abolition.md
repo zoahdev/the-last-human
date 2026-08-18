@@ -18,5 +18,6 @@ The atlas of the abolition is the meaning of the freedom: the record of the carr
 
 The inheritance of the abolition: the freedom of the peace, carried from the unburdened peace to the peace without loss, and held by the lineage as the lineage holds the abolition.
 
-*The atlas is complete. It is kept in the archive, in the section of the the atlases.*
+*The atlas is complete. It is kept in the archive, in the section of the atlases.*
+
 

@@ -18,5 +18,6 @@ The assembly of the memory is the meaning of the minutes: the record of the asse
 
 The inheritance of the memory: the minutes of the book, carried from the assembled past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The assembly is complete. It is kept in the archive, in the section of the the assemblies.*
+*The assembly is complete. It is kept in the archive, in the section of the assemblies.*
+
 

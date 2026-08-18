@@ -18,5 +18,6 @@ The office of the meeting is the meaning of the rite: the record of the officiat
 
 The inheritance of the meeting: the rite of the table, carried from the liturgy to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The office is complete. It is kept in the archive, in the section of the the offices.*
+*The office is complete. It is kept in the archive, in the section of the offices.*
+
 

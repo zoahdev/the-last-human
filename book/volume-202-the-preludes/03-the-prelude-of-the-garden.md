@@ -18,5 +18,6 @@ The prelude of the garden is the meaning of the morning: the record of the playi
 
 The inheritance of the garden: the morning of the earth, carried from the opening green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The prelude is complete. It is kept in the archive, in the section of the the preludes.*
+*The prelude is complete. It is kept in the archive, in the section of the preludes.*
+
 

@@ -18,5 +18,6 @@ The chain of the completion is the meaning of the fullness: the record of the ch
 
 The inheritance of the completion: the fullness of the beginning, carried from the complete chain to the beginning without loss, and held by the lineage as the lineage holds the completion.
 
-*The chain is complete. It is kept in the archive, in the section of the the chains. It is the final chain of the canon, and after it the canon speaks again.*
+*The chain is complete. It is kept in the archive, in the section of the chains. It is the final chain of the canon, and after it the canon speaks again.*
+
 

@@ -18,5 +18,6 @@ The prairie of the origin is the meaning of the prairie: the record of the stret
 
 The inheritance of the origin: the prairie of the wanting, carried from the grassland to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The prairie is complete. It is kept in the archive, in the section of the the prairies.*
+*The prairie is complete. It is kept in the archive, in the section of the prairies.*
+
 

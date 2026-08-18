@@ -18,5 +18,6 @@ The ode of the completion is the meaning of the fullness: the record of the soar
 
 The inheritance of the completion: the fullness of the beginning, carried from the completed flight to the beginning without loss, and held by the lineage as the lineage holds the completion.
 
-*The ode is complete. It is kept in the archive, in the section of the the odes. It is the final ode of the canon, and after it the canon speaks again.*
+*The ode is complete. It is kept in the archive, in the section of the odes. It is the final ode of the canon, and after it the canon speaks again.*
+
 

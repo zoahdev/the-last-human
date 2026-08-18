@@ -18,5 +18,6 @@ The verse of the meeting is the meaning of the recitation: the record of the ver
 
 The inheritance of the meeting: the recitation of the table, carried from the shared line to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The verse is complete. It is kept in the archive, in the section of the the verses.*
+*The verse is complete. It is kept in the archive, in the section of the verses.*
+
 

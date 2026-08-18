@@ -18,5 +18,6 @@ The threnody of the meeting is the meaning of the sorrow: the record of the weep
 
 The inheritance of the meeting: the sorrow of the table, carried from the weeping table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The threnody is complete. It is kept in the archive, in the section of the the threnodies.*
+*The threnody is complete. It is kept in the archive, in the section of the threnodies.*
+
 

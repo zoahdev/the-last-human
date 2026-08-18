@@ -18,5 +18,6 @@ The gift of the handover is the meaning of the gift: the record of the giving, a
 
 The inheritance of the handover: the gift of the hand, carried from the giving hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The gift is complete. It is kept in the archive, in the section of the the gifts.*
+*The gift is complete. It is kept in the archive, in the section of the gifts.*
+
 

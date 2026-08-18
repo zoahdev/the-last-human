@@ -18,5 +18,6 @@ The assembly of the end is the meaning of the quiet: the record of the assemblin
 
 The inheritance of the end: the quiet of the whole, carried from the final assembly to the whole without loss, and held by the lineage as the lineage holds the end.
 
-*The assembly is complete. It is kept in the archive, in the section of the the assemblies.*
+*The assembly is complete. It is kept in the archive, in the section of the assemblies.*
+
 

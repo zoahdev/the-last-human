@@ -18,5 +18,6 @@ The row of the memory is the meaning of the line: the record of the rowing, and 
 
 The inheritance of the memory: the line of the book, carried from the rowed past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The row is complete. It is kept in the archive, in the section of the the rows.*
+*The row is complete. It is kept in the archive, in the section of the rows.*
+
 

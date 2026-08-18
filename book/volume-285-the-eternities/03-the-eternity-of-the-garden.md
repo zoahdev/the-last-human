@@ -18,5 +18,6 @@ The eternity of the garden is the meaning of the evergreen: the record of the ex
 
 The inheritance of the garden: the evergreen of the earth, carried from the everlasting green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The eternity is complete. It is kept in the archive, in the section of the the eternities.*
+*The eternity is complete. It is kept in the archive, in the section of the eternities.*
+
 

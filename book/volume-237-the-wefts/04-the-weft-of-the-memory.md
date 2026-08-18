@@ -18,5 +18,6 @@ The weft of the memory is the meaning of the needlework: the record of the weavi
 
 The inheritance of the memory: the needlework of the book, carried from the threaded cloth to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The weft is complete. It is kept in the archive, in the section of the the wefts.*
+*The weft is complete. It is kept in the archive, in the section of the wefts.*
+
 

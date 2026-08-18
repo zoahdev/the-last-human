@@ -18,5 +18,6 @@ The treasure of the future is the meaning of the morning: the record of the trea
 
 The inheritance of the future: the morning of the dawn, carried from the untreasure to the dawn without loss, and held by the lineage as the lineage holds the future.
 
-*The treasure is complete. It is kept in the archive, in the section of the the treasures.*
+*The treasure is complete. It is kept in the archive, in the section of the treasures.*
+
 

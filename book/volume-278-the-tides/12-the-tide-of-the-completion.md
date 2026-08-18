@@ -18,5 +18,6 @@ The tide of the completion is the meaning of the fullness: the record of the tid
 
 The inheritance of the completion: the fullness of the beginning, carried from the complete tide to the beginning without loss, and held by the lineage as the lineage holds the completion.
 
-*The tide is complete. It is kept in the archive, in the section of the the tides. It is the final tide of the canon, and after it the canon speaks again.*
+*The tide is complete. It is kept in the archive, in the section of the tides. It is the final tide of the canon, and after it the canon speaks again.*
+
 

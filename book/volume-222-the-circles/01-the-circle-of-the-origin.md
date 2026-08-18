@@ -18,5 +18,6 @@ The circle of the origin is the meaning of the ring: the record of the circling,
 
 The inheritance of the origin: the ring of the wanting, carried from the gathering in the round to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The circle is complete. It is kept in the archive, in the section of the the circles.*
+*The circle is complete. It is kept in the archive, in the section of the circles.*
+
 

@@ -18,5 +18,6 @@ The conclave of the handover is the meaning of the choice: the record of the clo
 
 The inheritance of the handover: the choice of the hand, carried from the chosen hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The conclave is complete. It is kept in the archive, in the section of the the conclaves.*
+*The conclave is complete. It is kept in the archive, in the section of the conclaves.*
+
 

@@ -18,5 +18,6 @@ The summer of the handover is the meaning of the sun: the record of the ripening
 
 The inheritance of the handover: the sun of the hand, carried from the ripened hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The summer is complete. It is kept in the archive, in the section of the the summers.*
+*The summer is complete. It is kept in the archive, in the section of the summers.*
+
 

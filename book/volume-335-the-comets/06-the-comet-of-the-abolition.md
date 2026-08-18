@@ -18,5 +18,6 @@ The comet of the abolition is the meaning of the freedom: the record of the stre
 
 The inheritance of the abolition: the freedom of the peace, carried from the returning comet to the peace without loss, and held by the lineage as the lineage holds the abolition.
 
-*The comet is complete. It is kept in the archive, in the section of the the comets.*
+*The comet is complete. It is kept in the archive, in the section of the comets.*
+
 

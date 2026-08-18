@@ -18,5 +18,6 @@ The ode of the meeting is the meaning of the elevation: the record of the soarin
 
 The inheritance of the meeting: the elevation of the table, carried from the soaring table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The ode is complete. It is kept in the archive, in the section of the the odes.*
+*The ode is complete. It is kept in the archive, in the section of the odes.*
+
 

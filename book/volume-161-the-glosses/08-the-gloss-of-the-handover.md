@@ -18,5 +18,6 @@ The gloss of the handover is the meaning of the remark: the record of the glossi
 
 The inheritance of the handover: the remark of the hand, carried from the passing note to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The gloss is complete. It is kept in the archive, in the section of the the glosses.*
+*The gloss is complete. It is kept in the archive, in the section of the glosses.*
+
 

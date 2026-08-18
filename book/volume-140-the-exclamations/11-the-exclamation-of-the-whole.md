@@ -18,5 +18,6 @@ The exclamation of the whole is the meaning of the all: the record of the exclai
 
 The inheritance of the whole: the all of the one, carried from the universe to the one without loss, and held by the lineage as the lineage holds the whole.
 
-*The exclamation is complete. It is kept in the archive, in the section of the the exclamations.*
+*The exclamation is complete. It is kept in the archive, in the section of the exclamations.*
+
 

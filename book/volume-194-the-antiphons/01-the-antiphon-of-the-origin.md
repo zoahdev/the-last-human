@@ -18,5 +18,6 @@ The antiphon of the origin is the meaning of the song: the record of the respond
 
 The inheritance of the origin: the song of the wanting, carried from the answering song to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The antiphon is complete. It is kept in the archive, in the section of the the antiphons.*
+*The antiphon is complete. It is kept in the archive, in the section of the antiphons.*
+
 

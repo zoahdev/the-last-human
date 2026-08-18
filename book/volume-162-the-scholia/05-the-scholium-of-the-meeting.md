@@ -18,5 +18,6 @@ The scholium of the meeting is the meaning of the study: the record of the annot
 
 The inheritance of the meeting: the study of the table, carried from the seminar to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The scholium is complete. It is kept in the archive, in the section of the the scholia.*
+*The scholium is complete. It is kept in the archive, in the section of the scholia.*
+
 

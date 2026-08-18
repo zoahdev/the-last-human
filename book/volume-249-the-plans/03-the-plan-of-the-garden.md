@@ -18,5 +18,6 @@ The plan of the garden is the meaning of the bed: the record of the planning, an
 
 The inheritance of the garden: the bed of the earth, carried from the planned green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The plan is complete. It is kept in the archive, in the section of the the plans.*
+*The plan is complete. It is kept in the archive, in the section of the plans.*
+
 

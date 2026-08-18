@@ -18,5 +18,6 @@ The hymn of the love is the meaning of the fire: the record of the singing, and 
 
 The inheritance of the love: the fire of the family, carried from the soprano to the family without loss, and held by the lineage as the lineage holds the love.
 
-*The hymn is complete. It is kept in the archive, in the section of the the hymns.*
+*The hymn is complete. It is kept in the archive, in the section of the hymns.*
+
 

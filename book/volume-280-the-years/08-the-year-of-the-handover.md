@@ -18,5 +18,6 @@ The year of the handover is the meaning of the clock: the record of the counting
 
 The inheritance of the handover: the clock of the hand, carried from the counted hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The year is complete. It is kept in the archive, in the section of the the years.*
+*The year is complete. It is kept in the archive, in the section of the years.*
+
 

@@ -18,5 +18,6 @@ The stream of the love is the meaning of the fire: the record of the streaming, 
 
 The inheritance of the love: the fire of the family, carried from the streaming heart to the family without loss, and held by the lineage as the lineage holds the love.
 
-*The stream is complete. It is kept in the archive, in the section of the the streams.*
+*The stream is complete. It is kept in the archive, in the section of the streams.*
+
 

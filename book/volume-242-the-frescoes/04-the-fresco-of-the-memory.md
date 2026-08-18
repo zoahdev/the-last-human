@@ -18,5 +18,6 @@ The fresco of the memory is the meaning of the painting: the record of the fresc
 
 The inheritance of the memory: the painting of the book, carried from the frescoed past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The fresco is complete. It is kept in the archive, in the section of the the frescoes.*
+*The fresco is complete. It is kept in the archive, in the section of the frescoes.*
+
 

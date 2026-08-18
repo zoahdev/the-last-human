@@ -18,5 +18,6 @@ The verse of the garden is the meaning of the bouquet: the record of the versing
 
 The inheritance of the garden: the bouquet of the earth, carried from the flowering line to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The verse is complete. It is kept in the archive, in the section of the the verses.*
+*The verse is complete. It is kept in the archive, in the section of the verses.*
+
 

@@ -18,5 +18,6 @@ The assembly of the law is the meaning of the legislation: the record of the ass
 
 The inheritance of the law: the legislation of the care, carried from the assembled care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The assembly is complete. It is kept in the archive, in the section of the the assemblies.*
+*The assembly is complete. It is kept in the archive, in the section of the assemblies.*
+
 

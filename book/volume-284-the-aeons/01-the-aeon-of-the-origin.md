@@ -18,5 +18,6 @@ The aeon of the origin is the meaning of the cosmos: the record of the spanning,
 
 The inheritance of the origin: the cosmos of the wanting, carried from the span to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The aeon is complete. It is kept in the archive, in the section of the the aeons.*
+*The aeon is complete. It is kept in the archive, in the section of the aeons.*
+
 

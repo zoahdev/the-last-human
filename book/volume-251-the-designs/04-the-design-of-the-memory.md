@@ -18,5 +18,6 @@ The design of the memory is the meaning of the pattern: the record of the design
 
 The inheritance of the memory: the pattern of the book, carried from the designed past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The design is complete. It is kept in the archive, in the section of the the designs.*
+*The design is complete. It is kept in the archive, in the section of the designs.*
+
 

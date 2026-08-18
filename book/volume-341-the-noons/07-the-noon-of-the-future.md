@@ -18,5 +18,6 @@ The noon of the future is the meaning of the morning: the record of the standing
 
 The inheritance of the future: the morning of the dawn, carried from the coming noon to the dawn without loss, and held by the lineage as the lineage holds the future.
 
-*The noon is complete. It is kept in the archive, in the section of the the noons.*
+*The noon is complete. It is kept in the archive, in the section of the noons.*
+
 

@@ -18,5 +18,6 @@ The threnody of the completion is the meaning of the fullness: the record of the
 
 The inheritance of the completion: the fullness of the beginning, carried from the consolation to the beginning without loss, and held by the lineage as the lineage holds the completion.
 
-*The threnody is complete. It is kept in the archive, in the section of the the threnodies. It is the final threnody of the canon, and after it the canon speaks again.*
+*The threnody is complete. It is kept in the archive, in the section of the threnodies. It is the final threnody of the canon, and after it the canon speaks again.*
+
 

@@ -18,5 +18,6 @@ The year of the memory is the meaning of the annal: the record of the counting, 
 
 The inheritance of the memory: the annal of the book, carried from the counted past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The year is complete. It is kept in the archive, in the section of the the years.*
+*The year is complete. It is kept in the archive, in the section of the years.*
+
 

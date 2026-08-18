@@ -18,5 +18,6 @@ The pericope of the law is the meaning of the measure: the record of the cutting
 
 The inheritance of the law: the measure of the care, carried from the measured cut to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The pericope is complete. It is kept in the archive, in the section of the the pericopes.*
+*The pericope is complete. It is kept in the archive, in the section of the pericopes.*
+
 

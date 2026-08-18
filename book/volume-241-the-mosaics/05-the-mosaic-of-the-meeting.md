@@ -18,5 +18,6 @@ The mosaic of the meeting is the meaning of the fragment: the record of the sett
 
 The inheritance of the meeting: the fragment of the table, carried from the mosaic table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The mosaic is complete. It is kept in the archive, in the section of the the mosaics.*
+*The mosaic is complete. It is kept in the archive, in the section of the mosaics.*
+
 

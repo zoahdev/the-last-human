@@ -18,5 +18,6 @@ The chorus of the meeting is the meaning of the assembly: the record of the chor
 
 The inheritance of the meeting: the assembly of the table, carried from the choral table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The chorus is complete. It is kept in the archive, in the section of the the choruses.*
+*The chorus is complete. It is kept in the archive, in the section of the choruses.*
+
 

@@ -18,5 +18,6 @@ The template of the meeting is the meaning of the stencil: the record of the cut
 
 The inheritance of the meeting: the stencil of the table, carried from the cut table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The template is complete. It is kept in the archive, in the section of the the templates.*
+*The template is complete. It is kept in the archive, in the section of the templates.*
+
 

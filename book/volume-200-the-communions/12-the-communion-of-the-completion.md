@@ -18,5 +18,6 @@ The communion of the completion is the meaning of the fullness: the record of th
 
 The inheritance of the completion: the fullness of the beginning, carried from the complete communion to the beginning without loss, and held by the lineage as the lineage holds the completion.
 
-*The communion is complete. It is kept in the archive, in the section of the the communions. It is the final communion of the canon, and after it the canon speaks again.*
+*The communion is complete. It is kept in the archive, in the section of the communions. It is the final communion of the canon, and after it the canon speaks again.*
+
 

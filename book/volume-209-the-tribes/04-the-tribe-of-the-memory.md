@@ -18,5 +18,6 @@ The tribe of the memory is the meaning of the legend: the record of the gatherin
 
 The inheritance of the memory: the legend of the book, carried from the tribal past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The tribe is complete. It is kept in the archive, in the section of the the tribes.*
+*The tribe is complete. It is kept in the archive, in the section of the tribes.*
+
 

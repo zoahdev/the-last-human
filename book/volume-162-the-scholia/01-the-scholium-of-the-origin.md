@@ -18,5 +18,6 @@ The scholium of the origin is the meaning of the reading: the record of the anno
 
 The inheritance of the origin: the reading of the wanting, carried from the interpretation to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The scholium is complete. It is kept in the archive, in the section of the the scholia.*
+*The scholium is complete. It is kept in the archive, in the section of the scholia.*
+
 

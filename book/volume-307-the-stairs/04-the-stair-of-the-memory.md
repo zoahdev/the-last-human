@@ -18,5 +18,6 @@ The stair of the memory is the meaning of the staircase: the record of the windi
 
 The inheritance of the memory: the staircase of the book, carried from the winding past to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The stair is complete. It is kept in the archive, in the section of the the stairs.*
+*The stair is complete. It is kept in the archive, in the section of the stairs.*
+
 

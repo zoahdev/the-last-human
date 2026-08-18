@@ -18,5 +18,6 @@ The spring of the handover is the meaning of the well: the record of the springi
 
 The inheritance of the handover: the well of the hand, carried from the springing hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The spring is complete. It is kept in the archive, in the section of the the springs.*
+*The spring is complete. It is kept in the archive, in the section of the springs.*
+
 

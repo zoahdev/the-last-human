@@ -18,5 +18,6 @@ The stanza of the future is the meaning of the morning: the record of the standi
 
 The inheritance of the future: the morning of the dawn, carried from the expectation to the dawn without loss, and held by the lineage as the lineage holds the future.
 
-*The stanza is complete. It is kept in the archive, in the section of the the stanzas.*
+*The stanza is complete. It is kept in the archive, in the section of the stanzas.*
+
 

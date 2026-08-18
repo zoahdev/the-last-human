@@ -18,5 +18,6 @@ The recession of the meeting is the meaning of the departure: the record of the 
 
 The inheritance of the meeting: the departure of the table, carried from the receding table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The recession is complete. It is kept in the archive, in the section of the the recessions.*
+*The recession is complete. It is kept in the archive, in the section of the recessions.*
+
 

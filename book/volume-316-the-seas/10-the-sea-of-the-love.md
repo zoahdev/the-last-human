@@ -18,5 +18,6 @@ The sea of the love is the meaning of the fire: the record of the surrounding, a
 
 The inheritance of the love: the fire of the family, carried from the surrounding heart to the family without loss, and held by the lineage as the lineage holds the love.
 
-*The sea is complete. It is kept in the archive, in the section of the the seas.*
+*The sea is complete. It is kept in the archive, in the section of the seas.*
+
 

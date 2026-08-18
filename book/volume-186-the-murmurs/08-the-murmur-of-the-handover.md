@@ -18,5 +18,6 @@ The murmur of the handover is the meaning of the cup: the record of the murmurin
 
 The inheritance of the handover: the cup of the hand, carried from the passing stream to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The murmur is complete. It is kept in the archive, in the section of the the murmurs.*
+*The murmur is complete. It is kept in the archive, in the section of the murmurs.*
+
 

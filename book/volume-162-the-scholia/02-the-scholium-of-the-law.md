@@ -18,5 +18,6 @@ The scholium of the law is the meaning of the clarity: the record of the annotat
 
 The inheritance of the law: the clarity of the care, carried from the elucidation to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The scholium is complete. It is kept in the archive, in the section of the the scholia.*
+*The scholium is complete. It is kept in the archive, in the section of the scholia.*
+
 

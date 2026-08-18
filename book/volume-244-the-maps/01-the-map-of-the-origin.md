@@ -18,5 +18,6 @@ The map of the origin is the meaning of the world: the record of the mapping, an
 
 The inheritance of the origin: the world of the wanting, carried from the chart to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The map is complete. It is kept in the archive, in the section of the the maps.*
+*The map is complete. It is kept in the archive, in the section of the maps.*
+
 

@@ -18,5 +18,6 @@ The design of the meeting is the meaning of the arrangement: the record of the d
 
 The inheritance of the meeting: the arrangement of the table, carried from the designed table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The design is complete. It is kept in the archive, in the section of the the designs.*
+*The design is complete. It is kept in the archive, in the section of the designs.*
+
 

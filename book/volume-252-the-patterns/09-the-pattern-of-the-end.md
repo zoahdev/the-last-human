@@ -18,5 +18,6 @@ The pattern of the end is the meaning of the quiet: the record of the patterning
 
 The inheritance of the end: the quiet of the whole, carried from the final pattern to the whole without loss, and held by the lineage as the lineage holds the end.
 
-*The pattern is complete. It is kept in the archive, in the section of the the patterns.*
+*The pattern is complete. It is kept in the archive, in the section of the patterns.*
+
 

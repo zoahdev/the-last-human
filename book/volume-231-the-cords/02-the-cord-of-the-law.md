@@ -18,5 +18,6 @@ The cord of the law is the meaning of the cord: the record of the cording, and t
 
 The inheritance of the law: the cord of the care, carried from the corded care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The cord is complete. It is kept in the archive, in the section of the the cords.*
+*The cord is complete. It is kept in the archive, in the section of the cords.*
+
 

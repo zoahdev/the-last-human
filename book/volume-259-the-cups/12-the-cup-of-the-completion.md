@@ -18,5 +18,6 @@ The cup of the completion is the meaning of the fullness: the record of the cupp
 
 The inheritance of the completion: the fullness of the beginning, carried from the full cup to the beginning without loss, and held by the lineage as the lineage holds the completion.
 
-*The cup is complete. It is kept in the archive, in the section of the the cups. It is the final cup of the canon, and after it the canon speaks again.*
+*The cup is complete. It is kept in the archive, in the section of the cups. It is the final cup of the canon, and after it the canon speaks again.*
+
 

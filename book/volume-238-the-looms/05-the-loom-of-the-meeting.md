@@ -18,5 +18,6 @@ The loom of the meeting is the meaning of the loom: the record of the looming, a
 
 The inheritance of the meeting: the loom of the table, carried from the shared frame to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The loom is complete. It is kept in the archive, in the section of the the looms.*
+*The loom is complete. It is kept in the archive, in the section of the looms.*
+
 

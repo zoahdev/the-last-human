@@ -18,5 +18,6 @@ The sky of the meeting is the meaning of the horizon: the record of the arching,
 
 The inheritance of the meeting: the horizon of the table, carried from the sky table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The sky is complete. It is kept in the archive, in the section of the the skies.*
+*The sky is complete. It is kept in the archive, in the section of the skies.*
+
 

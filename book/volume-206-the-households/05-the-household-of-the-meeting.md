@@ -18,5 +18,6 @@ The household of the meeting is the meaning of the home: the record of the housi
 
 The inheritance of the meeting: the home of the table, carried from the household table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The household is complete. It is kept in the archive, in the section of the the households.*
+*The household is complete. It is kept in the archive, in the section of the households.*
+
 

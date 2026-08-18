@@ -18,5 +18,6 @@ The web of the garden is the meaning of the warp: the record of the weaving, and
 
 The inheritance of the garden: the warp of the earth, carried from the woven green to the earth without loss, and held by the lineage as the lineage holds the garden.
 
-*The web is complete. It is kept in the archive, in the section of the the webs.*
+*The web is complete. It is kept in the archive, in the section of the webs.*
+
 

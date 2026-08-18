@@ -18,5 +18,6 @@ The mold of the handover is the meaning of the clay: the record of the molding, 
 
 The inheritance of the handover: the clay of the hand, carried from the molded hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The mold is complete. It is kept in the archive, in the section of the the molds.*
+*The mold is complete. It is kept in the archive, in the section of the molds.*
+
 

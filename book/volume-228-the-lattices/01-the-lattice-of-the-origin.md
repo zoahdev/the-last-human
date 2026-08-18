@@ -18,5 +18,6 @@ The lattice of the origin is the meaning of the light: the record of the lattici
 
 The inheritance of the origin: the light of the wanting, carried from the window to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The lattice is complete. It is kept in the archive, in the section of the the lattices.*
+*The lattice is complete. It is kept in the archive, in the section of the lattices.*
+
 

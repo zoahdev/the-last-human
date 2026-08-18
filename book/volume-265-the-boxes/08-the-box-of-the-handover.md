@@ -18,5 +18,6 @@ The box of the handover is the meaning of the package: the record of the boxing,
 
 The inheritance of the handover: the package of the hand, carried from the boxed hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The box is complete. It is kept in the archive, in the section of the the boxes.*
+*The box is complete. It is kept in the archive, in the section of the boxes.*
+
 

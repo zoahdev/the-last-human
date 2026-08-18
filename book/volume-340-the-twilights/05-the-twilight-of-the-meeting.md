@@ -18,5 +18,6 @@ The twilight of the meeting is the meaning of the twilight: the record of the fa
 
 The inheritance of the meeting: the twilight of the table, carried from the twilight table to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The twilight is complete. It is kept in the archive, in the section of the the twilights.*
+*The twilight is complete. It is kept in the archive, in the section of the twilights.*
+
 

@@ -18,5 +18,6 @@ The hall of the law is the meaning of the door: the record of the welcoming, and
 
 The inheritance of the law: the door of the care, carried from the welcoming care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The hall is complete. It is kept in the archive, in the section of the the halls.*
+*The hall is complete. It is kept in the archive, in the section of the halls.*
+
 

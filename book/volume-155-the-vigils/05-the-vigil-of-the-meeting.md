@@ -18,5 +18,6 @@ The vigil of the meeting is the meaning of the sitting: the record of the keepin
 
 The inheritance of the meeting: the sitting of the table, carried from the all night to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The vigil is complete. It is kept in the archive, in the section of the the vigils.*
+*The vigil is complete. It is kept in the archive, in the section of the vigils.*
+
 

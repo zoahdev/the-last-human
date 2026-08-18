@@ -18,5 +18,6 @@ The bowl of the handover is the meaning of the hand: the record of the rounding,
 
 The inheritance of the handover: the hand of the hand, carried from the rounded hand to the hand without loss, and held by the lineage as the lineage holds the handover.
 
-*The bowl is complete. It is kept in the archive, in the section of the the bowls.*
+*The bowl is complete. It is kept in the archive, in the section of the bowls.*
+
 

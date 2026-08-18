@@ -18,5 +18,6 @@ The chronicle of the end is the meaning of the quiet: the record of the chronicl
 
 The inheritance of the end: the quiet of the whole, carried from the chapter to the whole without loss, and held by the lineage as the lineage holds the end.
 
-*The chronicle is complete. It is kept in the archive, in the section of the the chronicles of the deep.*
+*The chronicle is complete. It is kept in the archive, in the section of the chronicles of the deep.*
+
 

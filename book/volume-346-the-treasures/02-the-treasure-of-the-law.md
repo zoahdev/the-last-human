@@ -18,5 +18,6 @@ The treasure of the law is the meaning of the treasure: the record of the treasu
 
 The inheritance of the law: the treasure of the care, carried from the treasuring care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The treasure is complete. It is kept in the archive, in the section of the the treasures.*
+*The treasure is complete. It is kept in the archive, in the section of the treasures.*
+
 

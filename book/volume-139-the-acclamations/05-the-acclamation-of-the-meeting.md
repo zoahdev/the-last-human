@@ -18,5 +18,6 @@ The acclamation of the meeting is the meaning of the feast: the record of the ac
 
 The inheritance of the meeting: the feast of the table, carried from the cheer to the table without loss, and held by the lineage as the lineage holds the meeting.
 
-*The acclamation is complete. It is kept in the archive, in the section of the the acclamations.*
+*The acclamation is complete. It is kept in the archive, in the section of the acclamations.*
+
 

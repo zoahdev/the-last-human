@@ -18,5 +18,6 @@ The stanza of the memory is the meaning of the inscription: the record of the st
 
 The inheritance of the memory: the inscription of the book, carried from the standing verse to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The stanza is complete. It is kept in the archive, in the section of the the stanzas.*
+*The stanza is complete. It is kept in the archive, in the section of the stanzas.*
+
 

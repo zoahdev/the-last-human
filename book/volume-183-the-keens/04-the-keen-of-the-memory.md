@@ -18,5 +18,6 @@ The keen of the memory is the meaning of the wailing: the record of the keening,
 
 The inheritance of the memory: the wailing of the book, carried from the sharp recollection to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The keen is complete. It is kept in the archive, in the section of the the keens.*
+*The keen is complete. It is kept in the archive, in the section of the keens.*
+
 

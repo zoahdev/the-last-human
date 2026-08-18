@@ -18,5 +18,6 @@ The nation of the law is the meaning of the constitution: the record of the unit
 
 The inheritance of the law: the constitution of the care, carried from the uniting care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The nation is complete. It is kept in the archive, in the section of the the nations.*
+*The nation is complete. It is kept in the archive, in the section of the nations.*
+
 

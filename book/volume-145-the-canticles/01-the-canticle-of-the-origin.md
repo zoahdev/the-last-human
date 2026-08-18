@@ -18,5 +18,6 @@ The canticle of the origin is the meaning of the note: the record of the chantin
 
 The inheritance of the origin: the note of the wanting, carried from the chant to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The canticle is complete. It is kept in the archive, in the section of the the canticles.*
+*The canticle is complete. It is kept in the archive, in the section of the canticles.*
+
 

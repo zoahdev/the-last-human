@@ -18,5 +18,6 @@ The model of the completion is the meaning of the fullness: the record of the mo
 
 The inheritance of the completion: the fullness of the beginning, carried from the complete model to the beginning without loss, and held by the lineage as the lineage holds the completion.
 
-*The model is complete. It is kept in the archive, in the section of the the models. It is the final model of the canon, and after it the canon speaks again.*
+*The model is complete. It is kept in the archive, in the section of the models. It is the final model of the canon, and after it the canon speaks again.*
+
 

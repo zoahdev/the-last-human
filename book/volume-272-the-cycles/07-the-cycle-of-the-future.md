@@ -18,5 +18,6 @@ The cycle of the future is the meaning of the morning: the record of the cycling
 
 The inheritance of the future: the morning of the dawn, carried from the new cycle to the dawn without loss, and held by the lineage as the lineage holds the future.
 
-*The cycle is complete. It is kept in the archive, in the section of the the cycles.*
+*The cycle is complete. It is kept in the archive, in the section of the cycles.*
+
 

@@ -18,5 +18,6 @@ The helix of the law is the meaning of the coil: the record of the winding, and 
 
 The inheritance of the law: the coil of the care, carried from the wound care to the care without loss, and held by the lineage as the lineage holds the law.
 
-*The helix is complete. It is kept in the archive, in the section of the the helices.*
+*The helix is complete. It is kept in the archive, in the section of the helices.*
+
 

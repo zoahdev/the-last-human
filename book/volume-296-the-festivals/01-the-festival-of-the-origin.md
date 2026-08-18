@@ -18,5 +18,6 @@ The festival of the origin is the meaning of the calendar: the record of the cel
 
 The inheritance of the origin: the calendar of the wanting, carried from the celebration to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The festival is complete. It is kept in the archive, in the section of the the festivals.*
+*The festival is complete. It is kept in the archive, in the section of the festivals.*
+
 

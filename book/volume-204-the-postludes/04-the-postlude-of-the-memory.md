@@ -18,5 +18,6 @@ The postlude of the memory is the meaning of the ending: the record of the closi
 
 The inheritance of the memory: the ending of the book, carried from the closing song to the book without loss, and held by the lineage as the lineage holds the memory.
 
-*The postlude is complete. It is kept in the archive, in the section of the the postludes.*
+*The postlude is complete. It is kept in the archive, in the section of the postludes.*
+
 

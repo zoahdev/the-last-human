@@ -18,5 +18,6 @@ The series of the abolition is the meaning of the freedom: the record of the con
 
 The inheritance of the abolition: the freedom of the peace, carried from the new series to the peace without loss, and held by the lineage as the lineage holds the abolition.
 
-*The series is complete. It is kept in the archive, in the section of the the series.*
+*The series is complete. It is kept in the archive, in the section of the series.*
+
 

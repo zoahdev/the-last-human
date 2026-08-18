@@ -18,5 +18,6 @@ The model of the origin is the meaning of the world: the record of the modeling,
 
 The inheritance of the origin: the world of the wanting, carried from the small world to the wanting without loss, and held by the lineage as the lineage holds the origin.
 
-*The model is complete. It is kept in the archive, in the section of the the models.*
+*The model is complete. It is kept in the archive, in the section of the models.*
+
 
