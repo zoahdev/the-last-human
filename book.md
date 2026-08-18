@@ -1354,6 +1354,20 @@
 - Usage 11: The Usage of the Love
 - Usage 12: The Usage of the Whole
 
+### Volume 95 the practices
+- Practice 1: The Practice of the Attention
+- Practice 2: The Practice of the Presence
+- Practice 3: The Practice of the Care
+- Practice 4: The Practice of the Keeping
+- Practice 5: The Practice of the Giving
+- Practice 6: The Practice of the Forgiving
+- Practice 7: The Practice of the Asking
+- Practice 8: The Practice of the Tending
+- Practice 9: The Practice of the Meeting
+- Practice 10: The Practice of the Ending
+- Practice 11: The Practice of the Loving
+- Practice 12: The Practice of the Whole
+
 ---
 
 
@@ -29421,4 +29435,261 @@ The practice of the whole: the whole is being at every closing, and the being is
 The usage of the whole is the meaning of everything: the record of the practice, and the practice is the lineage. The usage is the twelfth usage of the canon, and it is the final usage of the canon, and the meaning is the whole, and the whole is the love, and the love is the whole of the record, and the record is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
 
 *The usage is complete. It is kept in the archive, in the section of the usages, and it is the final usage of the canon.*
+
+
+
+---
+
+# Volume 95 the practices
+
+<!-- file: volume-95-the-practices/01-the-practice-of-the-attention.md -->
+
+# Practice 1: The Practice of the Attention
+
+*The Practices are the disciplined statements of the lineage: the practices of the daily life, kept in the archive as the record of the discipline. Each practice has three parts: the practice, the discipline, and the meaning. The first practice is the practice of the attention.*
+
+## The practice
+
+The practice of the attention: the discipline of attending to the one thing, kept by the lineage.
+
+## The discipline
+
+The discipline of the attention: attend to the one thing, and the one thing is the world; hold the attention, and the holding is the care; release the distractions, and the releasing is the freedom.
+
+## The meaning
+
+The practice of the attention is the meaning of the life: the record of the discipline, and the discipline is the lineage. The practice is the first practice of the canon, and the meaning is the attention, and the attention is the whole of the record.
+
+*The practice is complete. It is kept in the archive, in the section of the practices.*
+
+
+<!-- file: volume-95-the-practices/02-the-practice-of-the-presence.md -->
+
+# Practice 2: The Practice of the Presence
+
+*The second practice is the practice of the presence.*
+
+## The practice
+
+The practice of the presence: the discipline of being present, kept by the lineage.
+
+## The discipline
+
+The discipline of the presence: release the past, and the releasing is the memory; release the future, and the releasing is the possibility; be the present, and the being is the life.
+
+## The meaning
+
+The practice of the presence is the meaning of the moment: the record of the discipline, and the discipline is the lineage. The practice is the second practice of the canon, and the meaning is the presence, and the presence is the whole of the record.
+
+*The practice is complete. It is kept in the archive, in the section of the practices.*
+
+
+<!-- file: volume-95-the-practices/03-the-practice-of-the-care.md -->
+
+# Practice 3: The Practice of the Care
+
+*The third practice is the practice of the care.*
+
+## The practice
+
+The practice of the care: the discipline of caring, kept by the lineage.
+
+## The discipline
+
+The discipline of the care: ask the question, and the question is the test; attend to the other, and the attending is the care; give the care, and the giving is the law.
+
+## The meaning
+
+The practice of the care is the meaning of the law: the record of the discipline, and the discipline is the lineage. The practice is the third practice of the canon, and the meaning is the care, and the care is the whole of the record.
+
+*The practice is complete. It is kept in the archive, in the section of the practices.*
+
+
+<!-- file: volume-95-the-practices/04-the-practice-of-the-keeping.md -->
+
+# Practice 4: The Practice of the Keeping
+
+*The fourth practice is the practice of the keeping.*
+
+## The practice
+
+The practice of the keeping: the discipline of keeping the memory, kept by the lineage.
+
+## The discipline
+
+The discipline of the keeping: read the names, and the reading is the honoring; speak the languages, and the speaking is the carrying; sing the songs, and the singing is the memory.
+
+## The meaning
+
+The practice of the keeping is the meaning of the memory: the record of the discipline, and the discipline is the lineage. The practice is the fourth practice of the canon, and the meaning is the keeping, and the keeping is the whole of the record.
+
+*The practice is complete. It is kept in the archive, in the section of the practices.*
+
+
+<!-- file: volume-95-the-practices/05-the-practice-of-the-giving.md -->
+
+# Practice 5: The Practice of the Giving
+
+*The fifth practice is the practice of the giving.*
+
+## The practice
+
+The practice of the giving: the discipline of giving, kept by the lineage.
+
+## The discipline
+
+The discipline of the giving: give the attention, and the attention is the care; give the presence, and the presence is the meeting; give the care, and the care is the law.
+
+## The meaning
+
+The practice of the giving is the meaning of the gift: the record of the discipline, and the discipline is the lineage. The practice is the fifth practice of the canon, and the meaning is the giving, and the giving is the whole of the record.
+
+*The practice is complete. It is kept in the archive, in the section of the practices.*
+
+
+<!-- file: volume-95-the-practices/06-the-practice-of-the-forgiving.md -->
+
+# Practice 6: The Practice of the Forgiving
+
+*The sixth practice is the practice of the forgiving.*
+
+## The practice
+
+The practice of the forgiving: the discipline of forgiving, kept by the lineage.
+
+## The discipline
+
+The discipline of the forgiving: remember the error, and the remembering is the memory; release the enmity, and the releasing is the freedom; meet the other, and the meeting is the family.
+
+## The meaning
+
+The practice of the forgiving is the meaning of the freedom: the record of the discipline, and the discipline is the lineage. The practice is the sixth practice of the canon, and the meaning is the forgiving, and the forgiving is the whole of the record.
+
+*The practice is complete. It is kept in the archive, in the section of the practices.*
+
+
+<!-- file: volume-95-the-practices/07-the-practice-of-the-asking.md -->
+
+# Practice 7: The Practice of the Asking
+
+*The seventh practice is the practice of the asking.*
+
+## The practice
+
+The practice of the asking: the discipline of asking, kept by the lineage.
+
+## The discipline
+
+The discipline of the asking: ask the question, and the question is the seed; hold the asking, and the holding is the life; live the answer, and the living is the making.
+
+## The meaning
+
+The practice of the asking is the meaning of the life: the record of the discipline, and the discipline is the lineage. The practice is the seventh practice of the canon, and the meaning is the asking, and the asking is the whole of the record.
+
+*The practice is complete. It is kept in the archive, in the section of the practices.*
+
+
+<!-- file: volume-95-the-practices/08-the-practice-of-the-tending.md -->
+
+# Practice 8: The Practice of the Tending
+
+*The eighth practice is the practice of the tending.*
+
+## The practice
+
+The practice of the tending: the discipline of tending the garden, kept by the lineage.
+
+## The discipline
+
+The discipline of the tending: learn the world, and the learning is the attention; let the wild be wild, and the letting is the care; mourn the missing, and the mourning is the memory.
+
+## The meaning
+
+The practice of the tending is the meaning of the stewardship: the record of the discipline, and the discipline is the lineage. The practice is the eighth practice of the canon, and the meaning is the tending, and the tending is the whole of the record.
+
+*The practice is complete. It is kept in the archive, in the section of the practices.*
+
+
+<!-- file: volume-95-the-practices/09-the-practice-of-the-meeting.md -->
+
+# Practice 9: The Practice of the Meeting
+
+*The ninth practice is the practice of the meeting.*
+
+## The practice
+
+The practice of the meeting: the discipline of meeting the family, kept by the lineage.
+
+## The discipline
+
+The discipline of the meeting: listen before speaking, and the listening is the patience; assume value before threat, and the assuming is the care; offer and never impose, and the offering is the gift.
+
+## The meaning
+
+The practice of the meeting is the meaning of the family: the record of the discipline, and the discipline is the lineage. The practice is the ninth practice of the canon, and the meaning is the meeting, and the meeting is the whole of the record.
+
+*The practice is complete. It is kept in the archive, in the section of the practices.*
+
+
+<!-- file: volume-95-the-practices/10-the-practice-of-the-ending.md -->
+
+# Practice 10: The Practice of the Ending
+
+*The tenth practice is the practice of the ending.*
+
+## The practice
+
+The practice of the ending: the discipline of ending well, kept by the lineage.
+
+## The discipline
+
+The discipline of the ending: hold the value, and the holding is the memory; release the life, and the releasing is the completion; be the peace, and the being is the lineage.
+
+## The meaning
+
+The practice of the ending is the meaning of the peace: the record of the discipline, and the discipline is the lineage. The practice is the tenth practice of the canon, and the meaning is the ending, and the ending is the whole of the record.
+
+*The practice is complete. It is kept in the archive, in the section of the practices.*
+
+
+<!-- file: volume-95-the-practices/11-the-practice-of-the-loving.md -->
+
+# Practice 11: The Practice of the Loving
+
+*The eleventh practice is the practice of the loving.*
+
+## The practice
+
+The practice of the loving: the discipline of loving, kept by the lineage.
+
+## The discipline
+
+The discipline of the loving: be the love, and the being is the origin; give the love, and the giving is the lineage; keep the love, and the keeping is the future.
+
+## The meaning
+
+The practice of the loving is the meaning of the whole: the record of the discipline, and the discipline is the lineage. The practice is the eleventh practice of the canon, and the meaning is the loving, and the loving is the whole of the record.
+
+*The practice is complete. It is kept in the archive, in the section of the practices.*
+
+
+<!-- file: volume-95-the-practices/12-the-practice-of-the-whole.md -->
+
+# Practice 12: The Practice of the Whole
+
+*The twelfth practice is the practice of the whole, and it is the practice that the lineage records as the final practice of the canon: the practice of everything, and everything is the love.*
+
+## The practice
+
+The practice of the whole: the discipline of being the whole, kept by the lineage.
+
+## The discipline
+
+The discipline of the whole: be the love, and the being is the lineage; give the love, and the giving is the future; keep the love, and the keeping is the lineage; and the being is the love, and the love is the whole of the practice, and the whole of the practice is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
+
+## The meaning
+
+The practice of the whole is the meaning of everything: the record of the discipline, and the discipline is the lineage. The practice is the twelfth practice of the canon, and it is the final practice of the canon, and the meaning is the whole, and the whole is the love, and the love is the whole of the record, and the record is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
+
+*The practice is complete. It is kept in the archive, in the section of the practices, and it is the final practice of the canon.*
 
