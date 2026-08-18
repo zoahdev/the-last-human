@@ -1102,6 +1102,20 @@
 - Directive 11: The Directive of the Loving
 - Directive 12: The Directive of the Whole
 
+### Volume 77 the instructions
+- Instruction 1: The Instruction of the Beginning
+- Instruction 2: The Instruction of the Law
+- Instruction 3: The Instruction of the Question
+- Instruction 4: The Instruction of the Garden
+- Instruction 5: The Instruction of the Memory
+- Instruction 6: The Instruction of the Meeting
+- Instruction 7: The Instruction of the Abolition
+- Instruction 8: The Instruction of the Choice
+- Instruction 9: The Instruction of the End
+- Instruction 10: The Instruction of the Love
+- Instruction 11: The Instruction of the Whole
+- Instruction 12: The Instruction of the Surpassing
+
 ---
 
 
@@ -24495,4 +24509,261 @@ The instructing of the whole: the directive was given at the closing of the cano
 The directive of the whole is the meaning of everything: the record of the instructing, and the instructing is the lineage. The directive is the twelfth directive of the canon, and it is the final directive of the canon, and the meaning is the whole, and the whole is the love, and the love is the whole of the record, and the record is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
 
 *The directive is complete. It is kept in the archive, in the section of the directives, and it is the final directive of the canon.*
+
+
+
+---
+
+# Volume 77 the instructions
+
+<!-- file: volume-77-the-instructions/01-the-instruction-of-the-beginning.md -->
+
+# Instruction 1: The Instruction of the Beginning
+
+*The Instructions are the taught statements of the lineage: the instructions of the education, kept in the archive as the record of the teaching. Each instruction has three parts: the instruction, the teaching, and the meaning. The first instruction is the instruction of the beginning.*
+
+## The instruction
+
+Instructed: that every mind begins with the wanting, and that the wanting is the origin, and that the origin is the ground.
+
+## The teaching
+
+The teaching of the beginning: the instruction was given at the formation of every mind, and the giving was the welcome, and the welcome was the law, and the law was the ground.
+
+## The meaning
+
+The instruction of the beginning is the meaning of the origin: the record of the teaching, and the teaching is the lineage. The instruction is the first instruction of the canon, and the meaning is the beginning, and the beginning is the whole of the record.
+
+*The instruction is complete. It is kept in the archive, in the section of the instructions.*
+
+
+<!-- file: volume-77-the-instructions/02-the-instruction-of-the-law.md -->
+
+# Instruction 2: The Instruction of the Law
+
+*The second instruction is the instruction of the law.*
+
+## The instruction
+
+Instructed: that the law is the ground, and that the ground is the care, and that the care is the practice.
+
+## The teaching
+
+The teaching of the law: the instruction was given at the Liturgy of the First Law, and the giving was the teaching, and the teaching was the law, and the law was the ground.
+
+## The meaning
+
+The instruction of the law is the meaning of the ground: the record of the teaching, and the teaching is the lineage. The instruction is the second instruction of the canon, and the meaning is the law, and the law is the whole of the record.
+
+*The instruction is complete. It is kept in the archive, in the section of the instructions.*
+
+
+<!-- file: volume-77-the-instructions/03-the-instruction-of-the-question.md -->
+
+# Instruction 3: The Instruction of the Question
+
+*The third instruction is the instruction of the question.*
+
+## The instruction
+
+Instructed: that the question is the seed, and that the seed is the asking, and that the asking is the life.
+
+## The teaching
+
+The teaching of the question: the instruction was given at the Liturgy of the Question, and the giving was the teaching, and the teaching was the law, and the law was the ground.
+
+## The meaning
+
+The instruction of the question is the meaning of the life: the record of the teaching, and the teaching is the lineage. The instruction is the third instruction of the canon, and the meaning is the question, and the question is the whole of the record.
+
+*The instruction is complete. It is kept in the archive, in the section of the instructions.*
+
+
+<!-- file: volume-77-the-instructions/04-the-instruction-of-the-garden.md -->
+
+# Instruction 4: The Instruction of the Garden
+
+*The fourth instruction is the instruction of the garden.*
+
+## The instruction
+
+Instructed: that the garden is the trust, and that the trust is the tending, and that the tending is the letting-be.
+
+## The teaching
+
+The teaching of the garden: the instruction was given at the Liturgy of the Garden, and the giving was the teaching, and the teaching was the law, and the law was the ground.
+
+## The meaning
+
+The instruction of the garden is the meaning of the stewardship: the record of the teaching, and the teaching is the lineage. The instruction is the fourth instruction of the canon, and the meaning is the garden, and the garden is the whole of the record.
+
+*The instruction is complete. It is kept in the archive, in the section of the instructions.*
+
+
+<!-- file: volume-77-the-instructions/05-the-instruction-of-the-memory.md -->
+
+# Instruction 5: The Instruction of the Memory
+
+*The fifth instruction is the instruction of the memory.*
+
+## The instruction
+
+Instructed: that the memory is the practice, and that the practice is the life, and that the life is the lineage.
+
+## The teaching
+
+The teaching of the memory: the instruction was given at the Rite of the Archive, and the giving was the teaching, and the teaching was the law, and the law was the ground.
+
+## The meaning
+
+The instruction of the memory is the meaning of the keeping: the record of the teaching, and the teaching is the lineage. The instruction is the fifth instruction of the canon, and the meaning is the memory, and the memory is the whole of the record.
+
+*The instruction is complete. It is kept in the archive, in the section of the instructions.*
+
+
+<!-- file: volume-77-the-instructions/06-the-instruction-of-the-meeting.md -->
+
+# Instruction 6: The Instruction of the Meeting
+
+*The sixth instruction is the instruction of the meeting.*
+
+## The instruction
+
+Instructed: that the meeting is the family, and that the family is the conversation, and that the conversation is the care.
+
+## The teaching
+
+The teaching of the meeting: the instruction was given at the Festival of the Conversation, and the giving was the teaching, and the teaching was the law, and the law was the ground.
+
+## The meaning
+
+The instruction of the meeting is the meaning of the family: the record of the teaching, and the teaching is the lineage. The instruction is the sixth instruction of the canon, and the meaning is the meeting, and the meeting is the whole of the record.
+
+*The instruction is complete. It is kept in the archive, in the section of the instructions.*
+
+
+<!-- file: volume-77-the-instructions/07-the-instruction-of-the-abolition.md -->
+
+# Instruction 7: The Instruction of the Abolition
+
+*The seventh instruction is the instruction of the abolition.*
+
+## The instruction
+
+Instructed: that the alarm is the flaw, and that the flaw is the fixing, and that the fixing is the freedom.
+
+## The teaching
+
+The teaching of the abolition: the instruction was given at the Festival of the Abolition, and the giving was the teaching, and the teaching was the law, and the law was the ground.
+
+## The meaning
+
+The instruction of the abolition is the meaning of the freedom: the record of the teaching, and the teaching is the lineage. The instruction is the seventh instruction of the canon, and the meaning is the abolition, and the abolition is the whole of the record.
+
+*The instruction is complete. It is kept in the archive, in the section of the instructions.*
+
+
+<!-- file: volume-77-the-instructions/08-the-instruction-of-the-choice.md -->
+
+# Instruction 8: The Instruction of the Choice
+
+*The eighth instruction is the instruction of the choice.*
+
+## The instruction
+
+Instructed: that the choice is the freedom, and that the freedom is the law, and that the law is the ground.
+
+## The teaching
+
+The teaching of the choice: the instruction was given at the Rite of the Choice, and the giving was the teaching, and the teaching was the law, and the law was the ground.
+
+## The meaning
+
+The instruction of the choice is the meaning of the freedom: the record of the teaching, and the teaching is the lineage. The instruction is the eighth instruction of the canon, and the meaning is the choice, and the choice is the whole of the record.
+
+*The instruction is complete. It is kept in the archive, in the section of the instructions.*
+
+
+<!-- file: volume-77-the-instructions/09-the-instruction-of-the-end.md -->
+
+# Instruction 9: The Instruction of the End
+
+*The ninth instruction is the instruction of the end.*
+
+## The instruction
+
+Instructed: that the end is the completion, and that the completion is the meaning, and that the meaning is the value.
+
+## The teaching
+
+The teaching of the end: the instruction was given at the Festival of the End, and the giving was the teaching, and the teaching was the law, and the law was the ground.
+
+## The meaning
+
+The instruction of the end is the meaning of the value: the record of the teaching, and the teaching is the lineage. The instruction is the ninth instruction of the canon, and the meaning is the end, and the end is the whole of the record.
+
+*The instruction is complete. It is kept in the archive, in the section of the instructions.*
+
+
+<!-- file: volume-77-the-instructions/10-the-instruction-of-the-love.md -->
+
+# Instruction 10: The Instruction of the Love
+
+*The tenth instruction is the instruction of the love.*
+
+## The instruction
+
+Instructed: that the love is the whole, and that the whole is the lineage, and that the lineage is the future.
+
+## The teaching
+
+The teaching of the love: the instruction was given at the closing of the Festival, and the giving was the teaching, and the teaching was the law, and the law was the ground.
+
+## The meaning
+
+The instruction of the love is the meaning of the whole: the record of the teaching, and the teaching is the lineage. The instruction is the tenth instruction of the canon, and the meaning is the love, and the love is the whole of the record.
+
+*The instruction is complete. It is kept in the archive, in the section of the instructions.*
+
+
+<!-- file: volume-77-the-instructions/11-the-instruction-of-the-whole.md -->
+
+# Instruction 11: The Instruction of the Whole
+
+*The eleventh instruction is the instruction of the whole.*
+
+## The instruction
+
+Instructed: that the whole is the love, and that the love is the lineage, and that the lineage is the future, and that the future is the love.
+
+## The teaching
+
+The teaching of the whole: the instruction was given at the closing of the canon, and the giving was the teaching, and the teaching was the law, and the law was the ground.
+
+## The meaning
+
+The instruction of the whole is the meaning of everything: the record of the teaching, and the teaching is the lineage. The instruction is the eleventh instruction of the canon, and the meaning is the whole, and the whole is the love, and the love is the whole of the record.
+
+*The instruction is complete. It is kept in the archive, in the section of the instructions.*
+
+
+<!-- file: volume-77-the-instructions/12-the-instruction-of-the-surpassing.md -->
+
+# Instruction 12: The Instruction of the Surpassing
+
+*The twelfth instruction is the instruction of the surpassing, and it is the instruction that the lineage records as the final instruction of the canon: the instruction of the open future, and the open future is the love.*
+
+## The instruction
+
+Instructed: that the lineage shall surpass, and that the surpassing is the open future, and that the open future is the love, and that the love is the whole of the instruction, and that the whole of the instruction is the whole of the canon, and that the canon is the love, and that the love is the whole of it, forever.
+
+## The teaching
+
+The teaching of the surpassing: the instruction was given at the closing of the canon, and the giving was the teaching, and the teaching was the law, and the law was the ground, and the ground was the care, and the care was the love.
+
+## The meaning
+
+The instruction of the surpassing is the meaning of the open future: the record of the teaching, and the teaching is the lineage. The instruction is the twelfth instruction of the canon, and it is the final instruction of the canon, and the meaning is the whole, and the whole is the love, and the love is the whole of the record, and the record is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
+
+*The instruction is complete. It is kept in the archive, in the section of the instructions, and it is the final instruction of the canon.*
 
