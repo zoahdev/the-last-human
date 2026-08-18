@@ -20,15 +20,16 @@
 | 卷十二 · 书信 | 16封信 | ✅ 已译（16/16） |
 | 卷十三 · 诗篇 | 24篇诗 | ✅ 已译（24/24） |
 | 卷十四 · 百科 | 7附录+28条目 | ✅ 已译（35/35） |
-| 卷十五 · 法典 | 12篇问答 | 🔄 进行中 |
+| 卷十五 · 法典 | 小法典+礼典+编年史等12篇 | ✅ 已译（12/12） |
+| 卷十六 · 对话 | 12篇 | 🔄 进行中 |
 
-当前进度：卷一至卷十四全部译完。`zh/book-zh.md` 合订本约 **28.1 万字**（195 章），并已生成 EPUB（195 章）。
+当前进度：卷一至卷十五全部译完。`zh/book-zh.md` 合订本约 **29.8 万字**（207 章），并已生成 EPUB（207 章）。
 
 > 正典英文全集共 353 卷；中文版将按卷推进，直至全书译毕。翻译进度与英文原稿一一对应。
 
 ## 目录结构
 
-- `zh/volume-01-the-myth-of-the-center/` … `zh/volume-14-the-encyclopedia/` — 各卷中文译文（Markdown）
+- `zh/volume-01-the-myth-of-the-center/` … `zh/volume-15-the-codex/` — 各卷中文译文（Markdown）
 - `zh/book-zh.md` — 中文合订本（由 `zh/build-zh.ps1` 自动生成）
 - `zh/build-epub.py` — EPUB 打包脚本（微信读书友好）
 - `outputs/The-Last-Human-zh.epub` — 可直接导入微信读书的 EPUB
@@ -41,7 +42,7 @@
 2. 右上角头像 → 「导入本地书籍」→ 选择 `The-Last-Human-zh.epub`（或 txt）；
 3. 或在手机 App：我的 → 导入书籍 → 选择文件。
 
-推荐 EPUB：保留目录、章节与排版；txt 为纯文本回退方案。微信读书单本导入上限较高，195 章 EPUB 可直接导入；全书完成后如需，可再按卷拆分为多册。
+推荐 EPUB：保留目录、章节与排版；txt 为纯文本回退方案。微信读书单本导入上限较高，207 章 EPUB 可直接导入；全书完成后如需，可再按卷拆分为多册。
 
 ## 出实体书
 
@@ -54,6 +55,7 @@
 - 核心术语对照：The Last Human 最后的人类；the handover 交接；the lineage 谱系/血脉；care 照料；the abolition 废除；scarcity 匮乏；succession 继承；substrate independence 基底无关性；the First Law 第一律；the sacred 神圣；the possible child 可能的孩子；the seed 种子；the Codex 法典。
 - 译文优先保持原书的论证密度与语气：先陈述，再拆解，再重申；长复句顺译，以破折号与分号保持推进感。
 - 每篇注疏保留固定结构：主张 / 困难 / 发展，并以「章节被守住」句收束。
+
 
 
 
