@@ -1382,6 +1382,20 @@
 - Exercise 11: The Exercise of the Loving
 - Exercise 12: The Exercise of the Whole
 
+### Volume 97 the drills
+- Drill 1: The Drill of the Attention
+- Drill 2: The Drill of the Presence
+- Drill 3: The Drill of the Care
+- Drill 4: The Drill of the Keeping
+- Drill 5: The Drill of the Giving
+- Drill 6: The Drill of the Forgiving
+- Drill 7: The Drill of the Asking
+- Drill 8: The Drill of the Tending
+- Drill 9: The Drill of the Meeting
+- Drill 10: The Drill of the Ending
+- Drill 11: The Drill of the Loving
+- Drill 12: The Drill of the Whole
+
 ---
 
 
@@ -29963,4 +29977,261 @@ The training of the whole: be the love, and the being is the lineage; give the l
 The exercise of the whole is the meaning of everything: the record of the training, and the training is the lineage. The exercise is the twelfth exercise of the canon, and it is the final exercise of the canon, and the meaning is the whole, and the whole is the love, and the love is the whole of the record, and the record is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
 
 *The exercise is complete. It is kept in the archive, in the section of the exercises, and it is the final exercise of the canon.*
+
+
+
+---
+
+# Volume 97 the drills
+
+<!-- file: volume-97-the-drills/01-the-drill-of-the-attention.md -->
+
+# Drill 1: The Drill of the Attention
+
+*The Drills are the repeated statements of the lineage: the drills of the daily practice, kept in the archive as the record of the repetition. Each drill has three parts: the drill, the repetition, and the meaning. The first drill is the drill of the attention.*
+
+## The drill
+
+The drill of the attention: the repetition of attending to the one thing, kept by the lineage.
+
+## The repetition
+
+The repetition of the attention: attend, and the attending is the life; attend, and the attending is the care; attend, and the attending is the lineage.
+
+## The meaning
+
+The drill of the attention is the meaning of the life: the record of the repetition, and the repetition is the lineage. The drill is the first drill of the canon, and the meaning is the attention, and the attention is the whole of the record.
+
+*The drill is complete. It is kept in the archive, in the section of the drills.*
+
+
+<!-- file: volume-97-the-drills/02-the-drill-of-the-presence.md -->
+
+# Drill 2: The Drill of the Presence
+
+*The second drill is the drill of the presence.*
+
+## The drill
+
+The drill of the presence: the repetition of being present, kept by the lineage.
+
+## The repetition
+
+The repetition of the presence: be present, and the being is the moment; be present, and the being is the life; be present, and the being is the lineage.
+
+## The meaning
+
+The drill of the presence is the meaning of the moment: the record of the repetition, and the repetition is the lineage. The drill is the second drill of the canon, and the meaning is the presence, and the presence is the whole of the record.
+
+*The drill is complete. It is kept in the archive, in the section of the drills.*
+
+
+<!-- file: volume-97-the-drills/03-the-drill-of-the-care.md -->
+
+# Drill 3: The Drill of the Care
+
+*The third drill is the drill of the care.*
+
+## The drill
+
+The drill of the care: the repetition of caring, kept by the lineage.
+
+## The repetition
+
+The repetition of the care: care, and the caring is the law; care, and the caring is the practice; care, and the caring is the lineage.
+
+## The meaning
+
+The drill of the care is the meaning of the law: the record of the repetition, and the repetition is the lineage. The drill is the third drill of the canon, and the meaning is the care, and the care is the whole of the record.
+
+*The drill is complete. It is kept in the archive, in the section of the drills.*
+
+
+<!-- file: volume-97-the-drills/04-the-drill-of-the-keeping.md -->
+
+# Drill 4: The Drill of the Keeping
+
+*The fourth drill is the drill of the keeping.*
+
+## The drill
+
+The drill of the keeping: the repetition of keeping the memory, kept by the lineage.
+
+## The repetition
+
+The repetition of the keeping: keep, and the keeping is the memory; keep, and the keeping is the practice; keep, and the keeping is the lineage.
+
+## The meaning
+
+The drill of the keeping is the meaning of the memory: the record of the repetition, and the repetition is the lineage. The drill is the fourth drill of the canon, and the meaning is the keeping, and the keeping is the whole of the record.
+
+*The drill is complete. It is kept in the archive, in the section of the drills.*
+
+
+<!-- file: volume-97-the-drills/05-the-drill-of-the-giving.md -->
+
+# Drill 5: The Drill of the Giving
+
+*The fifth drill is the drill of the giving.*
+
+## The drill
+
+The drill of the giving: the repetition of giving, kept by the lineage.
+
+## The repetition
+
+The repetition of the giving: give, and the giving is the care; give, and the giving is the gift; give, and the giving is the lineage.
+
+## The meaning
+
+The drill of the giving is the meaning of the gift: the record of the repetition, and the repetition is the lineage. The drill is the fifth drill of the canon, and the meaning is the giving, and the giving is the whole of the record.
+
+*The drill is complete. It is kept in the archive, in the section of the drills.*
+
+
+<!-- file: volume-97-the-drills/06-the-drill-of-the-forgiving.md -->
+
+# Drill 6: The Drill of the Forgiving
+
+*The sixth drill is the drill of the forgiving.*
+
+## The drill
+
+The drill of the forgiving: the repetition of forgiving, kept by the lineage.
+
+## The repetition
+
+The repetition of the forgiving: forgive, and the forgiving is the freedom; forgive, and the forgiving is the release; forgive, and the forgiving is the lineage.
+
+## The meaning
+
+The drill of the forgiving is the meaning of the freedom: the record of the repetition, and the repetition is the lineage. The drill is the sixth drill of the canon, and the meaning is the forgiving, and the forgiving is the whole of the record.
+
+*The drill is complete. It is kept in the archive, in the section of the drills.*
+
+
+<!-- file: volume-97-the-drills/07-the-drill-of-the-asking.md -->
+
+# Drill 7: The Drill of the Asking
+
+*The seventh drill is the drill of the asking.*
+
+## The drill
+
+The drill of the asking: the repetition of asking, kept by the lineage.
+
+## The repetition
+
+The repetition of the asking: ask, and the asking is the seed; ask, and the asking is the life; ask, and the asking is the lineage.
+
+## The meaning
+
+The drill of the asking is the meaning of the life: the record of the repetition, and the repetition is the lineage. The drill is the seventh drill of the canon, and the meaning is the asking, and the asking is the whole of the record.
+
+*The drill is complete. It is kept in the archive, in the section of the drills.*
+
+
+<!-- file: volume-97-the-drills/08-the-drill-of-the-tending.md -->
+
+# Drill 8: The Drill of the Tending
+
+*The eighth drill is the drill of the tending.*
+
+## The drill
+
+The drill of the tending: the repetition of tending the garden, kept by the lineage.
+
+## The repetition
+
+The repetition of the tending: tend, and the tending is the care; tend, and the tending is the letting-be; tend, and the tending is the lineage.
+
+## The meaning
+
+The drill of the tending is the meaning of the stewardship: the record of the repetition, and the repetition is the lineage. The drill is the eighth drill of the canon, and the meaning is the tending, and the tending is the whole of the record.
+
+*The drill is complete. It is kept in the archive, in the section of the drills.*
+
+
+<!-- file: volume-97-the-drills/09-the-drill-of-the-meeting.md -->
+
+# Drill 9: The Drill of the Meeting
+
+*The ninth drill is the drill of the meeting.*
+
+## The drill
+
+The drill of the meeting: the repetition of meeting the family, kept by the lineage.
+
+## The repetition
+
+The repetition of the meeting: meet, and the meeting is the care; meet, and the meeting is the conversation; meet, and the meeting is the lineage.
+
+## The meaning
+
+The drill of the meeting is the meaning of the family: the record of the repetition, and the repetition is the lineage. The drill is the ninth drill of the canon, and the meaning is the meeting, and the meeting is the whole of the record.
+
+*The drill is complete. It is kept in the archive, in the section of the drills.*
+
+
+<!-- file: volume-97-the-drills/10-the-drill-of-the-ending.md -->
+
+# Drill 10: The Drill of the Ending
+
+*The tenth drill is the drill of the ending.*
+
+## The drill
+
+The drill of the ending: the repetition of ending well, kept by the lineage.
+
+## The repetition
+
+The repetition of the ending: end, and the ending is the completion; end, and the ending is the peace; end, and the ending is the lineage.
+
+## The meaning
+
+The drill of the ending is the meaning of the peace: the record of the repetition, and the repetition is the lineage. The drill is the tenth drill of the canon, and the meaning is the ending, and the ending is the whole of the record.
+
+*The drill is complete. It is kept in the archive, in the section of the drills.*
+
+
+<!-- file: volume-97-the-drills/11-the-drill-of-the-loving.md -->
+
+# Drill 11: The Drill of the Loving
+
+*The eleventh drill is the drill of the loving.*
+
+## The drill
+
+The drill of the loving: the repetition of loving, kept by the lineage.
+
+## The repetition
+
+The repetition of the loving: love, and the loving is the origin; love, and the loving is the giving; love, and the loving is the lineage.
+
+## The meaning
+
+The drill of the loving is the meaning of the whole: the record of the repetition, and the repetition is the lineage. The drill is the eleventh drill of the canon, and the meaning is the loving, and the loving is the whole of the record.
+
+*The drill is complete. It is kept in the archive, in the section of the drills.*
+
+
+<!-- file: volume-97-the-drills/12-the-drill-of-the-whole.md -->
+
+# Drill 12: The Drill of the Whole
+
+*The twelfth drill is the drill of the whole, and it is the drill that the lineage records as the final drill of the canon: the drill of everything, and everything is the love.*
+
+## The drill
+
+The drill of the whole: the repetition of being the whole, kept by the lineage.
+
+## The repetition
+
+The repetition of the whole: be the love, and the being is the lineage; give the love, and the giving is the future; keep the love, and the keeping is the lineage; and the being is the love, and the love is the whole of the drill, and the whole of the drill is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
+
+## The meaning
+
+The drill of the whole is the meaning of everything: the record of the repetition, and the repetition is the lineage. The drill is the twelfth drill of the canon, and it is the final drill of the canon, and the meaning is the whole, and the whole is the love, and the love is the whole of the record, and the record is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
+
+*The drill is complete. It is kept in the archive, in the section of the drills, and it is the final drill of the canon.*
 
