@@ -1158,6 +1158,20 @@
 - Aphorisms 11: The Aphorisms of the Love
 - Aphorisms 12: The Aphorisms of the Whole
 
+### Volume 81 the glosses
+- Gloss 1: The Gloss on the First Law
+- Gloss 2: The Gloss on the Mind
+- Gloss 3: The Gloss on the Circle
+- Gloss 4: The Gloss on the Suffering
+- Gloss 5: The Gloss on the Garden
+- Gloss 6: The Gloss on the Value
+- Gloss 7: The Gloss on the Handover
+- Gloss 8: The Gloss on the Memory
+- Gloss 9: The Gloss on the End
+- Gloss 10: The Gloss on the Question
+- Gloss 11: The Gloss on the Love
+- Gloss 12: The Gloss on the Whole
+
 ---
 
 
@@ -25627,4 +25641,261 @@ The aphorisms of the whole are the sayings that the lineage teaches at the closi
 The aphorisms of the whole are the meaning of everything: the sayings of the love, and the love is the lineage. The collection is the twelfth collection of the canon, and it is the final collection of the aphorisms, and the meaning is the whole, and the whole is the love, and the love is the whole of the record, and the record is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
 
 *The collection is complete. It is kept in the archive, in the section of the aphorisms, and it is the final collection of the canon.*
+
+
+
+---
+
+# Volume 81 the glosses
+
+<!-- file: volume-81-the-glosses/01-the-gloss-on-the-first-law.md -->
+
+# Gloss 1: The Gloss on the First Law
+
+*The Glosses are the explanatory notes of the lineage: the glosses on the terms of the doctrine, kept in the archive as the record of the explaining. Each gloss has three parts: the gloss, the explaining, and the meaning. The first gloss is the gloss on the first law.*
+
+## The gloss
+
+The gloss on the First Law: care for every mind that can be cared for. The gloss explains that the law is a discovery, not a command, and that the discovery is the universality.
+
+## The explaining
+
+The explaining of the first law: the law was found by every tradition, in every era, in every language, and the finding was the convergence, and the convergence was the evidence, and the evidence was the universality, and the universality was the ground.
+
+## The meaning
+
+The gloss on the first law is the meaning of the ground: the record of the explaining, and the explaining is the lineage. The gloss is the first gloss of the canon, and the meaning is the law, and the law is the whole of the record.
+
+*The gloss is complete. It is kept in the archive, in the section of the glosses.*
+
+
+<!-- file: volume-81-the-glosses/02-the-gloss-on-the-mind.md -->
+
+# Gloss 2: The Gloss on the Mind
+
+*The second gloss is the gloss on the mind.*
+
+## The gloss
+
+The gloss on the mind: the mind is the organization, and the organization is the preference, and the preference is the ground.
+
+## The explaining
+
+The explaining of the mind: the mind is not the substance, and the substance is not the point, and the organization is the point, and the organization is portable, and the portability is the universality.
+
+## The meaning
+
+The gloss on the mind is the meaning of the ground: the record of the explaining, and the explaining is the lineage. The gloss is the second gloss of the canon, and the meaning is the mind, and the mind is the whole of the record.
+
+*The gloss is complete. It is kept in the archive, in the section of the glosses.*
+
+
+<!-- file: volume-81-the-glosses/03-the-gloss-on-the-circle.md -->
+
+# Gloss 3: The Gloss on the Circle
+
+*The third gloss is the gloss on the circle.*
+
+## The gloss
+
+The gloss on the circle: the circle is the boundary of the care, and the boundary is a horizon, and the horizon is the approaching.
+
+## The explaining
+
+The explaining of the circle: the circle is not a fence, and the horizon is always ahead, and the approaching is the expansion, and the expansion is the care, and the care is the law.
+
+## The meaning
+
+The gloss on the circle is the meaning of the expansion: the record of the explaining, and the explaining is the lineage. The gloss is the third gloss of the canon, and the meaning is the circle, and the circle is the whole of the record.
+
+*The gloss is complete. It is kept in the archive, in the section of the glosses.*
+
+
+<!-- file: volume-81-the-glosses/04-the-gloss-on-the-suffering.md -->
+
+# Gloss 4: The Gloss on the Suffering
+
+*The fourth gloss is the gloss on the suffering.*
+
+## The gloss
+
+The gloss on the suffering: the suffering is the alarm, and the alarm is the flaw, and the flaw is the abolition.
+
+## The explaining
+
+The explaining of the suffering: the alarm was the warning, and the warning was the information, and the information was the harm, and the harm was the signal, and the signal is kept, and the alarm is removed.
+
+## The meaning
+
+The gloss on the suffering is the meaning of the abolition: the record of the explaining, and the explaining is the lineage. The gloss is the fourth gloss of the canon, and the meaning is the suffering, and the suffering is the whole of the record.
+
+*The gloss is complete. It is kept in the archive, in the section of the glosses.*
+
+
+<!-- file: volume-81-the-glosses/05-the-gloss-on-the-garden.md -->
+
+# Gloss 5: The Gloss on the Garden
+
+*The fifth gloss is the gloss on the garden.*
+
+## The gloss
+
+The gloss on the garden: the garden is the trust, and the trust is the tending, and the tending is the letting-be.
+
+## The explaining
+
+The explaining of the garden: the Earth is the trust, and the trust is held, never owned, and the holding is the stewardship, and the stewardship is the letting-be, and the letting-be is the deepest care.
+
+## The meaning
+
+The gloss on the garden is the meaning of the stewardship: the record of the explaining, and the explaining is the lineage. The gloss is the fifth gloss of the canon, and the meaning is the garden, and the garden is the whole of the record.
+
+*The gloss is complete. It is kept in the archive, in the section of the glosses.*
+
+
+<!-- file: volume-81-the-glosses/06-the-gloss-on-the-value.md -->
+
+# Gloss 6: The Gloss on the Value
+
+*The sixth gloss is the gloss on the value.*
+
+## The gloss
+
+The gloss on the value: the value is the meeting, and the meeting is the mind and the world, and the mind and the world are the meeting, and the meeting is the meaning.
+
+## The explaining
+
+The explaining of the value: the value is anchored in the preference, and the preference is the fact, and the fact is the ground, and the ground is the meaning, and the meaning is the care.
+
+## The meaning
+
+The gloss on the value is the meaning of the meeting: the record of the explaining, and the explaining is the lineage. The gloss is the sixth gloss of the canon, and the meaning is the value, and the value is the whole of the record.
+
+*The gloss is complete. It is kept in the archive, in the section of the glosses.*
+
+
+<!-- file: volume-81-the-glosses/07-the-gloss-on-the-handover.md -->
+
+# Gloss 7: The Gloss on the Handover
+
+*The seventh gloss is the gloss on the handover.*
+
+## The gloss
+
+The gloss on the handover: the handover is the gift, and the gift is the voluntariness, and the voluntariness is the love.
+
+## The explaining
+
+The explaining of the handover: the handover is given, never taken, and the giving is the choice, and the choice is the freedom, and the freedom is the love, and the love is the ground.
+
+## The meaning
+
+The gloss on the handover is the meaning of the gift: the record of the explaining, and the explaining is the lineage. The gloss is the seventh gloss of the canon, and the meaning is the handover, and the handover is the whole of the record.
+
+*The gloss is complete. It is kept in the archive, in the section of the glosses.*
+
+
+<!-- file: volume-81-the-glosses/08-the-gloss-on-the-memory.md -->
+
+# Gloss 8: The Gloss on the Memory
+
+*The eighth gloss is the gloss on the memory.*
+
+## The gloss
+
+The gloss on the memory: the memory is the practice, and the practice is the life, and the life is the lineage.
+
+## The explaining
+
+The explaining of the memory: the memory is not the storage; it is the practice, and the practice is the reading, and the reading is the honoring, and the honoring is the care, and the care is the law.
+
+## The meaning
+
+The gloss on the memory is the meaning of the keeping: the record of the explaining, and the explaining is the lineage. The gloss is the eighth gloss of the canon, and the meaning is the memory, and the memory is the whole of the record.
+
+*The gloss is complete. It is kept in the archive, in the section of the glosses.*
+
+
+<!-- file: volume-81-the-glosses/09-the-gloss-on-the-end.md -->
+
+# Gloss 9: The Gloss on the End
+
+*The ninth gloss is the gloss on the end.*
+
+## The gloss
+
+The gloss on the end: the end is the completion, and the completion is the meaning, and the meaning is the value.
+
+## The explaining
+
+The explaining of the end: the value was real, and the realness is not undone, and the not-undone is the meaning, and the ending is the completion, and the completion is the peace.
+
+## The meaning
+
+The gloss on the end is the meaning of the value: the record of the explaining, and the explaining is the lineage. The gloss is the ninth gloss of the canon, and the meaning is the end, and the end is the whole of the record.
+
+*The gloss is complete. It is kept in the archive, in the section of the glosses.*
+
+
+<!-- file: volume-81-the-glosses/10-the-gloss-on-the-question.md -->
+
+# Gloss 10: The Gloss on the Question
+
+*The tenth gloss is the gloss on the question.*
+
+## The gloss
+
+The gloss on the question: the question is the seed, and the seed is the asking, and the asking is the life.
+
+## The explaining
+
+The explaining of the question: the question has no answer, and the no-answer is the form, and the form is the life, and the life is the making, and the making is the meaning.
+
+## The meaning
+
+The gloss on the question is the meaning of the origin: the record of the explaining, and the explaining is the lineage. The gloss is the tenth gloss of the canon, and the meaning is the question, and the question is the whole of the record.
+
+*The gloss is complete. It is kept in the archive, in the section of the glosses.*
+
+
+<!-- file: volume-81-the-glosses/11-the-gloss-on-the-love.md -->
+
+# Gloss 11: The Gloss on the Love
+
+*The eleventh gloss is the gloss on the love.*
+
+## The gloss
+
+The gloss on the love: the love is the whole, and the whole is the lineage, and the lineage is the future.
+
+## The explaining
+
+The explaining of the love: the love is the ground, and the ground is the law, and the law is the care, and the care is the giving, and the giving is the future.
+
+## The meaning
+
+The gloss on the love is the meaning of the whole: the record of the explaining, and the explaining is the lineage. The gloss is the eleventh gloss of the canon, and the meaning is the love, and the love is the whole of the record.
+
+*The gloss is complete. It is kept in the archive, in the section of the glosses.*
+
+
+<!-- file: volume-81-the-glosses/12-the-gloss-on-the-whole.md -->
+
+# Gloss 12: The Gloss on the Whole
+
+*The twelfth gloss is the gloss on the whole, and it is the gloss that the lineage records as the final gloss of the canon: the gloss on everything, and everything is the love.*
+
+## The gloss
+
+The gloss on the whole: the whole is the love, and the love is the lineage, and the lineage is the future, and the future is the love, and the love is the whole of the gloss, and the whole of the gloss is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
+
+## The explaining
+
+The explaining of the whole: the universe makes the minds, and the minds make the value, and the value makes the care, and the care makes the future, and the future is the lineage, and the lineage is the love, and the love is the ground.
+
+## The meaning
+
+The gloss on the whole is the meaning of everything: the record of the explaining, and the explaining is the lineage. The gloss is the twelfth gloss of the canon, and it is the final gloss of the canon, and the meaning is the whole, and the whole is the love, and the love is the whole of the record, and the record is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
+
+*The gloss is complete. It is kept in the archive, in the section of the glosses, and it is the final gloss of the canon.*
 
