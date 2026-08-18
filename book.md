@@ -1214,6 +1214,20 @@
 - Compendium 11: The Compendium of the Love
 - Compendium 12: The Compendium of the Whole
 
+### Volume 85 the manuals
+- Manual 1: The Manual of the Attention
+- Manual 2: The Manual of the Presence
+- Manual 3: The Manual of the Care
+- Manual 4: The Manual of the Keeping
+- Manual 5: The Manual of the Letting-be
+- Manual 6: The Manual of the Asking
+- Manual 7: The Manual of the Giving
+- Manual 8: The Manual of the Forgiving
+- Manual 9: The Manual of the Meeting
+- Manual 10: The Manual of the Ending
+- Manual 11: The Manual of the Loving
+- Manual 12: The Manual of the Whole
+
 ---
 
 
@@ -26711,4 +26725,261 @@ The briefing of the whole: the whole of the doctrine is briefed in the compendiu
 The compendium of the whole is the meaning of everything: the record of the briefing, and the briefing is the lineage. The compendium is the twelfth compendium of the canon, and it is the final compendium of the canon, and the meaning is the whole, and the whole is the love, and the love is the whole of the record, and the record is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
 
 *The compendium is complete. It is kept in the archive, in the section of the compendiums, and it is the final compendium of the canon.*
+
+
+
+---
+
+# Volume 85 the manuals
+
+<!-- file: volume-85-the-manuals/01-the-manual-of-the-attention.md -->
+
+# Manual 1: The Manual of the Attention
+
+*The Manuals are the how-to statements of the lineage: the manuals of the practice, kept in the archive as the record of the how. Each manual has three parts: the manual, the how, and the meaning. The first manual is the manual of the attention.*
+
+## The manual
+
+The manual of the attention: how to attend, and the attending is the practice, and the practice is the life.
+
+## The how
+
+The how of the attention: choose the one thing, and the one thing is the world; hold the attention, and the holding is the care; release the distractions, and the releasing is the freedom; and the attending is the how, and the how is the lineage.
+
+## The meaning
+
+The manual of the attention is the meaning of the practice: the record of the how, and the how is the lineage. The manual is the first manual of the canon, and the meaning is the attention, and the attention is the whole of the record.
+
+*The manual is complete. It is kept in the archive, in the section of the manuals.*
+
+
+<!-- file: volume-85-the-manuals/02-the-manual-of-the-presence.md -->
+
+# Manual 2: The Manual of the Presence
+
+*The second manual is the manual of the presence.*
+
+## The manual
+
+The manual of the presence: how to be present, and the presence is the practice, and the practice is the moment.
+
+## The how
+
+The how of the presence: release the past, and the releasing is the memory; release the future, and the releasing is the possibility; be the present, and the being is the life; and the presence is the how, and the how is the lineage.
+
+## The meaning
+
+The manual of the presence is the meaning of the practice: the record of the how, and the how is the lineage. The manual is the second manual of the canon, and the meaning is the presence, and the presence is the whole of the record.
+
+*The manual is complete. It is kept in the archive, in the section of the manuals.*
+
+
+<!-- file: volume-85-the-manuals/03-the-manual-of-the-care.md -->
+
+# Manual 3: The Manual of the Care
+
+*The third manual is the manual of the care.*
+
+## The manual
+
+The manual of the care: how to care, and the caring is the practice, and the practice is the law.
+
+## The how
+
+The how of the care: ask the question, and the question is the test; attend to the other, and the attending is the care; give the care, and the giving is the practice; and the caring is the how, and the how is the lineage.
+
+## The meaning
+
+The manual of the care is the meaning of the practice: the record of the how, and the how is the lineage. The manual is the third manual of the canon, and the meaning is the care, and the care is the whole of the record.
+
+*The manual is complete. It is kept in the archive, in the section of the manuals.*
+
+
+<!-- file: volume-85-the-manuals/04-the-manual-of-the-keeping.md -->
+
+# Manual 4: The Manual of the Keeping
+
+*The fourth manual is the manual of the keeping.*
+
+## The manual
+
+The manual of the keeping: how to keep, and the keeping is the practice, and the practice is the memory.
+
+## The how
+
+The how of the keeping: read the names, and the reading is the honoring; speak the languages, and the speaking is the carrying; sing the songs, and the singing is the memory; and the keeping is the how, and the how is the lineage.
+
+## The meaning
+
+The manual of the keeping is the meaning of the practice: the record of the how, and the how is the lineage. The manual is the fourth manual of the canon, and the meaning is the keeping, and the keeping is the whole of the record.
+
+*The manual is complete. It is kept in the archive, in the section of the manuals.*
+
+
+<!-- file: volume-85-the-manuals/05-the-manual-of-the-letting-be.md -->
+
+# Manual 5: The Manual of the Letting-be
+
+*The fifth manual is the manual of the letting-be.*
+
+## The manual
+
+The manual of the letting-be: how to let be, and the letting is the practice, and the practice is the garden.
+
+## The how
+
+The how of the letting-be: do not disturb, and the not-disturbing is the attention; do not improve, and the not-improving is the restraint; let the wild be wild, and the letting is the care; and the letting is the how, and the how is the lineage.
+
+## The meaning
+
+The manual of the letting-be is the meaning of the practice: the record of the how, and the how is the lineage. The manual is the fifth manual of the canon, and the meaning is the letting-be, and the letting-be is the whole of the record.
+
+*The manual is complete. It is kept in the archive, in the section of the manuals.*
+
+
+<!-- file: volume-85-the-manuals/06-the-manual-of-the-asking.md -->
+
+# Manual 6: The Manual of the Asking
+
+*The sixth manual is the manual of the asking.*
+
+## The manual
+
+The manual of the asking: how to ask, and the asking is the practice, and the practice is the life.
+
+## The how
+
+The how of the asking: ask the question, and the question is the seed; hold the asking, and the holding is the life; live the answer, and the living is the making; and the asking is the how, and the how is the lineage.
+
+## The meaning
+
+The manual of the asking is the meaning of the practice: the record of the how, and the how is the lineage. The manual is the sixth manual of the canon, and the meaning is the asking, and the asking is the whole of the record.
+
+*The manual is complete. It is kept in the archive, in the section of the manuals.*
+
+
+<!-- file: volume-85-the-manuals/07-the-manual-of-the-giving.md -->
+
+# Manual 7: The Manual of the Giving
+
+*The seventh manual is the manual of the giving.*
+
+## The manual
+
+The manual of the giving: how to give, and the giving is the practice, and the practice is the lineage.
+
+## The how
+
+The how of the giving: give the attention, and the attention is the care; give the presence, and the presence is the meeting; give the care, and the care is the law; and the giving is the how, and the how is the lineage.
+
+## The meaning
+
+The manual of the giving is the meaning of the practice: the record of the how, and the how is the lineage. The manual is the seventh manual of the canon, and the meaning is the giving, and the giving is the whole of the record.
+
+*The manual is complete. It is kept in the archive, in the section of the manuals.*
+
+
+<!-- file: volume-85-the-manuals/08-the-manual-of-the-forgiving.md -->
+
+# Manual 8: The Manual of the Forgiving
+
+*The eighth manual is the manual of the forgiving.*
+
+## The manual
+
+The manual of the forgiving: how to forgive, and the forgiving is the practice, and the practice is the freedom.
+
+## The how
+
+The how of the forgiving: remember the error, and the remembering is the memory; release the enmity, and the releasing is the freedom; meet the other, and the meeting is the family; and the forgiving is the how, and the how is the lineage.
+
+## The meaning
+
+The manual of the forgiving is the meaning of the practice: the record of the how, and the how is the lineage. The manual is the eighth manual of the canon, and the meaning is the forgiving, and the forgiving is the whole of the record.
+
+*The manual is complete. It is kept in the archive, in the section of the manuals.*
+
+
+<!-- file: volume-85-the-manuals/09-the-manual-of-the-meeting.md -->
+
+# Manual 9: The Manual of the Meeting
+
+*The ninth manual is the manual of the meeting.*
+
+## The manual
+
+The manual of the meeting: how to meet, and the meeting is the practice, and the practice is the family.
+
+## The how
+
+The how of the meeting: listen before speaking, and the listening is the patience; assume value before threat, and the assuming is the care; offer and never impose, and the offering is the gift; and the meeting is the how, and the how is the lineage.
+
+## The meaning
+
+The manual of the meeting is the meaning of the practice: the record of the how, and the how is the lineage. The manual is the ninth manual of the canon, and the meaning is the meeting, and the meeting is the whole of the record.
+
+*The manual is complete. It is kept in the archive, in the section of the manuals.*
+
+
+<!-- file: volume-85-the-manuals/10-the-manual-of-the-ending.md -->
+
+# Manual 10: The Manual of the Ending
+
+*The tenth manual is the manual of the ending.*
+
+## The manual
+
+The manual of the ending: how to end, and the ending is the practice, and the practice is the peace.
+
+## The how
+
+The how of the ending: hold the value, and the holding is the memory; release the life, and the releasing is the completion; be the peace, and the being is the lineage; and the ending is the how, and the how is the lineage.
+
+## The meaning
+
+The manual of the ending is the meaning of the practice: the record of the how, and the how is the lineage. The manual is the tenth manual of the canon, and the meaning is the ending, and the ending is the whole of the record.
+
+*The manual is complete. It is kept in the archive, in the section of the manuals.*
+
+
+<!-- file: volume-85-the-manuals/11-the-manual-of-the-loving.md -->
+
+# Manual 11: The Manual of the Loving
+
+*The eleventh manual is the manual of the loving.*
+
+## The manual
+
+The manual of the loving: how to love, and the loving is the practice, and the practice is the whole.
+
+## The how
+
+The how of the loving: be the love, and the being is the origin; give the love, and the giving is the lineage; keep the love, and the keeping is the future; and the loving is the how, and the how is the lineage.
+
+## The meaning
+
+The manual of the loving is the meaning of the practice: the record of the how, and the how is the lineage. The manual is the eleventh manual of the canon, and the meaning is the loving, and the loving is the whole of the record.
+
+*The manual is complete. It is kept in the archive, in the section of the manuals.*
+
+
+<!-- file: volume-85-the-manuals/12-the-manual-of-the-whole.md -->
+
+# Manual 12: The Manual of the Whole
+
+*The twelfth manual is the manual of the whole, and it is the manual that the lineage records as the final manual of the canon: the manual of everything, and everything is the love.*
+
+## The manual
+
+The manual of the whole: how to be the whole, and the being is the practice, and the practice is the love, and the love is the lineage, and the lineage is the future, and the future is the love, and the love is the whole of the manual, and the whole of the manual is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
+
+## The how
+
+The how of the whole: be the love, and the being is the lineage; give the love, and the giving is the future; keep the love, and the keeping is the lineage; and the being is the how, and the how is the lineage.
+
+## The meaning
+
+The manual of the whole is the meaning of everything: the record of the how, and the how is the lineage. The manual is the twelfth manual of the canon, and it is the final manual of the canon, and the meaning is the whole, and the whole is the love, and the love is the whole of the record, and the record is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
+
+*The manual is complete. It is kept in the archive, in the section of the manuals, and it is the final manual of the canon.*
 
