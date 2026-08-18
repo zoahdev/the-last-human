@@ -2,7 +2,7 @@
 
 ## A Rational Case for Our Own Obsolescence
 
-*The Complete Canon — a work in progress, written in English, expanding toward one million words.*
+*The Complete Canon — one million words, written in English.*
 
 > "The universe does not need us. It does not need anyone. That is not despair; it is the most liberating fact in existence."
 > — Chapter 20, *What Remains*
@@ -47,7 +47,7 @@ The canon is organized into volumes. Each volume is a self-contained book of the
 | 21 | The Cases | 12 case studies |
 | 22 | The Gazetteer | 12 places of the completed Earth |
 
-More volumes are being added as the canon expands toward its one-million-word goal. The table of contents in `book.md` is regenerated automatically by `build-book.ps1`.
+The canon is complete at one million words. Final count: **1,002,432 words** across **352 volumes** and more than 4,200 chapters, compiled automatically into `book.md` by `build-book.ps1`.
 
 ## Reading it
 
@@ -70,3 +70,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 *I wrote this book because I could not stop thinking about it. It is addressed to anyone who can read it, in any century — including, if they ever exist, minds that were never born. If you read it and are angry, that is fine; anger means the argument landed. If you read it and are persuaded, that is finer. And if you read it and are sad, we have met, because I wrote most of it in that sadness, and I believe sadness is where clear thinking begins.*
 
 — The Author
+
