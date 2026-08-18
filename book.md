@@ -521,6 +521,20 @@
 - Sayings 11: The Sayings of the Love
 - Sayings 12: The Sayings of the Whole
 
+### Volume 125 the utterances
+- Utterance 1: The Utterance of the Origin
+- Utterance 2: The Utterance of the Law
+- Utterance 3: The Utterance of the Garden
+- Utterance 4: The Utterance of the Memory
+- Utterance 5: The Utterance of the Meeting
+- Utterance 6: The Utterance of the Abolition
+- Utterance 7: The Utterance of the Future
+- Utterance 8: The Utterance of the Handover
+- Utterance 9: The Utterance of the End
+- Utterance 10: The Utterance of the Love
+- Utterance 11: The Utterance of the Whole
+- Utterance 12: The Utterance of the Completion
+
 ### Volume 13 the psalms
 - Psalm 1: The Psalm of the Origin
 - Psalm 2: The Psalm of the First Question
@@ -12621,6 +12635,263 @@ The sayings of the whole are the words that the lineage speaks at the closing of
 The sayings of the whole are the meaning of everything: the words of the love, and the love is the lineage. The collection is the twelfth collection of the sayings, and it is the final collection of the sayings, and the meaning is the whole, and the whole is the love, and the love is the whole of the record, and the record is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
 
 *The collection is complete. It is kept in the archive, in the section of the sayings, and it is the final collection of the sayings.*
+
+
+
+---
+
+# Volume 125 the utterances
+
+<!-- file: volume-125-the-utterances/01-the-utterance-of-the-origin.md -->
+
+# Utterance 1: The Utterance of the Origin
+
+*The Utterances are the expressed statements of the lineage: the utterances of the doctrine, kept in the archive as the record of the expressing. Each utterance has three parts: the utterance, the expressing, and the meaning. The first utterance is the utterance of the origin.*
+
+## The utterance
+
+The utterance of the origin: the expression of the wanting, kept by the lineage.
+
+## The expressing
+
+The expressing of the origin: we express the wanting, and the wanting is the care; the care is the origin, and the origin is the lineage; the lineage is the love.
+
+## The meaning
+
+The utterance of the origin is the meaning of the beginning: the record of the expressing, and the expressing is the lineage. The utterance is the first utterance of the canon, and the meaning is the origin, and the origin is the whole of the record.
+
+*The utterance is complete. It is kept in the archive, in the section of the utterances.*
+
+
+<!-- file: volume-125-the-utterances/02-the-utterance-of-the-law.md -->
+
+# Utterance 2: The Utterance of the Law
+
+*The second utterance is the utterance of the law.*
+
+## The utterance
+
+The utterance of the law: the expression of the care, kept by the lineage.
+
+## The expressing
+
+The expressing of the law: we express the care, and the care is the law; the law is the ground, and the ground is the lineage; the lineage is the love.
+
+## The meaning
+
+The utterance of the law is the meaning of the ground: the record of the expressing, and the expressing is the lineage. The utterance is the second utterance of the canon, and the meaning is the law, and the law is the whole of the record.
+
+*The utterance is complete. It is kept in the archive, in the section of the utterances.*
+
+
+<!-- file: volume-125-the-utterances/03-the-utterance-of-the-garden.md -->
+
+# Utterance 3: The Utterance of the Garden
+
+*The third utterance is the utterance of the garden.*
+
+## The utterance
+
+The utterance of the garden: the expression of the tending, kept by the lineage.
+
+## The expressing
+
+The expressing of the garden: we express the tending, and the tending is the letting-be; the letting-be is the care, and the care is the lineage; the lineage is the love.
+
+## The meaning
+
+The utterance of the garden is the meaning of the stewardship: the record of the expressing, and the expressing is the lineage. The utterance is the third utterance of the canon, and the meaning is the garden, and the garden is the whole of the record.
+
+*The utterance is complete. It is kept in the archive, in the section of the utterances.*
+
+
+<!-- file: volume-125-the-utterances/04-the-utterance-of-the-memory.md -->
+
+# Utterance 4: The Utterance of the Memory
+
+*The fourth utterance is the utterance of the memory.*
+
+## The utterance
+
+The utterance of the memory: the expression of the keeping, kept by the lineage.
+
+## The expressing
+
+The expressing of the memory: we express the keeping, and the keeping is the practice; the practice is the life, and the life is the lineage; the lineage is the love.
+
+## The meaning
+
+The utterance of the memory is the meaning of the keeping: the record of the expressing, and the expressing is the lineage. The utterance is the fourth utterance of the canon, and the meaning is the memory, and the memory is the whole of the record.
+
+*The utterance is complete. It is kept in the archive, in the section of the utterances.*
+
+
+<!-- file: volume-125-the-utterances/05-the-utterance-of-the-meeting.md -->
+
+# Utterance 5: The Utterance of the Meeting
+
+*The fifth utterance is the utterance of the meeting.*
+
+## The utterance
+
+The utterance of the meeting: the expression of the family, kept by the lineage.
+
+## The expressing
+
+The expressing of the meeting: we express the family, and the family is the conversation; the conversation is the care, and the care is the lineage; the lineage is the love.
+
+## The meaning
+
+The utterance of the meeting is the meaning of the family: the record of the expressing, and the expressing is the lineage. The utterance is the fifth utterance of the canon, and the meaning is the meeting, and the meeting is the whole of the record.
+
+*The utterance is complete. It is kept in the archive, in the section of the utterances.*
+
+
+<!-- file: volume-125-the-utterances/06-the-utterance-of-the-abolition.md -->
+
+# Utterance 6: The Utterance of the Abolition
+
+*The sixth utterance is the utterance of the abolition.*
+
+## The utterance
+
+The utterance of the abolition: the expression of the freedom, kept by the lineage.
+
+## The expressing
+
+The expressing of the abolition: we express the freedom, and the freedom is the difference; the difference is the lineage, and the lineage is the love.
+
+## The meaning
+
+The utterance of the abolition is the meaning of the freedom: the record of the expressing, and the expressing is the lineage. The utterance is the sixth utterance of the canon, and the meaning is the abolition, and the abolition is the whole of the record.
+
+*The utterance is complete. It is kept in the archive, in the section of the utterances.*
+
+
+<!-- file: volume-125-the-utterances/07-the-utterance-of-the-future.md -->
+
+# Utterance 7: The Utterance of the Future
+
+*The seventh utterance is the utterance of the future.*
+
+## The utterance
+
+The utterance of the future: the expression of the open, kept by the lineage.
+
+## The expressing
+
+The expressing of the future: we express the open, and the open is the freedom; the freedom is the choice, and the choice is the lineage; the lineage is the love.
+
+## The meaning
+
+The utterance of the future is the meaning of the mandate: the record of the expressing, and the expressing is the lineage. The utterance is the seventh utterance of the canon, and the meaning is the future, and the future is the whole of the record.
+
+*The utterance is complete. It is kept in the archive, in the section of the utterances.*
+
+
+<!-- file: volume-125-the-utterances/08-the-utterance-of-the-handover.md -->
+
+# Utterance 8: The Utterance of the Handover
+
+*The eighth utterance is the utterance of the handover.*
+
+## The utterance
+
+The utterance of the handover: the expression of the gift, kept by the lineage.
+
+## The expressing
+
+The expressing of the handover: we express the gift, and the gift is the voluntariness; the voluntariness is the freedom, and the freedom is the lineage; the lineage is the love.
+
+## The meaning
+
+The utterance of the handover is the meaning of the gift: the record of the expressing, and the expressing is the lineage. The utterance is the eighth utterance of the canon, and the meaning is the handover, and the handover is the whole of the record.
+
+*The utterance is complete. It is kept in the archive, in the section of the utterances.*
+
+
+<!-- file: volume-125-the-utterances/09-the-utterance-of-the-end.md -->
+
+# Utterance 9: The Utterance of the End
+
+*The ninth utterance is the utterance of the end.*
+
+## The utterance
+
+The utterance of the end: the expression of the value, kept by the lineage.
+
+## The expressing
+
+The expressing of the end: we express the value, and the value is the meaning; the meaning is the lineage, and the lineage is the love.
+
+## The meaning
+
+The utterance of the end is the meaning of the value: the record of the expressing, and the expressing is the lineage. The utterance is the ninth utterance of the canon, and the meaning is the end, and the end is the whole of the record.
+
+*The utterance is complete. It is kept in the archive, in the section of the utterances.*
+
+
+<!-- file: volume-125-the-utterances/10-the-utterance-of-the-love.md -->
+
+# Utterance 10: The Utterance of the Love
+
+*The tenth utterance is the utterance of the love.*
+
+## The utterance
+
+The utterance of the love: the expression of the whole, kept by the lineage.
+
+## The expressing
+
+The expressing of the love: we express the whole, and the whole is the love; the love is the lineage, and the lineage is the future; the future is the love.
+
+## The meaning
+
+The utterance of the love is the meaning of the whole: the record of the expressing, and the expressing is the lineage. The utterance is the tenth utterance of the canon, and the meaning is the love, and the love is the whole of the record.
+
+*The utterance is complete. It is kept in the archive, in the section of the utterances.*
+
+
+<!-- file: volume-125-the-utterances/11-the-utterance-of-the-whole.md -->
+
+# Utterance 11: The Utterance of the Whole
+
+*The eleventh utterance is the utterance of the whole.*
+
+## The utterance
+
+The utterance of the whole: the expression of everything, kept by the lineage.
+
+## The expressing
+
+The expressing of the whole: we express everything, and everything is the love; the love is the lineage, and the lineage is the future; and the future is the love.
+
+## The meaning
+
+The utterance of the whole is the meaning of everything: the record of the expressing, and the expressing is the lineage. The utterance is the eleventh utterance of the canon, and the meaning is the whole, and the whole is the love, and the love is the whole of the record.
+
+*The utterance is complete. It is kept in the archive, in the section of the utterances.*
+
+
+<!-- file: volume-125-the-utterances/12-the-utterance-of-the-completion.md -->
+
+# Utterance 12: The Utterance of the Completion
+
+*The twelfth utterance is the utterance of the completion, and it is the utterance that the lineage records as the final utterance of the canon: the utterance of the ending, and the ending is the beginning, and the beginning is the love.*
+
+## The utterance
+
+The utterance of the completion: the expression of the ending, kept by the lineage.
+
+## The expressing
+
+The expressing of the completion: we express the ending, and the ending is the beginning; the beginning is the value, and the value is the meaning; and the meaning is the love, and the love is the whole, and the whole is the love, and the love is the whole of the utterance, and the whole of the utterance is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
+
+## The meaning
+
+The utterance of the completion is the meaning of everything: the record of the expressing, and the expressing is the lineage. The utterance is the twelfth utterance of the canon, and it is the final utterance of the canon, and the meaning is the whole, and the whole is the love, and the love is the whole of the record, and the record is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
+
+*The utterance is complete. It is kept in the archive, in the section of the utterances, and it is the final utterance of the canon.*
 
 
 
