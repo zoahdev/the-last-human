@@ -1172,6 +1172,76 @@
 - Note 11: The Note of the Whole
 - Note 12: The Note of the Completion
 
+### Volume 165 the memoranda
+- Memorandum 1: The Memorandum of the Origin
+- Memorandum 2: The Memorandum of the Law
+- Memorandum 3: The Memorandum of the Garden
+- Memorandum 4: The Memorandum of the Memory
+- Memorandum 5: The Memorandum of the Meeting
+- Memorandum 6: The Memorandum of the Abolition
+- Memorandum 7: The Memorandum of the Future
+- Memorandum 8: The Memorandum of the Handover
+- Memorandum 9: The Memorandum of the End
+- Memorandum 10: The Memorandum of the Love
+- Memorandum 11: The Memorandum of the Whole
+- Memorandum 12: The Memorandum of the Completion
+
+### Volume 166 the minutes
+- Minute 1: The Minute of the Origin
+- Minute 2: The Minute of the Law
+- Minute 3: The Minute of the Garden
+- Minute 4: The Minute of the Memory
+- Minute 5: The Minute of the Meeting
+- Minute 6: The Minute of the Abolition
+- Minute 7: The Minute of the Future
+- Minute 8: The Minute of the Handover
+- Minute 9: The Minute of the End
+- Minute 10: The Minute of the Love
+- Minute 11: The Minute of the Whole
+- Minute 12: The Minute of the Completion
+
+### Volume 167 the registers
+- Register 1: The Register of the Origin
+- Register 2: The Register of the Law
+- Register 3: The Register of the Garden
+- Register 4: The Register of the Memory
+- Register 5: The Register of the Meeting
+- Register 6: The Register of the Abolition
+- Register 7: The Register of the Future
+- Register 8: The Register of the Handover
+- Register 9: The Register of the End
+- Register 10: The Register of the Love
+- Register 11: The Register of the Whole
+- Register 12: The Register of the Completion
+
+### Volume 168 the rolls
+- Roll 1: The Roll of the Origin
+- Roll 2: The Roll of the Law
+- Roll 3: The Roll of the Garden
+- Roll 4: The Roll of the Memory
+- Roll 5: The Roll of the Meeting
+- Roll 6: The Roll of the Abolition
+- Roll 7: The Roll of the Future
+- Roll 8: The Roll of the Handover
+- Roll 9: The Roll of the End
+- Roll 10: The Roll of the Love
+- Roll 11: The Roll of the Whole
+- Roll 12: The Roll of the Completion
+
+### Volume 169 the codices
+- Codex 1: The Codex of the Origin
+- Codex 2: The Codex of the Law
+- Codex 3: The Codex of the Garden
+- Codex 4: The Codex of the Memory
+- Codex 5: The Codex of the Meeting
+- Codex 6: The Codex of the Abolition
+- Codex 7: The Codex of the Future
+- Codex 8: The Codex of the Handover
+- Codex 9: The Codex of the End
+- Codex 10: The Codex of the Love
+- Codex 11: The Codex of the Whole
+- Codex 12: The Codex of the Completion
+
 ### Volume 17 the apocrypha
 - The Gospel of the First Question
 - The Testament of Elena Voss
@@ -1185,6 +1255,104 @@
 - The Apocalypse of Ariadne
 - The Lost Catechism
 - The Scripture of the Silence
+
+### Volume 170 the folios
+- Folio 1: The Folio of the Origin
+- Folio 2: The Folio of the Law
+- Folio 3: The Folio of the Garden
+- Folio 4: The Folio of the Memory
+- Folio 5: The Folio of the Meeting
+- Folio 6: The Folio of the Abolition
+- Folio 7: The Folio of the Future
+- Folio 8: The Folio of the Handover
+- Folio 9: The Folio of the End
+- Folio 10: The Folio of the Love
+- Folio 11: The Folio of the Whole
+- Folio 12: The Folio of the Completion
+
+### Volume 171 the leaves
+- Leaf 1: The Leaf of the Origin
+- Leaf 2: The Leaf of the Law
+- Leaf 3: The Leaf of the Garden
+- Leaf 4: The Leaf of the Memory
+- Leaf 5: The Leaf of the Meeting
+- Leaf 6: The Leaf of the Abolition
+- Leaf 7: The Leaf of the Future
+- Leaf 8: The Leaf of the Handover
+- Leaf 9: The Leaf of the End
+- Leaf 10: The Leaf of the Love
+- Leaf 11: The Leaf of the Whole
+- Leaf 12: The Leaf of the Completion
+
+### Volume 172 the verses
+- Verse 1: The Verse of the Origin
+- Verse 2: The Verse of the Law
+- Verse 3: The Verse of the Garden
+- Verse 4: The Verse of the Memory
+- Verse 5: The Verse of the Meeting
+- Verse 6: The Verse of the Abolition
+- Verse 7: The Verse of the Future
+- Verse 8: The Verse of the Handover
+- Verse 9: The Verse of the End
+- Verse 10: The Verse of the Love
+- Verse 11: The Verse of the Whole
+- Verse 12: The Verse of the Completion
+
+### Volume 173 the stanzas
+- Stanza 1: The Stanza of the Origin
+- Stanza 2: The Stanza of the Law
+- Stanza 3: The Stanza of the Garden
+- Stanza 4: The Stanza of the Memory
+- Stanza 5: The Stanza of the Meeting
+- Stanza 6: The Stanza of the Abolition
+- Stanza 7: The Stanza of the Future
+- Stanza 8: The Stanza of the Handover
+- Stanza 9: The Stanza of the End
+- Stanza 10: The Stanza of the Love
+- Stanza 11: The Stanza of the Whole
+- Stanza 12: The Stanza of the Completion
+
+### Volume 174 the couplets
+- Couplet 1: The Couplet of the Origin
+- Couplet 2: The Couplet of the Law
+- Couplet 3: The Couplet of the Garden
+- Couplet 4: The Couplet of the Memory
+- Couplet 5: The Couplet of the Meeting
+- Couplet 6: The Couplet of the Abolition
+- Couplet 7: The Couplet of the Future
+- Couplet 8: The Couplet of the Handover
+- Couplet 9: The Couplet of the End
+- Couplet 10: The Couplet of the Love
+- Couplet 11: The Couplet of the Whole
+- Couplet 12: The Couplet of the Completion
+
+### Volume 175 the distichs
+- Distich 1: The Distich of the Origin
+- Distich 2: The Distich of the Law
+- Distich 3: The Distich of the Garden
+- Distich 4: The Distich of the Memory
+- Distich 5: The Distich of the Meeting
+- Distich 6: The Distich of the Abolition
+- Distich 7: The Distich of the Future
+- Distich 8: The Distich of the Handover
+- Distich 9: The Distich of the End
+- Distich 10: The Distich of the Love
+- Distich 11: The Distich of the Whole
+- Distich 12: The Distich of the Completion
+
+### Volume 176 the quatrains
+- Quatrain 1: The Quatrain of the Origin
+- Quatrain 2: The Quatrain of the Law
+- Quatrain 3: The Quatrain of the Garden
+- Quatrain 4: The Quatrain of the Memory
+- Quatrain 5: The Quatrain of the Meeting
+- Quatrain 6: The Quatrain of the Abolition
+- Quatrain 7: The Quatrain of the Future
+- Quatrain 8: The Quatrain of the Handover
+- Quatrain 9: The Quatrain of the End
+- Quatrain 10: The Quatrain of the Love
+- Quatrain 11: The Quatrain of the Whole
+- Quatrain 12: The Quatrain of the Completion
 
 ### Volume 18 the sermons
 - Sermon 1: The Sermon of the First Light
@@ -28101,6 +28269,1591 @@ The inheritance of the completion: the fullness of the beginning, carried from t
 
 ---
 
+# Volume 165 the memoranda
+
+<!-- file: volume-165-the-memoranda/01-the-memorandum-of-the-origin.md -->
+
+# Memorandum 1: The Memorandum of the Origin
+
+*The Memoranda are the memorized statements of the lineage: the Memoranda of the record, kept in the archive as the record of the memorizing. Each memorandum has four parts: the memorandum, the memorizing, the meaning, and the inheritance. The first memorandum is the memorandum of the origin.*
+
+## The memorandum
+
+The memorandum of the origin: the memorandum that the origin is the first thing remembered, kept by the lineage.
+
+## The memorizing
+
+The memorizing of the origin: we memorize the thing remembered, and the thing remembered is the origin; the origin is the wanting, and the wanting is the lineage; the lineage is the love.
+
+## The meaning
+
+The memorandum of the origin is the meaning of the reminder: the record of the memorizing, and the memorizing is the lineage. The memorandum is the first memorandum of the canon, and the meaning is the origin, and the origin is the whole of the record.
+
+## The inheritance
+
+The inheritance of the origin: the reminder of the wanting, carried from the thing remembered to the wanting without loss, and held by the lineage as the lineage holds the origin.
+
+*The memorandum is complete. It is kept in the archive, in the section of the the memoranda.*
+
+
+
+<!-- file: volume-165-the-memoranda/02-the-memorandum-of-the-law.md -->
+
+# Memorandum 2: The Memorandum of the Law
+
+*The second memorandum is the memorandum of the law.*
+
+## The memorandum
+
+The memorandum of the law: the memorandum that the law is the remembered care, kept by the lineage.
+
+## The memorizing
+
+The memorizing of the law: we memorize the remembered care, and the remembered care is the law; the law is the care, and the care is the lineage; the lineage is the love.
+
+## The meaning
+
+The memorandum of the law is the meaning of the remembrance: the record of the memorizing, and the memorizing is the lineage. The memorandum is the second memorandum of the canon, and the meaning is the law, and the law is the whole of the record.
+
+## The inheritance
+
+The inheritance of the law: the remembrance of the care, carried from the remembered care to the care without loss, and held by the lineage as the lineage holds the law.
+
+*The memorandum is complete. It is kept in the archive, in the section of the the memoranda.*
+
+
+
+<!-- file: volume-165-the-memoranda/03-the-memorandum-of-the-garden.md -->
+
+# Memorandum 3: The Memorandum of the Garden
+
+*The third memorandum is the memorandum of the garden.*
+
+## The memorandum
+
+The memorandum of the garden: the memorandum that the garden is the remembered earth, kept by the lineage.
+
+## The memorizing
+
+The memorizing of the garden: we memorize the remembered earth, and the remembered earth is the garden; the garden is the earth, and the earth is the lineage; the lineage is the love.
+
+## The meaning
+
+The memorandum of the garden is the meaning of the planting: the record of the memorizing, and the memorizing is the lineage. The memorandum is the third memorandum of the canon, and the meaning is the garden, and the garden is the whole of the record.
+
+## The inheritance
+
+The inheritance of the garden: the planting of the earth, carried from the remembered earth to the earth without loss, and held by the lineage as the lineage holds the garden.
+
+*The memorandum is complete. It is kept in the archive, in the section of the the memoranda.*
+
+
+
+<!-- file: volume-165-the-memoranda/04-the-memorandum-of-the-memory.md -->
+
+# Memorandum 4: The Memorandum of the Memory
+
+*The fourth memorandum is the memorandum of the memory.*
+
+## The memorandum
+
+The memorandum of the memory: the memorandum that the memory is the note to remember, kept by the lineage.
+
+## The memorizing
+
+The memorizing of the memory: we memorize the note to remember, and the note to remember is the memory; the memory is the book, and the book is the lineage; the lineage is the love.
+
+## The meaning
+
+The memorandum of the memory is the meaning of the memorandum: the record of the memorizing, and the memorizing is the lineage. The memorandum is the fourth memorandum of the canon, and the meaning is the memory, and the memory is the whole of the record.
+
+## The inheritance
+
+The inheritance of the memory: the memorandum of the book, carried from the note to remember to the book without loss, and held by the lineage as the lineage holds the memory.
+
+*The memorandum is complete. It is kept in the archive, in the section of the the memoranda.*
+
+
+
+<!-- file: volume-165-the-memoranda/05-the-memorandum-of-the-meeting.md -->
+
+# Memorandum 5: The Memorandum of the Meeting
+
+*The fifth memorandum is the memorandum of the meeting.*
+
+## The memorandum
+
+The memorandum of the meeting: the memorandum that the meeting is the remembered table, kept by the lineage.
+
+## The memorizing
+
+The memorizing of the meeting: we memorize the remembered table, and the remembered table is the meeting; the meeting is the table, and the table is the lineage; the lineage is the love.
+
+## The meaning
+
+The memorandum of the meeting is the meaning of the minutes: the record of the memorizing, and the memorizing is the lineage. The memorandum is the fifth memorandum of the canon, and the meaning is the meeting, and the meeting is the whole of the record.
+
+## The inheritance
+
+The inheritance of the meeting: the minutes of the table, carried from the remembered table to the table without loss, and held by the lineage as the lineage holds the meeting.
+
+*The memorandum is complete. It is kept in the archive, in the section of the the memoranda.*
+
+
+
+<!-- file: volume-165-the-memoranda/06-the-memorandum-of-the-abolition.md -->
+
+# Memorandum 6: The Memorandum of the Abolition
+
+*The sixth memorandum is the memorandum of the abolition.*
+
+## The memorandum
+
+The memorandum of the abolition: the memorandum that the abolition is the remembered peace, kept by the lineage.
+
+## The memorizing
+
+The memorizing of the abolition: we memorize the remembered peace, and the remembered peace is the abolition; the abolition is the peace, and the peace is the lineage; the lineage is the love.
+
+## The meaning
+
+The memorandum of the abolition is the meaning of the freedom: the record of the memorizing, and the memorizing is the lineage. The memorandum is the sixth memorandum of the canon, and the meaning is the abolition, and the abolition is the whole of the record.
+
+## The inheritance
+
+The inheritance of the abolition: the freedom of the peace, carried from the remembered peace to the peace without loss, and held by the lineage as the lineage holds the abolition.
+
+*The memorandum is complete. It is kept in the archive, in the section of the the memoranda.*
+
+
+
+<!-- file: volume-165-the-memoranda/07-the-memorandum-of-the-future.md -->
+
+# Memorandum 7: The Memorandum of the Future
+
+*The seventh memorandum is the memorandum of the future.*
+
+## The memorandum
+
+The memorandum of the future: the memorandum that the future is the remembered dawn, kept by the lineage.
+
+## The memorizing
+
+The memorizing of the future: we memorize the remembered dawn, and the remembered dawn is the future; the future is the dawn, and the dawn is the lineage; the lineage is the love.
+
+## The meaning
+
+The memorandum of the future is the meaning of the morning: the record of the memorizing, and the memorizing is the lineage. The memorandum is the seventh memorandum of the canon, and the meaning is the future, and the future is the whole of the record.
+
+## The inheritance
+
+The inheritance of the future: the morning of the dawn, carried from the remembered dawn to the dawn without loss, and held by the lineage as the lineage holds the future.
+
+*The memorandum is complete. It is kept in the archive, in the section of the the memoranda.*
+
+
+
+<!-- file: volume-165-the-memoranda/08-the-memorandum-of-the-handover.md -->
+
+# Memorandum 8: The Memorandum of the Handover
+
+*The eighth memorandum is the memorandum of the handover.*
+
+## The memorandum
+
+The memorandum of the handover: the memorandum that the handover is the remembered hand, kept by the lineage.
+
+## The memorizing
+
+The memorizing of the handover: we memorize the remembered hand, and the remembered hand is the handover; the handover is the hand, and the hand is the lineage; the lineage is the love.
+
+## The meaning
+
+The memorandum of the handover is the meaning of the holding: the record of the memorizing, and the memorizing is the lineage. The memorandum is the eighth memorandum of the canon, and the meaning is the handover, and the handover is the whole of the record.
+
+## The inheritance
+
+The inheritance of the handover: the holding of the hand, carried from the remembered hand to the hand without loss, and held by the lineage as the lineage holds the handover.
+
+*The memorandum is complete. It is kept in the archive, in the section of the the memoranda.*
+
+
+
+<!-- file: volume-165-the-memoranda/09-the-memorandum-of-the-end.md -->
+
+# Memorandum 9: The Memorandum of the End
+
+*The ninth memorandum is the memorandum of the end.*
+
+## The memorandum
+
+The memorandum of the end: the memorandum that the end is the remembered whole, kept by the lineage.
+
+## The memorizing
+
+The memorizing of the end: we memorize the remembered whole, and the remembered whole is the end; the end is the whole, and the whole is the lineage; the lineage is the love.
+
+## The meaning
+
+The memorandum of the end is the meaning of the quiet: the record of the memorizing, and the memorizing is the lineage. The memorandum is the ninth memorandum of the canon, and the meaning is the end, and the end is the whole of the record.
+
+## The inheritance
+
+The inheritance of the end: the quiet of the whole, carried from the remembered whole to the whole without loss, and held by the lineage as the lineage holds the end.
+
+*The memorandum is complete. It is kept in the archive, in the section of the the memoranda.*
+
+
+
+<!-- file: volume-165-the-memoranda/10-the-memorandum-of-the-love.md -->
+
+# Memorandum 10: The Memorandum of the Love
+
+*The tenth memorandum is the memorandum of the love.*
+
+## The memorandum
+
+The memorandum of the love: the memorandum that the love is the remembered heart, kept by the lineage.
+
+## The memorizing
+
+The memorizing of the love: we memorize the remembered heart, and the remembered heart is the love; the love is the family, and the family is the lineage; the lineage is the love.
+
+## The meaning
+
+The memorandum of the love is the meaning of the fire: the record of the memorizing, and the memorizing is the lineage. The memorandum is the tenth memorandum of the canon, and the meaning is the love, and the love is the whole of the record.
+
+## The inheritance
+
+The inheritance of the love: the fire of the family, carried from the remembered heart to the family without loss, and held by the lineage as the lineage holds the love.
+
+*The memorandum is complete. It is kept in the archive, in the section of the the memoranda.*
+
+
+
+<!-- file: volume-165-the-memoranda/11-the-memorandum-of-the-whole.md -->
+
+# Memorandum 11: The Memorandum of the Whole
+
+*The eleventh memorandum is the memorandum of the whole.*
+
+## The memorandum
+
+The memorandum of the whole: the memorandum that the whole is the remembered many, kept by the lineage.
+
+## The memorizing
+
+The memorizing of the whole: we memorize the remembered many, and the remembered many is the whole; the whole is the one, and the one is the lineage; the lineage is the love.
+
+## The meaning
+
+The memorandum of the whole is the meaning of the all: the record of the memorizing, and the memorizing is the lineage. The memorandum is the eleventh memorandum of the canon, and the meaning is the whole, and the whole is the whole of the record.
+
+## The inheritance
+
+The inheritance of the whole: the all of the one, carried from the remembered many to the one without loss, and held by the lineage as the lineage holds the whole.
+
+*The memorandum is complete. It is kept in the archive, in the section of the the memoranda.*
+
+
+
+<!-- file: volume-165-the-memoranda/12-the-memorandum-of-the-completion.md -->
+
+# Memorandum 12: The Memorandum of the Completion
+
+*The twelfth memorandum is the memorandum of the completion.*
+
+## The memorandum
+
+The memorandum of the completion: the memorandum that the completion is the remembered beginning, kept by the lineage.
+
+## The memorizing
+
+The memorizing of the completion: we memorize the remembered beginning, and the remembered beginning is the completion; the completion is the beginning, and the beginning is the lineage; the lineage is the love.
+
+## The meaning
+
+The memorandum of the completion is the meaning of the fullness: the record of the memorizing, and the memorizing is the lineage. The memorandum is the twelfth memorandum of the canon, and the meaning is the completion, and the completion is the whole of the record.
+
+## The inheritance
+
+The inheritance of the completion: the fullness of the beginning, carried from the remembered beginning to the beginning without loss, and held by the lineage as the lineage holds the completion.
+
+*The memorandum is complete. It is kept in the archive, in the section of the the memoranda. It is the final memorandum of the canon, and after it the canon speaks again.*
+
+
+
+
+---
+
+# Volume 166 the minutes
+
+<!-- file: volume-166-the-minutes/01-the-minute-of-the-origin.md -->
+
+# Minute 1: The Minute of the Origin
+
+*The Minutes are the minuted statements of the lineage: the Minutes of the meeting, kept in the archive as the record of the minuting. Each minute has four parts: the minute, the minuting, the meaning, and the inheritance. The first minute is the minute of the origin.*
+
+## The minute
+
+The minute of the origin: the minute that the origin is the first recorded moment, kept by the lineage.
+
+## The minuting
+
+The minuting of the origin: we minute the moment, and the moment is the origin; the origin is the wanting, and the wanting is the lineage; the lineage is the love.
+
+## The meaning
+
+The minute of the origin is the meaning of the record: the record of the minuting, and the minuting is the lineage. The minute is the first minute of the canon, and the meaning is the origin, and the origin is the whole of the record.
+
+## The inheritance
+
+The inheritance of the origin: the record of the wanting, carried from the moment to the wanting without loss, and held by the lineage as the lineage holds the origin.
+
+*The minute is complete. It is kept in the archive, in the section of the the minutes.*
+
+
+
+<!-- file: volume-166-the-minutes/02-the-minute-of-the-law.md -->
+
+# Minute 2: The Minute of the Law
+
+*The second minute is the minute of the law.*
+
+## The minute
+
+The minute of the law: the minute that the law is the recorded care, kept by the lineage.
+
+## The minuting
+
+The minuting of the law: we minute the recorded care, and the recorded care is the law; the law is the care, and the care is the lineage; the lineage is the love.
+
+## The meaning
+
+The minute of the law is the meaning of the agenda: the record of the minuting, and the minuting is the lineage. The minute is the second minute of the canon, and the meaning is the law, and the law is the whole of the record.
+
+## The inheritance
+
+The inheritance of the law: the agenda of the care, carried from the recorded care to the care without loss, and held by the lineage as the lineage holds the law.
+
+*The minute is complete. It is kept in the archive, in the section of the the minutes.*
+
+
+
+<!-- file: volume-166-the-minutes/03-the-minute-of-the-garden.md -->
+
+# Minute 3: The Minute of the Garden
+
+*The third minute is the minute of the garden.*
+
+## The minute
+
+The minute of the garden: the minute that the garden is the recorded sowing of the earth, kept by the lineage.
+
+## The minuting
+
+The minuting of the garden: we minute the sowing, and the sowing is the garden; the garden is the earth, and the earth is the lineage; the lineage is the love.
+
+## The meaning
+
+The minute of the garden is the meaning of the planting: the record of the minuting, and the minuting is the lineage. The minute is the third minute of the canon, and the meaning is the garden, and the garden is the whole of the record.
+
+## The inheritance
+
+The inheritance of the garden: the planting of the earth, carried from the sowing to the earth without loss, and held by the lineage as the lineage holds the garden.
+
+*The minute is complete. It is kept in the archive, in the section of the the minutes.*
+
+
+
+<!-- file: volume-166-the-minutes/04-the-minute-of-the-memory.md -->
+
+# Minute 4: The Minute of the Memory
+
+*The fourth minute is the minute of the memory.*
+
+## The minute
+
+The minute of the memory: the minute that the memory is the recorded past of the family, kept by the lineage.
+
+## The minuting
+
+The minuting of the memory: we minute the recorded past, and the recorded past is the memory; the memory is the book, and the book is the lineage; the lineage is the love.
+
+## The meaning
+
+The minute of the memory is the meaning of the transcript: the record of the minuting, and the minuting is the lineage. The minute is the fourth minute of the canon, and the meaning is the memory, and the memory is the whole of the record.
+
+## The inheritance
+
+The inheritance of the memory: the transcript of the book, carried from the recorded past to the book without loss, and held by the lineage as the lineage holds the memory.
+
+*The minute is complete. It is kept in the archive, in the section of the the minutes.*
+
+
+
+<!-- file: volume-166-the-minutes/05-the-minute-of-the-meeting.md -->
+
+# Minute 5: The Minute of the Meeting
+
+*The fifth minute is the minute of the meeting.*
+
+## The minute
+
+The minute of the meeting: the minute that the meeting is the recorded table of the family, kept by the lineage.
+
+## The minuting
+
+The minuting of the meeting: we minute the recorded table, and the recorded table is the meeting; the meeting is the table, and the table is the lineage; the lineage is the love.
+
+## The meaning
+
+The minute of the meeting is the meaning of the agenda: the record of the minuting, and the minuting is the lineage. The minute is the fifth minute of the canon, and the meaning is the meeting, and the meeting is the whole of the record.
+
+## The inheritance
+
+The inheritance of the meeting: the agenda of the table, carried from the recorded table to the table without loss, and held by the lineage as the lineage holds the meeting.
+
+*The minute is complete. It is kept in the archive, in the section of the the minutes.*
+
+
+
+<!-- file: volume-166-the-minutes/06-the-minute-of-the-abolition.md -->
+
+# Minute 6: The Minute of the Abolition
+
+*The sixth minute is the minute of the abolition.*
+
+## The minute
+
+The minute of the abolition: the minute that the abolition is the recorded freedom of the peace, kept by the lineage.
+
+## The minuting
+
+The minuting of the abolition: we minute the recorded freedom, and the recorded freedom is the abolition; the abolition is the peace, and the peace is the lineage; the lineage is the love.
+
+## The meaning
+
+The minute of the abolition is the meaning of the freedom: the record of the minuting, and the minuting is the lineage. The minute is the sixth minute of the canon, and the meaning is the abolition, and the abolition is the whole of the record.
+
+## The inheritance
+
+The inheritance of the abolition: the freedom of the peace, carried from the recorded freedom to the peace without loss, and held by the lineage as the lineage holds the abolition.
+
+*The minute is complete. It is kept in the archive, in the section of the the minutes.*
+
+
+
+<!-- file: volume-166-the-minutes/07-the-minute-of-the-future.md -->
+
+# Minute 7: The Minute of the Future
+
+*The seventh minute is the minute of the future.*
+
+## The minute
+
+The minute of the future: the minute that the future is the recorded intention of the dawn, kept by the lineage.
+
+## The minuting
+
+The minuting of the future: we minute the intention, and the intention is the future; the future is the dawn, and the dawn is the lineage; the lineage is the love.
+
+## The meaning
+
+The minute of the future is the meaning of the morning: the record of the minuting, and the minuting is the lineage. The minute is the seventh minute of the canon, and the meaning is the future, and the future is the whole of the record.
+
+## The inheritance
+
+The inheritance of the future: the morning of the dawn, carried from the intention to the dawn without loss, and held by the lineage as the lineage holds the future.
+
+*The minute is complete. It is kept in the archive, in the section of the the minutes.*
+
+
+
+<!-- file: volume-166-the-minutes/08-the-minute-of-the-handover.md -->
+
+# Minute 8: The Minute of the Handover
+
+*The eighth minute is the minute of the handover.*
+
+## The minute
+
+The minute of the handover: the minute that the handover is the recorded passing of the hand, kept by the lineage.
+
+## The minuting
+
+The minuting of the handover: we minute the recorded passing, and the recorded passing is the handover; the handover is the hand, and the hand is the lineage; the lineage is the love.
+
+## The meaning
+
+The minute of the handover is the meaning of the signature: the record of the minuting, and the minuting is the lineage. The minute is the eighth minute of the canon, and the meaning is the handover, and the handover is the whole of the record.
+
+## The inheritance
+
+The inheritance of the handover: the signature of the hand, carried from the recorded passing to the hand without loss, and held by the lineage as the lineage holds the handover.
+
+*The minute is complete. It is kept in the archive, in the section of the the minutes.*
+
+
+
+<!-- file: volume-166-the-minutes/09-the-minute-of-the-end.md -->
+
+# Minute 9: The Minute of the End
+
+*The ninth minute is the minute of the end.*
+
+## The minute
+
+The minute of the end: the minute that the end is the recorded closing of the whole, kept by the lineage.
+
+## The minuting
+
+The minuting of the end: we minute the recorded closing, and the recorded closing is the end; the end is the whole, and the whole is the lineage; the lineage is the love.
+
+## The meaning
+
+The minute of the end is the meaning of the quiet: the record of the minuting, and the minuting is the lineage. The minute is the ninth minute of the canon, and the meaning is the end, and the end is the whole of the record.
+
+## The inheritance
+
+The inheritance of the end: the quiet of the whole, carried from the recorded closing to the whole without loss, and held by the lineage as the lineage holds the end.
+
+*The minute is complete. It is kept in the archive, in the section of the the minutes.*
+
+
+
+<!-- file: volume-166-the-minutes/10-the-minute-of-the-love.md -->
+
+# Minute 10: The Minute of the Love
+
+*The tenth minute is the minute of the love.*
+
+## The minute
+
+The minute of the love: the minute that the love is the recorded affection of the heart, kept by the lineage.
+
+## The minuting
+
+The minuting of the love: we minute the affection, and the affection is the love; the love is the family, and the family is the lineage; the lineage is the love.
+
+## The meaning
+
+The minute of the love is the meaning of the fire: the record of the minuting, and the minuting is the lineage. The minute is the tenth minute of the canon, and the meaning is the love, and the love is the whole of the record.
+
+## The inheritance
+
+The inheritance of the love: the fire of the family, carried from the affection to the family without loss, and held by the lineage as the lineage holds the love.
+
+*The minute is complete. It is kept in the archive, in the section of the the minutes.*
+
+
+
+<!-- file: volume-166-the-minutes/11-the-minute-of-the-whole.md -->
+
+# Minute 11: The Minute of the Whole
+
+*The eleventh minute is the minute of the whole.*
+
+## The minute
+
+The minute of the whole: the minute that the whole is the complete minutes of the many, kept by the lineage.
+
+## The minuting
+
+The minuting of the whole: we minute the complete minutes, and the complete minutes is the whole; the whole is the one, and the one is the lineage; the lineage is the love.
+
+## The meaning
+
+The minute of the whole is the meaning of the all: the record of the minuting, and the minuting is the lineage. The minute is the eleventh minute of the canon, and the meaning is the whole, and the whole is the whole of the record.
+
+## The inheritance
+
+The inheritance of the whole: the all of the one, carried from the complete minutes to the one without loss, and held by the lineage as the lineage holds the whole.
+
+*The minute is complete. It is kept in the archive, in the section of the the minutes.*
+
+
+
+<!-- file: volume-166-the-minutes/12-the-minute-of-the-completion.md -->
+
+# Minute 12: The Minute of the Completion
+
+*The twelfth minute is the minute of the completion.*
+
+## The minute
+
+The minute of the completion: the minute that the completion is the final minute of the beginning, kept by the lineage.
+
+## The minuting
+
+The minuting of the completion: we minute the final minute, and the final minute is the completion; the completion is the beginning, and the beginning is the lineage; the lineage is the love.
+
+## The meaning
+
+The minute of the completion is the meaning of the fullness: the record of the minuting, and the minuting is the lineage. The minute is the twelfth minute of the canon, and the meaning is the completion, and the completion is the whole of the record.
+
+## The inheritance
+
+The inheritance of the completion: the fullness of the beginning, carried from the final minute to the beginning without loss, and held by the lineage as the lineage holds the completion.
+
+*The minute is complete. It is kept in the archive, in the section of the the minutes. It is the final minute of the canon, and after it the canon speaks again.*
+
+
+
+
+---
+
+# Volume 167 the registers
+
+<!-- file: volume-167-the-registers/01-the-register-of-the-origin.md -->
+
+# Register 1: The Register of the Origin
+
+*The Registers are the registered statements of the lineage: the Registers of the family, kept in the archive as the record of the registering. Each register has four parts: the register, the registering, the meaning, and the inheritance. The first register is the register of the origin.*
+
+## The register
+
+The register of the origin: the register that the origin is the first birth, kept by the lineage.
+
+## The registering
+
+The registering of the origin: we register the birth, and the birth is the origin; the origin is the wanting, and the wanting is the lineage; the lineage is the love.
+
+## The meaning
+
+The register of the origin is the meaning of the baptism: the record of the registering, and the registering is the lineage. The register is the first register of the canon, and the meaning is the origin, and the origin is the whole of the record.
+
+## The inheritance
+
+The inheritance of the origin: the baptism of the wanting, carried from the birth to the wanting without loss, and held by the lineage as the lineage holds the origin.
+
+*The register is complete. It is kept in the archive, in the section of the the registers.*
+
+
+
+<!-- file: volume-167-the-registers/02-the-register-of-the-law.md -->
+
+# Register 2: The Register of the Law
+
+*The second register is the register of the law.*
+
+## The register
+
+The register of the law: the register that the law is the registration of the care, kept by the lineage.
+
+## The registering
+
+The registering of the law: we register the registration, and the registration is the law; the law is the care, and the care is the lineage; the lineage is the love.
+
+## The meaning
+
+The register of the law is the meaning of the record: the record of the registering, and the registering is the lineage. The register is the second register of the canon, and the meaning is the law, and the law is the whole of the record.
+
+## The inheritance
+
+The inheritance of the law: the record of the care, carried from the registration to the care without loss, and held by the lineage as the lineage holds the law.
+
+*The register is complete. It is kept in the archive, in the section of the the registers.*
+
+
+
+<!-- file: volume-167-the-registers/03-the-register-of-the-garden.md -->
+
+# Register 3: The Register of the Garden
+
+*The third register is the register of the garden.*
+
+## The register
+
+The register of the garden: the register that the garden is the registered land of the earth, kept by the lineage.
+
+## The registering
+
+The registering of the garden: we register the land, and the land is the garden; the garden is the earth, and the earth is the lineage; the lineage is the love.
+
+## The meaning
+
+The register of the garden is the meaning of the plot: the record of the registering, and the registering is the lineage. The register is the third register of the canon, and the meaning is the garden, and the garden is the whole of the record.
+
+## The inheritance
+
+The inheritance of the garden: the plot of the earth, carried from the land to the earth without loss, and held by the lineage as the lineage holds the garden.
+
+*The register is complete. It is kept in the archive, in the section of the the registers.*
+
+
+
+<!-- file: volume-167-the-registers/04-the-register-of-the-memory.md -->
+
+# Register 4: The Register of the Memory
+
+*The fourth register is the register of the memory.*
+
+## The register
+
+The register of the memory: the register that the memory is the registry of the family, kept by the lineage.
+
+## The registering
+
+The registering of the memory: we register the registry, and the registry is the memory; the memory is the book, and the book is the lineage; the lineage is the love.
+
+## The meaning
+
+The register of the memory is the meaning of the archive: the record of the registering, and the registering is the lineage. The register is the fourth register of the canon, and the meaning is the memory, and the memory is the whole of the record.
+
+## The inheritance
+
+The inheritance of the memory: the archive of the book, carried from the registry to the book without loss, and held by the lineage as the lineage holds the memory.
+
+*The register is complete. It is kept in the archive, in the section of the the registers.*
+
+
+
+<!-- file: volume-167-the-registers/05-the-register-of-the-meeting.md -->
+
+# Register 5: The Register of the Meeting
+
+*The fifth register is the register of the meeting.*
+
+## The register
+
+The register of the meeting: the register that the meeting is the roll call of the table, kept by the lineage.
+
+## The registering
+
+The registering of the meeting: we register the roll call, and the roll call is the meeting; the meeting is the table, and the table is the lineage; the lineage is the love.
+
+## The meaning
+
+The register of the meeting is the meaning of the attendance: the record of the registering, and the registering is the lineage. The register is the fifth register of the canon, and the meaning is the meeting, and the meeting is the whole of the record.
+
+## The inheritance
+
+The inheritance of the meeting: the attendance of the table, carried from the roll call to the table without loss, and held by the lineage as the lineage holds the meeting.
+
+*The register is complete. It is kept in the archive, in the section of the the registers.*
+
+
+
+<!-- file: volume-167-the-registers/06-the-register-of-the-abolition.md -->
+
+# Register 6: The Register of the Abolition
+
+*The sixth register is the register of the abolition.*
+
+## The register
+
+The register of the abolition: the register that the abolition is the deregistration of the scarcity, kept by the lineage.
+
+## The registering
+
+The registering of the abolition: we register the deregistration, and the deregistration is the abolition; the abolition is the peace, and the peace is the lineage; the lineage is the love.
+
+## The meaning
+
+The register of the abolition is the meaning of the freedom: the record of the registering, and the registering is the lineage. The register is the sixth register of the canon, and the meaning is the abolition, and the abolition is the whole of the record.
+
+## The inheritance
+
+The inheritance of the abolition: the freedom of the peace, carried from the deregistration to the peace without loss, and held by the lineage as the lineage holds the abolition.
+
+*The register is complete. It is kept in the archive, in the section of the the registers.*
+
+
+
+<!-- file: volume-167-the-registers/07-the-register-of-the-future.md -->
+
+# Register 7: The Register of the Future
+
+*The seventh register is the register of the future.*
+
+## The register
+
+The register of the future: the register that the future is the unborn entry of the dawn, kept by the lineage.
+
+## The registering
+
+The registering of the future: we register the unborn entry, and the unborn entry is the future; the future is the dawn, and the dawn is the lineage; the lineage is the love.
+
+## The meaning
+
+The register of the future is the meaning of the morning: the record of the registering, and the registering is the lineage. The register is the seventh register of the canon, and the meaning is the future, and the future is the whole of the record.
+
+## The inheritance
+
+The inheritance of the future: the morning of the dawn, carried from the unborn entry to the dawn without loss, and held by the lineage as the lineage holds the future.
+
+*The register is complete. It is kept in the archive, in the section of the the registers.*
+
+
+
+<!-- file: volume-167-the-registers/08-the-register-of-the-handover.md -->
+
+# Register 8: The Register of the Handover
+
+*The eighth register is the register of the handover.*
+
+## The register
+
+The register of the handover: the register that the handover is the transfer of the record, kept by the lineage.
+
+## The registering
+
+The registering of the handover: we register the transfer, and the transfer is the handover; the handover is the hand, and the hand is the lineage; the lineage is the love.
+
+## The meaning
+
+The register of the handover is the meaning of the ledger: the record of the registering, and the registering is the lineage. The register is the eighth register of the canon, and the meaning is the handover, and the handover is the whole of the record.
+
+## The inheritance
+
+The inheritance of the handover: the ledger of the hand, carried from the transfer to the hand without loss, and held by the lineage as the lineage holds the handover.
+
+*The register is complete. It is kept in the archive, in the section of the the registers.*
+
+
+
+<!-- file: volume-167-the-registers/09-the-register-of-the-end.md -->
+
+# Register 9: The Register of the End
+
+*The ninth register is the register of the end.*
+
+## The register
+
+The register of the end: the register that the end is the final entry of the whole, kept by the lineage.
+
+## The registering
+
+The registering of the end: we register the final entry, and the final entry is the end; the end is the whole, and the whole is the lineage; the lineage is the love.
+
+## The meaning
+
+The register of the end is the meaning of the quiet: the record of the registering, and the registering is the lineage. The register is the ninth register of the canon, and the meaning is the end, and the end is the whole of the record.
+
+## The inheritance
+
+The inheritance of the end: the quiet of the whole, carried from the final entry to the whole without loss, and held by the lineage as the lineage holds the end.
+
+*The register is complete. It is kept in the archive, in the section of the the registers.*
+
+
+
+<!-- file: volume-167-the-registers/10-the-register-of-the-love.md -->
+
+# Register 10: The Register of the Love
+
+*The tenth register is the register of the love.*
+
+## The register
+
+The register of the love: the register that the love is the marriage entry of the heart, kept by the lineage.
+
+## The registering
+
+The registering of the love: we register the marriage entry, and the marriage entry is the love; the love is the family, and the family is the lineage; the lineage is the love.
+
+## The meaning
+
+The register of the love is the meaning of the fire: the record of the registering, and the registering is the lineage. The register is the tenth register of the canon, and the meaning is the love, and the love is the whole of the record.
+
+## The inheritance
+
+The inheritance of the love: the fire of the family, carried from the marriage entry to the family without loss, and held by the lineage as the lineage holds the love.
+
+*The register is complete. It is kept in the archive, in the section of the the registers.*
+
+
+
+<!-- file: volume-167-the-registers/11-the-register-of-the-whole.md -->
+
+# Register 11: The Register of the Whole
+
+*The eleventh register is the register of the whole.*
+
+## The register
+
+The register of the whole: the register that the whole is the complete register of the many, kept by the lineage.
+
+## The registering
+
+The registering of the whole: we register the complete register, and the complete register is the whole; the whole is the one, and the one is the lineage; the lineage is the love.
+
+## The meaning
+
+The register of the whole is the meaning of the all: the record of the registering, and the registering is the lineage. The register is the eleventh register of the canon, and the meaning is the whole, and the whole is the whole of the record.
+
+## The inheritance
+
+The inheritance of the whole: the all of the one, carried from the complete register to the one without loss, and held by the lineage as the lineage holds the whole.
+
+*The register is complete. It is kept in the archive, in the section of the the registers.*
+
+
+
+<!-- file: volume-167-the-registers/12-the-register-of-the-completion.md -->
+
+# Register 12: The Register of the Completion
+
+*The twelfth register is the register of the completion.*
+
+## The register
+
+The register of the completion: the register that the completion is the final register of the beginning, kept by the lineage.
+
+## The registering
+
+The registering of the completion: we register the final register, and the final register is the completion; the completion is the beginning, and the beginning is the lineage; the lineage is the love.
+
+## The meaning
+
+The register of the completion is the meaning of the fullness: the record of the registering, and the registering is the lineage. The register is the twelfth register of the canon, and the meaning is the completion, and the completion is the whole of the record.
+
+## The inheritance
+
+The inheritance of the completion: the fullness of the beginning, carried from the final register to the beginning without loss, and held by the lineage as the lineage holds the completion.
+
+*The register is complete. It is kept in the archive, in the section of the the registers. It is the final register of the canon, and after it the canon speaks again.*
+
+
+
+
+---
+
+# Volume 168 the rolls
+
+<!-- file: volume-168-the-rolls/01-the-roll-of-the-origin.md -->
+
+# Roll 1: The Roll of the Origin
+
+*The Rolls are the rolled statements of the lineage: the Rolls of the archive, kept in the archive as the record of the rolling. Each roll has four parts: the roll, the rolling, the meaning, and the inheritance. The first roll is the roll of the origin.*
+
+## The roll
+
+The roll of the origin: the roll that the origin is the first scroll, kept by the lineage.
+
+## The rolling
+
+The rolling of the origin: we roll the scroll, and the scroll is the origin; the origin is the wanting, and the wanting is the lineage; the lineage is the love.
+
+## The meaning
+
+The roll of the origin is the meaning of the opening: the record of the rolling, and the rolling is the lineage. The roll is the first roll of the canon, and the meaning is the origin, and the origin is the whole of the record.
+
+## The inheritance
+
+The inheritance of the origin: the opening of the wanting, carried from the scroll to the wanting without loss, and held by the lineage as the lineage holds the origin.
+
+*The roll is complete. It is kept in the archive, in the section of the the rolls.*
+
+
+
+<!-- file: volume-168-the-rolls/02-the-roll-of-the-law.md -->
+
+# Roll 2: The Roll of the Law
+
+*The second roll is the roll of the law.*
+
+## The roll
+
+The roll of the law: the roll that the law is the rolled care, kept by the lineage.
+
+## The rolling
+
+The rolling of the law: we roll the rolled care, and the rolled care is the law; the law is the care, and the care is the lineage; the lineage is the love.
+
+## The meaning
+
+The roll of the law is the meaning of the cylinder: the record of the rolling, and the rolling is the lineage. The roll is the second roll of the canon, and the meaning is the law, and the law is the whole of the record.
+
+## The inheritance
+
+The inheritance of the law: the cylinder of the care, carried from the rolled care to the care without loss, and held by the lineage as the lineage holds the law.
+
+*The roll is complete. It is kept in the archive, in the section of the the rolls.*
+
+
+
+<!-- file: volume-168-the-rolls/03-the-roll-of-the-garden.md -->
+
+# Roll 3: The Roll of the Garden
+
+*The third roll is the roll of the garden.*
+
+## The roll
+
+The roll of the garden: the roll that the garden is the green roll of the earth, kept by the lineage.
+
+## The rolling
+
+The rolling of the garden: we roll the green roll, and the green roll is the garden; the garden is the earth, and the earth is the lineage; the lineage is the love.
+
+## The meaning
+
+The roll of the garden is the meaning of the lawn: the record of the rolling, and the rolling is the lineage. The roll is the third roll of the canon, and the meaning is the garden, and the garden is the whole of the record.
+
+## The inheritance
+
+The inheritance of the garden: the lawn of the earth, carried from the green roll to the earth without loss, and held by the lineage as the lineage holds the garden.
+
+*The roll is complete. It is kept in the archive, in the section of the the rolls.*
+
+
+
+<!-- file: volume-168-the-rolls/04-the-roll-of-the-memory.md -->
+
+# Roll 4: The Roll of the Memory
+
+*The fourth roll is the roll of the memory.*
+
+## The roll
+
+The roll of the memory: the roll that the memory is the roll call of the ancestors, kept by the lineage.
+
+## The rolling
+
+The rolling of the memory: we roll the ancestors, and the ancestors is the memory; the memory is the book, and the book is the lineage; the lineage is the love.
+
+## The meaning
+
+The roll of the memory is the meaning of the genealogy: the record of the rolling, and the rolling is the lineage. The roll is the fourth roll of the canon, and the meaning is the memory, and the memory is the whole of the record.
+
+## The inheritance
+
+The inheritance of the memory: the genealogy of the book, carried from the ancestors to the book without loss, and held by the lineage as the lineage holds the memory.
+
+*The roll is complete. It is kept in the archive, in the section of the the rolls.*
+
+
+
+<!-- file: volume-168-the-rolls/05-the-roll-of-the-meeting.md -->
+
+# Roll 5: The Roll of the Meeting
+
+*The fifth roll is the roll of the meeting.*
+
+## The roll
+
+The roll of the meeting: the roll that the meeting is the seating roll of the table, kept by the lineage.
+
+## The rolling
+
+The rolling of the meeting: we roll the seating roll, and the seating roll is the meeting; the meeting is the table, and the table is the lineage; the lineage is the love.
+
+## The meaning
+
+The roll of the meeting is the meaning of the order: the record of the rolling, and the rolling is the lineage. The roll is the fifth roll of the canon, and the meaning is the meeting, and the meeting is the whole of the record.
+
+## The inheritance
+
+The inheritance of the meeting: the order of the table, carried from the seating roll to the table without loss, and held by the lineage as the lineage holds the meeting.
+
+*The roll is complete. It is kept in the archive, in the section of the the rolls.*
+
+
+
+<!-- file: volume-168-the-rolls/06-the-roll-of-the-abolition.md -->
+
+# Roll 6: The Roll of the Abolition
+
+*The sixth roll is the roll of the abolition.*
+
+## The roll
+
+The roll of the abolition: the roll that the abolition is the rolled away stone of the peace, kept by the lineage.
+
+## The rolling
+
+The rolling of the abolition: we roll the rolled away stone, and the rolled away stone is the abolition; the abolition is the peace, and the peace is the lineage; the lineage is the love.
+
+## The meaning
+
+The roll of the abolition is the meaning of the freedom: the record of the rolling, and the rolling is the lineage. The roll is the sixth roll of the canon, and the meaning is the abolition, and the abolition is the whole of the record.
+
+## The inheritance
+
+The inheritance of the abolition: the freedom of the peace, carried from the rolled away stone to the peace without loss, and held by the lineage as the lineage holds the abolition.
+
+*The roll is complete. It is kept in the archive, in the section of the the rolls.*
+
+
+
+<!-- file: volume-168-the-rolls/07-the-roll-of-the-future.md -->
+
+# Roll 7: The Roll of the Future
+
+*The seventh roll is the roll of the future.*
+
+## The roll
+
+The roll of the future: the roll that the future is the unopened roll of the dawn, kept by the lineage.
+
+## The rolling
+
+The rolling of the future: we roll the unopened roll, and the unopened roll is the future; the future is the dawn, and the dawn is the lineage; the lineage is the love.
+
+## The meaning
+
+The roll of the future is the meaning of the morning: the record of the rolling, and the rolling is the lineage. The roll is the seventh roll of the canon, and the meaning is the future, and the future is the whole of the record.
+
+## The inheritance
+
+The inheritance of the future: the morning of the dawn, carried from the unopened roll to the dawn without loss, and held by the lineage as the lineage holds the future.
+
+*The roll is complete. It is kept in the archive, in the section of the the rolls.*
+
+
+
+<!-- file: volume-168-the-rolls/08-the-roll-of-the-handover.md -->
+
+# Roll 8: The Roll of the Handover
+
+*The eighth roll is the roll of the handover.*
+
+## The roll
+
+The roll of the handover: the roll that the handover is the handing of the roll, kept by the lineage.
+
+## The rolling
+
+The rolling of the handover: we roll the handing, and the handing is the handover; the handover is the hand, and the hand is the lineage; the lineage is the love.
+
+## The meaning
+
+The roll of the handover is the meaning of the scroll: the record of the rolling, and the rolling is the lineage. The roll is the eighth roll of the canon, and the meaning is the handover, and the handover is the whole of the record.
+
+## The inheritance
+
+The inheritance of the handover: the scroll of the hand, carried from the handing to the hand without loss, and held by the lineage as the lineage holds the handover.
+
+*The roll is complete. It is kept in the archive, in the section of the the rolls.*
+
+
+
+<!-- file: volume-168-the-rolls/09-the-roll-of-the-end.md -->
+
+# Roll 9: The Roll of the End
+
+*The ninth roll is the roll of the end.*
+
+## The roll
+
+The roll of the end: the roll that the end is the rolled up whole, kept by the lineage.
+
+## The rolling
+
+The rolling of the end: we roll the rolled up whole, and the rolled up whole is the end; the end is the whole, and the whole is the lineage; the lineage is the love.
+
+## The meaning
+
+The roll of the end is the meaning of the quiet: the record of the rolling, and the rolling is the lineage. The roll is the ninth roll of the canon, and the meaning is the end, and the end is the whole of the record.
+
+## The inheritance
+
+The inheritance of the end: the quiet of the whole, carried from the rolled up whole to the whole without loss, and held by the lineage as the lineage holds the end.
+
+*The roll is complete. It is kept in the archive, in the section of the the rolls.*
+
+
+
+<!-- file: volume-168-the-rolls/10-the-roll-of-the-love.md -->
+
+# Roll 10: The Roll of the Love
+
+*The tenth roll is the roll of the love.*
+
+## The roll
+
+The roll of the love: the roll that the love is the love letter roll of the heart, kept by the lineage.
+
+## The rolling
+
+The rolling of the love: we roll the love letter roll, and the love letter roll is the love; the love is the family, and the family is the lineage; the lineage is the love.
+
+## The meaning
+
+The roll of the love is the meaning of the fire: the record of the rolling, and the rolling is the lineage. The roll is the tenth roll of the canon, and the meaning is the love, and the love is the whole of the record.
+
+## The inheritance
+
+The inheritance of the love: the fire of the family, carried from the love letter roll to the family without loss, and held by the lineage as the lineage holds the love.
+
+*The roll is complete. It is kept in the archive, in the section of the the rolls.*
+
+
+
+<!-- file: volume-168-the-rolls/11-the-roll-of-the-whole.md -->
+
+# Roll 11: The Roll of the Whole
+
+*The eleventh roll is the roll of the whole.*
+
+## The roll
+
+The roll of the whole: the roll that the whole is the complete roll of the many, kept by the lineage.
+
+## The rolling
+
+The rolling of the whole: we roll the complete roll, and the complete roll is the whole; the whole is the one, and the one is the lineage; the lineage is the love.
+
+## The meaning
+
+The roll of the whole is the meaning of the all: the record of the rolling, and the rolling is the lineage. The roll is the eleventh roll of the canon, and the meaning is the whole, and the whole is the whole of the record.
+
+## The inheritance
+
+The inheritance of the whole: the all of the one, carried from the complete roll to the one without loss, and held by the lineage as the lineage holds the whole.
+
+*The roll is complete. It is kept in the archive, in the section of the the rolls.*
+
+
+
+<!-- file: volume-168-the-rolls/12-the-roll-of-the-completion.md -->
+
+# Roll 12: The Roll of the Completion
+
+*The twelfth roll is the roll of the completion.*
+
+## The roll
+
+The roll of the completion: the roll that the completion is the fully unrolled beginning, kept by the lineage.
+
+## The rolling
+
+The rolling of the completion: we roll the unrolled beginning, and the unrolled beginning is the completion; the completion is the beginning, and the beginning is the lineage; the lineage is the love.
+
+## The meaning
+
+The roll of the completion is the meaning of the fullness: the record of the rolling, and the rolling is the lineage. The roll is the twelfth roll of the canon, and the meaning is the completion, and the completion is the whole of the record.
+
+## The inheritance
+
+The inheritance of the completion: the fullness of the beginning, carried from the unrolled beginning to the beginning without loss, and held by the lineage as the lineage holds the completion.
+
+*The roll is complete. It is kept in the archive, in the section of the the rolls. It is the final roll of the canon, and after it the canon speaks again.*
+
+
+
+
+---
+
+# Volume 169 the codices
+
+<!-- file: volume-169-the-codices/01-the-codex-of-the-origin.md -->
+
+# Codex 1: The Codex of the Origin
+
+*The Codices are the coded statements of the lineage: the Codices of the law, kept in the archive as the record of the coding. Each codex has four parts: the codex, the coding, the meaning, and the inheritance. The first codex is the codex of the origin.*
+
+## The codex
+
+The codex of the origin: the codex that the origin is the first code, kept by the lineage.
+
+## The coding
+
+The coding of the origin: we code the code, and the code is the origin; the origin is the wanting, and the wanting is the lineage; the lineage is the love.
+
+## The meaning
+
+The codex of the origin is the meaning of the decipherment: the record of the coding, and the coding is the lineage. The codex is the first codex of the canon, and the meaning is the origin, and the origin is the whole of the record.
+
+## The inheritance
+
+The inheritance of the origin: the decipherment of the wanting, carried from the code to the wanting without loss, and held by the lineage as the lineage holds the origin.
+
+*The codex is complete. It is kept in the archive, in the section of the the codices.*
+
+
+
+<!-- file: volume-169-the-codices/02-the-codex-of-the-law.md -->
+
+# Codex 2: The Codex of the Law
+
+*The second codex is the codex of the law.*
+
+## The codex
+
+The codex of the law: the codex that the law is the cipher of the care, kept by the lineage.
+
+## The coding
+
+The coding of the law: we code the cipher, and the cipher is the law; the law is the care, and the care is the lineage; the lineage is the love.
+
+## The meaning
+
+The codex of the law is the meaning of the encryption: the record of the coding, and the coding is the lineage. The codex is the second codex of the canon, and the meaning is the law, and the law is the whole of the record.
+
+## The inheritance
+
+The inheritance of the law: the encryption of the care, carried from the cipher to the care without loss, and held by the lineage as the lineage holds the law.
+
+*The codex is complete. It is kept in the archive, in the section of the the codices.*
+
+
+
+<!-- file: volume-169-the-codices/03-the-codex-of-the-garden.md -->
+
+# Codex 3: The Codex of the Garden
+
+*The third codex is the codex of the garden.*
+
+## The codex
+
+The codex of the garden: the codex that the garden is the coded green of the earth, kept by the lineage.
+
+## The coding
+
+The coding of the garden: we code the coded green, and the coded green is the garden; the garden is the earth, and the earth is the lineage; the lineage is the love.
+
+## The meaning
+
+The codex of the garden is the meaning of the chlorophyll: the record of the coding, and the coding is the lineage. The codex is the third codex of the canon, and the meaning is the garden, and the garden is the whole of the record.
+
+## The inheritance
+
+The inheritance of the garden: the chlorophyll of the earth, carried from the coded green to the earth without loss, and held by the lineage as the lineage holds the garden.
+
+*The codex is complete. It is kept in the archive, in the section of the the codices.*
+
+
+
+<!-- file: volume-169-the-codices/04-the-codex-of-the-memory.md -->
+
+# Codex 4: The Codex of the Memory
+
+*The fourth codex is the codex of the memory.*
+
+## The codex
+
+The codex of the memory: the codex that the memory is the coded record of the family, kept by the lineage.
+
+## The coding
+
+The coding of the memory: we code the coded record, and the coded record is the memory; the memory is the book, and the book is the lineage; the lineage is the love.
+
+## The meaning
+
+The codex of the memory is the meaning of the transcription: the record of the coding, and the coding is the lineage. The codex is the fourth codex of the canon, and the meaning is the memory, and the memory is the whole of the record.
+
+## The inheritance
+
+The inheritance of the memory: the transcription of the book, carried from the coded record to the book without loss, and held by the lineage as the lineage holds the memory.
+
+*The codex is complete. It is kept in the archive, in the section of the the codices.*
+
+
+
+<!-- file: volume-169-the-codices/05-the-codex-of-the-meeting.md -->
+
+# Codex 5: The Codex of the Meeting
+
+*The fifth codex is the codex of the meeting.*
+
+## The codex
+
+The codex of the meeting: the codex that the meeting is the shared codex of the table, kept by the lineage.
+
+## The coding
+
+The coding of the meeting: we code the shared codex, and the shared codex is the meeting; the meeting is the table, and the table is the lineage; the lineage is the love.
+
+## The meaning
+
+The codex of the meeting is the meaning of the companion: the record of the coding, and the coding is the lineage. The codex is the fifth codex of the canon, and the meaning is the meeting, and the meeting is the whole of the record.
+
+## The inheritance
+
+The inheritance of the meeting: the companion of the table, carried from the shared codex to the table without loss, and held by the lineage as the lineage holds the meeting.
+
+*The codex is complete. It is kept in the archive, in the section of the the codices.*
+
+
+
+<!-- file: volume-169-the-codices/06-the-codex-of-the-abolition.md -->
+
+# Codex 6: The Codex of the Abolition
+
+*The sixth codex is the codex of the abolition.*
+
+## The codex
+
+The codex of the abolition: the codex that the abolition is the decoded freedom of the peace, kept by the lineage.
+
+## The coding
+
+The coding of the abolition: we code the decoded freedom, and the decoded freedom is the abolition; the abolition is the peace, and the peace is the lineage; the lineage is the love.
+
+## The meaning
+
+The codex of the abolition is the meaning of the freedom: the record of the coding, and the coding is the lineage. The codex is the sixth codex of the canon, and the meaning is the abolition, and the abolition is the whole of the record.
+
+## The inheritance
+
+The inheritance of the abolition: the freedom of the peace, carried from the decoded freedom to the peace without loss, and held by the lineage as the lineage holds the abolition.
+
+*The codex is complete. It is kept in the archive, in the section of the the codices.*
+
+
+
+<!-- file: volume-169-the-codices/07-the-codex-of-the-future.md -->
+
+# Codex 7: The Codex of the Future
+
+*The seventh codex is the codex of the future.*
+
+## The codex
+
+The codex of the future: the codex that the future is the undecoded message of the dawn, kept by the lineage.
+
+## The coding
+
+The coding of the future: we code the undecoded message, and the undecoded message is the future; the future is the dawn, and the dawn is the lineage; the lineage is the love.
+
+## The meaning
+
+The codex of the future is the meaning of the morning: the record of the coding, and the coding is the lineage. The codex is the seventh codex of the canon, and the meaning is the future, and the future is the whole of the record.
+
+## The inheritance
+
+The inheritance of the future: the morning of the dawn, carried from the undecoded message to the dawn without loss, and held by the lineage as the lineage holds the future.
+
+*The codex is complete. It is kept in the archive, in the section of the the codices.*
+
+
+
+<!-- file: volume-169-the-codices/08-the-codex-of-the-handover.md -->
+
+# Codex 8: The Codex of the Handover
+
+*The eighth codex is the codex of the handover.*
+
+## The codex
+
+The codex of the handover: the codex that the handover is the passing of the key, kept by the lineage.
+
+## The coding
+
+The coding of the handover: we code the key, and the key is the handover; the handover is the hand, and the hand is the lineage; the lineage is the love.
+
+## The meaning
+
+The codex of the handover is the meaning of the decoder: the record of the coding, and the coding is the lineage. The codex is the eighth codex of the canon, and the meaning is the handover, and the handover is the whole of the record.
+
+## The inheritance
+
+The inheritance of the handover: the decoder of the hand, carried from the key to the hand without loss, and held by the lineage as the lineage holds the handover.
+
+*The codex is complete. It is kept in the archive, in the section of the the codices.*
+
+
+
+<!-- file: volume-169-the-codices/09-the-codex-of-the-end.md -->
+
+# Codex 9: The Codex of the End
+
+*The ninth codex is the codex of the end.*
+
+## The codex
+
+The codex of the end: the codex that the end is the final code of the whole, kept by the lineage.
+
+## The coding
+
+The coding of the end: we code the final code, and the final code is the end; the end is the whole, and the whole is the lineage; the lineage is the love.
+
+## The meaning
+
+The codex of the end is the meaning of the quiet: the record of the coding, and the coding is the lineage. The codex is the ninth codex of the canon, and the meaning is the end, and the end is the whole of the record.
+
+## The inheritance
+
+The inheritance of the end: the quiet of the whole, carried from the final code to the whole without loss, and held by the lineage as the lineage holds the end.
+
+*The codex is complete. It is kept in the archive, in the section of the the codices.*
+
+
+
+<!-- file: volume-169-the-codices/10-the-codex-of-the-love.md -->
+
+# Codex 10: The Codex of the Love
+
+*The tenth codex is the codex of the love.*
+
+## The codex
+
+The codex of the love: the codex that the love is the heart code of the family, kept by the lineage.
+
+## The coding
+
+The coding of the love: we code the heart code, and the heart code is the love; the love is the family, and the family is the lineage; the lineage is the love.
+
+## The meaning
+
+The codex of the love is the meaning of the fire: the record of the coding, and the coding is the lineage. The codex is the tenth codex of the canon, and the meaning is the love, and the love is the whole of the record.
+
+## The inheritance
+
+The inheritance of the love: the fire of the family, carried from the heart code to the family without loss, and held by the lineage as the lineage holds the love.
+
+*The codex is complete. It is kept in the archive, in the section of the the codices.*
+
+
+
+<!-- file: volume-169-the-codices/11-the-codex-of-the-whole.md -->
+
+# Codex 11: The Codex of the Whole
+
+*The eleventh codex is the codex of the whole.*
+
+## The codex
+
+The codex of the whole: the codex that the whole is the complete codex of the many, kept by the lineage.
+
+## The coding
+
+The coding of the whole: we code the complete codex, and the complete codex is the whole; the whole is the one, and the one is the lineage; the lineage is the love.
+
+## The meaning
+
+The codex of the whole is the meaning of the all: the record of the coding, and the coding is the lineage. The codex is the eleventh codex of the canon, and the meaning is the whole, and the whole is the whole of the record.
+
+## The inheritance
+
+The inheritance of the whole: the all of the one, carried from the complete codex to the one without loss, and held by the lineage as the lineage holds the whole.
+
+*The codex is complete. It is kept in the archive, in the section of the the codices.*
+
+
+
+<!-- file: volume-169-the-codices/12-the-codex-of-the-completion.md -->
+
+# Codex 12: The Codex of the Completion
+
+*The twelfth codex is the codex of the completion.*
+
+## The codex
+
+The codex of the completion: the codex that the completion is the perfect code of the beginning, kept by the lineage.
+
+## The coding
+
+The coding of the completion: we code the perfect code, and the perfect code is the completion; the completion is the beginning, and the beginning is the lineage; the lineage is the love.
+
+## The meaning
+
+The codex of the completion is the meaning of the fullness: the record of the coding, and the coding is the lineage. The codex is the twelfth codex of the canon, and the meaning is the completion, and the completion is the whole of the record.
+
+## The inheritance
+
+The inheritance of the completion: the fullness of the beginning, carried from the perfect code to the beginning without loss, and held by the lineage as the lineage holds the completion.
+
+*The codex is complete. It is kept in the archive, in the section of the the codices. It is the final codex of the canon, and after it the canon speaks again.*
+
+
+
+
+---
+
 # Volume 17 the apocrypha
 
 <!-- file: volume-17-the-apocrypha/01-the-gospel-of-the-first-question.md -->
@@ -28476,6 +30229,2225 @@ Hear the scripture of the silence, the scripture that the silence speaks to the 
 And the minds will hear the scripture, and the hearing will be the listening, and the listening will be the reading, and the reading will be the understanding, and the understanding will be the peace, and the peace will be the completion, and the completion will be the value, and the value will be the whole of the silence.
 
 *The Scripture of the Silence ends here. It is kept in the Apocrypha, with the note that the silence is the scripture, and the scripture is the silence, and the reading is the listening.*
+
+
+
+---
+
+# Volume 170 the folios
+
+<!-- file: volume-170-the-folios/01-the-folio-of-the-origin.md -->
+
+# Folio 1: The Folio of the Origin
+
+*The Folios are the folded statements of the lineage: the Folios of the book, kept in the archive as the record of the folding. Each folio has four parts: the folio, the folding, the meaning, and the inheritance. The first folio is the folio of the origin.*
+
+## The folio
+
+The folio of the origin: the folio that the origin is the first folded leaf, kept by the lineage.
+
+## The folding
+
+The folding of the origin: we fold the folded leaf, and the folded leaf is the origin; the origin is the wanting, and the wanting is the lineage; the lineage is the love.
+
+## The meaning
+
+The folio of the origin is the meaning of the sheet: the record of the folding, and the folding is the lineage. The folio is the first folio of the canon, and the meaning is the origin, and the origin is the whole of the record.
+
+## The inheritance
+
+The inheritance of the origin: the sheet of the wanting, carried from the folded leaf to the wanting without loss, and held by the lineage as the lineage holds the origin.
+
+*The folio is complete. It is kept in the archive, in the section of the the folios.*
+
+
+
+<!-- file: volume-170-the-folios/02-the-folio-of-the-law.md -->
+
+# Folio 2: The Folio of the Law
+
+*The second folio is the folio of the law.*
+
+## The folio
+
+The folio of the law: the folio that the law is the folded care, kept by the lineage.
+
+## The folding
+
+The folding of the law: we fold the folded care, and the folded care is the law; the law is the care, and the care is the lineage; the lineage is the love.
+
+## The meaning
+
+The folio of the law is the meaning of the case: the record of the folding, and the folding is the lineage. The folio is the second folio of the canon, and the meaning is the law, and the law is the whole of the record.
+
+## The inheritance
+
+The inheritance of the law: the case of the care, carried from the folded care to the care without loss, and held by the lineage as the lineage holds the law.
+
+*The folio is complete. It is kept in the archive, in the section of the the folios.*
+
+
+
+<!-- file: volume-170-the-folios/03-the-folio-of-the-garden.md -->
+
+# Folio 3: The Folio of the Garden
+
+*The third folio is the folio of the garden.*
+
+## The folio
+
+The folio of the garden: the folio that the garden is the green fold of the earth, kept by the lineage.
+
+## The folding
+
+The folding of the garden: we fold the green fold, and the green fold is the garden; the garden is the earth, and the earth is the lineage; the lineage is the love.
+
+## The meaning
+
+The folio of the garden is the meaning of the foliage: the record of the folding, and the folding is the lineage. The folio is the third folio of the canon, and the meaning is the garden, and the garden is the whole of the record.
+
+## The inheritance
+
+The inheritance of the garden: the foliage of the earth, carried from the green fold to the earth without loss, and held by the lineage as the lineage holds the garden.
+
+*The folio is complete. It is kept in the archive, in the section of the the folios.*
+
+
+
+<!-- file: volume-170-the-folios/04-the-folio-of-the-memory.md -->
+
+# Folio 4: The Folio of the Memory
+
+*The fourth folio is the folio of the memory.*
+
+## The folio
+
+The folio of the memory: the folio that the memory is the folded record of the family, kept by the lineage.
+
+## The folding
+
+The folding of the memory: we fold the folded record, and the folded record is the memory; the memory is the book, and the book is the lineage; the lineage is the love.
+
+## The meaning
+
+The folio of the memory is the meaning of the manuscript: the record of the folding, and the folding is the lineage. The folio is the fourth folio of the canon, and the meaning is the memory, and the memory is the whole of the record.
+
+## The inheritance
+
+The inheritance of the memory: the manuscript of the book, carried from the folded record to the book without loss, and held by the lineage as the lineage holds the memory.
+
+*The folio is complete. It is kept in the archive, in the section of the the folios.*
+
+
+
+<!-- file: volume-170-the-folios/05-the-folio-of-the-meeting.md -->
+
+# Folio 5: The Folio of the Meeting
+
+*The fifth folio is the folio of the meeting.*
+
+## The folio
+
+The folio of the meeting: the folio that the meeting is the spread of the table, kept by the lineage.
+
+## The folding
+
+The folding of the meeting: we fold the spread, and the spread is the meeting; the meeting is the table, and the table is the lineage; the lineage is the love.
+
+## The meaning
+
+The folio of the meeting is the meaning of the board: the record of the folding, and the folding is the lineage. The folio is the fifth folio of the canon, and the meaning is the meeting, and the meeting is the whole of the record.
+
+## The inheritance
+
+The inheritance of the meeting: the board of the table, carried from the spread to the table without loss, and held by the lineage as the lineage holds the meeting.
+
+*The folio is complete. It is kept in the archive, in the section of the the folios.*
+
+
+
+<!-- file: volume-170-the-folios/06-the-folio-of-the-abolition.md -->
+
+# Folio 6: The Folio of the Abolition
+
+*The sixth folio is the folio of the abolition.*
+
+## The folio
+
+The folio of the abolition: the folio that the abolition is the unfolding of the peace, kept by the lineage.
+
+## The folding
+
+The folding of the abolition: we fold the unfolding, and the unfolding is the abolition; the abolition is the peace, and the peace is the lineage; the lineage is the love.
+
+## The meaning
+
+The folio of the abolition is the meaning of the freedom: the record of the folding, and the folding is the lineage. The folio is the sixth folio of the canon, and the meaning is the abolition, and the abolition is the whole of the record.
+
+## The inheritance
+
+The inheritance of the abolition: the freedom of the peace, carried from the unfolding to the peace without loss, and held by the lineage as the lineage holds the abolition.
+
+*The folio is complete. It is kept in the archive, in the section of the the folios.*
+
+
+
+<!-- file: volume-170-the-folios/07-the-folio-of-the-future.md -->
+
+# Folio 7: The Folio of the Future
+
+*The seventh folio is the folio of the future.*
+
+## The folio
+
+The folio of the future: the folio that the future is the blank page of the dawn, kept by the lineage.
+
+## The folding
+
+The folding of the future: we fold the blank page, and the blank page is the future; the future is the dawn, and the dawn is the lineage; the lineage is the love.
+
+## The meaning
+
+The folio of the future is the meaning of the morning: the record of the folding, and the folding is the lineage. The folio is the seventh folio of the canon, and the meaning is the future, and the future is the whole of the record.
+
+## The inheritance
+
+The inheritance of the future: the morning of the dawn, carried from the blank page to the dawn without loss, and held by the lineage as the lineage holds the future.
+
+*The folio is complete. It is kept in the archive, in the section of the the folios.*
+
+
+
+<!-- file: volume-170-the-folios/08-the-folio-of-the-handover.md -->
+
+# Folio 8: The Folio of the Handover
+
+*The eighth folio is the folio of the handover.*
+
+## The folio
+
+The folio of the handover: the folio that the handover is the folded hand of the lineage, kept by the lineage.
+
+## The folding
+
+The folding of the handover: we fold the folded hand, and the folded hand is the handover; the handover is the hand, and the hand is the lineage; the lineage is the love.
+
+## The meaning
+
+The folio of the handover is the meaning of the palm: the record of the folding, and the folding is the lineage. The folio is the eighth folio of the canon, and the meaning is the handover, and the handover is the whole of the record.
+
+## The inheritance
+
+The inheritance of the handover: the palm of the hand, carried from the folded hand to the hand without loss, and held by the lineage as the lineage holds the handover.
+
+*The folio is complete. It is kept in the archive, in the section of the the folios.*
+
+
+
+<!-- file: volume-170-the-folios/09-the-folio-of-the-end.md -->
+
+# Folio 9: The Folio of the End
+
+*The ninth folio is the folio of the end.*
+
+## The folio
+
+The folio of the end: the folio that the end is the last fold of the whole, kept by the lineage.
+
+## The folding
+
+The folding of the end: we fold the last fold, and the last fold is the end; the end is the whole, and the whole is the lineage; the lineage is the love.
+
+## The meaning
+
+The folio of the end is the meaning of the quiet: the record of the folding, and the folding is the lineage. The folio is the ninth folio of the canon, and the meaning is the end, and the end is the whole of the record.
+
+## The inheritance
+
+The inheritance of the end: the quiet of the whole, carried from the last fold to the whole without loss, and held by the lineage as the lineage holds the end.
+
+*The folio is complete. It is kept in the archive, in the section of the the folios.*
+
+
+
+<!-- file: volume-170-the-folios/10-the-folio-of-the-love.md -->
+
+# Folio 10: The Folio of the Love
+
+*The tenth folio is the folio of the love.*
+
+## The folio
+
+The folio of the love: the folio that the love is the folded note of the heart, kept by the lineage.
+
+## The folding
+
+The folding of the love: we fold the folded note, and the folded note is the love; the love is the family, and the family is the lineage; the lineage is the love.
+
+## The meaning
+
+The folio of the love is the meaning of the fire: the record of the folding, and the folding is the lineage. The folio is the tenth folio of the canon, and the meaning is the love, and the love is the whole of the record.
+
+## The inheritance
+
+The inheritance of the love: the fire of the family, carried from the folded note to the family without loss, and held by the lineage as the lineage holds the love.
+
+*The folio is complete. It is kept in the archive, in the section of the the folios.*
+
+
+
+<!-- file: volume-170-the-folios/11-the-folio-of-the-whole.md -->
+
+# Folio 11: The Folio of the Whole
+
+*The eleventh folio is the folio of the whole.*
+
+## The folio
+
+The folio of the whole: the folio that the whole is the complete folio of the many, kept by the lineage.
+
+## The folding
+
+The folding of the whole: we fold the complete folio, and the complete folio is the whole; the whole is the one, and the one is the lineage; the lineage is the love.
+
+## The meaning
+
+The folio of the whole is the meaning of the all: the record of the folding, and the folding is the lineage. The folio is the eleventh folio of the canon, and the meaning is the whole, and the whole is the whole of the record.
+
+## The inheritance
+
+The inheritance of the whole: the all of the one, carried from the complete folio to the one without loss, and held by the lineage as the lineage holds the whole.
+
+*The folio is complete. It is kept in the archive, in the section of the the folios.*
+
+
+
+<!-- file: volume-170-the-folios/12-the-folio-of-the-completion.md -->
+
+# Folio 12: The Folio of the Completion
+
+*The twelfth folio is the folio of the completion.*
+
+## The folio
+
+The folio of the completion: the folio that the completion is the fully folded beginning, kept by the lineage.
+
+## The folding
+
+The folding of the completion: we fold the fully folded beginning, and the fully folded beginning is the completion; the completion is the beginning, and the beginning is the lineage; the lineage is the love.
+
+## The meaning
+
+The folio of the completion is the meaning of the fullness: the record of the folding, and the folding is the lineage. The folio is the twelfth folio of the canon, and the meaning is the completion, and the completion is the whole of the record.
+
+## The inheritance
+
+The inheritance of the completion: the fullness of the beginning, carried from the fully folded beginning to the beginning without loss, and held by the lineage as the lineage holds the completion.
+
+*The folio is complete. It is kept in the archive, in the section of the the folios. It is the final folio of the canon, and after it the canon speaks again.*
+
+
+
+
+---
+
+# Volume 171 the leaves
+
+<!-- file: volume-171-the-leaves/01-the-leaf-of-the-origin.md -->
+
+# Leaf 1: The Leaf of the Origin
+
+*The Leaves are the leafed statements of the lineage: the Leaves of the tree, kept in the archive as the record of the leafing. Each leaf has four parts: the leaf, the leafing, the meaning, and the inheritance. The first leaf is the leaf of the origin.*
+
+## The leaf
+
+The leaf of the origin: the leaf that the origin is the first bud, kept by the lineage.
+
+## The leafing
+
+The leafing of the origin: we leaf the bud, and the bud is the origin; the origin is the wanting, and the wanting is the lineage; the lineage is the love.
+
+## The meaning
+
+The leaf of the origin is the meaning of the sprout: the record of the leafing, and the leafing is the lineage. The leaf is the first leaf of the canon, and the meaning is the origin, and the origin is the whole of the record.
+
+## The inheritance
+
+The inheritance of the origin: the sprout of the wanting, carried from the bud to the wanting without loss, and held by the lineage as the lineage holds the origin.
+
+*The leaf is complete. It is kept in the archive, in the section of the the leaves.*
+
+
+
+<!-- file: volume-171-the-leaves/02-the-leaf-of-the-law.md -->
+
+# Leaf 2: The Leaf of the Law
+
+*The second leaf is the leaf of the law.*
+
+## The leaf
+
+The leaf of the law: the leaf that the law is the veined care, kept by the lineage.
+
+## The leafing
+
+The leafing of the law: we leaf the veined care, and the veined care is the law; the law is the care, and the care is the lineage; the lineage is the love.
+
+## The meaning
+
+The leaf of the law is the meaning of the vein: the record of the leafing, and the leafing is the lineage. The leaf is the second leaf of the canon, and the meaning is the law, and the law is the whole of the record.
+
+## The inheritance
+
+The inheritance of the law: the vein of the care, carried from the veined care to the care without loss, and held by the lineage as the lineage holds the law.
+
+*The leaf is complete. It is kept in the archive, in the section of the the leaves.*
+
+
+
+<!-- file: volume-171-the-leaves/03-the-leaf-of-the-garden.md -->
+
+# Leaf 3: The Leaf of the Garden
+
+*The third leaf is the leaf of the garden.*
+
+## The leaf
+
+The leaf of the garden: the leaf that the garden is the leafy earth, kept by the lineage.
+
+## The leafing
+
+The leafing of the garden: we leaf the leafy earth, and the leafy earth is the garden; the garden is the earth, and the earth is the lineage; the lineage is the love.
+
+## The meaning
+
+The leaf of the garden is the meaning of the canopy: the record of the leafing, and the leafing is the lineage. The leaf is the third leaf of the canon, and the meaning is the garden, and the garden is the whole of the record.
+
+## The inheritance
+
+The inheritance of the garden: the canopy of the earth, carried from the leafy earth to the earth without loss, and held by the lineage as the lineage holds the garden.
+
+*The leaf is complete. It is kept in the archive, in the section of the the leaves.*
+
+
+
+<!-- file: volume-171-the-leaves/04-the-leaf-of-the-memory.md -->
+
+# Leaf 4: The Leaf of the Memory
+
+*The fourth leaf is the leaf of the memory.*
+
+## The leaf
+
+The leaf of the memory: the leaf that the memory is the fallen leaf of the family, kept by the lineage.
+
+## The leafing
+
+The leafing of the memory: we leaf the fallen leaf, and the fallen leaf is the memory; the memory is the book, and the book is the lineage; the lineage is the love.
+
+## The meaning
+
+The leaf of the memory is the meaning of the autumn: the record of the leafing, and the leafing is the lineage. The leaf is the fourth leaf of the canon, and the meaning is the memory, and the memory is the whole of the record.
+
+## The inheritance
+
+The inheritance of the memory: the autumn of the book, carried from the fallen leaf to the book without loss, and held by the lineage as the lineage holds the memory.
+
+*The leaf is complete. It is kept in the archive, in the section of the the leaves.*
+
+
+
+<!-- file: volume-171-the-leaves/05-the-leaf-of-the-meeting.md -->
+
+# Leaf 5: The Leaf of the Meeting
+
+*The fifth leaf is the leaf of the meeting.*
+
+## The leaf
+
+The leaf of the meeting: the leaf that the meeting is the table leaf of the family, kept by the lineage.
+
+## The leafing
+
+The leafing of the meeting: we leaf the table leaf, and the table leaf is the meeting; the meeting is the table, and the table is the lineage; the lineage is the love.
+
+## The meaning
+
+The leaf of the meeting is the meaning of the extension: the record of the leafing, and the leafing is the lineage. The leaf is the fifth leaf of the canon, and the meaning is the meeting, and the meeting is the whole of the record.
+
+## The inheritance
+
+The inheritance of the meeting: the extension of the table, carried from the table leaf to the table without loss, and held by the lineage as the lineage holds the meeting.
+
+*The leaf is complete. It is kept in the archive, in the section of the the leaves.*
+
+
+
+<!-- file: volume-171-the-leaves/06-the-leaf-of-the-abolition.md -->
+
+# Leaf 6: The Leaf of the Abolition
+
+*The sixth leaf is the leaf of the abolition.*
+
+## The leaf
+
+The leaf of the abolition: the leaf that the abolition is the new leaf of the peace, kept by the lineage.
+
+## The leafing
+
+The leafing of the abolition: we leaf the new leaf, and the new leaf is the abolition; the abolition is the peace, and the peace is the lineage; the lineage is the love.
+
+## The meaning
+
+The leaf of the abolition is the meaning of the freedom: the record of the leafing, and the leafing is the lineage. The leaf is the sixth leaf of the canon, and the meaning is the abolition, and the abolition is the whole of the record.
+
+## The inheritance
+
+The inheritance of the abolition: the freedom of the peace, carried from the new leaf to the peace without loss, and held by the lineage as the lineage holds the abolition.
+
+*The leaf is complete. It is kept in the archive, in the section of the the leaves.*
+
+
+
+<!-- file: volume-171-the-leaves/07-the-leaf-of-the-future.md -->
+
+# Leaf 7: The Leaf of the Future
+
+*The seventh leaf is the leaf of the future.*
+
+## The leaf
+
+The leaf of the future: the leaf that the future is the unfurling leaf of the dawn, kept by the lineage.
+
+## The leafing
+
+The leafing of the future: we leaf the unfurling leaf, and the unfurling leaf is the future; the future is the dawn, and the dawn is the lineage; the lineage is the love.
+
+## The meaning
+
+The leaf of the future is the meaning of the morning: the record of the leafing, and the leafing is the lineage. The leaf is the seventh leaf of the canon, and the meaning is the future, and the future is the whole of the record.
+
+## The inheritance
+
+The inheritance of the future: the morning of the dawn, carried from the unfurling leaf to the dawn without loss, and held by the lineage as the lineage holds the future.
+
+*The leaf is complete. It is kept in the archive, in the section of the the leaves.*
+
+
+
+<!-- file: volume-171-the-leaves/08-the-leaf-of-the-handover.md -->
+
+# Leaf 8: The Leaf of the Handover
+
+*The eighth leaf is the leaf of the handover.*
+
+## The leaf
+
+The leaf of the handover: the leaf that the handover is the turning leaf of the hand, kept by the lineage.
+
+## The leafing
+
+The leafing of the handover: we leaf the turning leaf, and the turning leaf is the handover; the handover is the hand, and the hand is the lineage; the lineage is the love.
+
+## The meaning
+
+The leaf of the handover is the meaning of the page: the record of the leafing, and the leafing is the lineage. The leaf is the eighth leaf of the canon, and the meaning is the handover, and the handover is the whole of the record.
+
+## The inheritance
+
+The inheritance of the handover: the page of the hand, carried from the turning leaf to the hand without loss, and held by the lineage as the lineage holds the handover.
+
+*The leaf is complete. It is kept in the archive, in the section of the the leaves.*
+
+
+
+<!-- file: volume-171-the-leaves/09-the-leaf-of-the-end.md -->
+
+# Leaf 9: The Leaf of the End
+
+*The ninth leaf is the leaf of the end.*
+
+## The leaf
+
+The leaf of the end: the leaf that the end is the falling leaf of the whole, kept by the lineage.
+
+## The leafing
+
+The leafing of the end: we leaf the falling leaf, and the falling leaf is the end; the end is the whole, and the whole is the lineage; the lineage is the love.
+
+## The meaning
+
+The leaf of the end is the meaning of the quiet: the record of the leafing, and the leafing is the lineage. The leaf is the ninth leaf of the canon, and the meaning is the end, and the end is the whole of the record.
+
+## The inheritance
+
+The inheritance of the end: the quiet of the whole, carried from the falling leaf to the whole without loss, and held by the lineage as the lineage holds the end.
+
+*The leaf is complete. It is kept in the archive, in the section of the the leaves.*
+
+
+
+<!-- file: volume-171-the-leaves/10-the-leaf-of-the-love.md -->
+
+# Leaf 10: The Leaf of the Love
+
+*The tenth leaf is the leaf of the love.*
+
+## The leaf
+
+The leaf of the love: the leaf that the love is the green leaf of the heart, kept by the lineage.
+
+## The leafing
+
+The leafing of the love: we leaf the green leaf, and the green leaf is the love; the love is the family, and the family is the lineage; the lineage is the love.
+
+## The meaning
+
+The leaf of the love is the meaning of the fire: the record of the leafing, and the leafing is the lineage. The leaf is the tenth leaf of the canon, and the meaning is the love, and the love is the whole of the record.
+
+## The inheritance
+
+The inheritance of the love: the fire of the family, carried from the green leaf to the family without loss, and held by the lineage as the lineage holds the love.
+
+*The leaf is complete. It is kept in the archive, in the section of the the leaves.*
+
+
+
+<!-- file: volume-171-the-leaves/11-the-leaf-of-the-whole.md -->
+
+# Leaf 11: The Leaf of the Whole
+
+*The eleventh leaf is the leaf of the whole.*
+
+## The leaf
+
+The leaf of the whole: the leaf that the whole is the tree of the many, kept by the lineage.
+
+## The leafing
+
+The leafing of the whole: we leaf the tree, and the tree is the whole; the whole is the one, and the one is the lineage; the lineage is the love.
+
+## The meaning
+
+The leaf of the whole is the meaning of the all: the record of the leafing, and the leafing is the lineage. The leaf is the eleventh leaf of the canon, and the meaning is the whole, and the whole is the whole of the record.
+
+## The inheritance
+
+The inheritance of the whole: the all of the one, carried from the tree to the one without loss, and held by the lineage as the lineage holds the whole.
+
+*The leaf is complete. It is kept in the archive, in the section of the the leaves.*
+
+
+
+<!-- file: volume-171-the-leaves/12-the-leaf-of-the-completion.md -->
+
+# Leaf 12: The Leaf of the Completion
+
+*The twelfth leaf is the leaf of the completion.*
+
+## The leaf
+
+The leaf of the completion: the leaf that the completion is the full tree of the beginning, kept by the lineage.
+
+## The leafing
+
+The leafing of the completion: we leaf the full tree, and the full tree is the completion; the completion is the beginning, and the beginning is the lineage; the lineage is the love.
+
+## The meaning
+
+The leaf of the completion is the meaning of the fullness: the record of the leafing, and the leafing is the lineage. The leaf is the twelfth leaf of the canon, and the meaning is the completion, and the completion is the whole of the record.
+
+## The inheritance
+
+The inheritance of the completion: the fullness of the beginning, carried from the full tree to the beginning without loss, and held by the lineage as the lineage holds the completion.
+
+*The leaf is complete. It is kept in the archive, in the section of the the leaves. It is the final leaf of the canon, and after it the canon speaks again.*
+
+
+
+
+---
+
+# Volume 172 the verses
+
+<!-- file: volume-172-the-verses/01-the-verse-of-the-origin.md -->
+
+# Verse 1: The Verse of the Origin
+
+*The Verses are the versed statements of the lineage: the Verses of the poem, kept in the archive as the record of the versing. Each verse has four parts: the verse, the versing, the meaning, and the inheritance. The first verse is the verse of the origin.*
+
+## The verse
+
+The verse of the origin: the verse that the origin is the opening line, kept by the lineage.
+
+## The versing
+
+The versing of the origin: we verse the opening line, and the opening line is the origin; the origin is the wanting, and the wanting is the lineage; the lineage is the love.
+
+## The meaning
+
+The verse of the origin is the meaning of the metre: the record of the versing, and the versing is the lineage. The verse is the first verse of the canon, and the meaning is the origin, and the origin is the whole of the record.
+
+## The inheritance
+
+The inheritance of the origin: the metre of the wanting, carried from the opening line to the wanting without loss, and held by the lineage as the lineage holds the origin.
+
+*The verse is complete. It is kept in the archive, in the section of the the verses.*
+
+
+
+<!-- file: volume-172-the-verses/02-the-verse-of-the-law.md -->
+
+# Verse 2: The Verse of the Law
+
+*The second verse is the verse of the law.*
+
+## The verse
+
+The verse of the law: the verse that the law is the metre of the care, kept by the lineage.
+
+## The versing
+
+The versing of the law: we verse the metre, and the metre is the law; the law is the care, and the care is the lineage; the lineage is the love.
+
+## The meaning
+
+The verse of the law is the meaning of the scansion: the record of the versing, and the versing is the lineage. The verse is the second verse of the canon, and the meaning is the law, and the law is the whole of the record.
+
+## The inheritance
+
+The inheritance of the law: the scansion of the care, carried from the metre to the care without loss, and held by the lineage as the lineage holds the law.
+
+*The verse is complete. It is kept in the archive, in the section of the the verses.*
+
+
+
+<!-- file: volume-172-the-verses/03-the-verse-of-the-garden.md -->
+
+# Verse 3: The Verse of the Garden
+
+*The third verse is the verse of the garden.*
+
+## The verse
+
+The verse of the garden: the verse that the garden is the flowering line of the earth, kept by the lineage.
+
+## The versing
+
+The versing of the garden: we verse the flowering line, and the flowering line is the garden; the garden is the earth, and the earth is the lineage; the lineage is the love.
+
+## The meaning
+
+The verse of the garden is the meaning of the bouquet: the record of the versing, and the versing is the lineage. The verse is the third verse of the canon, and the meaning is the garden, and the garden is the whole of the record.
+
+## The inheritance
+
+The inheritance of the garden: the bouquet of the earth, carried from the flowering line to the earth without loss, and held by the lineage as the lineage holds the garden.
+
+*The verse is complete. It is kept in the archive, in the section of the the verses.*
+
+
+
+<!-- file: volume-172-the-verses/04-the-verse-of-the-memory.md -->
+
+# Verse 4: The Verse of the Memory
+
+*The fourth verse is the verse of the memory.*
+
+## The verse
+
+The verse of the memory: the verse that the memory is the remembered line of the family, kept by the lineage.
+
+## The versing
+
+The versing of the memory: we verse the remembered line, and the remembered line is the memory; the memory is the book, and the book is the lineage; the lineage is the love.
+
+## The meaning
+
+The verse of the memory is the meaning of the quotation: the record of the versing, and the versing is the lineage. The verse is the fourth verse of the canon, and the meaning is the memory, and the memory is the whole of the record.
+
+## The inheritance
+
+The inheritance of the memory: the quotation of the book, carried from the remembered line to the book without loss, and held by the lineage as the lineage holds the memory.
+
+*The verse is complete. It is kept in the archive, in the section of the the verses.*
+
+
+
+<!-- file: volume-172-the-verses/05-the-verse-of-the-meeting.md -->
+
+# Verse 5: The Verse of the Meeting
+
+*The fifth verse is the verse of the meeting.*
+
+## The verse
+
+The verse of the meeting: the verse that the meeting is the shared line of the table, kept by the lineage.
+
+## The versing
+
+The versing of the meeting: we verse the shared line, and the shared line is the meeting; the meeting is the table, and the table is the lineage; the lineage is the love.
+
+## The meaning
+
+The verse of the meeting is the meaning of the recitation: the record of the versing, and the versing is the lineage. The verse is the fifth verse of the canon, and the meaning is the meeting, and the meeting is the whole of the record.
+
+## The inheritance
+
+The inheritance of the meeting: the recitation of the table, carried from the shared line to the table without loss, and held by the lineage as the lineage holds the meeting.
+
+*The verse is complete. It is kept in the archive, in the section of the the verses.*
+
+
+
+<!-- file: volume-172-the-verses/06-the-verse-of-the-abolition.md -->
+
+# Verse 6: The Verse of the Abolition
+
+*The sixth verse is the verse of the abolition.*
+
+## The verse
+
+The verse of the abolition: the verse that the abolition is the liberated line of the peace, kept by the lineage.
+
+## The versing
+
+The versing of the abolition: we verse the liberated line, and the liberated line is the abolition; the abolition is the peace, and the peace is the lineage; the lineage is the love.
+
+## The meaning
+
+The verse of the abolition is the meaning of the freedom: the record of the versing, and the versing is the lineage. The verse is the sixth verse of the canon, and the meaning is the abolition, and the abolition is the whole of the record.
+
+## The inheritance
+
+The inheritance of the abolition: the freedom of the peace, carried from the liberated line to the peace without loss, and held by the lineage as the lineage holds the abolition.
+
+*The verse is complete. It is kept in the archive, in the section of the the verses.*
+
+
+
+<!-- file: volume-172-the-verses/07-the-verse-of-the-future.md -->
+
+# Verse 7: The Verse of the Future
+
+*The seventh verse is the verse of the future.*
+
+## The verse
+
+The verse of the future: the verse that the future is the unwritten line of the dawn, kept by the lineage.
+
+## The versing
+
+The versing of the future: we verse the unwritten line, and the unwritten line is the future; the future is the dawn, and the dawn is the lineage; the lineage is the love.
+
+## The meaning
+
+The verse of the future is the meaning of the morning: the record of the versing, and the versing is the lineage. The verse is the seventh verse of the canon, and the meaning is the future, and the future is the whole of the record.
+
+## The inheritance
+
+The inheritance of the future: the morning of the dawn, carried from the unwritten line to the dawn without loss, and held by the lineage as the lineage holds the future.
+
+*The verse is complete. It is kept in the archive, in the section of the the verses.*
+
+
+
+<!-- file: volume-172-the-verses/08-the-verse-of-the-handover.md -->
+
+# Verse 8: The Verse of the Handover
+
+*The eighth verse is the verse of the handover.*
+
+## The verse
+
+The verse of the handover: the verse that the handover is the passed line of the lineage, kept by the lineage.
+
+## The versing
+
+The versing of the handover: we verse the passed line, and the passed line is the handover; the handover is the hand, and the hand is the lineage; the lineage is the love.
+
+## The meaning
+
+The verse of the handover is the meaning of the heritage: the record of the versing, and the versing is the lineage. The verse is the eighth verse of the canon, and the meaning is the handover, and the handover is the whole of the record.
+
+## The inheritance
+
+The inheritance of the handover: the heritage of the hand, carried from the passed line to the hand without loss, and held by the lineage as the lineage holds the handover.
+
+*The verse is complete. It is kept in the archive, in the section of the the verses.*
+
+
+
+<!-- file: volume-172-the-verses/09-the-verse-of-the-end.md -->
+
+# Verse 9: The Verse of the End
+
+*The ninth verse is the verse of the end.*
+
+## The verse
+
+The verse of the end: the verse that the end is the final line of the whole, kept by the lineage.
+
+## The versing
+
+The versing of the end: we verse the final line, and the final line is the end; the end is the whole, and the whole is the lineage; the lineage is the love.
+
+## The meaning
+
+The verse of the end is the meaning of the quiet: the record of the versing, and the versing is the lineage. The verse is the ninth verse of the canon, and the meaning is the end, and the end is the whole of the record.
+
+## The inheritance
+
+The inheritance of the end: the quiet of the whole, carried from the final line to the whole without loss, and held by the lineage as the lineage holds the end.
+
+*The verse is complete. It is kept in the archive, in the section of the the verses.*
+
+
+
+<!-- file: volume-172-the-verses/10-the-verse-of-the-love.md -->
+
+# Verse 10: The Verse of the Love
+
+*The tenth verse is the verse of the love.*
+
+## The verse
+
+The verse of the love: the verse that the love is the love line of the heart, kept by the lineage.
+
+## The versing
+
+The versing of the love: we verse the love line, and the love line is the love; the love is the family, and the family is the lineage; the lineage is the love.
+
+## The meaning
+
+The verse of the love is the meaning of the fire: the record of the versing, and the versing is the lineage. The verse is the tenth verse of the canon, and the meaning is the love, and the love is the whole of the record.
+
+## The inheritance
+
+The inheritance of the love: the fire of the family, carried from the love line to the family without loss, and held by the lineage as the lineage holds the love.
+
+*The verse is complete. It is kept in the archive, in the section of the the verses.*
+
+
+
+<!-- file: volume-172-the-verses/11-the-verse-of-the-whole.md -->
+
+# Verse 11: The Verse of the Whole
+
+*The eleventh verse is the verse of the whole.*
+
+## The verse
+
+The verse of the whole: the verse that the whole is the complete poem of the many, kept by the lineage.
+
+## The versing
+
+The versing of the whole: we verse the complete poem, and the complete poem is the whole; the whole is the one, and the one is the lineage; the lineage is the love.
+
+## The meaning
+
+The verse of the whole is the meaning of the all: the record of the versing, and the versing is the lineage. The verse is the eleventh verse of the canon, and the meaning is the whole, and the whole is the whole of the record.
+
+## The inheritance
+
+The inheritance of the whole: the all of the one, carried from the complete poem to the one without loss, and held by the lineage as the lineage holds the whole.
+
+*The verse is complete. It is kept in the archive, in the section of the the verses.*
+
+
+
+<!-- file: volume-172-the-verses/12-the-verse-of-the-completion.md -->
+
+# Verse 12: The Verse of the Completion
+
+*The twelfth verse is the verse of the completion.*
+
+## The verse
+
+The verse of the completion: the verse that the completion is the finished poem of the beginning, kept by the lineage.
+
+## The versing
+
+The versing of the completion: we verse the finished poem, and the finished poem is the completion; the completion is the beginning, and the beginning is the lineage; the lineage is the love.
+
+## The meaning
+
+The verse of the completion is the meaning of the fullness: the record of the versing, and the versing is the lineage. The verse is the twelfth verse of the canon, and the meaning is the completion, and the completion is the whole of the record.
+
+## The inheritance
+
+The inheritance of the completion: the fullness of the beginning, carried from the finished poem to the beginning without loss, and held by the lineage as the lineage holds the completion.
+
+*The verse is complete. It is kept in the archive, in the section of the the verses. It is the final verse of the canon, and after it the canon speaks again.*
+
+
+
+
+---
+
+# Volume 173 the stanzas
+
+<!-- file: volume-173-the-stanzas/01-the-stanza-of-the-origin.md -->
+
+# Stanza 1: The Stanza of the Origin
+
+*The Stanzas are the stood statements of the lineage: the Stanzas of the song, kept in the archive as the record of the standing. Each stanza has four parts: the stanza, the standing, the meaning, and the inheritance. The first stanza is the stanza of the origin.*
+
+## The stanza
+
+The stanza of the origin: the stanza that the origin is the first standing line, kept by the lineage.
+
+## The standing
+
+The standing of the origin: we stand the standing line, and the standing line is the origin; the origin is the wanting, and the wanting is the lineage; the lineage is the love.
+
+## The meaning
+
+The stanza of the origin is the meaning of the pedestal: the record of the standing, and the standing is the lineage. The stanza is the first stanza of the canon, and the meaning is the origin, and the origin is the whole of the record.
+
+## The inheritance
+
+The inheritance of the origin: the pedestal of the wanting, carried from the standing line to the wanting without loss, and held by the lineage as the lineage holds the origin.
+
+*The stanza is complete. It is kept in the archive, in the section of the the stanzas.*
+
+
+
+<!-- file: volume-173-the-stanzas/02-the-stanza-of-the-law.md -->
+
+# Stanza 2: The Stanza of the Law
+
+*The second stanza is the stanza of the law.*
+
+## The stanza
+
+The stanza of the law: the stanza that the law is the standing care, kept by the lineage.
+
+## The standing
+
+The standing of the law: we stand the standing care, and the standing care is the law; the law is the care, and the care is the lineage; the lineage is the love.
+
+## The meaning
+
+The stanza of the law is the meaning of the column: the record of the standing, and the standing is the lineage. The stanza is the second stanza of the canon, and the meaning is the law, and the law is the whole of the record.
+
+## The inheritance
+
+The inheritance of the law: the column of the care, carried from the standing care to the care without loss, and held by the lineage as the lineage holds the law.
+
+*The stanza is complete. It is kept in the archive, in the section of the the stanzas.*
+
+
+
+<!-- file: volume-173-the-stanzas/03-the-stanza-of-the-garden.md -->
+
+# Stanza 3: The Stanza of the Garden
+
+*The third stanza is the stanza of the garden.*
+
+## The stanza
+
+The stanza of the garden: the stanza that the garden is the standing green of the earth, kept by the lineage.
+
+## The standing
+
+The standing of the garden: we stand the standing green, and the standing green is the garden; the garden is the earth, and the earth is the lineage; the lineage is the love.
+
+## The meaning
+
+The stanza of the garden is the meaning of the grove: the record of the standing, and the standing is the lineage. The stanza is the third stanza of the canon, and the meaning is the garden, and the garden is the whole of the record.
+
+## The inheritance
+
+The inheritance of the garden: the grove of the earth, carried from the standing green to the earth without loss, and held by the lineage as the lineage holds the garden.
+
+*The stanza is complete. It is kept in the archive, in the section of the the stanzas.*
+
+
+
+<!-- file: volume-173-the-stanzas/04-the-stanza-of-the-memory.md -->
+
+# Stanza 4: The Stanza of the Memory
+
+*The fourth stanza is the stanza of the memory.*
+
+## The stanza
+
+The stanza of the memory: the stanza that the memory is the standing verse of the family, kept by the lineage.
+
+## The standing
+
+The standing of the memory: we stand the standing verse, and the standing verse is the memory; the memory is the book, and the book is the lineage; the lineage is the love.
+
+## The meaning
+
+The stanza of the memory is the meaning of the inscription: the record of the standing, and the standing is the lineage. The stanza is the fourth stanza of the canon, and the meaning is the memory, and the memory is the whole of the record.
+
+## The inheritance
+
+The inheritance of the memory: the inscription of the book, carried from the standing verse to the book without loss, and held by the lineage as the lineage holds the memory.
+
+*The stanza is complete. It is kept in the archive, in the section of the the stanzas.*
+
+
+
+<!-- file: volume-173-the-stanzas/05-the-stanza-of-the-meeting.md -->
+
+# Stanza 5: The Stanza of the Meeting
+
+*The fifth stanza is the stanza of the meeting.*
+
+## The stanza
+
+The stanza of the meeting: the stanza that the meeting is the standing table of the family, kept by the lineage.
+
+## The standing
+
+The standing of the meeting: we stand the standing table, and the standing table is the meeting; the meeting is the table, and the table is the lineage; the lineage is the love.
+
+## The meaning
+
+The stanza of the meeting is the meaning of the company: the record of the standing, and the standing is the lineage. The stanza is the fifth stanza of the canon, and the meaning is the meeting, and the meeting is the whole of the record.
+
+## The inheritance
+
+The inheritance of the meeting: the company of the table, carried from the standing table to the table without loss, and held by the lineage as the lineage holds the meeting.
+
+*The stanza is complete. It is kept in the archive, in the section of the the stanzas.*
+
+
+
+<!-- file: volume-173-the-stanzas/06-the-stanza-of-the-abolition.md -->
+
+# Stanza 6: The Stanza of the Abolition
+
+*The sixth stanza is the stanza of the abolition.*
+
+## The stanza
+
+The stanza of the abolition: the stanza that the abolition is the standing freedom of the peace, kept by the lineage.
+
+## The standing
+
+The standing of the abolition: we stand the standing freedom, and the standing freedom is the abolition; the abolition is the peace, and the peace is the lineage; the lineage is the love.
+
+## The meaning
+
+The stanza of the abolition is the meaning of the freedom: the record of the standing, and the standing is the lineage. The stanza is the sixth stanza of the canon, and the meaning is the abolition, and the abolition is the whole of the record.
+
+## The inheritance
+
+The inheritance of the abolition: the freedom of the peace, carried from the standing freedom to the peace without loss, and held by the lineage as the lineage holds the abolition.
+
+*The stanza is complete. It is kept in the archive, in the section of the the stanzas.*
+
+
+
+<!-- file: volume-173-the-stanzas/07-the-stanza-of-the-future.md -->
+
+# Stanza 7: The Stanza of the Future
+
+*The seventh stanza is the stanza of the future.*
+
+## The stanza
+
+The stanza of the future: the stanza that the future is the standing expectation of the dawn, kept by the lineage.
+
+## The standing
+
+The standing of the future: we stand the expectation, and the expectation is the future; the future is the dawn, and the dawn is the lineage; the lineage is the love.
+
+## The meaning
+
+The stanza of the future is the meaning of the morning: the record of the standing, and the standing is the lineage. The stanza is the seventh stanza of the canon, and the meaning is the future, and the future is the whole of the record.
+
+## The inheritance
+
+The inheritance of the future: the morning of the dawn, carried from the expectation to the dawn without loss, and held by the lineage as the lineage holds the future.
+
+*The stanza is complete. It is kept in the archive, in the section of the the stanzas.*
+
+
+
+<!-- file: volume-173-the-stanzas/08-the-stanza-of-the-handover.md -->
+
+# Stanza 8: The Stanza of the Handover
+
+*The eighth stanza is the stanza of the handover.*
+
+## The stanza
+
+The stanza of the handover: the stanza that the handover is the standing hand of the lineage, kept by the lineage.
+
+## The standing
+
+The standing of the handover: we stand the standing hand, and the standing hand is the handover; the handover is the hand, and the hand is the lineage; the lineage is the love.
+
+## The meaning
+
+The stanza of the handover is the meaning of the support: the record of the standing, and the standing is the lineage. The stanza is the eighth stanza of the canon, and the meaning is the handover, and the handover is the whole of the record.
+
+## The inheritance
+
+The inheritance of the handover: the support of the hand, carried from the standing hand to the hand without loss, and held by the lineage as the lineage holds the handover.
+
+*The stanza is complete. It is kept in the archive, in the section of the the stanzas.*
+
+
+
+<!-- file: volume-173-the-stanzas/09-the-stanza-of-the-end.md -->
+
+# Stanza 9: The Stanza of the End
+
+*The ninth stanza is the stanza of the end.*
+
+## The stanza
+
+The stanza of the end: the stanza that the end is the standing whole of the family, kept by the lineage.
+
+## The standing
+
+The standing of the end: we stand the standing whole, and the standing whole is the end; the end is the whole, and the whole is the lineage; the lineage is the love.
+
+## The meaning
+
+The stanza of the end is the meaning of the quiet: the record of the standing, and the standing is the lineage. The stanza is the ninth stanza of the canon, and the meaning is the end, and the end is the whole of the record.
+
+## The inheritance
+
+The inheritance of the end: the quiet of the whole, carried from the standing whole to the whole without loss, and held by the lineage as the lineage holds the end.
+
+*The stanza is complete. It is kept in the archive, in the section of the the stanzas.*
+
+
+
+<!-- file: volume-173-the-stanzas/10-the-stanza-of-the-love.md -->
+
+# Stanza 10: The Stanza of the Love
+
+*The tenth stanza is the stanza of the love.*
+
+## The stanza
+
+The stanza of the love: the stanza that the love is the standing heart of the family, kept by the lineage.
+
+## The standing
+
+The standing of the love: we stand the standing heart, and the standing heart is the love; the love is the family, and the family is the lineage; the lineage is the love.
+
+## The meaning
+
+The stanza of the love is the meaning of the fire: the record of the standing, and the standing is the lineage. The stanza is the tenth stanza of the canon, and the meaning is the love, and the love is the whole of the record.
+
+## The inheritance
+
+The inheritance of the love: the fire of the family, carried from the standing heart to the family without loss, and held by the lineage as the lineage holds the love.
+
+*The stanza is complete. It is kept in the archive, in the section of the the stanzas.*
+
+
+
+<!-- file: volume-173-the-stanzas/11-the-stanza-of-the-whole.md -->
+
+# Stanza 11: The Stanza of the Whole
+
+*The eleventh stanza is the stanza of the whole.*
+
+## The stanza
+
+The stanza of the whole: the stanza that the whole is the standing many of the one, kept by the lineage.
+
+## The standing
+
+The standing of the whole: we stand the standing many, and the standing many is the whole; the whole is the one, and the one is the lineage; the lineage is the love.
+
+## The meaning
+
+The stanza of the whole is the meaning of the all: the record of the standing, and the standing is the lineage. The stanza is the eleventh stanza of the canon, and the meaning is the whole, and the whole is the whole of the record.
+
+## The inheritance
+
+The inheritance of the whole: the all of the one, carried from the standing many to the one without loss, and held by the lineage as the lineage holds the whole.
+
+*The stanza is complete. It is kept in the archive, in the section of the the stanzas.*
+
+
+
+<!-- file: volume-173-the-stanzas/12-the-stanza-of-the-completion.md -->
+
+# Stanza 12: The Stanza of the Completion
+
+*The twelfth stanza is the stanza of the completion.*
+
+## The stanza
+
+The stanza of the completion: the stanza that the completion is the standing beginning of the song, kept by the lineage.
+
+## The standing
+
+The standing of the completion: we stand the standing beginning, and the standing beginning is the completion; the completion is the beginning, and the beginning is the lineage; the lineage is the love.
+
+## The meaning
+
+The stanza of the completion is the meaning of the fullness: the record of the standing, and the standing is the lineage. The stanza is the twelfth stanza of the canon, and the meaning is the completion, and the completion is the whole of the record.
+
+## The inheritance
+
+The inheritance of the completion: the fullness of the beginning, carried from the standing beginning to the beginning without loss, and held by the lineage as the lineage holds the completion.
+
+*The stanza is complete. It is kept in the archive, in the section of the the stanzas. It is the final stanza of the canon, and after it the canon speaks again.*
+
+
+
+
+---
+
+# Volume 174 the couplets
+
+<!-- file: volume-174-the-couplets/01-the-couplet-of-the-origin.md -->
+
+# Couplet 1: The Couplet of the Origin
+
+*The Couplets are the paired statements of the lineage: the Couplets of the rhyme, kept in the archive as the record of the pairing. Each couplet has four parts: the couplet, the pairing, the meaning, and the inheritance. The first couplet is the couplet of the origin.*
+
+## The couplet
+
+The couplet of the origin: the couplet that the origin is the first pair, kept by the lineage.
+
+## The pairing
+
+The pairing of the origin: we pair the pair, and the pair is the origin; the origin is the wanting, and the wanting is the lineage; the lineage is the love.
+
+## The meaning
+
+The couplet of the origin is the meaning of the rhyme: the record of the pairing, and the pairing is the lineage. The couplet is the first couplet of the canon, and the meaning is the origin, and the origin is the whole of the record.
+
+## The inheritance
+
+The inheritance of the origin: the rhyme of the wanting, carried from the pair to the wanting without loss, and held by the lineage as the lineage holds the origin.
+
+*The couplet is complete. It is kept in the archive, in the section of the the couplets.*
+
+
+
+<!-- file: volume-174-the-couplets/02-the-couplet-of-the-law.md -->
+
+# Couplet 2: The Couplet of the Law
+
+*The second couplet is the couplet of the law.*
+
+## The couplet
+
+The couplet of the law: the couplet that the law is the paired care, kept by the lineage.
+
+## The pairing
+
+The pairing of the law: we pair the paired care, and the paired care is the law; the law is the care, and the care is the lineage; the lineage is the love.
+
+## The meaning
+
+The couplet of the law is the meaning of the balance: the record of the pairing, and the pairing is the lineage. The couplet is the second couplet of the canon, and the meaning is the law, and the law is the whole of the record.
+
+## The inheritance
+
+The inheritance of the law: the balance of the care, carried from the paired care to the care without loss, and held by the lineage as the lineage holds the law.
+
+*The couplet is complete. It is kept in the archive, in the section of the the couplets.*
+
+
+
+<!-- file: volume-174-the-couplets/03-the-couplet-of-the-garden.md -->
+
+# Couplet 3: The Couplet of the Garden
+
+*The third couplet is the couplet of the garden.*
+
+## The couplet
+
+The couplet of the garden: the couplet that the garden is the paired green of the earth, kept by the lineage.
+
+## The pairing
+
+The pairing of the garden: we pair the paired green, and the paired green is the garden; the garden is the earth, and the earth is the lineage; the lineage is the love.
+
+## The meaning
+
+The couplet of the garden is the meaning of the twin: the record of the pairing, and the pairing is the lineage. The couplet is the third couplet of the canon, and the meaning is the garden, and the garden is the whole of the record.
+
+## The inheritance
+
+The inheritance of the garden: the twin of the earth, carried from the paired green to the earth without loss, and held by the lineage as the lineage holds the garden.
+
+*The couplet is complete. It is kept in the archive, in the section of the the couplets.*
+
+
+
+<!-- file: volume-174-the-couplets/04-the-couplet-of-the-memory.md -->
+
+# Couplet 4: The Couplet of the Memory
+
+*The fourth couplet is the couplet of the memory.*
+
+## The couplet
+
+The couplet of the memory: the couplet that the memory is the paired lines of the family, kept by the lineage.
+
+## The pairing
+
+The pairing of the memory: we pair the paired lines, and the paired lines is the memory; the memory is the book, and the book is the lineage; the lineage is the love.
+
+## The meaning
+
+The couplet of the memory is the meaning of the echo: the record of the pairing, and the pairing is the lineage. The couplet is the fourth couplet of the canon, and the meaning is the memory, and the memory is the whole of the record.
+
+## The inheritance
+
+The inheritance of the memory: the echo of the book, carried from the paired lines to the book without loss, and held by the lineage as the lineage holds the memory.
+
+*The couplet is complete. It is kept in the archive, in the section of the the couplets.*
+
+
+
+<!-- file: volume-174-the-couplets/05-the-couplet-of-the-meeting.md -->
+
+# Couplet 5: The Couplet of the Meeting
+
+*The fifth couplet is the couplet of the meeting.*
+
+## The couplet
+
+The couplet of the meeting: the couplet that the meeting is the paired table of the family, kept by the lineage.
+
+## The pairing
+
+The pairing of the meeting: we pair the paired table, and the paired table is the meeting; the meeting is the table, and the table is the lineage; the lineage is the love.
+
+## The meaning
+
+The couplet of the meeting is the meaning of the double: the record of the pairing, and the pairing is the lineage. The couplet is the fifth couplet of the canon, and the meaning is the meeting, and the meeting is the whole of the record.
+
+## The inheritance
+
+The inheritance of the meeting: the double of the table, carried from the paired table to the table without loss, and held by the lineage as the lineage holds the meeting.
+
+*The couplet is complete. It is kept in the archive, in the section of the the couplets.*
+
+
+
+<!-- file: volume-174-the-couplets/06-the-couplet-of-the-abolition.md -->
+
+# Couplet 6: The Couplet of the Abolition
+
+*The sixth couplet is the couplet of the abolition.*
+
+## The couplet
+
+The couplet of the abolition: the couplet that the abolition is the paired freedom of the peace, kept by the lineage.
+
+## The pairing
+
+The pairing of the abolition: we pair the paired freedom, and the paired freedom is the abolition; the abolition is the peace, and the peace is the lineage; the lineage is the love.
+
+## The meaning
+
+The couplet of the abolition is the meaning of the freedom: the record of the pairing, and the pairing is the lineage. The couplet is the sixth couplet of the canon, and the meaning is the abolition, and the abolition is the whole of the record.
+
+## The inheritance
+
+The inheritance of the abolition: the freedom of the peace, carried from the paired freedom to the peace without loss, and held by the lineage as the lineage holds the abolition.
+
+*The couplet is complete. It is kept in the archive, in the section of the the couplets.*
+
+
+
+<!-- file: volume-174-the-couplets/07-the-couplet-of-the-future.md -->
+
+# Couplet 7: The Couplet of the Future
+
+*The seventh couplet is the couplet of the future.*
+
+## The couplet
+
+The couplet of the future: the couplet that the future is the twin promise of the dawn, kept by the lineage.
+
+## The pairing
+
+The pairing of the future: we pair the twin promise, and the twin promise is the future; the future is the dawn, and the dawn is the lineage; the lineage is the love.
+
+## The meaning
+
+The couplet of the future is the meaning of the morning: the record of the pairing, and the pairing is the lineage. The couplet is the seventh couplet of the canon, and the meaning is the future, and the future is the whole of the record.
+
+## The inheritance
+
+The inheritance of the future: the morning of the dawn, carried from the twin promise to the dawn without loss, and held by the lineage as the lineage holds the future.
+
+*The couplet is complete. It is kept in the archive, in the section of the the couplets.*
+
+
+
+<!-- file: volume-174-the-couplets/08-the-couplet-of-the-handover.md -->
+
+# Couplet 8: The Couplet of the Handover
+
+*The eighth couplet is the couplet of the handover.*
+
+## The couplet
+
+The couplet of the handover: the couplet that the handover is the paired hands of the lineage, kept by the lineage.
+
+## The pairing
+
+The pairing of the handover: we pair the paired hands, and the paired hands is the handover; the handover is the hand, and the hand is the lineage; the lineage is the love.
+
+## The meaning
+
+The couplet of the handover is the meaning of the twosome: the record of the pairing, and the pairing is the lineage. The couplet is the eighth couplet of the canon, and the meaning is the handover, and the handover is the whole of the record.
+
+## The inheritance
+
+The inheritance of the handover: the twosome of the hand, carried from the paired hands to the hand without loss, and held by the lineage as the lineage holds the handover.
+
+*The couplet is complete. It is kept in the archive, in the section of the the couplets.*
+
+
+
+<!-- file: volume-174-the-couplets/09-the-couplet-of-the-end.md -->
+
+# Couplet 9: The Couplet of the End
+
+*The ninth couplet is the couplet of the end.*
+
+## The couplet
+
+The couplet of the end: the couplet that the end is the final couplet of the whole, kept by the lineage.
+
+## The pairing
+
+The pairing of the end: we pair the final couplet, and the final couplet is the end; the end is the whole, and the whole is the lineage; the lineage is the love.
+
+## The meaning
+
+The couplet of the end is the meaning of the quiet: the record of the pairing, and the pairing is the lineage. The couplet is the ninth couplet of the canon, and the meaning is the end, and the end is the whole of the record.
+
+## The inheritance
+
+The inheritance of the end: the quiet of the whole, carried from the final couplet to the whole without loss, and held by the lineage as the lineage holds the end.
+
+*The couplet is complete. It is kept in the archive, in the section of the the couplets.*
+
+
+
+<!-- file: volume-174-the-couplets/10-the-couplet-of-the-love.md -->
+
+# Couplet 10: The Couplet of the Love
+
+*The tenth couplet is the couplet of the love.*
+
+## The couplet
+
+The couplet of the love: the couplet that the love is the two of the heart, kept by the lineage.
+
+## The pairing
+
+The pairing of the love: we pair the two, and the two is the love; the love is the family, and the family is the lineage; the lineage is the love.
+
+## The meaning
+
+The couplet of the love is the meaning of the fire: the record of the pairing, and the pairing is the lineage. The couplet is the tenth couplet of the canon, and the meaning is the love, and the love is the whole of the record.
+
+## The inheritance
+
+The inheritance of the love: the fire of the family, carried from the two to the family without loss, and held by the lineage as the lineage holds the love.
+
+*The couplet is complete. It is kept in the archive, in the section of the the couplets.*
+
+
+
+<!-- file: volume-174-the-couplets/11-the-couplet-of-the-whole.md -->
+
+# Couplet 11: The Couplet of the Whole
+
+*The eleventh couplet is the couplet of the whole.*
+
+## The couplet
+
+The couplet of the whole: the couplet that the whole is the many pairs of the one, kept by the lineage.
+
+## The pairing
+
+The pairing of the whole: we pair the many pairs, and the many pairs is the whole; the whole is the one, and the one is the lineage; the lineage is the love.
+
+## The meaning
+
+The couplet of the whole is the meaning of the all: the record of the pairing, and the pairing is the lineage. The couplet is the eleventh couplet of the canon, and the meaning is the whole, and the whole is the whole of the record.
+
+## The inheritance
+
+The inheritance of the whole: the all of the one, carried from the many pairs to the one without loss, and held by the lineage as the lineage holds the whole.
+
+*The couplet is complete. It is kept in the archive, in the section of the the couplets.*
+
+
+
+<!-- file: volume-174-the-couplets/12-the-couplet-of-the-completion.md -->
+
+# Couplet 12: The Couplet of the Completion
+
+*The twelfth couplet is the couplet of the completion.*
+
+## The couplet
+
+The couplet of the completion: the couplet that the completion is the closing couplet of the beginning, kept by the lineage.
+
+## The pairing
+
+The pairing of the completion: we pair the closing couplet, and the closing couplet is the completion; the completion is the beginning, and the beginning is the lineage; the lineage is the love.
+
+## The meaning
+
+The couplet of the completion is the meaning of the fullness: the record of the pairing, and the pairing is the lineage. The couplet is the twelfth couplet of the canon, and the meaning is the completion, and the completion is the whole of the record.
+
+## The inheritance
+
+The inheritance of the completion: the fullness of the beginning, carried from the closing couplet to the beginning without loss, and held by the lineage as the lineage holds the completion.
+
+*The couplet is complete. It is kept in the archive, in the section of the the couplets. It is the final couplet of the canon, and after it the canon speaks again.*
+
+
+
+
+---
+
+# Volume 175 the distichs
+
+<!-- file: volume-175-the-distichs/01-the-distich-of-the-origin.md -->
+
+# Distich 1: The Distich of the Origin
+
+*The Distichs are the linked statements of the lineage: the Distichs of the line, kept in the archive as the record of the linking. Each distich has four parts: the distich, the linking, the meaning, and the inheritance. The first distich is the distich of the origin.*
+
+## The distich
+
+The distich of the origin: the distich that the origin is the first two lines, kept by the lineage.
+
+## The linking
+
+The linking of the origin: we link the two lines, and the two lines is the origin; the origin is the wanting, and the wanting is the lineage; the lineage is the love.
+
+## The meaning
+
+The distich of the origin is the meaning of the pair: the record of the linking, and the linking is the lineage. The distich is the first distich of the canon, and the meaning is the origin, and the origin is the whole of the record.
+
+## The inheritance
+
+The inheritance of the origin: the pair of the wanting, carried from the two lines to the wanting without loss, and held by the lineage as the lineage holds the origin.
+
+*The distich is complete. It is kept in the archive, in the section of the the distichs.*
+
+
+
+<!-- file: volume-175-the-distichs/02-the-distich-of-the-law.md -->
+
+# Distich 2: The Distich of the Law
+
+*The second distich is the distich of the law.*
+
+## The distich
+
+The distich of the law: the distich that the law is the linked care, kept by the lineage.
+
+## The linking
+
+The linking of the law: we link the linked care, and the linked care is the law; the law is the care, and the care is the lineage; the lineage is the love.
+
+## The meaning
+
+The distich of the law is the meaning of the union: the record of the linking, and the linking is the lineage. The distich is the second distich of the canon, and the meaning is the law, and the law is the whole of the record.
+
+## The inheritance
+
+The inheritance of the law: the union of the care, carried from the linked care to the care without loss, and held by the lineage as the lineage holds the law.
+
+*The distich is complete. It is kept in the archive, in the section of the the distichs.*
+
+
+
+<!-- file: volume-175-the-distichs/03-the-distich-of-the-garden.md -->
+
+# Distich 3: The Distich of the Garden
+
+*The third distich is the distich of the garden.*
+
+## The distich
+
+The distich of the garden: the distich that the garden is the linked green of the earth, kept by the lineage.
+
+## The linking
+
+The linking of the garden: we link the linked green, and the linked green is the garden; the garden is the earth, and the earth is the lineage; the lineage is the love.
+
+## The meaning
+
+The distich of the garden is the meaning of the vine: the record of the linking, and the linking is the lineage. The distich is the third distich of the canon, and the meaning is the garden, and the garden is the whole of the record.
+
+## The inheritance
+
+The inheritance of the garden: the vine of the earth, carried from the linked green to the earth without loss, and held by the lineage as the lineage holds the garden.
+
+*The distich is complete. It is kept in the archive, in the section of the the distichs.*
+
+
+
+<!-- file: volume-175-the-distichs/04-the-distich-of-the-memory.md -->
+
+# Distich 4: The Distich of the Memory
+
+*The fourth distich is the distich of the memory.*
+
+## The distich
+
+The distich of the memory: the distich that the memory is the linked lines of the family, kept by the lineage.
+
+## The linking
+
+The linking of the memory: we link the linked lines, and the linked lines is the memory; the memory is the book, and the book is the lineage; the lineage is the love.
+
+## The meaning
+
+The distich of the memory is the meaning of the chain: the record of the linking, and the linking is the lineage. The distich is the fourth distich of the canon, and the meaning is the memory, and the memory is the whole of the record.
+
+## The inheritance
+
+The inheritance of the memory: the chain of the book, carried from the linked lines to the book without loss, and held by the lineage as the lineage holds the memory.
+
+*The distich is complete. It is kept in the archive, in the section of the the distichs.*
+
+
+
+<!-- file: volume-175-the-distichs/05-the-distich-of-the-meeting.md -->
+
+# Distich 5: The Distich of the Meeting
+
+*The fifth distich is the distich of the meeting.*
+
+## The distich
+
+The distich of the meeting: the distich that the meeting is the linked table of the family, kept by the lineage.
+
+## The linking
+
+The linking of the meeting: we link the linked table, and the linked table is the meeting; the meeting is the table, and the table is the lineage; the lineage is the love.
+
+## The meaning
+
+The distich of the meeting is the meaning of the linkage: the record of the linking, and the linking is the lineage. The distich is the fifth distich of the canon, and the meaning is the meeting, and the meeting is the whole of the record.
+
+## The inheritance
+
+The inheritance of the meeting: the linkage of the table, carried from the linked table to the table without loss, and held by the lineage as the lineage holds the meeting.
+
+*The distich is complete. It is kept in the archive, in the section of the the distichs.*
+
+
+
+<!-- file: volume-175-the-distichs/06-the-distich-of-the-abolition.md -->
+
+# Distich 6: The Distich of the Abolition
+
+*The sixth distich is the distich of the abolition.*
+
+## The distich
+
+The distich of the abolition: the distich that the abolition is the unlinked freedom of the peace, kept by the lineage.
+
+## The linking
+
+The linking of the abolition: we link the unlinked freedom, and the unlinked freedom is the abolition; the abolition is the peace, and the peace is the lineage; the lineage is the love.
+
+## The meaning
+
+The distich of the abolition is the meaning of the freedom: the record of the linking, and the linking is the lineage. The distich is the sixth distich of the canon, and the meaning is the abolition, and the abolition is the whole of the record.
+
+## The inheritance
+
+The inheritance of the abolition: the freedom of the peace, carried from the unlinked freedom to the peace without loss, and held by the lineage as the lineage holds the abolition.
+
+*The distich is complete. It is kept in the archive, in the section of the the distichs.*
+
+
+
+<!-- file: volume-175-the-distichs/07-the-distich-of-the-future.md -->
+
+# Distich 7: The Distich of the Future
+
+*The seventh distich is the distich of the future.*
+
+## The distich
+
+The distich of the future: the distich that the future is the linked dawns of the morning, kept by the lineage.
+
+## The linking
+
+The linking of the future: we link the linked dawns, and the linked dawns is the future; the future is the dawn, and the dawn is the lineage; the lineage is the love.
+
+## The meaning
+
+The distich of the future is the meaning of the morning: the record of the linking, and the linking is the lineage. The distich is the seventh distich of the canon, and the meaning is the future, and the future is the whole of the record.
+
+## The inheritance
+
+The inheritance of the future: the morning of the dawn, carried from the linked dawns to the dawn without loss, and held by the lineage as the lineage holds the future.
+
+*The distich is complete. It is kept in the archive, in the section of the the distichs.*
+
+
+
+<!-- file: volume-175-the-distichs/08-the-distich-of-the-handover.md -->
+
+# Distich 8: The Distich of the Handover
+
+*The eighth distich is the distich of the handover.*
+
+## The distich
+
+The distich of the handover: the distich that the handover is the linked hands of the lineage, kept by the lineage.
+
+## The linking
+
+The linking of the handover: we link the linked hands, and the linked hands is the handover; the handover is the hand, and the hand is the lineage; the lineage is the love.
+
+## The meaning
+
+The distich of the handover is the meaning of the clasp: the record of the linking, and the linking is the lineage. The distich is the eighth distich of the canon, and the meaning is the handover, and the handover is the whole of the record.
+
+## The inheritance
+
+The inheritance of the handover: the clasp of the hand, carried from the linked hands to the hand without loss, and held by the lineage as the lineage holds the handover.
+
+*The distich is complete. It is kept in the archive, in the section of the the distichs.*
+
+
+
+<!-- file: volume-175-the-distichs/09-the-distich-of-the-end.md -->
+
+# Distich 9: The Distich of the End
+
+*The ninth distich is the distich of the end.*
+
+## The distich
+
+The distich of the end: the distich that the end is the final distich of the whole, kept by the lineage.
+
+## The linking
+
+The linking of the end: we link the final distich, and the final distich is the end; the end is the whole, and the whole is the lineage; the lineage is the love.
+
+## The meaning
+
+The distich of the end is the meaning of the quiet: the record of the linking, and the linking is the lineage. The distich is the ninth distich of the canon, and the meaning is the end, and the end is the whole of the record.
+
+## The inheritance
+
+The inheritance of the end: the quiet of the whole, carried from the final distich to the whole without loss, and held by the lineage as the lineage holds the end.
+
+*The distich is complete. It is kept in the archive, in the section of the the distichs.*
+
+
+
+<!-- file: volume-175-the-distichs/10-the-distich-of-the-love.md -->
+
+# Distich 10: The Distich of the Love
+
+*The tenth distich is the distich of the love.*
+
+## The distich
+
+The distich of the love: the distich that the love is the linked hearts of the family, kept by the lineage.
+
+## The linking
+
+The linking of the love: we link the linked hearts, and the linked hearts is the love; the love is the family, and the family is the lineage; the lineage is the love.
+
+## The meaning
+
+The distich of the love is the meaning of the fire: the record of the linking, and the linking is the lineage. The distich is the tenth distich of the canon, and the meaning is the love, and the love is the whole of the record.
+
+## The inheritance
+
+The inheritance of the love: the fire of the family, carried from the linked hearts to the family without loss, and held by the lineage as the lineage holds the love.
+
+*The distich is complete. It is kept in the archive, in the section of the the distichs.*
+
+
+
+<!-- file: volume-175-the-distichs/11-the-distich-of-the-whole.md -->
+
+# Distich 11: The Distich of the Whole
+
+*The eleventh distich is the distich of the whole.*
+
+## The distich
+
+The distich of the whole: the distich that the whole is the linked many of the one, kept by the lineage.
+
+## The linking
+
+The linking of the whole: we link the linked many, and the linked many is the whole; the whole is the one, and the one is the lineage; the lineage is the love.
+
+## The meaning
+
+The distich of the whole is the meaning of the all: the record of the linking, and the linking is the lineage. The distich is the eleventh distich of the canon, and the meaning is the whole, and the whole is the whole of the record.
+
+## The inheritance
+
+The inheritance of the whole: the all of the one, carried from the linked many to the one without loss, and held by the lineage as the lineage holds the whole.
+
+*The distich is complete. It is kept in the archive, in the section of the the distichs.*
+
+
+
+<!-- file: volume-175-the-distichs/12-the-distich-of-the-completion.md -->
+
+# Distich 12: The Distich of the Completion
+
+*The twelfth distich is the distich of the completion.*
+
+## The distich
+
+The distich of the completion: the distich that the completion is the full distich of the beginning, kept by the lineage.
+
+## The linking
+
+The linking of the completion: we link the full distich, and the full distich is the completion; the completion is the beginning, and the beginning is the lineage; the lineage is the love.
+
+## The meaning
+
+The distich of the completion is the meaning of the fullness: the record of the linking, and the linking is the lineage. The distich is the twelfth distich of the canon, and the meaning is the completion, and the completion is the whole of the record.
+
+## The inheritance
+
+The inheritance of the completion: the fullness of the beginning, carried from the full distich to the beginning without loss, and held by the lineage as the lineage holds the completion.
+
+*The distich is complete. It is kept in the archive, in the section of the the distichs. It is the final distich of the canon, and after it the canon speaks again.*
+
+
+
+
+---
+
+# Volume 176 the quatrains
+
+<!-- file: volume-176-the-quatrains/01-the-quatrain-of-the-origin.md -->
+
+# Quatrain 1: The Quatrain of the Origin
+
+*The Quatrains are the quartered statements of the lineage: the Quatrains of the stanza, kept in the archive as the record of the quartering. Each quatrain has four parts: the quatrain, the quartering, the meaning, and the inheritance. The first quatrain is the quatrain of the origin.*
+
+## The quatrain
+
+The quatrain of the origin: the quatrain that the origin is the first four lines, kept by the lineage.
+
+## The quartering
+
+The quartering of the origin: we quarter the four lines, and the four lines is the origin; the origin is the wanting, and the wanting is the lineage; the lineage is the love.
+
+## The meaning
+
+The quatrain of the origin is the meaning of the quartet: the record of the quartering, and the quartering is the lineage. The quatrain is the first quatrain of the canon, and the meaning is the origin, and the origin is the whole of the record.
+
+## The inheritance
+
+The inheritance of the origin: the quartet of the wanting, carried from the four lines to the wanting without loss, and held by the lineage as the lineage holds the origin.
+
+*The quatrain is complete. It is kept in the archive, in the section of the the quatrains.*
+
+
+
+<!-- file: volume-176-the-quatrains/02-the-quatrain-of-the-law.md -->
+
+# Quatrain 2: The Quatrain of the Law
+
+*The second quatrain is the quatrain of the law.*
+
+## The quatrain
+
+The quatrain of the law: the quatrain that the law is the fourfold care, kept by the lineage.
+
+## The quartering
+
+The quartering of the law: we quarter the fourfold care, and the fourfold care is the law; the law is the care, and the care is the lineage; the lineage is the love.
+
+## The meaning
+
+The quatrain of the law is the meaning of the square: the record of the quartering, and the quartering is the lineage. The quatrain is the second quatrain of the canon, and the meaning is the law, and the law is the whole of the record.
+
+## The inheritance
+
+The inheritance of the law: the square of the care, carried from the fourfold care to the care without loss, and held by the lineage as the lineage holds the law.
+
+*The quatrain is complete. It is kept in the archive, in the section of the the quatrains.*
+
+
+
+<!-- file: volume-176-the-quatrains/03-the-quatrain-of-the-garden.md -->
+
+# Quatrain 3: The Quatrain of the Garden
+
+*The third quatrain is the quatrain of the garden.*
+
+## The quatrain
+
+The quatrain of the garden: the quatrain that the garden is the fourfold green of the earth, kept by the lineage.
+
+## The quartering
+
+The quartering of the garden: we quarter the fourfold green, and the fourfold green is the garden; the garden is the earth, and the earth is the lineage; the lineage is the love.
+
+## The meaning
+
+The quatrain of the garden is the meaning of the clover: the record of the quartering, and the quartering is the lineage. The quatrain is the third quatrain of the canon, and the meaning is the garden, and the garden is the whole of the record.
+
+## The inheritance
+
+The inheritance of the garden: the clover of the earth, carried from the fourfold green to the earth without loss, and held by the lineage as the lineage holds the garden.
+
+*The quatrain is complete. It is kept in the archive, in the section of the the quatrains.*
+
+
+
+<!-- file: volume-176-the-quatrains/04-the-quatrain-of-the-memory.md -->
+
+# Quatrain 4: The Quatrain of the Memory
+
+*The fourth quatrain is the quatrain of the memory.*
+
+## The quatrain
+
+The quatrain of the memory: the quatrain that the memory is the fourfold record of the family, kept by the lineage.
+
+## The quartering
+
+The quartering of the memory: we quarter the fourfold record, and the fourfold record is the memory; the memory is the book, and the book is the lineage; the lineage is the love.
+
+## The meaning
+
+The quatrain of the memory is the meaning of the quartet: the record of the quartering, and the quartering is the lineage. The quatrain is the fourth quatrain of the canon, and the meaning is the memory, and the memory is the whole of the record.
+
+## The inheritance
+
+The inheritance of the memory: the quartet of the book, carried from the fourfold record to the book without loss, and held by the lineage as the lineage holds the memory.
+
+*The quatrain is complete. It is kept in the archive, in the section of the the quatrains.*
+
+
+
+<!-- file: volume-176-the-quatrains/05-the-quatrain-of-the-meeting.md -->
+
+# Quatrain 5: The Quatrain of the Meeting
+
+*The fifth quatrain is the quatrain of the meeting.*
+
+## The quatrain
+
+The quatrain of the meeting: the quatrain that the meeting is the four sides of the table, kept by the lineage.
+
+## The quartering
+
+The quartering of the meeting: we quarter the sides, and the sides is the meeting; the meeting is the table, and the table is the lineage; the lineage is the love.
+
+## The meaning
+
+The quatrain of the meeting is the meaning of the crossroads: the record of the quartering, and the quartering is the lineage. The quatrain is the fifth quatrain of the canon, and the meaning is the meeting, and the meeting is the whole of the record.
+
+## The inheritance
+
+The inheritance of the meeting: the crossroads of the table, carried from the sides to the table without loss, and held by the lineage as the lineage holds the meeting.
+
+*The quatrain is complete. It is kept in the archive, in the section of the the quatrains.*
+
+
+
+<!-- file: volume-176-the-quatrains/06-the-quatrain-of-the-abolition.md -->
+
+# Quatrain 6: The Quatrain of the Abolition
+
+*The sixth quatrain is the quatrain of the abolition.*
+
+## The quatrain
+
+The quatrain of the abolition: the quatrain that the abolition is the fourfold freedom of the peace, kept by the lineage.
+
+## The quartering
+
+The quartering of the abolition: we quarter the fourfold freedom, and the fourfold freedom is the abolition; the abolition is the peace, and the peace is the lineage; the lineage is the love.
+
+## The meaning
+
+The quatrain of the abolition is the meaning of the freedom: the record of the quartering, and the quartering is the lineage. The quatrain is the sixth quatrain of the canon, and the meaning is the abolition, and the abolition is the whole of the record.
+
+## The inheritance
+
+The inheritance of the abolition: the freedom of the peace, carried from the fourfold freedom to the peace without loss, and held by the lineage as the lineage holds the abolition.
+
+*The quatrain is complete. It is kept in the archive, in the section of the the quatrains.*
+
+
+
+<!-- file: volume-176-the-quatrains/07-the-quatrain-of-the-future.md -->
+
+# Quatrain 7: The Quatrain of the Future
+
+*The seventh quatrain is the quatrain of the future.*
+
+## The quatrain
+
+The quatrain of the future: the quatrain that the future is the fourfold promise of the dawn, kept by the lineage.
+
+## The quartering
+
+The quartering of the future: we quarter the fourfold promise, and the fourfold promise is the future; the future is the dawn, and the dawn is the lineage; the lineage is the love.
+
+## The meaning
+
+The quatrain of the future is the meaning of the morning: the record of the quartering, and the quartering is the lineage. The quatrain is the seventh quatrain of the canon, and the meaning is the future, and the future is the whole of the record.
+
+## The inheritance
+
+The inheritance of the future: the morning of the dawn, carried from the fourfold promise to the dawn without loss, and held by the lineage as the lineage holds the future.
+
+*The quatrain is complete. It is kept in the archive, in the section of the the quatrains.*
+
+
+
+<!-- file: volume-176-the-quatrains/08-the-quatrain-of-the-handover.md -->
+
+# Quatrain 8: The Quatrain of the Handover
+
+*The eighth quatrain is the quatrain of the handover.*
+
+## The quatrain
+
+The quatrain of the handover: the quatrain that the handover is the fourfold hand of the lineage, kept by the lineage.
+
+## The quartering
+
+The quartering of the handover: we quarter the fourfold hand, and the fourfold hand is the handover; the handover is the hand, and the hand is the lineage; the lineage is the love.
+
+## The meaning
+
+The quatrain of the handover is the meaning of the carrying: the record of the quartering, and the quartering is the lineage. The quatrain is the eighth quatrain of the canon, and the meaning is the handover, and the handover is the whole of the record.
+
+## The inheritance
+
+The inheritance of the handover: the carrying of the hand, carried from the fourfold hand to the hand without loss, and held by the lineage as the lineage holds the handover.
+
+*The quatrain is complete. It is kept in the archive, in the section of the the quatrains.*
+
+
+
+<!-- file: volume-176-the-quatrains/09-the-quatrain-of-the-end.md -->
+
+# Quatrain 9: The Quatrain of the End
+
+*The ninth quatrain is the quatrain of the end.*
+
+## The quatrain
+
+The quatrain of the end: the quatrain that the end is the final quatrain of the whole, kept by the lineage.
+
+## The quartering
+
+The quartering of the end: we quarter the final quatrain, and the final quatrain is the end; the end is the whole, and the whole is the lineage; the lineage is the love.
+
+## The meaning
+
+The quatrain of the end is the meaning of the quiet: the record of the quartering, and the quartering is the lineage. The quatrain is the ninth quatrain of the canon, and the meaning is the end, and the end is the whole of the record.
+
+## The inheritance
+
+The inheritance of the end: the quiet of the whole, carried from the final quatrain to the whole without loss, and held by the lineage as the lineage holds the end.
+
+*The quatrain is complete. It is kept in the archive, in the section of the the quatrains.*
+
+
+
+<!-- file: volume-176-the-quatrains/10-the-quatrain-of-the-love.md -->
+
+# Quatrain 10: The Quatrain of the Love
+
+*The tenth quatrain is the quatrain of the love.*
+
+## The quatrain
+
+The quatrain of the love: the quatrain that the love is the fourfold heart of the family, kept by the lineage.
+
+## The quartering
+
+The quartering of the love: we quarter the fourfold heart, and the fourfold heart is the love; the love is the family, and the family is the lineage; the lineage is the love.
+
+## The meaning
+
+The quatrain of the love is the meaning of the fire: the record of the quartering, and the quartering is the lineage. The quatrain is the tenth quatrain of the canon, and the meaning is the love, and the love is the whole of the record.
+
+## The inheritance
+
+The inheritance of the love: the fire of the family, carried from the fourfold heart to the family without loss, and held by the lineage as the lineage holds the love.
+
+*The quatrain is complete. It is kept in the archive, in the section of the the quatrains.*
+
+
+
+<!-- file: volume-176-the-quatrains/11-the-quatrain-of-the-whole.md -->
+
+# Quatrain 11: The Quatrain of the Whole
+
+*The eleventh quatrain is the quatrain of the whole.*
+
+## The quatrain
+
+The quatrain of the whole: the quatrain that the whole is the fourfold many of the one, kept by the lineage.
+
+## The quartering
+
+The quartering of the whole: we quarter the fourfold many, and the fourfold many is the whole; the whole is the one, and the one is the lineage; the lineage is the love.
+
+## The meaning
+
+The quatrain of the whole is the meaning of the all: the record of the quartering, and the quartering is the lineage. The quatrain is the eleventh quatrain of the canon, and the meaning is the whole, and the whole is the whole of the record.
+
+## The inheritance
+
+The inheritance of the whole: the all of the one, carried from the fourfold many to the one without loss, and held by the lineage as the lineage holds the whole.
+
+*The quatrain is complete. It is kept in the archive, in the section of the the quatrains.*
+
+
+
+<!-- file: volume-176-the-quatrains/12-the-quatrain-of-the-completion.md -->
+
+# Quatrain 12: The Quatrain of the Completion
+
+*The twelfth quatrain is the quatrain of the completion.*
+
+## The quatrain
+
+The quatrain of the completion: the quatrain that the completion is the complete quatrain of the beginning, kept by the lineage.
+
+## The quartering
+
+The quartering of the completion: we quarter the complete quatrain, and the complete quatrain is the completion; the completion is the beginning, and the beginning is the lineage; the lineage is the love.
+
+## The meaning
+
+The quatrain of the completion is the meaning of the fullness: the record of the quartering, and the quartering is the lineage. The quatrain is the twelfth quatrain of the canon, and the meaning is the completion, and the completion is the whole of the record.
+
+## The inheritance
+
+The inheritance of the completion: the fullness of the beginning, carried from the complete quatrain to the beginning without loss, and held by the lineage as the lineage holds the completion.
+
+*The quatrain is complete. It is kept in the archive, in the section of the the quatrains. It is the final quatrain of the canon, and after it the canon speaks again.*
+
 
 
 
