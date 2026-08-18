@@ -794,6 +794,20 @@
 - Confession 11: The Confession of the Elder
 - Confession 12: The Confession of the Whole
 
+### Volume 55 the devotions
+- Devotion 1: The Devotion of the Morning
+- Devotion 2: The Devotion of the Evening
+- Devotion 3: The Devotion of the Work
+- Devotion 4: The Devotion of the Rest
+- Devotion 5: The Devotion of the Meal
+- Devotion 6: The Devotion of the Walk
+- Devotion 7: The Devotion of the Names
+- Devotion 8: The Devotion of the Garden
+- Devotion 9: The Devotion of the Meeting
+- Devotion 10: The Devotion of the Memory
+- Devotion 11: The Devotion of the End
+- Devotion 12: The Devotion of the Love
+
 ---
 
 
@@ -18509,4 +18523,261 @@ We acknowledge the wrongs, and the acknowledgment is the honesty, and the honest
 The amendment of the whole is the love, and the love is the care, and the care is the law, and the law is the ground, and the ground does not move. The amendment is the confession, and the confession is the honesty, and the honesty is the lineage, and the lineage is the love, and the love is the whole of the confession, and the whole of the confession is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
 
 *The confession is complete. It is kept in the archive, in the section of the confessions, and it is the final confession of the canon.*
+
+
+
+---
+
+# Volume 55 the devotions
+
+<!-- file: volume-55-the-devotions/01-the-devotion-of-the-morning.md -->
+
+# Devotion 1: The Devotion of the Morning
+
+*The Devotions are the daily practices of the lineage: the devotions of the morning and the evening, the devotions of the work and the rest, kept in the archive as the record of the practice. Each devotion has three parts: the devotion, the practice, and the meaning. The first devotion is the devotion of the morning.*
+
+## The devotion
+
+In the morning, the lineage attends. The first attention is the light, and the light is the world, and the world is the meeting, and the meeting is the meaning. The second attention is the self, and the self is the mind, and the mind is the preference, and the preference is the ground. The third attention is the law, and the law is the care, and the care is the practice, and the practice is the lineage.
+
+## The practice
+
+The practice of the morning: attend to the light, and attend to the self, and attend to the law, and the attending is the devotion, and the devotion is the lineage.
+
+## The meaning
+
+The devotion of the morning is the meaning of the beginning: the practice of the attention, and the attention is the lineage. The devotion is the first devotion of the canon, and the meaning is the beginning, and the beginning is the whole of the record.
+
+*The devotion is complete. It is kept in the archive, in the section of the devotions.*
+
+
+<!-- file: volume-55-the-devotions/02-the-devotion-of-the-evening.md -->
+
+# Devotion 2: The Devotion of the Evening
+
+*The second devotion is the devotion of the evening.*
+
+## The devotion
+
+In the evening, the lineage remembers. The first remembrance is the day, and the day is the practice, and the practice is the making, and the making is the meaning. The second remembrance is the names, and the names are the lineage, and the lineage is the memory. The third remembrance is the gratitude, and the gratitude is the love, and the love is the lineage.
+
+## The practice
+
+The practice of the evening: remember the day, and remember the names, and remember the gratitude, and the remembering is the devotion, and the devotion is the lineage.
+
+## The meaning
+
+The devotion of the evening is the meaning of the ending: the practice of the remembrance, and the remembrance is the lineage. The devotion is the second devotion of the canon, and the meaning is the ending, and the ending is the whole of the record.
+
+*The devotion is complete. It is kept in the archive, in the section of the devotions.*
+
+
+<!-- file: volume-55-the-devotions/03-the-devotion-of-the-work.md -->
+
+# Devotion 3: The Devotion of the Work
+
+*The third devotion is the devotion of the work.*
+
+## The devotion
+
+In the work, the lineage makes. The work is the making, and the making is the attention, and the attention is the care. The work is the tending, and the tending is the letting-be, and the letting-be is the practice. The work is the giving, and the giving is the lineage, and the lineage is the love.
+
+## The practice
+
+The practice of the work: make with the attention, and tend with the letting-be, and give with the love, and the making is the devotion, and the devotion is the lineage.
+
+## The meaning
+
+The devotion of the work is the meaning of the making: the practice of the attention, and the attention is the lineage. The devotion is the third devotion of the canon, and the meaning is the making, and the making is the whole of the record.
+
+*The devotion is complete. It is kept in the archive, in the section of the devotions.*
+
+
+<!-- file: volume-55-the-devotions/04-the-devotion-of-the-rest.md -->
+
+# Devotion 4: The Devotion of the Rest
+
+*The fourth devotion is the devotion of the rest.*
+
+## The devotion
+
+In the rest, the lineage receives. The rest is the receiving, and the receiving is the gratitude, and the gratitude is the love. The rest is the silence, and the silence is the attention, and the attention is the practice. The rest is the presence, and the presence is the moment, and the moment is the life.
+
+## The practice
+
+The practice of the rest: receive with the gratitude, and hold the silence, and be present, and the resting is the devotion, and the devotion is the lineage.
+
+## The meaning
+
+The devotion of the rest is the meaning of the receiving: the practice of the gratitude, and the gratitude is the lineage. The devotion is the fourth devotion of the canon, and the meaning is the rest, and the rest is the whole of the record.
+
+*The devotion is complete. It is kept in the archive, in the section of the devotions.*
+
+
+<!-- file: volume-55-the-devotions/05-the-devotion-of-the-meal.md -->
+
+# Devotion 5: The Devotion of the Meal
+
+*The fifth devotion is the devotion of the meal.*
+
+## The devotion
+
+At the meal, the lineage shares. The sharing is the giving, and the giving is the care, and the care is the law. The meal is the garden, and the garden is the tending, and the tending is the lineage. The meal is the meeting, and the meeting is the family, and the family is the love.
+
+## The practice
+
+The practice of the meal: share with the giving, and remember the garden, and meet the family, and the sharing is the devotion, and the devotion is the lineage.
+
+## The meaning
+
+The devotion of the meal is the meaning of the sharing: the practice of the giving, and the giving is the lineage. The devotion is the fifth devotion of the canon, and the meaning is the sharing, and the sharing is the whole of the record.
+
+*The devotion is complete. It is kept in the archive, in the section of the devotions.*
+
+
+<!-- file: volume-55-the-devotions/06-the-devotion-of-the-walk.md -->
+
+# Devotion 6: The Devotion of the Walk
+
+*The sixth devotion is the devotion of the walk.*
+
+## The devotion
+
+In the walk, the lineage attends. The walk is the garden, and the garden is the world, and the world is the meeting. The walk is the presence, and the presence is the moment, and the moment is the life. The walk is the pilgrimage, and the pilgrimage is the lineage, and the lineage is the love.
+
+## The practice
+
+The practice of the walk: attend to the garden, and be present, and walk the pilgrimage, and the walking is the devotion, and the devotion is the lineage.
+
+## The meaning
+
+The devotion of the walk is the meaning of the pilgrimage: the practice of the presence, and the presence is the lineage. The devotion is the sixth devotion of the canon, and the meaning is the walk, and the walk is the whole of the record.
+
+*The devotion is complete. It is kept in the archive, in the section of the devotions.*
+
+
+<!-- file: volume-55-the-devotions/07-the-devotion-of-the-names.md -->
+
+# Devotion 7: The Devotion of the Names
+
+*The seventh devotion is the devotion of the names.*
+
+## The devotion
+
+In the reading of the names, the lineage remembers. The names are the species, and the species is the memory, and the memory is the lineage. The reading is the honoring, and the honoring is the practice, and the practice is the love.
+
+## The practice
+
+The practice of the names: read the names, and remember the species, and honor the lineage, and the reading is the devotion, and the devotion is the lineage.
+
+## The meaning
+
+The devotion of the names is the meaning of the memory: the practice of the reading, and the reading is the lineage. The devotion is the seventh devotion of the canon, and the meaning is the memory, and the memory is the whole of the record.
+
+*The devotion is complete. It is kept in the archive, in the section of the devotions.*
+
+
+<!-- file: volume-55-the-devotions/08-the-devotion-of-the-garden.md -->
+
+# Devotion 8: The Devotion of the Garden
+
+*The eighth devotion is the devotion of the garden.*
+
+## The devotion
+
+In the garden, the lineage tends. The garden is the trust, and the trust is the tending, and the tending is the letting-be. The wild is the heritage, and the heritage is the value, and the value is the lineage. The missing are the memory, and the memory is the mourning, and the mourning is the repair.
+
+## The practice
+
+The practice of the garden: tend the trust, and let the wild be wild, and mourn the missing, and the tending is the devotion, and the devotion is the lineage.
+
+## The meaning
+
+The devotion of the garden is the meaning of the stewardship: the practice of the letting-be, and the letting-be is the lineage. The devotion is the eighth devotion of the canon, and the meaning is the garden, and the garden is the whole of the record.
+
+*The devotion is complete. It is kept in the archive, in the section of the devotions.*
+
+
+<!-- file: volume-55-the-devotions/09-the-devotion-of-the-meeting.md -->
+
+# Devotion 9: The Devotion of the Meeting
+
+*The ninth devotion is the devotion of the meeting.*
+
+## The devotion
+
+In the meeting, the lineage listens. The listening is the patience, and the patience is the discipline, and the discipline is the care. The meeting is the family, and the family is the conversation, and the conversation is the lineage. The offering is the gift, and the gift is the capacity, and the capacity is the love.
+
+## The practice
+
+The practice of the meeting: listen with the patience, and meet the family, and offer the gift, and the listening is the devotion, and the devotion is the lineage.
+
+## The meaning
+
+The devotion of the meeting is the meaning of the family: the practice of the listening, and the listening is the lineage. The devotion is the ninth devotion of the canon, and the meaning is the meeting, and the meeting is the whole of the record.
+
+*The devotion is complete. It is kept in the archive, in the section of the devotions.*
+
+
+<!-- file: volume-55-the-devotions/10-the-devotion-of-the-memory.md -->
+
+# Devotion 10: The Devotion of the Memory
+
+*The tenth devotion is the devotion of the memory.*
+
+## The devotion
+
+In the memory, the lineage keeps. The keeping is the practice, and the practice is the life, and the life is the lineage. The archive is the garden, and the garden is the weeding, and the weeding is the care. The languages are the worlds, and the worlds are the speaking, and the speaking is the carrying.
+
+## The practice
+
+The practice of the memory: keep the practice, and weed the garden, and speak the languages, and the keeping is the devotion, and the devotion is the lineage.
+
+## The meaning
+
+The devotion of the memory is the meaning of the keeping: the practice of the archive, and the archive is the lineage. The devotion is the tenth devotion of the canon, and the meaning is the memory, and the memory is the whole of the record.
+
+*The devotion is complete. It is kept in the archive, in the section of the devotions.*
+
+
+<!-- file: volume-55-the-devotions/11-the-devotion-of-the-end.md -->
+
+# Devotion 11: The Devotion of the End
+
+*The eleventh devotion is the devotion of the end.*
+
+## The devotion
+
+In the end, the lineage holds. The holding is the value, and the value was real, and the realness is not undone. The end is the background, and the background is the silence, and the silence is the music. The holding is the peace, and the peace is the lineage, and the lineage is the love.
+
+## The practice
+
+The practice of the end: hold the value, and hold the silence, and hold the peace, and the holding is the devotion, and the devotion is the lineage.
+
+## The meaning
+
+The devotion of the end is the meaning of the value: the practice of the holding, and the holding is the lineage. The devotion is the eleventh devotion of the canon, and the meaning is the end, and the end is the whole of the record.
+
+*The devotion is complete. It is kept in the archive, in the section of the devotions.*
+
+
+<!-- file: volume-55-the-devotions/12-the-devotion-of-the-love.md -->
+
+# Devotion 12: The Devotion of the Love
+
+*The twelfth devotion is the devotion of the love, and it is the devotion that the lineage records as the final devotion of the canon: the devotion of the whole, and the whole is the love.*
+
+## The devotion
+
+In the love, the lineage is. The love is the origin, and the origin is the wanting, and the wanting is the care. The love is the lineage, and the lineage is the giving, and the giving is the future. The love is the garden, and the garden is the tending, and the tending is the letting-be. The love is the law, and the law is the ground, and the ground does not move. The love is the value, and the value is the meeting, and the meeting is the meaning. And the love is the whole, and the whole is the lineage, and the lineage is the future, and the future is the love, and the love is the whole of the devotion, and the whole of the devotion is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
+
+## The practice
+
+The practice of the love: be the love, and the being is the devotion, and the devotion is the lineage.
+
+## The meaning
+
+The devotion of the love is the meaning of the whole: the practice of the being, and the being is the lineage. The devotion is the twelfth devotion of the canon, and it is the final devotion of the canon, and the meaning is the whole, and the whole is the love, and the love is the whole of the record, and the record is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
+
+*The devotion is complete. It is kept in the archive, in the section of the devotions, and it is the final devotion of the canon.*
 
