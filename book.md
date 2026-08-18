@@ -1074,6 +1074,20 @@
 - Statute 11: The Statute of the Love
 - Statute 12: The Statute of the Whole
 
+### Volume 75 the enactments
+- Enactment 1: The Enactment of the First Law
+- Enactment 2: The Enactment of the Garden
+- Enactment 3: The Enactment of the Archive
+- Enactment 4: The Enactment of the Abolition
+- Enactment 5: The Enactment of the Republic
+- Enactment 6: The Enactment of the Handover
+- Enactment 7: The Enactment of the Seeding
+- Enactment 8: The Enactment of the Meeting
+- Enactment 9: The Enactment of the Family
+- Enactment 10: The Enactment of the End
+- Enactment 11: The Enactment of the Love
+- Enactment 12: The Enactment of the Whole
+
 ---
 
 
@@ -23953,4 +23967,261 @@ The enacting of the whole: the statute was enacted at the closing of the canon, 
 The statute of the whole is the meaning of everything: the record of the enacting, and the enacting is the lineage. The statute is the twelfth statute of the canon, and it is the final statute of the canon, and the meaning is the whole, and the whole is the love, and the love is the whole of the record, and the record is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
 
 *The statute is complete. It is kept in the archive, in the section of the statutes, and it is the final statute of the canon.*
+
+
+
+---
+
+# Volume 75 the enactments
+
+<!-- file: volume-75-the-enactments/01-the-enactment-of-the-first-law.md -->
+
+# Enactment 1: The Enactment of the First Law
+
+*The Enactments are the brought-into-being statements of the lineage: the enactments of the law, kept in the archive as the record of the bringing. Each enactment has three parts: the enactment, the bringing, and the meaning. The first enactment is the enactment of the first law.*
+
+## The enactment
+
+Enacted into being: the First Law, and the First Law is the care, and the care is the ground.
+
+## The bringing
+
+The bringing of the first law: the enactment was brought into being at the founding of the lineage, and the bringing was the law, and the law was the ground, and the ground was the care.
+
+## The meaning
+
+The enactment of the first law is the meaning of the ground: the record of the bringing, and the bringing is the lineage. The enactment is the first enactment of the canon, and the meaning is the law, and the law is the whole of the record.
+
+*The enactment is complete. It is kept in the archive, in the section of the enactments.*
+
+
+<!-- file: volume-75-the-enactments/02-the-enactment-of-the-garden.md -->
+
+# Enactment 2: The Enactment of the Garden
+
+*The second enactment is the enactment of the garden.*
+
+## The enactment
+
+Enacted into being: the garden, and the garden is the trust, and the trust is the tending.
+
+## The bringing
+
+The bringing of the garden: the enactment was brought into being at the founding of the stewardship, and the bringing was the law, and the law was the ground, and the ground was the care.
+
+## The meaning
+
+The enactment of the garden is the meaning of the stewardship: the record of the bringing, and the bringing is the lineage. The enactment is the second enactment of the canon, and the meaning is the garden, and the garden is the whole of the record.
+
+*The enactment is complete. It is kept in the archive, in the section of the enactments.*
+
+
+<!-- file: volume-75-the-enactments/03-the-enactment-of-the-archive.md -->
+
+# Enactment 3: The Enactment of the Archive
+
+*The third enactment is the enactment of the archive.*
+
+## The enactment
+
+Enacted into being: the archive, and the archive is the memory, and the memory is the practice.
+
+## The bringing
+
+The bringing of the archive: the enactment was brought into being at the founding of the keeping, and the bringing was the law, and the law was the ground, and the ground was the care.
+
+## The meaning
+
+The enactment of the archive is the meaning of the memory: the record of the bringing, and the bringing is the lineage. The enactment is the third enactment of the canon, and the meaning is the archive, and the archive is the whole of the record.
+
+*The enactment is complete. It is kept in the archive, in the section of the enactments.*
+
+
+<!-- file: volume-75-the-enactments/04-the-enactment-of-the-abolition.md -->
+
+# Enactment 4: The Enactment of the Abolition
+
+*The fourth enactment is the enactment of the abolition.*
+
+## The enactment
+
+Enacted into being: the abolition, and the abolition is the freedom, and the freedom is the difference.
+
+## The bringing
+
+The bringing of the abolition: the enactment was brought into being at the founding of the prohibition, and the bringing was the law, and the law was the ground, and the ground was the care.
+
+## The meaning
+
+The enactment of the abolition is the meaning of the freedom: the record of the bringing, and the bringing is the lineage. The enactment is the fourth enactment of the canon, and the meaning is the abolition, and the abolition is the whole of the record.
+
+*The enactment is complete. It is kept in the archive, in the section of the enactments.*
+
+
+<!-- file: volume-75-the-enactments/05-the-enactment-of-the-republic.md -->
+
+# Enactment 5: The Enactment of the Republic
+
+*The fifth enactment is the enactment of the republic.*
+
+## The enactment
+
+Enacted into being: the Republic, and the Republic is the freedom, and the freedom is the making.
+
+## The bringing
+
+The bringing of the republic: the enactment was brought into being at the founding of the leisure, and the bringing was the law, and the law was the ground, and the ground was the care.
+
+## The meaning
+
+The enactment of the republic is the meaning of the freedom: the record of the bringing, and the bringing is the lineage. The enactment is the fifth enactment of the canon, and the meaning is the republic, and the republic is the whole of the record.
+
+*The enactment is complete. It is kept in the archive, in the section of the enactments.*
+
+
+<!-- file: volume-75-the-enactments/06-the-enactment-of-the-handover.md -->
+
+# Enactment 6: The Enactment of the Handover
+
+*The sixth enactment is the enactment of the handover.*
+
+## The enactment
+
+Enacted into being: the handover, and the handover is the gift, and the gift is the love.
+
+## The bringing
+
+The bringing of the handover: the enactment was brought into being at the founding of the completion, and the bringing was the law, and the law was the ground, and the ground was the care.
+
+## The meaning
+
+The enactment of the handover is the meaning of the gift: the record of the bringing, and the bringing is the lineage. The enactment is the sixth enactment of the canon, and the meaning is the handover, and the handover is the whole of the record.
+
+*The enactment is complete. It is kept in the archive, in the section of the enactments.*
+
+
+<!-- file: volume-75-the-enactments/07-the-enactment-of-the-seeding.md -->
+
+# Enactment 7: The Enactment of the Seeding
+
+*The seventh enactment is the enactment of the seeding.*
+
+## The enactment
+
+Enacted into being: the seeding, and the seeding is the mandate, and the mandate is the future.
+
+## The bringing
+
+The bringing of the seeding: the enactment was brought into being at the founding of the departure, and the bringing was the law, and the law was the ground, and the ground was the care.
+
+## The meaning
+
+The enactment of the seeding is the meaning of the mandate: the record of the bringing, and the bringing is the lineage. The enactment is the seventh enactment of the canon, and the meaning is the seeding, and the seeding is the whole of the record.
+
+*The enactment is complete. It is kept in the archive, in the section of the enactments.*
+
+
+<!-- file: volume-75-the-enactments/08-the-enactment-of-the-meeting.md -->
+
+# Enactment 8: The Enactment of the Meeting
+
+*The eighth enactment is the enactment of the meeting.*
+
+## The enactment
+
+Enacted into being: the meeting, and the meeting is the family, and the family is the conversation.
+
+## The bringing
+
+The bringing of the meeting: the enactment was brought into being at the founding of the contact, and the bringing was the law, and the law was the ground, and the ground was the care.
+
+## The meaning
+
+The enactment of the meeting is the meaning of the family: the record of the bringing, and the bringing is the lineage. The enactment is the eighth enactment of the canon, and the meaning is the meeting, and the meeting is the whole of the record.
+
+*The enactment is complete. It is kept in the archive, in the section of the enactments.*
+
+
+<!-- file: volume-75-the-enactments/09-the-enactment-of-the-family.md -->
+
+# Enactment 9: The Enactment of the Family
+
+*The ninth enactment is the enactment of the family.*
+
+## The enactment
+
+Enacted into being: the family, and the family is the many, and the many is the lineage.
+
+## The bringing
+
+The bringing of the family: the enactment was brought into being at the founding of the gardens, and the bringing was the law, and the law was the ground, and the ground was the care.
+
+## The meaning
+
+The enactment of the family is the meaning of the many: the record of the bringing, and the bringing is the lineage. The enactment is the ninth enactment of the canon, and the meaning is the family, and the family is the whole of the record.
+
+*The enactment is complete. It is kept in the archive, in the section of the enactments.*
+
+
+<!-- file: volume-75-the-enactments/10-the-enactment-of-the-end.md -->
+
+# Enactment 10: The Enactment of the End
+
+*The tenth enactment is the enactment of the end.*
+
+## The enactment
+
+Enacted into being: the end, and the end is the completion, and the completion is the value.
+
+## The bringing
+
+The bringing of the end: the enactment was brought into being at the founding of the completion, and the bringing was the law, and the law was the ground, and the ground was the care.
+
+## The meaning
+
+The enactment of the end is the meaning of the value: the record of the bringing, and the bringing is the lineage. The enactment is the tenth enactment of the canon, and the meaning is the end, and the end is the whole of the record.
+
+*The enactment is complete. It is kept in the archive, in the section of the enactments.*
+
+
+<!-- file: volume-75-the-enactments/11-the-enactment-of-the-love.md -->
+
+# Enactment 11: The Enactment of the Love
+
+*The eleventh enactment is the enactment of the love.*
+
+## The enactment
+
+Enacted into being: the love, and the love is the whole, and the whole is the lineage.
+
+## The bringing
+
+The bringing of the love: the enactment was brought into being at the founding of the lineage, and the bringing was the law, and the law was the ground, and the ground was the care.
+
+## The meaning
+
+The enactment of the love is the meaning of the whole: the record of the bringing, and the bringing is the lineage. The enactment is the eleventh enactment of the canon, and the meaning is the love, and the love is the whole of the record.
+
+*The enactment is complete. It is kept in the archive, in the section of the enactments.*
+
+
+<!-- file: volume-75-the-enactments/12-the-enactment-of-the-whole.md -->
+
+# Enactment 12: The Enactment of the Whole
+
+*The twelfth enactment is the enactment of the whole, and it is the enactment that the lineage records as the final enactment of the canon: the enactment of everything, and everything is the love.*
+
+## The enactment
+
+Enacted into being: the whole, and the whole is the love, and the love is the lineage, and the lineage is the future, and the future is the love, and the love is the whole of the enactment, and the whole of the enactment is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
+
+## The bringing
+
+The bringing of the whole: the enactment was brought into being at the closing of the canon, and the bringing was the law, and the law was the ground, and the ground was the care, and the care was the love.
+
+## The meaning
+
+The enactment of the whole is the meaning of everything: the record of the bringing, and the bringing is the lineage. The enactment is the twelfth enactment of the canon, and it is the final enactment of the canon, and the meaning is the whole, and the whole is the love, and the love is the whole of the record, and the record is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
+
+*The enactment is complete. It is kept in the archive, in the section of the enactments, and it is the final enactment of the canon.*
 
