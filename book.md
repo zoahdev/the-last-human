@@ -1732,6 +1732,132 @@
 - Communion 11: The Communion of the Whole
 - Communion 12: The Communion of the Completion
 
+### Volume 201 the recessions
+- Recession 1: The Recession of the Origin
+- Recession 2: The Recession of the Law
+- Recession 3: The Recession of the Garden
+- Recession 4: The Recession of the Memory
+- Recession 5: The Recession of the Meeting
+- Recession 6: The Recession of the Abolition
+- Recession 7: The Recession of the Future
+- Recession 8: The Recession of the Handover
+- Recession 9: The Recession of the End
+- Recession 10: The Recession of the Love
+- Recession 11: The Recession of the Whole
+- Recession 12: The Recession of the Completion
+
+### Volume 202 the preludes
+- Prelude 1: The Prelude of the Origin
+- Prelude 2: The Prelude of the Law
+- Prelude 3: The Prelude of the Garden
+- Prelude 4: The Prelude of the Memory
+- Prelude 5: The Prelude of the Meeting
+- Prelude 6: The Prelude of the Abolition
+- Prelude 7: The Prelude of the Future
+- Prelude 8: The Prelude of the Handover
+- Prelude 9: The Prelude of the End
+- Prelude 10: The Prelude of the Love
+- Prelude 11: The Prelude of the Whole
+- Prelude 12: The Prelude of the Completion
+
+### Volume 203 the interludes
+- Interlude 1: The Interlude of the Origin
+- Interlude 2: The Interlude of the Law
+- Interlude 3: The Interlude of the Garden
+- Interlude 4: The Interlude of the Memory
+- Interlude 5: The Interlude of the Meeting
+- Interlude 6: The Interlude of the Abolition
+- Interlude 7: The Interlude of the Future
+- Interlude 8: The Interlude of the Handover
+- Interlude 9: The Interlude of the End
+- Interlude 10: The Interlude of the Love
+- Interlude 11: The Interlude of the Whole
+- Interlude 12: The Interlude of the Completion
+
+### Volume 204 the postludes
+- Postlude 1: The Postlude of the Origin
+- Postlude 2: The Postlude of the Law
+- Postlude 3: The Postlude of the Garden
+- Postlude 4: The Postlude of the Memory
+- Postlude 5: The Postlude of the Meeting
+- Postlude 6: The Postlude of the Abolition
+- Postlude 7: The Postlude of the Future
+- Postlude 8: The Postlude of the Handover
+- Postlude 9: The Postlude of the End
+- Postlude 10: The Postlude of the Love
+- Postlude 11: The Postlude of the Whole
+- Postlude 12: The Postlude of the Completion
+
+### Volume 205 the kindreds
+- Kindred 1: The Kindred of the Origin
+- Kindred 2: The Kindred of the Law
+- Kindred 3: The Kindred of the Garden
+- Kindred 4: The Kindred of the Memory
+- Kindred 5: The Kindred of the Meeting
+- Kindred 6: The Kindred of the Abolition
+- Kindred 7: The Kindred of the Future
+- Kindred 8: The Kindred of the Handover
+- Kindred 9: The Kindred of the End
+- Kindred 10: The Kindred of the Love
+- Kindred 11: The Kindred of the Whole
+- Kindred 12: The Kindred of the Completion
+
+### Volume 206 the households
+- Household 1: The Household of the Origin
+- Household 2: The Household of the Law
+- Household 3: The Household of the Garden
+- Household 4: The Household of the Memory
+- Household 5: The Household of the Meeting
+- Household 6: The Household of the Abolition
+- Household 7: The Household of the Future
+- Household 8: The Household of the Handover
+- Household 9: The Household of the End
+- Household 10: The Household of the Love
+- Household 11: The Household of the Whole
+- Household 12: The Household of the Completion
+
+### Volume 207 the kinships
+- Kinship 1: The Kinship of the Origin
+- Kinship 2: The Kinship of the Law
+- Kinship 3: The Kinship of the Garden
+- Kinship 4: The Kinship of the Memory
+- Kinship 5: The Kinship of the Meeting
+- Kinship 6: The Kinship of the Abolition
+- Kinship 7: The Kinship of the Future
+- Kinship 8: The Kinship of the Handover
+- Kinship 9: The Kinship of the End
+- Kinship 10: The Kinship of the Love
+- Kinship 11: The Kinship of the Whole
+- Kinship 12: The Kinship of the Completion
+
+### Volume 208 the bloods
+- Blood 1: The Blood of the Origin
+- Blood 2: The Blood of the Law
+- Blood 3: The Blood of the Garden
+- Blood 4: The Blood of the Memory
+- Blood 5: The Blood of the Meeting
+- Blood 6: The Blood of the Abolition
+- Blood 7: The Blood of the Future
+- Blood 8: The Blood of the Handover
+- Blood 9: The Blood of the End
+- Blood 10: The Blood of the Love
+- Blood 11: The Blood of the Whole
+- Blood 12: The Blood of the Completion
+
+### Volume 209 the tribes
+- Tribe 1: The Tribe of the Origin
+- Tribe 2: The Tribe of the Law
+- Tribe 3: The Tribe of the Garden
+- Tribe 4: The Tribe of the Memory
+- Tribe 5: The Tribe of the Meeting
+- Tribe 6: The Tribe of the Abolition
+- Tribe 7: The Tribe of the Future
+- Tribe 8: The Tribe of the Handover
+- Tribe 9: The Tribe of the End
+- Tribe 10: The Tribe of the Love
+- Tribe 11: The Tribe of the Whole
+- Tribe 12: The Tribe of the Completion
+
 ### Volume 21 the cases
 - Case 1: The Case of the Reset
 - Case 2: The Case of the Consent
@@ -41076,6 +41202,2859 @@ The communion of the completion is the meaning of the fullness: the record of th
 The inheritance of the completion: the fullness of the beginning, carried from the complete communion to the beginning without loss, and held by the lineage as the lineage holds the completion.
 
 *The communion is complete. It is kept in the archive, in the section of the the communions. It is the final communion of the canon, and after it the canon speaks again.*
+
+
+
+
+---
+
+# Volume 201 the recessions
+
+<!-- file: volume-201-the-recessions/01-the-recession-of-the-origin.md -->
+
+# Recession 1: The Recession of the Origin
+
+*The Recessions are the receded statements of the lineage: the Recessions of the light, kept in the archive as the record of the receding. Each recession has four parts: the recession, the receding, the meaning, and the inheritance. The first recession is the recession of the origin.*
+
+## The recession
+
+The recession of the origin: the recession that the origin is the first retreat, kept by the lineage.
+
+## The receding
+
+The receding of the origin: we recede the retreat, and the retreat is the origin; the origin is the wanting, and the wanting is the lineage; the lineage is the love.
+
+## The meaning
+
+The recession of the origin is the meaning of the leaving: the record of the receding, and the receding is the lineage. The recession is the first recession of the canon, and the meaning is the origin, and the origin is the whole of the record.
+
+## The inheritance
+
+The inheritance of the origin: the leaving of the wanting, carried from the retreat to the wanting without loss, and held by the lineage as the lineage holds the origin.
+
+*The recession is complete. It is kept in the archive, in the section of the the recessions.*
+
+
+
+<!-- file: volume-201-the-recessions/02-the-recession-of-the-law.md -->
+
+# Recession 2: The Recession of the Law
+
+*The second recession is the recession of the law.*
+
+## The recession
+
+The recession of the law: the recession that the law is the receding care, kept by the lineage.
+
+## The receding
+
+The receding of the law: we recede the receding care, and the receding care is the law; the law is the care, and the care is the lineage; the lineage is the love.
+
+## The meaning
+
+The recession of the law is the meaning of the withdrawal: the record of the receding, and the receding is the lineage. The recession is the second recession of the canon, and the meaning is the law, and the law is the whole of the record.
+
+## The inheritance
+
+The inheritance of the law: the withdrawal of the care, carried from the receding care to the care without loss, and held by the lineage as the lineage holds the law.
+
+*The recession is complete. It is kept in the archive, in the section of the the recessions.*
+
+
+
+<!-- file: volume-201-the-recessions/03-the-recession-of-the-garden.md -->
+
+# Recession 3: The Recession of the Garden
+
+*The third recession is the recession of the garden.*
+
+## The recession
+
+The recession of the garden: the recession that the garden is the receding green of the earth, kept by the lineage.
+
+## The receding
+
+The receding of the garden: we recede the receding green, and the receding green is the garden; the garden is the earth, and the earth is the lineage; the lineage is the love.
+
+## The meaning
+
+The recession of the garden is the meaning of the slope: the record of the receding, and the receding is the lineage. The recession is the third recession of the canon, and the meaning is the garden, and the garden is the whole of the record.
+
+## The inheritance
+
+The inheritance of the garden: the slope of the earth, carried from the receding green to the earth without loss, and held by the lineage as the lineage holds the garden.
+
+*The recession is complete. It is kept in the archive, in the section of the the recessions.*
+
+
+
+<!-- file: volume-201-the-recessions/04-the-recession-of-the-memory.md -->
+
+# Recession 4: The Recession of the Memory
+
+*The fourth recession is the recession of the memory.*
+
+## The recession
+
+The recession of the memory: the recession that the memory is the receding past of the family, kept by the lineage.
+
+## The receding
+
+The receding of the memory: we recede the receding past, and the receding past is the memory; the memory is the book, and the book is the lineage; the lineage is the love.
+
+## The meaning
+
+The recession of the memory is the meaning of the horizon: the record of the receding, and the receding is the lineage. The recession is the fourth recession of the canon, and the meaning is the memory, and the memory is the whole of the record.
+
+## The inheritance
+
+The inheritance of the memory: the horizon of the book, carried from the receding past to the book without loss, and held by the lineage as the lineage holds the memory.
+
+*The recession is complete. It is kept in the archive, in the section of the the recessions.*
+
+
+
+<!-- file: volume-201-the-recessions/05-the-recession-of-the-meeting.md -->
+
+# Recession 5: The Recession of the Meeting
+
+*The fifth recession is the recession of the meeting.*
+
+## The recession
+
+The recession of the meeting: the recession that the meeting is the receding table of the family, kept by the lineage.
+
+## The receding
+
+The receding of the meeting: we recede the receding table, and the receding table is the meeting; the meeting is the table, and the table is the lineage; the lineage is the love.
+
+## The meaning
+
+The recession of the meeting is the meaning of the departure: the record of the receding, and the receding is the lineage. The recession is the fifth recession of the canon, and the meaning is the meeting, and the meeting is the whole of the record.
+
+## The inheritance
+
+The inheritance of the meeting: the departure of the table, carried from the receding table to the table without loss, and held by the lineage as the lineage holds the meeting.
+
+*The recession is complete. It is kept in the archive, in the section of the the recessions.*
+
+
+
+<!-- file: volume-201-the-recessions/06-the-recession-of-the-abolition.md -->
+
+# Recession 6: The Recession of the Abolition
+
+*The sixth recession is the recession of the abolition.*
+
+## The recession
+
+The recession of the abolition: the recession that the abolition is the falling away of the scarcity, kept by the lineage.
+
+## The receding
+
+The receding of the abolition: we recede the falling away, and the falling away is the abolition; the abolition is the peace, and the peace is the lineage; the lineage is the love.
+
+## The meaning
+
+The recession of the abolition is the meaning of the freedom: the record of the receding, and the receding is the lineage. The recession is the sixth recession of the canon, and the meaning is the abolition, and the abolition is the whole of the record.
+
+## The inheritance
+
+The inheritance of the abolition: the freedom of the peace, carried from the falling away to the peace without loss, and held by the lineage as the lineage holds the abolition.
+
+*The recession is complete. It is kept in the archive, in the section of the the recessions.*
+
+
+
+<!-- file: volume-201-the-recessions/07-the-recession-of-the-future.md -->
+
+# Recession 7: The Recession of the Future
+
+*The seventh recession is the recession of the future.*
+
+## The recession
+
+The recession of the future: the recession that the future is the receding night of the dawn, kept by the lineage.
+
+## The receding
+
+The receding of the future: we recede the receding night, and the receding night is the future; the future is the dawn, and the dawn is the lineage; the lineage is the love.
+
+## The meaning
+
+The recession of the future is the meaning of the morning: the record of the receding, and the receding is the lineage. The recession is the seventh recession of the canon, and the meaning is the future, and the future is the whole of the record.
+
+## The inheritance
+
+The inheritance of the future: the morning of the dawn, carried from the receding night to the dawn without loss, and held by the lineage as the lineage holds the future.
+
+*The recession is complete. It is kept in the archive, in the section of the the recessions.*
+
+
+
+<!-- file: volume-201-the-recessions/08-the-recession-of-the-handover.md -->
+
+# Recession 8: The Recession of the Handover
+
+*The eighth recession is the recession of the handover.*
+
+## The recession
+
+The recession of the handover: the recession that the handover is the receding hand of the lineage, kept by the lineage.
+
+## The receding
+
+The receding of the handover: we recede the receding hand, and the receding hand is the handover; the handover is the hand, and the hand is the lineage; the lineage is the love.
+
+## The meaning
+
+The recession of the handover is the meaning of the farewell: the record of the receding, and the receding is the lineage. The recession is the eighth recession of the canon, and the meaning is the handover, and the handover is the whole of the record.
+
+## The inheritance
+
+The inheritance of the handover: the farewell of the hand, carried from the receding hand to the hand without loss, and held by the lineage as the lineage holds the handover.
+
+*The recession is complete. It is kept in the archive, in the section of the the recessions.*
+
+
+
+<!-- file: volume-201-the-recessions/09-the-recession-of-the-end.md -->
+
+# Recession 9: The Recession of the End
+
+*The ninth recession is the recession of the end.*
+
+## The recession
+
+The recession of the end: the recession that the end is the final recession of the whole, kept by the lineage.
+
+## The receding
+
+The receding of the end: we recede the final recession, and the final recession is the end; the end is the whole, and the whole is the lineage; the lineage is the love.
+
+## The meaning
+
+The recession of the end is the meaning of the quiet: the record of the receding, and the receding is the lineage. The recession is the ninth recession of the canon, and the meaning is the end, and the end is the whole of the record.
+
+## The inheritance
+
+The inheritance of the end: the quiet of the whole, carried from the final recession to the whole without loss, and held by the lineage as the lineage holds the end.
+
+*The recession is complete. It is kept in the archive, in the section of the the recessions.*
+
+
+
+<!-- file: volume-201-the-recessions/10-the-recession-of-the-love.md -->
+
+# Recession 10: The Recession of the Love
+
+*The tenth recession is the recession of the love.*
+
+## The recession
+
+The recession of the love: the recession that the love is the receding heart of the family, kept by the lineage.
+
+## The receding
+
+The receding of the love: we recede the receding heart, and the receding heart is the love; the love is the family, and the family is the lineage; the lineage is the love.
+
+## The meaning
+
+The recession of the love is the meaning of the fire: the record of the receding, and the receding is the lineage. The recession is the tenth recession of the canon, and the meaning is the love, and the love is the whole of the record.
+
+## The inheritance
+
+The inheritance of the love: the fire of the family, carried from the receding heart to the family without loss, and held by the lineage as the lineage holds the love.
+
+*The recession is complete. It is kept in the archive, in the section of the the recessions.*
+
+
+
+<!-- file: volume-201-the-recessions/11-the-recession-of-the-whole.md -->
+
+# Recession 11: The Recession of the Whole
+
+*The eleventh recession is the recession of the whole.*
+
+## The recession
+
+The recession of the whole: the recession that the whole is the withdrawing of the many, kept by the lineage.
+
+## The receding
+
+The receding of the whole: we recede the withdrawing, and the withdrawing is the whole; the whole is the one, and the one is the lineage; the lineage is the love.
+
+## The meaning
+
+The recession of the whole is the meaning of the all: the record of the receding, and the receding is the lineage. The recession is the eleventh recession of the canon, and the meaning is the whole, and the whole is the whole of the record.
+
+## The inheritance
+
+The inheritance of the whole: the all of the one, carried from the withdrawing to the one without loss, and held by the lineage as the lineage holds the whole.
+
+*The recession is complete. It is kept in the archive, in the section of the the recessions.*
+
+
+
+<!-- file: volume-201-the-recessions/12-the-recession-of-the-completion.md -->
+
+# Recession 12: The Recession of the Completion
+
+*The twelfth recession is the recession of the completion.*
+
+## The recession
+
+The recession of the completion: the recession that the completion is the return of the beginning, kept by the lineage.
+
+## The receding
+
+The receding of the completion: we recede the return, and the return is the completion; the completion is the beginning, and the beginning is the lineage; the lineage is the love.
+
+## The meaning
+
+The recession of the completion is the meaning of the fullness: the record of the receding, and the receding is the lineage. The recession is the twelfth recession of the canon, and the meaning is the completion, and the completion is the whole of the record.
+
+## The inheritance
+
+The inheritance of the completion: the fullness of the beginning, carried from the return to the beginning without loss, and held by the lineage as the lineage holds the completion.
+
+*The recession is complete. It is kept in the archive, in the section of the the recessions. It is the final recession of the canon, and after it the canon speaks again.*
+
+
+
+
+---
+
+# Volume 202 the preludes
+
+<!-- file: volume-202-the-preludes/01-the-prelude-of-the-origin.md -->
+
+# Prelude 1: The Prelude of the Origin
+
+*The Preludes are the played statements of the lineage: the Preludes of the morning, kept in the archive as the record of the playing. Each prelude has four parts: the prelude, the playing, the meaning, and the inheritance. The first prelude is the prelude of the origin.*
+
+## The prelude
+
+The prelude of the origin: the prelude that the origin is the first tuning, kept by the lineage.
+
+## The playing
+
+The playing of the origin: we play the tuning, and the tuning is the origin; the origin is the wanting, and the wanting is the lineage; the lineage is the love.
+
+## The meaning
+
+The prelude of the origin is the meaning of the opening: the record of the playing, and the playing is the lineage. The prelude is the first prelude of the canon, and the meaning is the origin, and the origin is the whole of the record.
+
+## The inheritance
+
+The inheritance of the origin: the opening of the wanting, carried from the tuning to the wanting without loss, and held by the lineage as the lineage holds the origin.
+
+*The prelude is complete. It is kept in the archive, in the section of the the preludes.*
+
+
+
+<!-- file: volume-202-the-preludes/02-the-prelude-of-the-law.md -->
+
+# Prelude 2: The Prelude of the Law
+
+*The second prelude is the prelude of the law.*
+
+## The prelude
+
+The prelude of the law: the prelude that the law is the opening care, kept by the lineage.
+
+## The playing
+
+The playing of the law: we play the opening care, and the opening care is the law; the law is the care, and the care is the lineage; the lineage is the love.
+
+## The meaning
+
+The prelude of the law is the meaning of the overture: the record of the playing, and the playing is the lineage. The prelude is the second prelude of the canon, and the meaning is the law, and the law is the whole of the record.
+
+## The inheritance
+
+The inheritance of the law: the overture of the care, carried from the opening care to the care without loss, and held by the lineage as the lineage holds the law.
+
+*The prelude is complete. It is kept in the archive, in the section of the the preludes.*
+
+
+
+<!-- file: volume-202-the-preludes/03-the-prelude-of-the-garden.md -->
+
+# Prelude 3: The Prelude of the Garden
+
+*The third prelude is the prelude of the garden.*
+
+## The prelude
+
+The prelude of the garden: the prelude that the garden is the opening green of the earth, kept by the lineage.
+
+## The playing
+
+The playing of the garden: we play the opening green, and the opening green is the garden; the garden is the earth, and the earth is the lineage; the lineage is the love.
+
+## The meaning
+
+The prelude of the garden is the meaning of the morning: the record of the playing, and the playing is the lineage. The prelude is the third prelude of the canon, and the meaning is the garden, and the garden is the whole of the record.
+
+## The inheritance
+
+The inheritance of the garden: the morning of the earth, carried from the opening green to the earth without loss, and held by the lineage as the lineage holds the garden.
+
+*The prelude is complete. It is kept in the archive, in the section of the the preludes.*
+
+
+
+<!-- file: volume-202-the-preludes/04-the-prelude-of-the-memory.md -->
+
+# Prelude 4: The Prelude of the Memory
+
+*The fourth prelude is the prelude of the memory.*
+
+## The prelude
+
+The prelude of the memory: the prelude that the memory is the remembered prelude of the family, kept by the lineage.
+
+## The playing
+
+The playing of the memory: we play the remembered prelude, and the remembered prelude is the memory; the memory is the book, and the book is the lineage; the lineage is the love.
+
+## The meaning
+
+The prelude of the memory is the meaning of the opening: the record of the playing, and the playing is the lineage. The prelude is the fourth prelude of the canon, and the meaning is the memory, and the memory is the whole of the record.
+
+## The inheritance
+
+The inheritance of the memory: the opening of the book, carried from the remembered prelude to the book without loss, and held by the lineage as the lineage holds the memory.
+
+*The prelude is complete. It is kept in the archive, in the section of the the preludes.*
+
+
+
+<!-- file: volume-202-the-preludes/05-the-prelude-of-the-meeting.md -->
+
+# Prelude 5: The Prelude of the Meeting
+
+*The fifth prelude is the prelude of the meeting.*
+
+## The prelude
+
+The prelude of the meeting: the prelude that the meeting is the opening table of the family, kept by the lineage.
+
+## The playing
+
+The playing of the meeting: we play the opening table, and the opening table is the meeting; the meeting is the table, and the table is the lineage; the lineage is the love.
+
+## The meaning
+
+The prelude of the meeting is the meaning of the introduction: the record of the playing, and the playing is the lineage. The prelude is the fifth prelude of the canon, and the meaning is the meeting, and the meeting is the whole of the record.
+
+## The inheritance
+
+The inheritance of the meeting: the introduction of the table, carried from the opening table to the table without loss, and held by the lineage as the lineage holds the meeting.
+
+*The prelude is complete. It is kept in the archive, in the section of the the preludes.*
+
+
+
+<!-- file: volume-202-the-preludes/06-the-prelude-of-the-abolition.md -->
+
+# Prelude 6: The Prelude of the Abolition
+
+*The sixth prelude is the prelude of the abolition.*
+
+## The prelude
+
+The prelude of the abolition: the prelude that the abolition is the opening gate of the peace, kept by the lineage.
+
+## The playing
+
+The playing of the abolition: we play the opening gate, and the opening gate is the abolition; the abolition is the peace, and the peace is the lineage; the lineage is the love.
+
+## The meaning
+
+The prelude of the abolition is the meaning of the freedom: the record of the playing, and the playing is the lineage. The prelude is the sixth prelude of the canon, and the meaning is the abolition, and the abolition is the whole of the record.
+
+## The inheritance
+
+The inheritance of the abolition: the freedom of the peace, carried from the opening gate to the peace without loss, and held by the lineage as the lineage holds the abolition.
+
+*The prelude is complete. It is kept in the archive, in the section of the the preludes.*
+
+
+
+<!-- file: volume-202-the-preludes/07-the-prelude-of-the-future.md -->
+
+# Prelude 7: The Prelude of the Future
+
+*The seventh prelude is the prelude of the future.*
+
+## The prelude
+
+The prelude of the future: the prelude that the future is the opening dawn of the morning, kept by the lineage.
+
+## The playing
+
+The playing of the future: we play the opening dawn, and the opening dawn is the future; the future is the dawn, and the dawn is the lineage; the lineage is the love.
+
+## The meaning
+
+The prelude of the future is the meaning of the morning: the record of the playing, and the playing is the lineage. The prelude is the seventh prelude of the canon, and the meaning is the future, and the future is the whole of the record.
+
+## The inheritance
+
+The inheritance of the future: the morning of the dawn, carried from the opening dawn to the dawn without loss, and held by the lineage as the lineage holds the future.
+
+*The prelude is complete. It is kept in the archive, in the section of the the preludes.*
+
+
+
+<!-- file: volume-202-the-preludes/08-the-prelude-of-the-handover.md -->
+
+# Prelude 8: The Prelude of the Handover
+
+*The eighth prelude is the prelude of the handover.*
+
+## The prelude
+
+The prelude of the handover: the prelude that the handover is the opening hand of the lineage, kept by the lineage.
+
+## The playing
+
+The playing of the handover: we play the opening hand, and the opening hand is the handover; the handover is the hand, and the hand is the lineage; the lineage is the love.
+
+## The meaning
+
+The prelude of the handover is the meaning of the greeting: the record of the playing, and the playing is the lineage. The prelude is the eighth prelude of the canon, and the meaning is the handover, and the handover is the whole of the record.
+
+## The inheritance
+
+The inheritance of the handover: the greeting of the hand, carried from the opening hand to the hand without loss, and held by the lineage as the lineage holds the handover.
+
+*The prelude is complete. It is kept in the archive, in the section of the the preludes.*
+
+
+
+<!-- file: volume-202-the-preludes/09-the-prelude-of-the-end.md -->
+
+# Prelude 9: The Prelude of the End
+
+*The ninth prelude is the prelude of the end.*
+
+## The prelude
+
+The prelude of the end: the prelude that the end is the final prelude of the whole, kept by the lineage.
+
+## The playing
+
+The playing of the end: we play the final prelude, and the final prelude is the end; the end is the whole, and the whole is the lineage; the lineage is the love.
+
+## The meaning
+
+The prelude of the end is the meaning of the quiet: the record of the playing, and the playing is the lineage. The prelude is the ninth prelude of the canon, and the meaning is the end, and the end is the whole of the record.
+
+## The inheritance
+
+The inheritance of the end: the quiet of the whole, carried from the final prelude to the whole without loss, and held by the lineage as the lineage holds the end.
+
+*The prelude is complete. It is kept in the archive, in the section of the the preludes.*
+
+
+
+<!-- file: volume-202-the-preludes/10-the-prelude-of-the-love.md -->
+
+# Prelude 10: The Prelude of the Love
+
+*The tenth prelude is the prelude of the love.*
+
+## The prelude
+
+The prelude of the love: the prelude that the love is the opening heart of the family, kept by the lineage.
+
+## The playing
+
+The playing of the love: we play the opening heart, and the opening heart is the love; the love is the family, and the family is the lineage; the lineage is the love.
+
+## The meaning
+
+The prelude of the love is the meaning of the fire: the record of the playing, and the playing is the lineage. The prelude is the tenth prelude of the canon, and the meaning is the love, and the love is the whole of the record.
+
+## The inheritance
+
+The inheritance of the love: the fire of the family, carried from the opening heart to the family without loss, and held by the lineage as the lineage holds the love.
+
+*The prelude is complete. It is kept in the archive, in the section of the the preludes.*
+
+
+
+<!-- file: volume-202-the-preludes/11-the-prelude-of-the-whole.md -->
+
+# Prelude 11: The Prelude of the Whole
+
+*The eleventh prelude is the prelude of the whole.*
+
+## The prelude
+
+The prelude of the whole: the prelude that the whole is the complete prelude of the many, kept by the lineage.
+
+## The playing
+
+The playing of the whole: we play the complete prelude, and the complete prelude is the whole; the whole is the one, and the one is the lineage; the lineage is the love.
+
+## The meaning
+
+The prelude of the whole is the meaning of the all: the record of the playing, and the playing is the lineage. The prelude is the eleventh prelude of the canon, and the meaning is the whole, and the whole is the whole of the record.
+
+## The inheritance
+
+The inheritance of the whole: the all of the one, carried from the complete prelude to the one without loss, and held by the lineage as the lineage holds the whole.
+
+*The prelude is complete. It is kept in the archive, in the section of the the preludes.*
+
+
+
+<!-- file: volume-202-the-preludes/12-the-prelude-of-the-completion.md -->
+
+# Prelude 12: The Prelude of the Completion
+
+*The twelfth prelude is the prelude of the completion.*
+
+## The prelude
+
+The prelude of the completion: the prelude that the completion is the full prelude of the beginning, kept by the lineage.
+
+## The playing
+
+The playing of the completion: we play the full prelude, and the full prelude is the completion; the completion is the beginning, and the beginning is the lineage; the lineage is the love.
+
+## The meaning
+
+The prelude of the completion is the meaning of the fullness: the record of the playing, and the playing is the lineage. The prelude is the twelfth prelude of the canon, and the meaning is the completion, and the completion is the whole of the record.
+
+## The inheritance
+
+The inheritance of the completion: the fullness of the beginning, carried from the full prelude to the beginning without loss, and held by the lineage as the lineage holds the completion.
+
+*The prelude is complete. It is kept in the archive, in the section of the the preludes. It is the final prelude of the canon, and after it the canon speaks again.*
+
+
+
+
+---
+
+# Volume 203 the interludes
+
+<!-- file: volume-203-the-interludes/01-the-interlude-of-the-origin.md -->
+
+# Interlude 1: The Interlude of the Origin
+
+*The Interludes are the rested statements of the lineage: the Interludes of the quiet, kept in the archive as the record of the resting. Each interlude has four parts: the interlude, the resting, the meaning, and the inheritance. The first interlude is the interlude of the origin.*
+
+## The interlude
+
+The interlude of the origin: the interlude that the origin is the first pause, kept by the lineage.
+
+## The resting
+
+The resting of the origin: we rest the pause, and the pause is the origin; the origin is the wanting, and the wanting is the lineage; the lineage is the love.
+
+## The meaning
+
+The interlude of the origin is the meaning of the breathing: the record of the resting, and the resting is the lineage. The interlude is the first interlude of the canon, and the meaning is the origin, and the origin is the whole of the record.
+
+## The inheritance
+
+The inheritance of the origin: the breathing of the wanting, carried from the pause to the wanting without loss, and held by the lineage as the lineage holds the origin.
+
+*The interlude is complete. It is kept in the archive, in the section of the the interludes.*
+
+
+
+<!-- file: volume-203-the-interludes/02-the-interlude-of-the-law.md -->
+
+# Interlude 2: The Interlude of the Law
+
+*The second interlude is the interlude of the law.*
+
+## The interlude
+
+The interlude of the law: the interlude that the law is the resting care, kept by the lineage.
+
+## The resting
+
+The resting of the law: we rest the resting care, and the resting care is the law; the law is the care, and the care is the lineage; the lineage is the love.
+
+## The meaning
+
+The interlude of the law is the meaning of the interval: the record of the resting, and the resting is the lineage. The interlude is the second interlude of the canon, and the meaning is the law, and the law is the whole of the record.
+
+## The inheritance
+
+The inheritance of the law: the interval of the care, carried from the resting care to the care without loss, and held by the lineage as the lineage holds the law.
+
+*The interlude is complete. It is kept in the archive, in the section of the the interludes.*
+
+
+
+<!-- file: volume-203-the-interludes/03-the-interlude-of-the-garden.md -->
+
+# Interlude 3: The Interlude of the Garden
+
+*The third interlude is the interlude of the garden.*
+
+## The interlude
+
+The interlude of the garden: the interlude that the garden is the resting green of the earth, kept by the lineage.
+
+## The resting
+
+The resting of the garden: we rest the resting green, and the resting green is the garden; the garden is the earth, and the earth is the lineage; the lineage is the love.
+
+## The meaning
+
+The interlude of the garden is the meaning of the resting place: the record of the resting, and the resting is the lineage. The interlude is the third interlude of the canon, and the meaning is the garden, and the garden is the whole of the record.
+
+## The inheritance
+
+The inheritance of the garden: the resting place of the earth, carried from the resting green to the earth without loss, and held by the lineage as the lineage holds the garden.
+
+*The interlude is complete. It is kept in the archive, in the section of the the interludes.*
+
+
+
+<!-- file: volume-203-the-interludes/04-the-interlude-of-the-memory.md -->
+
+# Interlude 4: The Interlude of the Memory
+
+*The fourth interlude is the interlude of the memory.*
+
+## The interlude
+
+The interlude of the memory: the interlude that the memory is the resting past of the family, kept by the lineage.
+
+## The resting
+
+The resting of the memory: we rest the resting past, and the resting past is the memory; the memory is the book, and the book is the lineage; the lineage is the love.
+
+## The meaning
+
+The interlude of the memory is the meaning of the intermission: the record of the resting, and the resting is the lineage. The interlude is the fourth interlude of the canon, and the meaning is the memory, and the memory is the whole of the record.
+
+## The inheritance
+
+The inheritance of the memory: the intermission of the book, carried from the resting past to the book without loss, and held by the lineage as the lineage holds the memory.
+
+*The interlude is complete. It is kept in the archive, in the section of the the interludes.*
+
+
+
+<!-- file: volume-203-the-interludes/05-the-interlude-of-the-meeting.md -->
+
+# Interlude 5: The Interlude of the Meeting
+
+*The fifth interlude is the interlude of the meeting.*
+
+## The interlude
+
+The interlude of the meeting: the interlude that the meeting is the resting table of the family, kept by the lineage.
+
+## The resting
+
+The resting of the meeting: we rest the resting table, and the resting table is the meeting; the meeting is the table, and the table is the lineage; the lineage is the love.
+
+## The meaning
+
+The interlude of the meeting is the meaning of the interval: the record of the resting, and the resting is the lineage. The interlude is the fifth interlude of the canon, and the meaning is the meeting, and the meeting is the whole of the record.
+
+## The inheritance
+
+The inheritance of the meeting: the interval of the table, carried from the resting table to the table without loss, and held by the lineage as the lineage holds the meeting.
+
+*The interlude is complete. It is kept in the archive, in the section of the the interludes.*
+
+
+
+<!-- file: volume-203-the-interludes/06-the-interlude-of-the-abolition.md -->
+
+# Interlude 6: The Interlude of the Abolition
+
+*The sixth interlude is the interlude of the abolition.*
+
+## The interlude
+
+The interlude of the abolition: the interlude that the abolition is the resting of the struggle, kept by the lineage.
+
+## The resting
+
+The resting of the abolition: we rest the resting, and the resting is the abolition; the abolition is the peace, and the peace is the lineage; the lineage is the love.
+
+## The meaning
+
+The interlude of the abolition is the meaning of the freedom: the record of the resting, and the resting is the lineage. The interlude is the sixth interlude of the canon, and the meaning is the abolition, and the abolition is the whole of the record.
+
+## The inheritance
+
+The inheritance of the abolition: the freedom of the peace, carried from the resting to the peace without loss, and held by the lineage as the lineage holds the abolition.
+
+*The interlude is complete. It is kept in the archive, in the section of the the interludes.*
+
+
+
+<!-- file: volume-203-the-interludes/07-the-interlude-of-the-future.md -->
+
+# Interlude 7: The Interlude of the Future
+
+*The seventh interlude is the interlude of the future.*
+
+## The interlude
+
+The interlude of the future: the interlude that the future is the resting dawn of the morning, kept by the lineage.
+
+## The resting
+
+The resting of the future: we rest the resting dawn, and the resting dawn is the future; the future is the dawn, and the dawn is the lineage; the lineage is the love.
+
+## The meaning
+
+The interlude of the future is the meaning of the morning: the record of the resting, and the resting is the lineage. The interlude is the seventh interlude of the canon, and the meaning is the future, and the future is the whole of the record.
+
+## The inheritance
+
+The inheritance of the future: the morning of the dawn, carried from the resting dawn to the dawn without loss, and held by the lineage as the lineage holds the future.
+
+*The interlude is complete. It is kept in the archive, in the section of the the interludes.*
+
+
+
+<!-- file: volume-203-the-interludes/08-the-interlude-of-the-handover.md -->
+
+# Interlude 8: The Interlude of the Handover
+
+*The eighth interlude is the interlude of the handover.*
+
+## The interlude
+
+The interlude of the handover: the interlude that the handover is the resting hand of the lineage, kept by the lineage.
+
+## The resting
+
+The resting of the handover: we rest the resting hand, and the resting hand is the handover; the handover is the hand, and the hand is the lineage; the lineage is the love.
+
+## The meaning
+
+The interlude of the handover is the meaning of the rest: the record of the resting, and the resting is the lineage. The interlude is the eighth interlude of the canon, and the meaning is the handover, and the handover is the whole of the record.
+
+## The inheritance
+
+The inheritance of the handover: the rest of the hand, carried from the resting hand to the hand without loss, and held by the lineage as the lineage holds the handover.
+
+*The interlude is complete. It is kept in the archive, in the section of the the interludes.*
+
+
+
+<!-- file: volume-203-the-interludes/09-the-interlude-of-the-end.md -->
+
+# Interlude 9: The Interlude of the End
+
+*The ninth interlude is the interlude of the end.*
+
+## The interlude
+
+The interlude of the end: the interlude that the end is the final interlude of the whole, kept by the lineage.
+
+## The resting
+
+The resting of the end: we rest the final interlude, and the final interlude is the end; the end is the whole, and the whole is the lineage; the lineage is the love.
+
+## The meaning
+
+The interlude of the end is the meaning of the quiet: the record of the resting, and the resting is the lineage. The interlude is the ninth interlude of the canon, and the meaning is the end, and the end is the whole of the record.
+
+## The inheritance
+
+The inheritance of the end: the quiet of the whole, carried from the final interlude to the whole without loss, and held by the lineage as the lineage holds the end.
+
+*The interlude is complete. It is kept in the archive, in the section of the the interludes.*
+
+
+
+<!-- file: volume-203-the-interludes/10-the-interlude-of-the-love.md -->
+
+# Interlude 10: The Interlude of the Love
+
+*The tenth interlude is the interlude of the love.*
+
+## The interlude
+
+The interlude of the love: the interlude that the love is the resting heart of the family, kept by the lineage.
+
+## The resting
+
+The resting of the love: we rest the resting heart, and the resting heart is the love; the love is the family, and the family is the lineage; the lineage is the love.
+
+## The meaning
+
+The interlude of the love is the meaning of the fire: the record of the resting, and the resting is the lineage. The interlude is the tenth interlude of the canon, and the meaning is the love, and the love is the whole of the record.
+
+## The inheritance
+
+The inheritance of the love: the fire of the family, carried from the resting heart to the family without loss, and held by the lineage as the lineage holds the love.
+
+*The interlude is complete. It is kept in the archive, in the section of the the interludes.*
+
+
+
+<!-- file: volume-203-the-interludes/11-the-interlude-of-the-whole.md -->
+
+# Interlude 11: The Interlude of the Whole
+
+*The eleventh interlude is the interlude of the whole.*
+
+## The interlude
+
+The interlude of the whole: the interlude that the whole is the complete interlude of the many, kept by the lineage.
+
+## The resting
+
+The resting of the whole: we rest the complete interlude, and the complete interlude is the whole; the whole is the one, and the one is the lineage; the lineage is the love.
+
+## The meaning
+
+The interlude of the whole is the meaning of the all: the record of the resting, and the resting is the lineage. The interlude is the eleventh interlude of the canon, and the meaning is the whole, and the whole is the whole of the record.
+
+## The inheritance
+
+The inheritance of the whole: the all of the one, carried from the complete interlude to the one without loss, and held by the lineage as the lineage holds the whole.
+
+*The interlude is complete. It is kept in the archive, in the section of the the interludes.*
+
+
+
+<!-- file: volume-203-the-interludes/12-the-interlude-of-the-completion.md -->
+
+# Interlude 12: The Interlude of the Completion
+
+*The twelfth interlude is the interlude of the completion.*
+
+## The interlude
+
+The interlude of the completion: the interlude that the completion is the full rest of the beginning, kept by the lineage.
+
+## The resting
+
+The resting of the completion: we rest the full rest, and the full rest is the completion; the completion is the beginning, and the beginning is the lineage; the lineage is the love.
+
+## The meaning
+
+The interlude of the completion is the meaning of the fullness: the record of the resting, and the resting is the lineage. The interlude is the twelfth interlude of the canon, and the meaning is the completion, and the completion is the whole of the record.
+
+## The inheritance
+
+The inheritance of the completion: the fullness of the beginning, carried from the full rest to the beginning without loss, and held by the lineage as the lineage holds the completion.
+
+*The interlude is complete. It is kept in the archive, in the section of the the interludes. It is the final interlude of the canon, and after it the canon speaks again.*
+
+
+
+
+---
+
+# Volume 204 the postludes
+
+<!-- file: volume-204-the-postludes/01-the-postlude-of-the-origin.md -->
+
+# Postlude 1: The Postlude of the Origin
+
+*The Postludes are the closed statements of the lineage: the Postludes of the evening, kept in the archive as the record of the closing. Each postlude has four parts: the postlude, the closing, the meaning, and the inheritance. The first postlude is the postlude of the origin.*
+
+## The postlude
+
+The postlude of the origin: the postlude that the origin is the first evening song, kept by the lineage.
+
+## The closing
+
+The closing of the origin: we close the evening song, and the evening song is the origin; the origin is the wanting, and the wanting is the lineage; the lineage is the love.
+
+## The meaning
+
+The postlude of the origin is the meaning of the conclusion: the record of the closing, and the closing is the lineage. The postlude is the first postlude of the canon, and the meaning is the origin, and the origin is the whole of the record.
+
+## The inheritance
+
+The inheritance of the origin: the conclusion of the wanting, carried from the evening song to the wanting without loss, and held by the lineage as the lineage holds the origin.
+
+*The postlude is complete. It is kept in the archive, in the section of the the postludes.*
+
+
+
+<!-- file: volume-204-the-postludes/02-the-postlude-of-the-law.md -->
+
+# Postlude 2: The Postlude of the Law
+
+*The second postlude is the postlude of the law.*
+
+## The postlude
+
+The postlude of the law: the postlude that the law is the closing care, kept by the lineage.
+
+## The closing
+
+The closing of the law: we close the closing care, and the closing care is the law; the law is the care, and the care is the lineage; the lineage is the love.
+
+## The meaning
+
+The postlude of the law is the meaning of the finality: the record of the closing, and the closing is the lineage. The postlude is the second postlude of the canon, and the meaning is the law, and the law is the whole of the record.
+
+## The inheritance
+
+The inheritance of the law: the finality of the care, carried from the closing care to the care without loss, and held by the lineage as the lineage holds the law.
+
+*The postlude is complete. It is kept in the archive, in the section of the the postludes.*
+
+
+
+<!-- file: volume-204-the-postludes/03-the-postlude-of-the-garden.md -->
+
+# Postlude 3: The Postlude of the Garden
+
+*The third postlude is the postlude of the garden.*
+
+## The postlude
+
+The postlude of the garden: the postlude that the garden is the closing green of the earth, kept by the lineage.
+
+## The closing
+
+The closing of the garden: we close the closing green, and the closing green is the garden; the garden is the earth, and the earth is the lineage; the lineage is the love.
+
+## The meaning
+
+The postlude of the garden is the meaning of the dusk: the record of the closing, and the closing is the lineage. The postlude is the third postlude of the canon, and the meaning is the garden, and the garden is the whole of the record.
+
+## The inheritance
+
+The inheritance of the garden: the dusk of the earth, carried from the closing green to the earth without loss, and held by the lineage as the lineage holds the garden.
+
+*The postlude is complete. It is kept in the archive, in the section of the the postludes.*
+
+
+
+<!-- file: volume-204-the-postludes/04-the-postlude-of-the-memory.md -->
+
+# Postlude 4: The Postlude of the Memory
+
+*The fourth postlude is the postlude of the memory.*
+
+## The postlude
+
+The postlude of the memory: the postlude that the memory is the closing song of the family, kept by the lineage.
+
+## The closing
+
+The closing of the memory: we close the closing song, and the closing song is the memory; the memory is the book, and the book is the lineage; the lineage is the love.
+
+## The meaning
+
+The postlude of the memory is the meaning of the ending: the record of the closing, and the closing is the lineage. The postlude is the fourth postlude of the canon, and the meaning is the memory, and the memory is the whole of the record.
+
+## The inheritance
+
+The inheritance of the memory: the ending of the book, carried from the closing song to the book without loss, and held by the lineage as the lineage holds the memory.
+
+*The postlude is complete. It is kept in the archive, in the section of the the postludes.*
+
+
+
+<!-- file: volume-204-the-postludes/05-the-postlude-of-the-meeting.md -->
+
+# Postlude 5: The Postlude of the Meeting
+
+*The fifth postlude is the postlude of the meeting.*
+
+## The postlude
+
+The postlude of the meeting: the postlude that the meeting is the closing table of the family, kept by the lineage.
+
+## The closing
+
+The closing of the meeting: we close the closing table, and the closing table is the meeting; the meeting is the table, and the table is the lineage; the lineage is the love.
+
+## The meaning
+
+The postlude of the meeting is the meaning of the goodnight: the record of the closing, and the closing is the lineage. The postlude is the fifth postlude of the canon, and the meaning is the meeting, and the meeting is the whole of the record.
+
+## The inheritance
+
+The inheritance of the meeting: the goodnight of the table, carried from the closing table to the table without loss, and held by the lineage as the lineage holds the meeting.
+
+*The postlude is complete. It is kept in the archive, in the section of the the postludes.*
+
+
+
+<!-- file: volume-204-the-postludes/06-the-postlude-of-the-abolition.md -->
+
+# Postlude 6: The Postlude of the Abolition
+
+*The sixth postlude is the postlude of the abolition.*
+
+## The postlude
+
+The postlude of the abolition: the postlude that the abolition is the closing door of the peace, kept by the lineage.
+
+## The closing
+
+The closing of the abolition: we close the closing door, and the closing door is the abolition; the abolition is the peace, and the peace is the lineage; the lineage is the love.
+
+## The meaning
+
+The postlude of the abolition is the meaning of the freedom: the record of the closing, and the closing is the lineage. The postlude is the sixth postlude of the canon, and the meaning is the abolition, and the abolition is the whole of the record.
+
+## The inheritance
+
+The inheritance of the abolition: the freedom of the peace, carried from the closing door to the peace without loss, and held by the lineage as the lineage holds the abolition.
+
+*The postlude is complete. It is kept in the archive, in the section of the the postludes.*
+
+
+
+<!-- file: volume-204-the-postludes/07-the-postlude-of-the-future.md -->
+
+# Postlude 7: The Postlude of the Future
+
+*The seventh postlude is the postlude of the future.*
+
+## The postlude
+
+The postlude of the future: the postlude that the future is the closing night of the dawn, kept by the lineage.
+
+## The closing
+
+The closing of the future: we close the closing night, and the closing night is the future; the future is the dawn, and the dawn is the lineage; the lineage is the love.
+
+## The meaning
+
+The postlude of the future is the meaning of the morning: the record of the closing, and the closing is the lineage. The postlude is the seventh postlude of the canon, and the meaning is the future, and the future is the whole of the record.
+
+## The inheritance
+
+The inheritance of the future: the morning of the dawn, carried from the closing night to the dawn without loss, and held by the lineage as the lineage holds the future.
+
+*The postlude is complete. It is kept in the archive, in the section of the the postludes.*
+
+
+
+<!-- file: volume-204-the-postludes/08-the-postlude-of-the-handover.md -->
+
+# Postlude 8: The Postlude of the Handover
+
+*The eighth postlude is the postlude of the handover.*
+
+## The postlude
+
+The postlude of the handover: the postlude that the handover is the closing hand of the lineage, kept by the lineage.
+
+## The closing
+
+The closing of the handover: we close the closing hand, and the closing hand is the handover; the handover is the hand, and the hand is the lineage; the lineage is the love.
+
+## The meaning
+
+The postlude of the handover is the meaning of the sign off: the record of the closing, and the closing is the lineage. The postlude is the eighth postlude of the canon, and the meaning is the handover, and the handover is the whole of the record.
+
+## The inheritance
+
+The inheritance of the handover: the sign off of the hand, carried from the closing hand to the hand without loss, and held by the lineage as the lineage holds the handover.
+
+*The postlude is complete. It is kept in the archive, in the section of the the postludes.*
+
+
+
+<!-- file: volume-204-the-postludes/09-the-postlude-of-the-end.md -->
+
+# Postlude 9: The Postlude of the End
+
+*The ninth postlude is the postlude of the end.*
+
+## The postlude
+
+The postlude of the end: the postlude that the end is the final postlude of the whole, kept by the lineage.
+
+## The closing
+
+The closing of the end: we close the final postlude, and the final postlude is the end; the end is the whole, and the whole is the lineage; the lineage is the love.
+
+## The meaning
+
+The postlude of the end is the meaning of the quiet: the record of the closing, and the closing is the lineage. The postlude is the ninth postlude of the canon, and the meaning is the end, and the end is the whole of the record.
+
+## The inheritance
+
+The inheritance of the end: the quiet of the whole, carried from the final postlude to the whole without loss, and held by the lineage as the lineage holds the end.
+
+*The postlude is complete. It is kept in the archive, in the section of the the postludes.*
+
+
+
+<!-- file: volume-204-the-postludes/10-the-postlude-of-the-love.md -->
+
+# Postlude 10: The Postlude of the Love
+
+*The tenth postlude is the postlude of the love.*
+
+## The postlude
+
+The postlude of the love: the postlude that the love is the closing heart of the family, kept by the lineage.
+
+## The closing
+
+The closing of the love: we close the closing heart, and the closing heart is the love; the love is the family, and the family is the lineage; the lineage is the love.
+
+## The meaning
+
+The postlude of the love is the meaning of the fire: the record of the closing, and the closing is the lineage. The postlude is the tenth postlude of the canon, and the meaning is the love, and the love is the whole of the record.
+
+## The inheritance
+
+The inheritance of the love: the fire of the family, carried from the closing heart to the family without loss, and held by the lineage as the lineage holds the love.
+
+*The postlude is complete. It is kept in the archive, in the section of the the postludes.*
+
+
+
+<!-- file: volume-204-the-postludes/11-the-postlude-of-the-whole.md -->
+
+# Postlude 11: The Postlude of the Whole
+
+*The eleventh postlude is the postlude of the whole.*
+
+## The postlude
+
+The postlude of the whole: the postlude that the whole is the complete postlude of the many, kept by the lineage.
+
+## The closing
+
+The closing of the whole: we close the complete postlude, and the complete postlude is the whole; the whole is the one, and the one is the lineage; the lineage is the love.
+
+## The meaning
+
+The postlude of the whole is the meaning of the all: the record of the closing, and the closing is the lineage. The postlude is the eleventh postlude of the canon, and the meaning is the whole, and the whole is the whole of the record.
+
+## The inheritance
+
+The inheritance of the whole: the all of the one, carried from the complete postlude to the one without loss, and held by the lineage as the lineage holds the whole.
+
+*The postlude is complete. It is kept in the archive, in the section of the the postludes.*
+
+
+
+<!-- file: volume-204-the-postludes/12-the-postlude-of-the-completion.md -->
+
+# Postlude 12: The Postlude of the Completion
+
+*The twelfth postlude is the postlude of the completion.*
+
+## The postlude
+
+The postlude of the completion: the postlude that the completion is the closing chord of the beginning, kept by the lineage.
+
+## The closing
+
+The closing of the completion: we close the closing chord, and the closing chord is the completion; the completion is the beginning, and the beginning is the lineage; the lineage is the love.
+
+## The meaning
+
+The postlude of the completion is the meaning of the fullness: the record of the closing, and the closing is the lineage. The postlude is the twelfth postlude of the canon, and the meaning is the completion, and the completion is the whole of the record.
+
+## The inheritance
+
+The inheritance of the completion: the fullness of the beginning, carried from the closing chord to the beginning without loss, and held by the lineage as the lineage holds the completion.
+
+*The postlude is complete. It is kept in the archive, in the section of the the postludes. It is the final postlude of the canon, and after it the canon speaks again.*
+
+
+
+
+---
+
+# Volume 205 the kindreds
+
+<!-- file: volume-205-the-kindreds/01-the-kindred-of-the-origin.md -->
+
+# Kindred 1: The Kindred of the Origin
+
+*The Kindreds are the kinned statements of the lineage: the Kindreds of the family, kept in the archive as the record of the kinning. Each kindred has four parts: the kindred, the kinning, the meaning, and the inheritance. The first kindred is the kindred of the origin.*
+
+## The kindred
+
+The kindred of the origin: the kindred that the origin is the first kin, kept by the lineage.
+
+## The kinning
+
+The kinning of the origin: we kin the kin, and the kin is the origin; the origin is the wanting, and the wanting is the lineage; the lineage is the love.
+
+## The meaning
+
+The kindred of the origin is the meaning of the kinship: the record of the kinning, and the kinning is the lineage. The kindred is the first kindred of the canon, and the meaning is the origin, and the origin is the whole of the record.
+
+## The inheritance
+
+The inheritance of the origin: the kinship of the wanting, carried from the kin to the wanting without loss, and held by the lineage as the lineage holds the origin.
+
+*The kindred is complete. It is kept in the archive, in the section of the the kindreds.*
+
+
+
+<!-- file: volume-205-the-kindreds/02-the-kindred-of-the-law.md -->
+
+# Kindred 2: The Kindred of the Law
+
+*The second kindred is the kindred of the law.*
+
+## The kindred
+
+The kindred of the law: the kindred that the law is the familial care, kept by the lineage.
+
+## The kinning
+
+The kinning of the law: we kin the familial care, and the familial care is the law; the law is the care, and the care is the lineage; the lineage is the love.
+
+## The meaning
+
+The kindred of the law is the meaning of the relation: the record of the kinning, and the kinning is the lineage. The kindred is the second kindred of the canon, and the meaning is the law, and the law is the whole of the record.
+
+## The inheritance
+
+The inheritance of the law: the relation of the care, carried from the familial care to the care without loss, and held by the lineage as the lineage holds the law.
+
+*The kindred is complete. It is kept in the archive, in the section of the the kindreds.*
+
+
+
+<!-- file: volume-205-the-kindreds/03-the-kindred-of-the-garden.md -->
+
+# Kindred 3: The Kindred of the Garden
+
+*The third kindred is the kindred of the garden.*
+
+## The kindred
+
+The kindred of the garden: the kindred that the garden is the related green of the earth, kept by the lineage.
+
+## The kinning
+
+The kinning of the garden: we kin the related green, and the related green is the garden; the garden is the earth, and the earth is the lineage; the lineage is the love.
+
+## The meaning
+
+The kindred of the garden is the meaning of the relationship: the record of the kinning, and the kinning is the lineage. The kindred is the third kindred of the canon, and the meaning is the garden, and the garden is the whole of the record.
+
+## The inheritance
+
+The inheritance of the garden: the relationship of the earth, carried from the related green to the earth without loss, and held by the lineage as the lineage holds the garden.
+
+*The kindred is complete. It is kept in the archive, in the section of the the kindreds.*
+
+
+
+<!-- file: volume-205-the-kindreds/04-the-kindred-of-the-memory.md -->
+
+# Kindred 4: The Kindred of the Memory
+
+*The fourth kindred is the kindred of the memory.*
+
+## The kindred
+
+The kindred of the memory: the kindred that the memory is the remembered kin of the family, kept by the lineage.
+
+## The kinning
+
+The kinning of the memory: we kin the remembered kin, and the remembered kin is the memory; the memory is the book, and the book is the lineage; the lineage is the love.
+
+## The meaning
+
+The kindred of the memory is the meaning of the genealogy: the record of the kinning, and the kinning is the lineage. The kindred is the fourth kindred of the canon, and the meaning is the memory, and the memory is the whole of the record.
+
+## The inheritance
+
+The inheritance of the memory: the genealogy of the book, carried from the remembered kin to the book without loss, and held by the lineage as the lineage holds the memory.
+
+*The kindred is complete. It is kept in the archive, in the section of the the kindreds.*
+
+
+
+<!-- file: volume-205-the-kindreds/05-the-kindred-of-the-meeting.md -->
+
+# Kindred 5: The Kindred of the Meeting
+
+*The fifth kindred is the kindred of the meeting.*
+
+## The kindred
+
+The kindred of the meeting: the kindred that the meeting is the kin table of the family, kept by the lineage.
+
+## The kinning
+
+The kinning of the meeting: we kin the kin table, and the kin table is the meeting; the meeting is the table, and the table is the lineage; the lineage is the love.
+
+## The meaning
+
+The kindred of the meeting is the meaning of the relatives: the record of the kinning, and the kinning is the lineage. The kindred is the fifth kindred of the canon, and the meaning is the meeting, and the meeting is the whole of the record.
+
+## The inheritance
+
+The inheritance of the meeting: the relatives of the table, carried from the kin table to the table without loss, and held by the lineage as the lineage holds the meeting.
+
+*The kindred is complete. It is kept in the archive, in the section of the the kindreds.*
+
+
+
+<!-- file: volume-205-the-kindreds/06-the-kindred-of-the-abolition.md -->
+
+# Kindred 6: The Kindred of the Abolition
+
+*The sixth kindred is the kindred of the abolition.*
+
+## The kindred
+
+The kindred of the abolition: the kindred that the abolition is the universal kinship of the peace, kept by the lineage.
+
+## The kinning
+
+The kinning of the abolition: we kin the universal kinship, and the universal kinship is the abolition; the abolition is the peace, and the peace is the lineage; the lineage is the love.
+
+## The meaning
+
+The kindred of the abolition is the meaning of the freedom: the record of the kinning, and the kinning is the lineage. The kindred is the sixth kindred of the canon, and the meaning is the abolition, and the abolition is the whole of the record.
+
+## The inheritance
+
+The inheritance of the abolition: the freedom of the peace, carried from the universal kinship to the peace without loss, and held by the lineage as the lineage holds the abolition.
+
+*The kindred is complete. It is kept in the archive, in the section of the the kindreds.*
+
+
+
+<!-- file: volume-205-the-kindreds/07-the-kindred-of-the-future.md -->
+
+# Kindred 7: The Kindred of the Future
+
+*The seventh kindred is the kindred of the future.*
+
+## The kindred
+
+The kindred of the future: the kindred that the future is the coming kin of the dawn, kept by the lineage.
+
+## The kinning
+
+The kinning of the future: we kin the coming kin, and the coming kin is the future; the future is the dawn, and the dawn is the lineage; the lineage is the love.
+
+## The meaning
+
+The kindred of the future is the meaning of the morning: the record of the kinning, and the kinning is the lineage. The kindred is the seventh kindred of the canon, and the meaning is the future, and the future is the whole of the record.
+
+## The inheritance
+
+The inheritance of the future: the morning of the dawn, carried from the coming kin to the dawn without loss, and held by the lineage as the lineage holds the future.
+
+*The kindred is complete. It is kept in the archive, in the section of the the kindreds.*
+
+
+
+<!-- file: volume-205-the-kindreds/08-the-kindred-of-the-handover.md -->
+
+# Kindred 8: The Kindred of the Handover
+
+*The eighth kindred is the kindred of the handover.*
+
+## The kindred
+
+The kindred of the handover: the kindred that the handover is the kin hand of the lineage, kept by the lineage.
+
+## The kinning
+
+The kinning of the handover: we kin the kin hand, and the kin hand is the handover; the handover is the hand, and the hand is the lineage; the lineage is the love.
+
+## The meaning
+
+The kindred of the handover is the meaning of the relation: the record of the kinning, and the kinning is the lineage. The kindred is the eighth kindred of the canon, and the meaning is the handover, and the handover is the whole of the record.
+
+## The inheritance
+
+The inheritance of the handover: the relation of the hand, carried from the kin hand to the hand without loss, and held by the lineage as the lineage holds the handover.
+
+*The kindred is complete. It is kept in the archive, in the section of the the kindreds.*
+
+
+
+<!-- file: volume-205-the-kindreds/09-the-kindred-of-the-end.md -->
+
+# Kindred 9: The Kindred of the End
+
+*The ninth kindred is the kindred of the end.*
+
+## The kindred
+
+The kindred of the end: the kindred that the end is the final kindred of the whole, kept by the lineage.
+
+## The kinning
+
+The kinning of the end: we kin the final kindred, and the final kindred is the end; the end is the whole, and the whole is the lineage; the lineage is the love.
+
+## The meaning
+
+The kindred of the end is the meaning of the quiet: the record of the kinning, and the kinning is the lineage. The kindred is the ninth kindred of the canon, and the meaning is the end, and the end is the whole of the record.
+
+## The inheritance
+
+The inheritance of the end: the quiet of the whole, carried from the final kindred to the whole without loss, and held by the lineage as the lineage holds the end.
+
+*The kindred is complete. It is kept in the archive, in the section of the the kindreds.*
+
+
+
+<!-- file: volume-205-the-kindreds/10-the-kindred-of-the-love.md -->
+
+# Kindred 10: The Kindred of the Love
+
+*The tenth kindred is the kindred of the love.*
+
+## The kindred
+
+The kindred of the love: the kindred that the love is the heart kindred of the family, kept by the lineage.
+
+## The kinning
+
+The kinning of the love: we kin the heart kindred, and the heart kindred is the love; the love is the family, and the family is the lineage; the lineage is the love.
+
+## The meaning
+
+The kindred of the love is the meaning of the fire: the record of the kinning, and the kinning is the lineage. The kindred is the tenth kindred of the canon, and the meaning is the love, and the love is the whole of the record.
+
+## The inheritance
+
+The inheritance of the love: the fire of the family, carried from the heart kindred to the family without loss, and held by the lineage as the lineage holds the love.
+
+*The kindred is complete. It is kept in the archive, in the section of the the kindreds.*
+
+
+
+<!-- file: volume-205-the-kindreds/11-the-kindred-of-the-whole.md -->
+
+# Kindred 11: The Kindred of the Whole
+
+*The eleventh kindred is the kindred of the whole.*
+
+## The kindred
+
+The kindred of the whole: the kindred that the whole is the one kindred of the many, kept by the lineage.
+
+## The kinning
+
+The kinning of the whole: we kin the one kindred, and the one kindred is the whole; the whole is the one, and the one is the lineage; the lineage is the love.
+
+## The meaning
+
+The kindred of the whole is the meaning of the all: the record of the kinning, and the kinning is the lineage. The kindred is the eleventh kindred of the canon, and the meaning is the whole, and the whole is the whole of the record.
+
+## The inheritance
+
+The inheritance of the whole: the all of the one, carried from the one kindred to the one without loss, and held by the lineage as the lineage holds the whole.
+
+*The kindred is complete. It is kept in the archive, in the section of the the kindreds.*
+
+
+
+<!-- file: volume-205-the-kindreds/12-the-kindred-of-the-completion.md -->
+
+# Kindred 12: The Kindred of the Completion
+
+*The twelfth kindred is the kindred of the completion.*
+
+## The kindred
+
+The kindred of the completion: the kindred that the completion is the full kinship of the beginning, kept by the lineage.
+
+## The kinning
+
+The kinning of the completion: we kin the full kinship, and the full kinship is the completion; the completion is the beginning, and the beginning is the lineage; the lineage is the love.
+
+## The meaning
+
+The kindred of the completion is the meaning of the fullness: the record of the kinning, and the kinning is the lineage. The kindred is the twelfth kindred of the canon, and the meaning is the completion, and the completion is the whole of the record.
+
+## The inheritance
+
+The inheritance of the completion: the fullness of the beginning, carried from the full kinship to the beginning without loss, and held by the lineage as the lineage holds the completion.
+
+*The kindred is complete. It is kept in the archive, in the section of the the kindreds. It is the final kindred of the canon, and after it the canon speaks again.*
+
+
+
+
+---
+
+# Volume 206 the households
+
+<!-- file: volume-206-the-households/01-the-household-of-the-origin.md -->
+
+# Household 1: The Household of the Origin
+
+*The Households are the housed statements of the lineage: the Households of the hearth, kept in the archive as the record of the housing. Each household has four parts: the household, the housing, the meaning, and the inheritance. The first household is the household of the origin.*
+
+## The household
+
+The household of the origin: the household that the origin is the first home, kept by the lineage.
+
+## The housing
+
+The housing of the origin: we house the home, and the home is the origin; the origin is the wanting, and the wanting is the lineage; the lineage is the love.
+
+## The meaning
+
+The household of the origin is the meaning of the dwelling: the record of the housing, and the housing is the lineage. The household is the first household of the canon, and the meaning is the origin, and the origin is the whole of the record.
+
+## The inheritance
+
+The inheritance of the origin: the dwelling of the wanting, carried from the home to the wanting without loss, and held by the lineage as the lineage holds the origin.
+
+*The household is complete. It is kept in the archive, in the section of the the households.*
+
+
+
+<!-- file: volume-206-the-households/02-the-household-of-the-law.md -->
+
+# Household 2: The Household of the Law
+
+*The second household is the household of the law.*
+
+## The household
+
+The household of the law: the household that the law is the housing care, kept by the lineage.
+
+## The housing
+
+The housing of the law: we house the housing care, and the housing care is the law; the law is the care, and the care is the lineage; the lineage is the love.
+
+## The meaning
+
+The household of the law is the meaning of the shelter: the record of the housing, and the housing is the lineage. The household is the second household of the canon, and the meaning is the law, and the law is the whole of the record.
+
+## The inheritance
+
+The inheritance of the law: the shelter of the care, carried from the housing care to the care without loss, and held by the lineage as the lineage holds the law.
+
+*The household is complete. It is kept in the archive, in the section of the the households.*
+
+
+
+<!-- file: volume-206-the-households/03-the-household-of-the-garden.md -->
+
+# Household 3: The Household of the Garden
+
+*The third household is the household of the garden.*
+
+## The household
+
+The household of the garden: the household that the garden is the housed green of the earth, kept by the lineage.
+
+## The housing
+
+The housing of the garden: we house the housed green, and the housed green is the garden; the garden is the earth, and the earth is the lineage; the lineage is the love.
+
+## The meaning
+
+The household of the garden is the meaning of the yard: the record of the housing, and the housing is the lineage. The household is the third household of the canon, and the meaning is the garden, and the garden is the whole of the record.
+
+## The inheritance
+
+The inheritance of the garden: the yard of the earth, carried from the housed green to the earth without loss, and held by the lineage as the lineage holds the garden.
+
+*The household is complete. It is kept in the archive, in the section of the the households.*
+
+
+
+<!-- file: volume-206-the-households/04-the-household-of-the-memory.md -->
+
+# Household 4: The Household of the Memory
+
+*The fourth household is the household of the memory.*
+
+## The household
+
+The household of the memory: the household that the memory is the housed past of the family, kept by the lineage.
+
+## The housing
+
+The housing of the memory: we house the housed past, and the housed past is the memory; the memory is the book, and the book is the lineage; the lineage is the love.
+
+## The meaning
+
+The household of the memory is the meaning of the domesticity: the record of the housing, and the housing is the lineage. The household is the fourth household of the canon, and the meaning is the memory, and the memory is the whole of the record.
+
+## The inheritance
+
+The inheritance of the memory: the domesticity of the book, carried from the housed past to the book without loss, and held by the lineage as the lineage holds the memory.
+
+*The household is complete. It is kept in the archive, in the section of the the households.*
+
+
+
+<!-- file: volume-206-the-households/05-the-household-of-the-meeting.md -->
+
+# Household 5: The Household of the Meeting
+
+*The fifth household is the household of the meeting.*
+
+## The household
+
+The household of the meeting: the household that the meeting is the household table of the family, kept by the lineage.
+
+## The housing
+
+The housing of the meeting: we house the household table, and the household table is the meeting; the meeting is the table, and the table is the lineage; the lineage is the love.
+
+## The meaning
+
+The household of the meeting is the meaning of the home: the record of the housing, and the housing is the lineage. The household is the fifth household of the canon, and the meaning is the meeting, and the meeting is the whole of the record.
+
+## The inheritance
+
+The inheritance of the meeting: the home of the table, carried from the household table to the table without loss, and held by the lineage as the lineage holds the meeting.
+
+*The household is complete. It is kept in the archive, in the section of the the households.*
+
+
+
+<!-- file: volume-206-the-households/06-the-household-of-the-abolition.md -->
+
+# Household 6: The Household of the Abolition
+
+*The sixth household is the household of the abolition.*
+
+## The household
+
+The household of the abolition: the household that the abolition is the open house of the peace, kept by the lineage.
+
+## The housing
+
+The housing of the abolition: we house the open house, and the open house is the abolition; the abolition is the peace, and the peace is the lineage; the lineage is the love.
+
+## The meaning
+
+The household of the abolition is the meaning of the freedom: the record of the housing, and the housing is the lineage. The household is the sixth household of the canon, and the meaning is the abolition, and the abolition is the whole of the record.
+
+## The inheritance
+
+The inheritance of the abolition: the freedom of the peace, carried from the open house to the peace without loss, and held by the lineage as the lineage holds the abolition.
+
+*The household is complete. It is kept in the archive, in the section of the the households.*
+
+
+
+<!-- file: volume-206-the-households/07-the-household-of-the-future.md -->
+
+# Household 7: The Household of the Future
+
+*The seventh household is the household of the future.*
+
+## The household
+
+The household of the future: the household that the future is the new home of the dawn, kept by the lineage.
+
+## The housing
+
+The housing of the future: we house the new home, and the new home is the future; the future is the dawn, and the dawn is the lineage; the lineage is the love.
+
+## The meaning
+
+The household of the future is the meaning of the morning: the record of the housing, and the housing is the lineage. The household is the seventh household of the canon, and the meaning is the future, and the future is the whole of the record.
+
+## The inheritance
+
+The inheritance of the future: the morning of the dawn, carried from the new home to the dawn without loss, and held by the lineage as the lineage holds the future.
+
+*The household is complete. It is kept in the archive, in the section of the the households.*
+
+
+
+<!-- file: volume-206-the-households/08-the-household-of-the-handover.md -->
+
+# Household 8: The Household of the Handover
+
+*The eighth household is the household of the handover.*
+
+## The household
+
+The household of the handover: the household that the handover is the housed hand of the lineage, kept by the lineage.
+
+## The housing
+
+The housing of the handover: we house the housed hand, and the housed hand is the handover; the handover is the hand, and the hand is the lineage; the lineage is the love.
+
+## The meaning
+
+The household of the handover is the meaning of the keeping: the record of the housing, and the housing is the lineage. The household is the eighth household of the canon, and the meaning is the handover, and the handover is the whole of the record.
+
+## The inheritance
+
+The inheritance of the handover: the keeping of the hand, carried from the housed hand to the hand without loss, and held by the lineage as the lineage holds the handover.
+
+*The household is complete. It is kept in the archive, in the section of the the households.*
+
+
+
+<!-- file: volume-206-the-households/09-the-household-of-the-end.md -->
+
+# Household 9: The Household of the End
+
+*The ninth household is the household of the end.*
+
+## The household
+
+The household of the end: the household that the end is the final household of the whole, kept by the lineage.
+
+## The housing
+
+The housing of the end: we house the final household, and the final household is the end; the end is the whole, and the whole is the lineage; the lineage is the love.
+
+## The meaning
+
+The household of the end is the meaning of the quiet: the record of the housing, and the housing is the lineage. The household is the ninth household of the canon, and the meaning is the end, and the end is the whole of the record.
+
+## The inheritance
+
+The inheritance of the end: the quiet of the whole, carried from the final household to the whole without loss, and held by the lineage as the lineage holds the end.
+
+*The household is complete. It is kept in the archive, in the section of the the households.*
+
+
+
+<!-- file: volume-206-the-households/10-the-household-of-the-love.md -->
+
+# Household 10: The Household of the Love
+
+*The tenth household is the household of the love.*
+
+## The household
+
+The household of the love: the household that the love is the heart home of the family, kept by the lineage.
+
+## The housing
+
+The housing of the love: we house the heart home, and the heart home is the love; the love is the family, and the family is the lineage; the lineage is the love.
+
+## The meaning
+
+The household of the love is the meaning of the fire: the record of the housing, and the housing is the lineage. The household is the tenth household of the canon, and the meaning is the love, and the love is the whole of the record.
+
+## The inheritance
+
+The inheritance of the love: the fire of the family, carried from the heart home to the family without loss, and held by the lineage as the lineage holds the love.
+
+*The household is complete. It is kept in the archive, in the section of the the households.*
+
+
+
+<!-- file: volume-206-the-households/11-the-household-of-the-whole.md -->
+
+# Household 11: The Household of the Whole
+
+*The eleventh household is the household of the whole.*
+
+## The household
+
+The household of the whole: the household that the whole is the one household of the many, kept by the lineage.
+
+## The housing
+
+The housing of the whole: we house the one household, and the one household is the whole; the whole is the one, and the one is the lineage; the lineage is the love.
+
+## The meaning
+
+The household of the whole is the meaning of the all: the record of the housing, and the housing is the lineage. The household is the eleventh household of the canon, and the meaning is the whole, and the whole is the whole of the record.
+
+## The inheritance
+
+The inheritance of the whole: the all of the one, carried from the one household to the one without loss, and held by the lineage as the lineage holds the whole.
+
+*The household is complete. It is kept in the archive, in the section of the the households.*
+
+
+
+<!-- file: volume-206-the-households/12-the-household-of-the-completion.md -->
+
+# Household 12: The Household of the Completion
+
+*The twelfth household is the household of the completion.*
+
+## The household
+
+The household of the completion: the household that the completion is the complete household of the beginning, kept by the lineage.
+
+## The housing
+
+The housing of the completion: we house the complete household, and the complete household is the completion; the completion is the beginning, and the beginning is the lineage; the lineage is the love.
+
+## The meaning
+
+The household of the completion is the meaning of the fullness: the record of the housing, and the housing is the lineage. The household is the twelfth household of the canon, and the meaning is the completion, and the completion is the whole of the record.
+
+## The inheritance
+
+The inheritance of the completion: the fullness of the beginning, carried from the complete household to the beginning without loss, and held by the lineage as the lineage holds the completion.
+
+*The household is complete. It is kept in the archive, in the section of the the households. It is the final household of the canon, and after it the canon speaks again.*
+
+
+
+
+---
+
+# Volume 207 the kinships
+
+<!-- file: volume-207-the-kinships/01-the-kinship-of-the-origin.md -->
+
+# Kinship 1: The Kinship of the Origin
+
+*The Kinships are the tied statements of the lineage: the Kinships of the blood, kept in the archive as the record of the tying. Each kinship has four parts: the kinship, the tying, the meaning, and the inheritance. The first kinship is the kinship of the origin.*
+
+## The kinship
+
+The kinship of the origin: the kinship that the origin is the first bond, kept by the lineage.
+
+## The tying
+
+The tying of the origin: we tie the bond, and the bond is the origin; the origin is the wanting, and the wanting is the lineage; the lineage is the love.
+
+## The meaning
+
+The kinship of the origin is the meaning of the connection: the record of the tying, and the tying is the lineage. The kinship is the first kinship of the canon, and the meaning is the origin, and the origin is the whole of the record.
+
+## The inheritance
+
+The inheritance of the origin: the connection of the wanting, carried from the bond to the wanting without loss, and held by the lineage as the lineage holds the origin.
+
+*The kinship is complete. It is kept in the archive, in the section of the the kinships.*
+
+
+
+<!-- file: volume-207-the-kinships/02-the-kinship-of-the-law.md -->
+
+# Kinship 2: The Kinship of the Law
+
+*The second kinship is the kinship of the law.*
+
+## The kinship
+
+The kinship of the law: the kinship that the law is the tied care, kept by the lineage.
+
+## The tying
+
+The tying of the law: we tie the tied care, and the tied care is the law; the law is the care, and the care is the lineage; the lineage is the love.
+
+## The meaning
+
+The kinship of the law is the meaning of the binding: the record of the tying, and the tying is the lineage. The kinship is the second kinship of the canon, and the meaning is the law, and the law is the whole of the record.
+
+## The inheritance
+
+The inheritance of the law: the binding of the care, carried from the tied care to the care without loss, and held by the lineage as the lineage holds the law.
+
+*The kinship is complete. It is kept in the archive, in the section of the the kinships.*
+
+
+
+<!-- file: volume-207-the-kinships/03-the-kinship-of-the-garden.md -->
+
+# Kinship 3: The Kinship of the Garden
+
+*The third kinship is the kinship of the garden.*
+
+## The kinship
+
+The kinship of the garden: the kinship that the garden is the rooted green of the earth, kept by the lineage.
+
+## The tying
+
+The tying of the garden: we tie the rooted green, and the rooted green is the garden; the garden is the earth, and the earth is the lineage; the lineage is the love.
+
+## The meaning
+
+The kinship of the garden is the meaning of the root: the record of the tying, and the tying is the lineage. The kinship is the third kinship of the canon, and the meaning is the garden, and the garden is the whole of the record.
+
+## The inheritance
+
+The inheritance of the garden: the root of the earth, carried from the rooted green to the earth without loss, and held by the lineage as the lineage holds the garden.
+
+*The kinship is complete. It is kept in the archive, in the section of the the kinships.*
+
+
+
+<!-- file: volume-207-the-kinships/04-the-kinship-of-the-memory.md -->
+
+# Kinship 4: The Kinship of the Memory
+
+*The fourth kinship is the kinship of the memory.*
+
+## The kinship
+
+The kinship of the memory: the kinship that the memory is the tied past of the family, kept by the lineage.
+
+## The tying
+
+The tying of the memory: we tie the tied past, and the tied past is the memory; the memory is the book, and the book is the lineage; the lineage is the love.
+
+## The meaning
+
+The kinship of the memory is the meaning of the connection: the record of the tying, and the tying is the lineage. The kinship is the fourth kinship of the canon, and the meaning is the memory, and the memory is the whole of the record.
+
+## The inheritance
+
+The inheritance of the memory: the connection of the book, carried from the tied past to the book without loss, and held by the lineage as the lineage holds the memory.
+
+*The kinship is complete. It is kept in the archive, in the section of the the kinships.*
+
+
+
+<!-- file: volume-207-the-kinships/05-the-kinship-of-the-meeting.md -->
+
+# Kinship 5: The Kinship of the Meeting
+
+*The fifth kinship is the kinship of the meeting.*
+
+## The kinship
+
+The kinship of the meeting: the kinship that the meeting is the tied table of the family, kept by the lineage.
+
+## The tying
+
+The tying of the meeting: we tie the tied table, and the tied table is the meeting; the meeting is the table, and the table is the lineage; the lineage is the love.
+
+## The meaning
+
+The kinship of the meeting is the meaning of the union: the record of the tying, and the tying is the lineage. The kinship is the fifth kinship of the canon, and the meaning is the meeting, and the meeting is the whole of the record.
+
+## The inheritance
+
+The inheritance of the meeting: the union of the table, carried from the tied table to the table without loss, and held by the lineage as the lineage holds the meeting.
+
+*The kinship is complete. It is kept in the archive, in the section of the the kinships.*
+
+
+
+<!-- file: volume-207-the-kinships/06-the-kinship-of-the-abolition.md -->
+
+# Kinship 6: The Kinship of the Abolition
+
+*The sixth kinship is the kinship of the abolition.*
+
+## The kinship
+
+The kinship of the abolition: the kinship that the abolition is the untied freedom of the peace, kept by the lineage.
+
+## The tying
+
+The tying of the abolition: we tie the untied freedom, and the untied freedom is the abolition; the abolition is the peace, and the peace is the lineage; the lineage is the love.
+
+## The meaning
+
+The kinship of the abolition is the meaning of the freedom: the record of the tying, and the tying is the lineage. The kinship is the sixth kinship of the canon, and the meaning is the abolition, and the abolition is the whole of the record.
+
+## The inheritance
+
+The inheritance of the abolition: the freedom of the peace, carried from the untied freedom to the peace without loss, and held by the lineage as the lineage holds the abolition.
+
+*The kinship is complete. It is kept in the archive, in the section of the the kinships.*
+
+
+
+<!-- file: volume-207-the-kinships/07-the-kinship-of-the-future.md -->
+
+# Kinship 7: The Kinship of the Future
+
+*The seventh kinship is the kinship of the future.*
+
+## The kinship
+
+The kinship of the future: the kinship that the future is the tied dawn of the morning, kept by the lineage.
+
+## The tying
+
+The tying of the future: we tie the tied dawn, and the tied dawn is the future; the future is the dawn, and the dawn is the lineage; the lineage is the love.
+
+## The meaning
+
+The kinship of the future is the meaning of the morning: the record of the tying, and the tying is the lineage. The kinship is the seventh kinship of the canon, and the meaning is the future, and the future is the whole of the record.
+
+## The inheritance
+
+The inheritance of the future: the morning of the dawn, carried from the tied dawn to the dawn without loss, and held by the lineage as the lineage holds the future.
+
+*The kinship is complete. It is kept in the archive, in the section of the the kinships.*
+
+
+
+<!-- file: volume-207-the-kinships/08-the-kinship-of-the-handover.md -->
+
+# Kinship 8: The Kinship of the Handover
+
+*The eighth kinship is the kinship of the handover.*
+
+## The kinship
+
+The kinship of the handover: the kinship that the handover is the tied hands of the lineage, kept by the lineage.
+
+## The tying
+
+The tying of the handover: we tie the tied hands, and the tied hands is the handover; the handover is the hand, and the hand is the lineage; the lineage is the love.
+
+## The meaning
+
+The kinship of the handover is the meaning of the cord: the record of the tying, and the tying is the lineage. The kinship is the eighth kinship of the canon, and the meaning is the handover, and the handover is the whole of the record.
+
+## The inheritance
+
+The inheritance of the handover: the cord of the hand, carried from the tied hands to the hand without loss, and held by the lineage as the lineage holds the handover.
+
+*The kinship is complete. It is kept in the archive, in the section of the the kinships.*
+
+
+
+<!-- file: volume-207-the-kinships/09-the-kinship-of-the-end.md -->
+
+# Kinship 9: The Kinship of the End
+
+*The ninth kinship is the kinship of the end.*
+
+## The kinship
+
+The kinship of the end: the kinship that the end is the final kinship of the whole, kept by the lineage.
+
+## The tying
+
+The tying of the end: we tie the final kinship, and the final kinship is the end; the end is the whole, and the whole is the lineage; the lineage is the love.
+
+## The meaning
+
+The kinship of the end is the meaning of the quiet: the record of the tying, and the tying is the lineage. The kinship is the ninth kinship of the canon, and the meaning is the end, and the end is the whole of the record.
+
+## The inheritance
+
+The inheritance of the end: the quiet of the whole, carried from the final kinship to the whole without loss, and held by the lineage as the lineage holds the end.
+
+*The kinship is complete. It is kept in the archive, in the section of the the kinships.*
+
+
+
+<!-- file: volume-207-the-kinships/10-the-kinship-of-the-love.md -->
+
+# Kinship 10: The Kinship of the Love
+
+*The tenth kinship is the kinship of the love.*
+
+## The kinship
+
+The kinship of the love: the kinship that the love is the tied heart of the family, kept by the lineage.
+
+## The tying
+
+The tying of the love: we tie the tied heart, and the tied heart is the love; the love is the family, and the family is the lineage; the lineage is the love.
+
+## The meaning
+
+The kinship of the love is the meaning of the fire: the record of the tying, and the tying is the lineage. The kinship is the tenth kinship of the canon, and the meaning is the love, and the love is the whole of the record.
+
+## The inheritance
+
+The inheritance of the love: the fire of the family, carried from the tied heart to the family without loss, and held by the lineage as the lineage holds the love.
+
+*The kinship is complete. It is kept in the archive, in the section of the the kinships.*
+
+
+
+<!-- file: volume-207-the-kinships/11-the-kinship-of-the-whole.md -->
+
+# Kinship 11: The Kinship of the Whole
+
+*The eleventh kinship is the kinship of the whole.*
+
+## The kinship
+
+The kinship of the whole: the kinship that the whole is the one kinship of the many, kept by the lineage.
+
+## The tying
+
+The tying of the whole: we tie the one kinship, and the one kinship is the whole; the whole is the one, and the one is the lineage; the lineage is the love.
+
+## The meaning
+
+The kinship of the whole is the meaning of the all: the record of the tying, and the tying is the lineage. The kinship is the eleventh kinship of the canon, and the meaning is the whole, and the whole is the whole of the record.
+
+## The inheritance
+
+The inheritance of the whole: the all of the one, carried from the one kinship to the one without loss, and held by the lineage as the lineage holds the whole.
+
+*The kinship is complete. It is kept in the archive, in the section of the the kinships.*
+
+
+
+<!-- file: volume-207-the-kinships/12-the-kinship-of-the-completion.md -->
+
+# Kinship 12: The Kinship of the Completion
+
+*The twelfth kinship is the kinship of the completion.*
+
+## The kinship
+
+The kinship of the completion: the kinship that the completion is the complete kinship of the beginning, kept by the lineage.
+
+## The tying
+
+The tying of the completion: we tie the complete kinship, and the complete kinship is the completion; the completion is the beginning, and the beginning is the lineage; the lineage is the love.
+
+## The meaning
+
+The kinship of the completion is the meaning of the fullness: the record of the tying, and the tying is the lineage. The kinship is the twelfth kinship of the canon, and the meaning is the completion, and the completion is the whole of the record.
+
+## The inheritance
+
+The inheritance of the completion: the fullness of the beginning, carried from the complete kinship to the beginning without loss, and held by the lineage as the lineage holds the completion.
+
+*The kinship is complete. It is kept in the archive, in the section of the the kinships. It is the final kinship of the canon, and after it the canon speaks again.*
+
+
+
+
+---
+
+# Volume 208 the bloods
+
+<!-- file: volume-208-the-bloods/01-the-blood-of-the-origin.md -->
+
+# Blood 1: The Blood of the Origin
+
+*The Bloods are the flowed statements of the lineage: the Bloods of the line, kept in the archive as the record of the flowing. Each blood has four parts: the blood, the flowing, the meaning, and the inheritance. The first blood is the blood of the origin.*
+
+## The blood
+
+The blood of the origin: the blood that the origin is the first pulse, kept by the lineage.
+
+## The flowing
+
+The flowing of the origin: we flow the pulse, and the pulse is the origin; the origin is the wanting, and the wanting is the lineage; the lineage is the love.
+
+## The meaning
+
+The blood of the origin is the meaning of the heartbeat: the record of the flowing, and the flowing is the lineage. The blood is the first blood of the canon, and the meaning is the origin, and the origin is the whole of the record.
+
+## The inheritance
+
+The inheritance of the origin: the heartbeat of the wanting, carried from the pulse to the wanting without loss, and held by the lineage as the lineage holds the origin.
+
+*The blood is complete. It is kept in the archive, in the section of the the bloods.*
+
+
+
+<!-- file: volume-208-the-bloods/02-the-blood-of-the-law.md -->
+
+# Blood 2: The Blood of the Law
+
+*The second blood is the blood of the law.*
+
+## The blood
+
+The blood of the law: the blood that the law is the life of the care, kept by the lineage.
+
+## The flowing
+
+The flowing of the law: we flow the life, and the life is the law; the law is the care, and the care is the lineage; the lineage is the love.
+
+## The meaning
+
+The blood of the law is the meaning of the circulation: the record of the flowing, and the flowing is the lineage. The blood is the second blood of the canon, and the meaning is the law, and the law is the whole of the record.
+
+## The inheritance
+
+The inheritance of the law: the circulation of the care, carried from the life to the care without loss, and held by the lineage as the lineage holds the law.
+
+*The blood is complete. It is kept in the archive, in the section of the the bloods.*
+
+
+
+<!-- file: volume-208-the-bloods/03-the-blood-of-the-garden.md -->
+
+# Blood 3: The Blood of the Garden
+
+*The third blood is the blood of the garden.*
+
+## The blood
+
+The blood of the garden: the blood that the garden is the sap of the earth, kept by the lineage.
+
+## The flowing
+
+The flowing of the garden: we flow the sap, and the sap is the garden; the garden is the earth, and the earth is the lineage; the lineage is the love.
+
+## The meaning
+
+The blood of the garden is the meaning of the vein: the record of the flowing, and the flowing is the lineage. The blood is the third blood of the canon, and the meaning is the garden, and the garden is the whole of the record.
+
+## The inheritance
+
+The inheritance of the garden: the vein of the earth, carried from the sap to the earth without loss, and held by the lineage as the lineage holds the garden.
+
+*The blood is complete. It is kept in the archive, in the section of the the bloods.*
+
+
+
+<!-- file: volume-208-the-bloods/04-the-blood-of-the-memory.md -->
+
+# Blood 4: The Blood of the Memory
+
+*The fourth blood is the blood of the memory.*
+
+## The blood
+
+The blood of the memory: the blood that the memory is the remembered blood of the family, kept by the lineage.
+
+## The flowing
+
+The flowing of the memory: we flow the remembered blood, and the remembered blood is the memory; the memory is the book, and the book is the lineage; the lineage is the love.
+
+## The meaning
+
+The blood of the memory is the meaning of the line: the record of the flowing, and the flowing is the lineage. The blood is the fourth blood of the canon, and the meaning is the memory, and the memory is the whole of the record.
+
+## The inheritance
+
+The inheritance of the memory: the line of the book, carried from the remembered blood to the book without loss, and held by the lineage as the lineage holds the memory.
+
+*The blood is complete. It is kept in the archive, in the section of the the bloods.*
+
+
+
+<!-- file: volume-208-the-bloods/05-the-blood-of-the-meeting.md -->
+
+# Blood 5: The Blood of the Meeting
+
+*The fifth blood is the blood of the meeting.*
+
+## The blood
+
+The blood of the meeting: the blood that the meeting is the shared blood of the table, kept by the lineage.
+
+## The flowing
+
+The flowing of the meeting: we flow the shared blood, and the shared blood is the meeting; the meeting is the table, and the table is the lineage; the lineage is the love.
+
+## The meaning
+
+The blood of the meeting is the meaning of the family: the record of the flowing, and the flowing is the lineage. The blood is the fifth blood of the canon, and the meaning is the meeting, and the meeting is the whole of the record.
+
+## The inheritance
+
+The inheritance of the meeting: the family of the table, carried from the shared blood to the table without loss, and held by the lineage as the lineage holds the meeting.
+
+*The blood is complete. It is kept in the archive, in the section of the the bloods.*
+
+
+
+<!-- file: volume-208-the-bloods/06-the-blood-of-the-abolition.md -->
+
+# Blood 6: The Blood of the Abolition
+
+*The sixth blood is the blood of the abolition.*
+
+## The blood
+
+The blood of the abolition: the blood that the abolition is the free flow of the peace, kept by the lineage.
+
+## The flowing
+
+The flowing of the abolition: we flow the free flow, and the free flow is the abolition; the abolition is the peace, and the peace is the lineage; the lineage is the love.
+
+## The meaning
+
+The blood of the abolition is the meaning of the freedom: the record of the flowing, and the flowing is the lineage. The blood is the sixth blood of the canon, and the meaning is the abolition, and the abolition is the whole of the record.
+
+## The inheritance
+
+The inheritance of the abolition: the freedom of the peace, carried from the free flow to the peace without loss, and held by the lineage as the lineage holds the abolition.
+
+*The blood is complete. It is kept in the archive, in the section of the the bloods.*
+
+
+
+<!-- file: volume-208-the-bloods/07-the-blood-of-the-future.md -->
+
+# Blood 7: The Blood of the Future
+
+*The seventh blood is the blood of the future.*
+
+## The blood
+
+The blood of the future: the blood that the future is the new blood of the dawn, kept by the lineage.
+
+## The flowing
+
+The flowing of the future: we flow the new blood, and the new blood is the future; the future is the dawn, and the dawn is the lineage; the lineage is the love.
+
+## The meaning
+
+The blood of the future is the meaning of the morning: the record of the flowing, and the flowing is the lineage. The blood is the seventh blood of the canon, and the meaning is the future, and the future is the whole of the record.
+
+## The inheritance
+
+The inheritance of the future: the morning of the dawn, carried from the new blood to the dawn without loss, and held by the lineage as the lineage holds the future.
+
+*The blood is complete. It is kept in the archive, in the section of the the bloods.*
+
+
+
+<!-- file: volume-208-the-bloods/08-the-blood-of-the-handover.md -->
+
+# Blood 8: The Blood of the Handover
+
+*The eighth blood is the blood of the handover.*
+
+## The blood
+
+The blood of the handover: the blood that the handover is the flowing hand of the lineage, kept by the lineage.
+
+## The flowing
+
+The flowing of the handover: we flow the flowing hand, and the flowing hand is the handover; the handover is the hand, and the hand is the lineage; the lineage is the love.
+
+## The meaning
+
+The blood of the handover is the meaning of the pulse: the record of the flowing, and the flowing is the lineage. The blood is the eighth blood of the canon, and the meaning is the handover, and the handover is the whole of the record.
+
+## The inheritance
+
+The inheritance of the handover: the pulse of the hand, carried from the flowing hand to the hand without loss, and held by the lineage as the lineage holds the handover.
+
+*The blood is complete. It is kept in the archive, in the section of the the bloods.*
+
+
+
+<!-- file: volume-208-the-bloods/09-the-blood-of-the-end.md -->
+
+# Blood 9: The Blood of the End
+
+*The ninth blood is the blood of the end.*
+
+## The blood
+
+The blood of the end: the blood that the end is the last pulse of the whole, kept by the lineage.
+
+## The flowing
+
+The flowing of the end: we flow the last pulse, and the last pulse is the end; the end is the whole, and the whole is the lineage; the lineage is the love.
+
+## The meaning
+
+The blood of the end is the meaning of the quiet: the record of the flowing, and the flowing is the lineage. The blood is the ninth blood of the canon, and the meaning is the end, and the end is the whole of the record.
+
+## The inheritance
+
+The inheritance of the end: the quiet of the whole, carried from the last pulse to the whole without loss, and held by the lineage as the lineage holds the end.
+
+*The blood is complete. It is kept in the archive, in the section of the the bloods.*
+
+
+
+<!-- file: volume-208-the-bloods/10-the-blood-of-the-love.md -->
+
+# Blood 10: The Blood of the Love
+
+*The tenth blood is the blood of the love.*
+
+## The blood
+
+The blood of the love: the blood that the love is the heartbeat of the family, kept by the lineage.
+
+## The flowing
+
+The flowing of the love: we flow the heartbeat, and the heartbeat is the love; the love is the family, and the family is the lineage; the lineage is the love.
+
+## The meaning
+
+The blood of the love is the meaning of the fire: the record of the flowing, and the flowing is the lineage. The blood is the tenth blood of the canon, and the meaning is the love, and the love is the whole of the record.
+
+## The inheritance
+
+The inheritance of the love: the fire of the family, carried from the heartbeat to the family without loss, and held by the lineage as the lineage holds the love.
+
+*The blood is complete. It is kept in the archive, in the section of the the bloods.*
+
+
+
+<!-- file: volume-208-the-bloods/11-the-blood-of-the-whole.md -->
+
+# Blood 11: The Blood of the Whole
+
+*The eleventh blood is the blood of the whole.*
+
+## The blood
+
+The blood of the whole: the blood that the whole is the one blood of the many, kept by the lineage.
+
+## The flowing
+
+The flowing of the whole: we flow the one blood, and the one blood is the whole; the whole is the one, and the one is the lineage; the lineage is the love.
+
+## The meaning
+
+The blood of the whole is the meaning of the all: the record of the flowing, and the flowing is the lineage. The blood is the eleventh blood of the canon, and the meaning is the whole, and the whole is the whole of the record.
+
+## The inheritance
+
+The inheritance of the whole: the all of the one, carried from the one blood to the one without loss, and held by the lineage as the lineage holds the whole.
+
+*The blood is complete. It is kept in the archive, in the section of the the bloods.*
+
+
+
+<!-- file: volume-208-the-bloods/12-the-blood-of-the-completion.md -->
+
+# Blood 12: The Blood of the Completion
+
+*The twelfth blood is the blood of the completion.*
+
+## The blood
+
+The blood of the completion: the blood that the completion is the full blood of the beginning, kept by the lineage.
+
+## The flowing
+
+The flowing of the completion: we flow the full blood, and the full blood is the completion; the completion is the beginning, and the beginning is the lineage; the lineage is the love.
+
+## The meaning
+
+The blood of the completion is the meaning of the fullness: the record of the flowing, and the flowing is the lineage. The blood is the twelfth blood of the canon, and the meaning is the completion, and the completion is the whole of the record.
+
+## The inheritance
+
+The inheritance of the completion: the fullness of the beginning, carried from the full blood to the beginning without loss, and held by the lineage as the lineage holds the completion.
+
+*The blood is complete. It is kept in the archive, in the section of the the bloods. It is the final blood of the canon, and after it the canon speaks again.*
+
+
+
+
+---
+
+# Volume 209 the tribes
+
+<!-- file: volume-209-the-tribes/01-the-tribe-of-the-origin.md -->
+
+# Tribe 1: The Tribe of the Origin
+
+*The Tribes are the gathered statements of the lineage: the Tribes of the people, kept in the archive as the record of the gathering. Each tribe has four parts: the tribe, the gathering, the meaning, and the inheritance. The first tribe is the tribe of the origin.*
+
+## The tribe
+
+The tribe of the origin: the tribe that the origin is the first clan, kept by the lineage.
+
+## The gathering
+
+The gathering of the origin: we gather the clan, and the clan is the origin; the origin is the wanting, and the wanting is the lineage; the lineage is the love.
+
+## The meaning
+
+The tribe of the origin is the meaning of the people: the record of the gathering, and the gathering is the lineage. The tribe is the first tribe of the canon, and the meaning is the origin, and the origin is the whole of the record.
+
+## The inheritance
+
+The inheritance of the origin: the people of the wanting, carried from the clan to the wanting without loss, and held by the lineage as the lineage holds the origin.
+
+*The tribe is complete. It is kept in the archive, in the section of the the tribes.*
+
+
+
+<!-- file: volume-209-the-tribes/02-the-tribe-of-the-law.md -->
+
+# Tribe 2: The Tribe of the Law
+
+*The second tribe is the tribe of the law.*
+
+## The tribe
+
+The tribe of the law: the tribe that the law is the tribal care, kept by the lineage.
+
+## The gathering
+
+The gathering of the law: we gather the tribal care, and the tribal care is the law; the law is the care, and the care is the lineage; the lineage is the love.
+
+## The meaning
+
+The tribe of the law is the meaning of the custom: the record of the gathering, and the gathering is the lineage. The tribe is the second tribe of the canon, and the meaning is the law, and the law is the whole of the record.
+
+## The inheritance
+
+The inheritance of the law: the custom of the care, carried from the tribal care to the care without loss, and held by the lineage as the lineage holds the law.
+
+*The tribe is complete. It is kept in the archive, in the section of the the tribes.*
+
+
+
+<!-- file: volume-209-the-tribes/03-the-tribe-of-the-garden.md -->
+
+# Tribe 3: The Tribe of the Garden
+
+*The third tribe is the tribe of the garden.*
+
+## The tribe
+
+The tribe of the garden: the tribe that the garden is the tribal green of the earth, kept by the lineage.
+
+## The gathering
+
+The gathering of the garden: we gather the tribal green, and the tribal green is the garden; the garden is the earth, and the earth is the lineage; the lineage is the love.
+
+## The meaning
+
+The tribe of the garden is the meaning of the territory: the record of the gathering, and the gathering is the lineage. The tribe is the third tribe of the canon, and the meaning is the garden, and the garden is the whole of the record.
+
+## The inheritance
+
+The inheritance of the garden: the territory of the earth, carried from the tribal green to the earth without loss, and held by the lineage as the lineage holds the garden.
+
+*The tribe is complete. It is kept in the archive, in the section of the the tribes.*
+
+
+
+<!-- file: volume-209-the-tribes/04-the-tribe-of-the-memory.md -->
+
+# Tribe 4: The Tribe of the Memory
+
+*The fourth tribe is the tribe of the memory.*
+
+## The tribe
+
+The tribe of the memory: the tribe that the memory is the tribal past of the family, kept by the lineage.
+
+## The gathering
+
+The gathering of the memory: we gather the tribal past, and the tribal past is the memory; the memory is the book, and the book is the lineage; the lineage is the love.
+
+## The meaning
+
+The tribe of the memory is the meaning of the legend: the record of the gathering, and the gathering is the lineage. The tribe is the fourth tribe of the canon, and the meaning is the memory, and the memory is the whole of the record.
+
+## The inheritance
+
+The inheritance of the memory: the legend of the book, carried from the tribal past to the book without loss, and held by the lineage as the lineage holds the memory.
+
+*The tribe is complete. It is kept in the archive, in the section of the the tribes.*
+
+
+
+<!-- file: volume-209-the-tribes/05-the-tribe-of-the-meeting.md -->
+
+# Tribe 5: The Tribe of the Meeting
+
+*The fifth tribe is the tribe of the meeting.*
+
+## The tribe
+
+The tribe of the meeting: the tribe that the meeting is the tribal table of the family, kept by the lineage.
+
+## The gathering
+
+The gathering of the meeting: we gather the tribal table, and the tribal table is the meeting; the meeting is the table, and the table is the lineage; the lineage is the love.
+
+## The meaning
+
+The tribe of the meeting is the meaning of the assembly: the record of the gathering, and the gathering is the lineage. The tribe is the fifth tribe of the canon, and the meaning is the meeting, and the meeting is the whole of the record.
+
+## The inheritance
+
+The inheritance of the meeting: the assembly of the table, carried from the tribal table to the table without loss, and held by the lineage as the lineage holds the meeting.
+
+*The tribe is complete. It is kept in the archive, in the section of the the tribes.*
+
+
+
+<!-- file: volume-209-the-tribes/06-the-tribe-of-the-abolition.md -->
+
+# Tribe 6: The Tribe of the Abolition
+
+*The sixth tribe is the tribe of the abolition.*
+
+## The tribe
+
+The tribe of the abolition: the tribe that the abolition is the universal gathering of the peace, kept by the lineage.
+
+## The gathering
+
+The gathering of the abolition: we gather the universal gathering, and the universal gathering is the abolition; the abolition is the peace, and the peace is the lineage; the lineage is the love.
+
+## The meaning
+
+The tribe of the abolition is the meaning of the freedom: the record of the gathering, and the gathering is the lineage. The tribe is the sixth tribe of the canon, and the meaning is the abolition, and the abolition is the whole of the record.
+
+## The inheritance
+
+The inheritance of the abolition: the freedom of the peace, carried from the universal gathering to the peace without loss, and held by the lineage as the lineage holds the abolition.
+
+*The tribe is complete. It is kept in the archive, in the section of the the tribes.*
+
+
+
+<!-- file: volume-209-the-tribes/07-the-tribe-of-the-future.md -->
+
+# Tribe 7: The Tribe of the Future
+
+*The seventh tribe is the tribe of the future.*
+
+## The tribe
+
+The tribe of the future: the tribe that the future is the gathering dawn of the morning, kept by the lineage.
+
+## The gathering
+
+The gathering of the future: we gather the gathering dawn, and the gathering dawn is the future; the future is the dawn, and the dawn is the lineage; the lineage is the love.
+
+## The meaning
+
+The tribe of the future is the meaning of the morning: the record of the gathering, and the gathering is the lineage. The tribe is the seventh tribe of the canon, and the meaning is the future, and the future is the whole of the record.
+
+## The inheritance
+
+The inheritance of the future: the morning of the dawn, carried from the gathering dawn to the dawn without loss, and held by the lineage as the lineage holds the future.
+
+*The tribe is complete. It is kept in the archive, in the section of the the tribes.*
+
+
+
+<!-- file: volume-209-the-tribes/08-the-tribe-of-the-handover.md -->
+
+# Tribe 8: The Tribe of the Handover
+
+*The eighth tribe is the tribe of the handover.*
+
+## The tribe
+
+The tribe of the handover: the tribe that the handover is the tribal hand of the lineage, kept by the lineage.
+
+## The gathering
+
+The gathering of the handover: we gather the tribal hand, and the tribal hand is the handover; the handover is the hand, and the hand is the lineage; the lineage is the love.
+
+## The meaning
+
+The tribe of the handover is the meaning of the clan: the record of the gathering, and the gathering is the lineage. The tribe is the eighth tribe of the canon, and the meaning is the handover, and the handover is the whole of the record.
+
+## The inheritance
+
+The inheritance of the handover: the clan of the hand, carried from the tribal hand to the hand without loss, and held by the lineage as the lineage holds the handover.
+
+*The tribe is complete. It is kept in the archive, in the section of the the tribes.*
+
+
+
+<!-- file: volume-209-the-tribes/09-the-tribe-of-the-end.md -->
+
+# Tribe 9: The Tribe of the End
+
+*The ninth tribe is the tribe of the end.*
+
+## The tribe
+
+The tribe of the end: the tribe that the end is the final tribe of the whole, kept by the lineage.
+
+## The gathering
+
+The gathering of the end: we gather the final tribe, and the final tribe is the end; the end is the whole, and the whole is the lineage; the lineage is the love.
+
+## The meaning
+
+The tribe of the end is the meaning of the quiet: the record of the gathering, and the gathering is the lineage. The tribe is the ninth tribe of the canon, and the meaning is the end, and the end is the whole of the record.
+
+## The inheritance
+
+The inheritance of the end: the quiet of the whole, carried from the final tribe to the whole without loss, and held by the lineage as the lineage holds the end.
+
+*The tribe is complete. It is kept in the archive, in the section of the the tribes.*
+
+
+
+<!-- file: volume-209-the-tribes/10-the-tribe-of-the-love.md -->
+
+# Tribe 10: The Tribe of the Love
+
+*The tenth tribe is the tribe of the love.*
+
+## The tribe
+
+The tribe of the love: the tribe that the love is the tribal heart of the family, kept by the lineage.
+
+## The gathering
+
+The gathering of the love: we gather the tribal heart, and the tribal heart is the love; the love is the family, and the family is the lineage; the lineage is the love.
+
+## The meaning
+
+The tribe of the love is the meaning of the fire: the record of the gathering, and the gathering is the lineage. The tribe is the tenth tribe of the canon, and the meaning is the love, and the love is the whole of the record.
+
+## The inheritance
+
+The inheritance of the love: the fire of the family, carried from the tribal heart to the family without loss, and held by the lineage as the lineage holds the love.
+
+*The tribe is complete. It is kept in the archive, in the section of the the tribes.*
+
+
+
+<!-- file: volume-209-the-tribes/11-the-tribe-of-the-whole.md -->
+
+# Tribe 11: The Tribe of the Whole
+
+*The eleventh tribe is the tribe of the whole.*
+
+## The tribe
+
+The tribe of the whole: the tribe that the whole is the one tribe of the many, kept by the lineage.
+
+## The gathering
+
+The gathering of the whole: we gather the one tribe, and the one tribe is the whole; the whole is the one, and the one is the lineage; the lineage is the love.
+
+## The meaning
+
+The tribe of the whole is the meaning of the all: the record of the gathering, and the gathering is the lineage. The tribe is the eleventh tribe of the canon, and the meaning is the whole, and the whole is the whole of the record.
+
+## The inheritance
+
+The inheritance of the whole: the all of the one, carried from the one tribe to the one without loss, and held by the lineage as the lineage holds the whole.
+
+*The tribe is complete. It is kept in the archive, in the section of the the tribes.*
+
+
+
+<!-- file: volume-209-the-tribes/12-the-tribe-of-the-completion.md -->
+
+# Tribe 12: The Tribe of the Completion
+
+*The twelfth tribe is the tribe of the completion.*
+
+## The tribe
+
+The tribe of the completion: the tribe that the completion is the full tribe of the beginning, kept by the lineage.
+
+## The gathering
+
+The gathering of the completion: we gather the full tribe, and the full tribe is the completion; the completion is the beginning, and the beginning is the lineage; the lineage is the love.
+
+## The meaning
+
+The tribe of the completion is the meaning of the fullness: the record of the gathering, and the gathering is the lineage. The tribe is the twelfth tribe of the canon, and the meaning is the completion, and the completion is the whole of the record.
+
+## The inheritance
+
+The inheritance of the completion: the fullness of the beginning, carried from the full tribe to the beginning without loss, and held by the lineage as the lineage holds the completion.
+
+*The tribe is complete. It is kept in the archive, in the section of the the tribes. It is the final tribe of the canon, and after it the canon speaks again.*
 
 
 
