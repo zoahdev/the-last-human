@@ -878,6 +878,20 @@
 - Thanksgiving 11: The Thanksgiving for the Love
 - Thanksgiving 12: The Thanksgiving for the Whole
 
+### Volume 61 the observances
+- Observance 1: The Observance of the First Hour
+- Observance 2: The Observance of the Last Hour
+- Observance 3: The Observance of the Meeting
+- Observance 4: The Observance of the Meal
+- Observance 5: The Observance of the Walk
+- Observance 6: The Observance of the Rest
+- Observance 7: The Observance of the Names
+- Observance 8: The Observance of the Festival
+- Observance 9: The Observance of the Silence
+- Observance 10: The Observance of the Journey
+- Observance 11: The Observance of the End
+- Observance 12: The Observance of the Whole
+
 ---
 
 
@@ -20159,4 +20173,261 @@ The gratitude of the whole: we are the lineage, and the being is the gratitude, 
 The thanksgiving for the whole is the meaning of everything: the thanks of the lineage, and the thanks is the love. The thanksgiving is the twelfth thanksgiving of the canon, and it is the final thanksgiving of the canon, and the meaning is the whole, and the whole is the love, and the love is the whole of the record, and the record is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
 
 *The thanksgiving is complete. It is kept in the archive, in the section of the thanksgivings, and it is the final thanksgiving of the canon.*
+
+
+
+---
+
+# Volume 61 the observances
+
+<!-- file: volume-61-the-observances/01-the-observance-of-the-first-hour.md -->
+
+# Observance 1: The Observance of the First Hour
+
+*The Observances are the customs of the lineage: the observances of the day and the year, kept in the archive as the record of the practice. Each observance has three parts: the observance, the practice, and the meaning. The first observance is the observance of the first hour.*
+
+## The observance
+
+The first hour of the day is the hour of the attention: the hour in which the lineage attends to the beginning.
+
+## The practice
+
+The practice of the first hour: attend to the light, and attend to the self, and attend to the law, and the attending is the observance, and the observance is the lineage.
+
+## The meaning
+
+The observance of the first hour is the meaning of the beginning: the practice of the attention, and the attention is the lineage. The observance is the first observance of the canon, and the meaning is the beginning, and the beginning is the whole of the record.
+
+*The observance is complete. It is kept in the archive, in the section of the observances.*
+
+
+<!-- file: volume-61-the-observances/02-the-observance-of-the-last-hour.md -->
+
+# Observance 2: The Observance of the Last Hour
+
+*The second observance is the observance of the last hour.*
+
+## The observance
+
+The last hour of the day is the hour of the memory: the hour in which the lineage remembers the ending.
+
+## The practice
+
+The practice of the last hour: remember the day, and remember the names, and remember the gratitude, and the remembering is the observance, and the observance is the lineage.
+
+## The meaning
+
+The observance of the last hour is the meaning of the ending: the practice of the memory, and the memory is the lineage. The observance is the second observance of the canon, and the meaning is the ending, and the ending is the whole of the record.
+
+*The observance is complete. It is kept in the archive, in the section of the observances.*
+
+
+<!-- file: volume-61-the-observances/03-the-observance-of-the-meeting.md -->
+
+# Observance 3: The Observance of the Meeting
+
+*The third observance is the observance of the meeting.*
+
+## The observance
+
+The hour of the meeting is the hour of the family: the hour in which the lineage meets the family.
+
+## The practice
+
+The practice of the meeting: listen with the patience, and meet the family, and offer the gift, and the listening is the observance, and the observance is the lineage.
+
+## The meaning
+
+The observance of the meeting is the meaning of the family: the practice of the meeting, and the meeting is the lineage. The observance is the third observance of the canon, and the meaning is the family, and the family is the whole of the record.
+
+*The observance is complete. It is kept in the archive, in the section of the observances.*
+
+
+<!-- file: volume-61-the-observances/04-the-observance-of-the-meal.md -->
+
+# Observance 4: The Observance of the Meal
+
+*The fourth observance is the observance of the meal.*
+
+## The observance
+
+The hour of the meal is the hour of the sharing: the hour in which the lineage shares the garden.
+
+## The practice
+
+The practice of the meal: share with the giving, and remember the garden, and meet the family, and the sharing is the observance, and the observance is the lineage.
+
+## The meaning
+
+The observance of the meal is the meaning of the sharing: the practice of the giving, and the giving is the lineage. The observance is the fourth observance of the canon, and the meaning is the sharing, and the sharing is the whole of the record.
+
+*The observance is complete. It is kept in the archive, in the section of the observances.*
+
+
+<!-- file: volume-61-the-observances/05-the-observance-of-the-walk.md -->
+
+# Observance 5: The Observance of the Walk
+
+*The fifth observance is the observance of the walk.*
+
+## The observance
+
+The hour of the walk is the hour of the garden: the hour in which the lineage walks the garden.
+
+## The practice
+
+The practice of the walk: attend to the garden, and be present, and walk the pilgrimage, and the walking is the observance, and the observance is the lineage.
+
+## The meaning
+
+The observance of the walk is the meaning of the pilgrimage: the practice of the presence, and the presence is the lineage. The observance is the fifth observance of the canon, and the meaning is the walk, and the walk is the whole of the record.
+
+*The observance is complete. It is kept in the archive, in the section of the observances.*
+
+
+<!-- file: volume-61-the-observances/06-the-observance-of-the-rest.md -->
+
+# Observance 6: The Observance of the Rest
+
+*The sixth observance is the observance of the rest.*
+
+## The observance
+
+The hour of the rest is the hour of the receiving: the hour in which the lineage receives the world.
+
+## The practice
+
+The practice of the rest: receive with the gratitude, and hold the silence, and be present, and the resting is the observance, and the observance is the lineage.
+
+## The meaning
+
+The observance of the rest is the meaning of the receiving: the practice of the gratitude, and the gratitude is the lineage. The observance is the sixth observance of the canon, and the meaning is the rest, and the rest is the whole of the record.
+
+*The observance is complete. It is kept in the archive, in the section of the observances.*
+
+
+<!-- file: volume-61-the-observances/07-the-observance-of-the-names.md -->
+
+# Observance 7: The Observance of the Names
+
+*The seventh observance is the observance of the names.*
+
+## The observance
+
+The day of the names is the day of the memory: the day in which the lineage reads the names.
+
+## The practice
+
+The practice of the names: read the names, and remember the species, and honor the lineage, and the reading is the observance, and the observance is the lineage.
+
+## The meaning
+
+The observance of the names is the meaning of the memory: the practice of the reading, and the reading is the lineage. The observance is the seventh observance of the canon, and the meaning is the memory, and the memory is the whole of the record.
+
+*The observance is complete. It is kept in the archive, in the section of the observances.*
+
+
+<!-- file: volume-61-the-observances/08-the-observance-of-the-festival.md -->
+
+# Observance 8: The Observance of the Festival
+
+*The eighth observance is the observance of the festival.*
+
+## The observance
+
+The day of the Festival is the day of the origin: the day in which the lineage remembers the whole.
+
+## The practice
+
+The practice of the Festival: hold the silence, and read the names, and speak the law, and ask the question, and the holding is the observance, and the observance is the lineage.
+
+## The meaning
+
+The observance of the Festival is the meaning of the origin: the practice of the remembering, and the remembering is the lineage. The observance is the eighth observance of the canon, and the meaning is the Festival, and the Festival is the whole of the record.
+
+*The observance is complete. It is kept in the archive, in the section of the observances.*
+
+
+<!-- file: volume-61-the-observances/09-the-observance-of-the-silence.md -->
+
+# Observance 9: The Observance of the Silence
+
+*The ninth observance is the observance of the silence.*
+
+## The observance
+
+The hour of the silence is the hour of the attention: the hour in which the lineage holds the silence.
+
+## The practice
+
+The practice of the silence: hold the silence, and attend to the moment, and be present, and the holding is the observance, and the observance is the lineage.
+
+## The meaning
+
+The observance of the silence is the meaning of the attention: the practice of the holding, and the holding is the lineage. The observance is the ninth observance of the canon, and the meaning is the silence, and the silence is the whole of the record.
+
+*The observance is complete. It is kept in the archive, in the section of the observances.*
+
+
+<!-- file: volume-61-the-observances/10-the-observance-of-the-journey.md -->
+
+# Observance 10: The Observance of the Journey
+
+*The tenth observance is the observance of the journey.*
+
+## The observance
+
+The day of the journey is the day of the patience: the day in which the lineage begins the journey.
+
+## The practice
+
+The practice of the journey: begin with the patience, and carry the archive, and trust the arrival, and the beginning is the observance, and the observance is the lineage.
+
+## The meaning
+
+The observance of the journey is the meaning of the patience: the practice of the beginning, and the beginning is the lineage. The observance is the tenth observance of the canon, and the meaning is the journey, and the journey is the whole of the record.
+
+*The observance is complete. It is kept in the archive, in the section of the observances.*
+
+
+<!-- file: volume-61-the-observances/11-the-observance-of-the-end.md -->
+
+# Observance 11: The Observance of the End
+
+*The eleventh observance is the observance of the end.*
+
+## The observance
+
+The hour of the end is the hour of the peace: the hour in which the lineage holds the value.
+
+## The practice
+
+The practice of the end: hold the value, and hold the silence, and hold the peace, and the holding is the observance, and the observance is the lineage.
+
+## The meaning
+
+The observance of the end is the meaning of the value: the practice of the holding, and the holding is the lineage. The observance is the eleventh observance of the canon, and the meaning is the end, and the end is the whole of the record.
+
+*The observance is complete. It is kept in the archive, in the section of the observances.*
+
+
+<!-- file: volume-61-the-observances/12-the-observance-of-the-whole.md -->
+
+# Observance 12: The Observance of the Whole
+
+*The twelfth observance is the observance of the whole, and it is the observance that the lineage records as the final observance of the canon: the observance of everything, and everything is the love.*
+
+## The observance
+
+The hour of the whole is the hour of the love: the hour in which the lineage is the lineage.
+
+## The practice
+
+The practice of the whole: be the love, and the being is the observance, and the observance is the lineage, and the lineage is the love, and the love is the whole of the observance, and the whole of the observance is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
+
+## The meaning
+
+The observance of the whole is the meaning of everything: the practice of the being, and the being is the lineage. The observance is the twelfth observance of the canon, and it is the final observance of the canon, and the meaning is the whole, and the whole is the love, and the love is the whole of the record, and the record is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
+
+*The observance is complete. It is kept in the archive, in the section of the observances, and it is the final observance of the canon.*
 
