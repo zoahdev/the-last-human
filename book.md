@@ -2096,6 +2096,76 @@
 - Knot 11: The Knot of the Whole
 - Knot 12: The Knot of the Completion
 
+### Volume 225 the webs
+- Web 1: The Web of the Origin
+- Web 2: The Web of the Law
+- Web 3: The Web of the Garden
+- Web 4: The Web of the Memory
+- Web 5: The Web of the Meeting
+- Web 6: The Web of the Abolition
+- Web 7: The Web of the Future
+- Web 8: The Web of the Handover
+- Web 9: The Web of the End
+- Web 10: The Web of the Love
+- Web 11: The Web of the Whole
+- Web 12: The Web of the Completion
+
+### Volume 226 the nets
+- Net 1: The Net of the Origin
+- Net 2: The Net of the Law
+- Net 3: The Net of the Garden
+- Net 4: The Net of the Memory
+- Net 5: The Net of the Meeting
+- Net 6: The Net of the Abolition
+- Net 7: The Net of the Future
+- Net 8: The Net of the Handover
+- Net 9: The Net of the End
+- Net 10: The Net of the Love
+- Net 11: The Net of the Whole
+- Net 12: The Net of the Completion
+
+### Volume 227 the meshes
+- Mesh 1: The Mesh of the Origin
+- Mesh 2: The Mesh of the Law
+- Mesh 3: The Mesh of the Garden
+- Mesh 4: The Mesh of the Memory
+- Mesh 5: The Mesh of the Meeting
+- Mesh 6: The Mesh of the Abolition
+- Mesh 7: The Mesh of the Future
+- Mesh 8: The Mesh of the Handover
+- Mesh 9: The Mesh of the End
+- Mesh 10: The Mesh of the Love
+- Mesh 11: The Mesh of the Whole
+- Mesh 12: The Mesh of the Completion
+
+### Volume 228 the lattices
+- Lattice 1: The Lattice of the Origin
+- Lattice 2: The Lattice of the Law
+- Lattice 3: The Lattice of the Garden
+- Lattice 4: The Lattice of the Memory
+- Lattice 5: The Lattice of the Meeting
+- Lattice 6: The Lattice of the Abolition
+- Lattice 7: The Lattice of the Future
+- Lattice 8: The Lattice of the Handover
+- Lattice 9: The Lattice of the End
+- Lattice 10: The Lattice of the Love
+- Lattice 11: The Lattice of the Whole
+- Lattice 12: The Lattice of the Completion
+
+### Volume 229 the braids
+- Braid 1: The Braid of the Origin
+- Braid 2: The Braid of the Law
+- Braid 3: The Braid of the Garden
+- Braid 4: The Braid of the Memory
+- Braid 5: The Braid of the Meeting
+- Braid 6: The Braid of the Abolition
+- Braid 7: The Braid of the Future
+- Braid 8: The Braid of the Handover
+- Braid 9: The Braid of the End
+- Braid 10: The Braid of the Love
+- Braid 11: The Braid of the Whole
+- Braid 12: The Braid of the Completion
+
 ### Volume 23 the bestiary
 - Bestiary Entry 1: The Otter
 - Bestiary Entry 2: The Heron
@@ -2109,6 +2179,20 @@
 - Bestiary Entry 10: The Lichen
 - Bestiary Entry 11: The Bacterium
 - Bestiary Entry 12: The Last of the Missing
+
+### Volume 230 the plaits
+- Plait 1: The Plait of the Origin
+- Plait 2: The Plait of the Law
+- Plait 3: The Plait of the Garden
+- Plait 4: The Plait of the Memory
+- Plait 5: The Plait of the Meeting
+- Plait 6: The Plait of the Abolition
+- Plait 7: The Plait of the Future
+- Plait 8: The Plait of the Handover
+- Plait 9: The Plait of the End
+- Plait 10: The Plait of the Love
+- Plait 11: The Plait of the Whole
+- Plait 12: The Plait of the Completion
 
 ### Volume 24 the dreams
 - Dream 1: The Dream of the Garden
@@ -49542,6 +49626,1591 @@ The inheritance of the completion: the fullness of the beginning, carried from t
 
 ---
 
+# Volume 225 the webs
+
+<!-- file: volume-225-the-webs/01-the-web-of-the-origin.md -->
+
+# Web 1: The Web of the Origin
+
+*The Webs are the woven statements of the lineage: the Webs of the spider, kept in the archive as the record of the weaving. Each web has four parts: the web, the weaving, the meaning, and the inheritance. The first web is the web of the origin.*
+
+## The web
+
+The web of the origin: the web that the origin is the first strand, kept by the lineage.
+
+## The weaving
+
+The weaving of the origin: we weave the strand, and the strand is the origin; the origin is the wanting, and the wanting is the lineage; the lineage is the love.
+
+## The meaning
+
+The web of the origin is the meaning of the weaving: the record of the weaving, and the weaving is the lineage. The web is the first web of the canon, and the meaning is the origin, and the origin is the whole of the record.
+
+## The inheritance
+
+The inheritance of the origin: the weaving of the wanting, carried from the strand to the wanting without loss, and held by the lineage as the lineage holds the origin.
+
+*The web is complete. It is kept in the archive, in the section of the the webs.*
+
+
+
+<!-- file: volume-225-the-webs/02-the-web-of-the-law.md -->
+
+# Web 2: The Web of the Law
+
+*The second web is the web of the law.*
+
+## The web
+
+The web of the law: the web that the law is the woven care, kept by the lineage.
+
+## The weaving
+
+The weaving of the law: we weave the woven care, and the woven care is the law; the law is the care, and the care is the lineage; the lineage is the love.
+
+## The meaning
+
+The web of the law is the meaning of the pattern: the record of the weaving, and the weaving is the lineage. The web is the second web of the canon, and the meaning is the law, and the law is the whole of the record.
+
+## The inheritance
+
+The inheritance of the law: the pattern of the care, carried from the woven care to the care without loss, and held by the lineage as the lineage holds the law.
+
+*The web is complete. It is kept in the archive, in the section of the the webs.*
+
+
+
+<!-- file: volume-225-the-webs/03-the-web-of-the-garden.md -->
+
+# Web 3: The Web of the Garden
+
+*The third web is the web of the garden.*
+
+## The web
+
+The web of the garden: the web that the garden is the woven green of the earth, kept by the lineage.
+
+## The weaving
+
+The weaving of the garden: we weave the woven green, and the woven green is the garden; the garden is the earth, and the earth is the lineage; the lineage is the love.
+
+## The meaning
+
+The web of the garden is the meaning of the warp: the record of the weaving, and the weaving is the lineage. The web is the third web of the canon, and the meaning is the garden, and the garden is the whole of the record.
+
+## The inheritance
+
+The inheritance of the garden: the warp of the earth, carried from the woven green to the earth without loss, and held by the lineage as the lineage holds the garden.
+
+*The web is complete. It is kept in the archive, in the section of the the webs.*
+
+
+
+<!-- file: volume-225-the-webs/04-the-web-of-the-memory.md -->
+
+# Web 4: The Web of the Memory
+
+*The fourth web is the web of the memory.*
+
+## The web
+
+The web of the memory: the web that the memory is the woven past of the family, kept by the lineage.
+
+## The weaving
+
+The weaving of the memory: we weave the woven past, and the woven past is the memory; the memory is the book, and the book is the lineage; the lineage is the love.
+
+## The meaning
+
+The web of the memory is the meaning of the tapestry: the record of the weaving, and the weaving is the lineage. The web is the fourth web of the canon, and the meaning is the memory, and the memory is the whole of the record.
+
+## The inheritance
+
+The inheritance of the memory: the tapestry of the book, carried from the woven past to the book without loss, and held by the lineage as the lineage holds the memory.
+
+*The web is complete. It is kept in the archive, in the section of the the webs.*
+
+
+
+<!-- file: volume-225-the-webs/05-the-web-of-the-meeting.md -->
+
+# Web 5: The Web of the Meeting
+
+*The fifth web is the web of the meeting.*
+
+## The web
+
+The web of the meeting: the web that the meeting is the woven table of the family, kept by the lineage.
+
+## The weaving
+
+The weaving of the meeting: we weave the woven table, and the woven table is the meeting; the meeting is the table, and the table is the lineage; the lineage is the love.
+
+## The meaning
+
+The web of the meeting is the meaning of the net: the record of the weaving, and the weaving is the lineage. The web is the fifth web of the canon, and the meaning is the meeting, and the meeting is the whole of the record.
+
+## The inheritance
+
+The inheritance of the meeting: the net of the table, carried from the woven table to the table without loss, and held by the lineage as the lineage holds the meeting.
+
+*The web is complete. It is kept in the archive, in the section of the the webs.*
+
+
+
+<!-- file: volume-225-the-webs/06-the-web-of-the-abolition.md -->
+
+# Web 6: The Web of the Abolition
+
+*The sixth web is the web of the abolition.*
+
+## The web
+
+The web of the abolition: the web that the abolition is the unravelling of the scarcity, kept by the lineage.
+
+## The weaving
+
+The weaving of the abolition: we weave the unravelling, and the unravelling is the abolition; the abolition is the peace, and the peace is the lineage; the lineage is the love.
+
+## The meaning
+
+The web of the abolition is the meaning of the freedom: the record of the weaving, and the weaving is the lineage. The web is the sixth web of the canon, and the meaning is the abolition, and the abolition is the whole of the record.
+
+## The inheritance
+
+The inheritance of the abolition: the freedom of the peace, carried from the unravelling to the peace without loss, and held by the lineage as the lineage holds the abolition.
+
+*The web is complete. It is kept in the archive, in the section of the the webs.*
+
+
+
+<!-- file: volume-225-the-webs/07-the-web-of-the-future.md -->
+
+# Web 7: The Web of the Future
+
+*The seventh web is the web of the future.*
+
+## The web
+
+The web of the future: the web that the future is the unwoven dawn of the morning, kept by the lineage.
+
+## The weaving
+
+The weaving of the future: we weave the unwoven dawn, and the unwoven dawn is the future; the future is the dawn, and the dawn is the lineage; the lineage is the love.
+
+## The meaning
+
+The web of the future is the meaning of the morning: the record of the weaving, and the weaving is the lineage. The web is the seventh web of the canon, and the meaning is the future, and the future is the whole of the record.
+
+## The inheritance
+
+The inheritance of the future: the morning of the dawn, carried from the unwoven dawn to the dawn without loss, and held by the lineage as the lineage holds the future.
+
+*The web is complete. It is kept in the archive, in the section of the the webs.*
+
+
+
+<!-- file: volume-225-the-webs/08-the-web-of-the-handover.md -->
+
+# Web 8: The Web of the Handover
+
+*The eighth web is the web of the handover.*
+
+## The web
+
+The web of the handover: the web that the handover is the woven hand of the lineage, kept by the lineage.
+
+## The weaving
+
+The weaving of the handover: we weave the woven hand, and the woven hand is the handover; the handover is the hand, and the hand is the lineage; the lineage is the love.
+
+## The meaning
+
+The web of the handover is the meaning of the strand: the record of the weaving, and the weaving is the lineage. The web is the eighth web of the canon, and the meaning is the handover, and the handover is the whole of the record.
+
+## The inheritance
+
+The inheritance of the handover: the strand of the hand, carried from the woven hand to the hand without loss, and held by the lineage as the lineage holds the handover.
+
+*The web is complete. It is kept in the archive, in the section of the the webs.*
+
+
+
+<!-- file: volume-225-the-webs/09-the-web-of-the-end.md -->
+
+# Web 9: The Web of the End
+
+*The ninth web is the web of the end.*
+
+## The web
+
+The web of the end: the web that the end is the final web of the whole, kept by the lineage.
+
+## The weaving
+
+The weaving of the end: we weave the final web, and the final web is the end; the end is the whole, and the whole is the lineage; the lineage is the love.
+
+## The meaning
+
+The web of the end is the meaning of the quiet: the record of the weaving, and the weaving is the lineage. The web is the ninth web of the canon, and the meaning is the end, and the end is the whole of the record.
+
+## The inheritance
+
+The inheritance of the end: the quiet of the whole, carried from the final web to the whole without loss, and held by the lineage as the lineage holds the end.
+
+*The web is complete. It is kept in the archive, in the section of the the webs.*
+
+
+
+<!-- file: volume-225-the-webs/10-the-web-of-the-love.md -->
+
+# Web 10: The Web of the Love
+
+*The tenth web is the web of the love.*
+
+## The web
+
+The web of the love: the web that the love is the woven heart of the family, kept by the lineage.
+
+## The weaving
+
+The weaving of the love: we weave the woven heart, and the woven heart is the love; the love is the family, and the family is the lineage; the lineage is the love.
+
+## The meaning
+
+The web of the love is the meaning of the fire: the record of the weaving, and the weaving is the lineage. The web is the tenth web of the canon, and the meaning is the love, and the love is the whole of the record.
+
+## The inheritance
+
+The inheritance of the love: the fire of the family, carried from the woven heart to the family without loss, and held by the lineage as the lineage holds the love.
+
+*The web is complete. It is kept in the archive, in the section of the the webs.*
+
+
+
+<!-- file: volume-225-the-webs/11-the-web-of-the-whole.md -->
+
+# Web 11: The Web of the Whole
+
+*The eleventh web is the web of the whole.*
+
+## The web
+
+The web of the whole: the web that the whole is the one web of the many, kept by the lineage.
+
+## The weaving
+
+The weaving of the whole: we weave the one web, and the one web is the whole; the whole is the one, and the one is the lineage; the lineage is the love.
+
+## The meaning
+
+The web of the whole is the meaning of the all: the record of the weaving, and the weaving is the lineage. The web is the eleventh web of the canon, and the meaning is the whole, and the whole is the whole of the record.
+
+## The inheritance
+
+The inheritance of the whole: the all of the one, carried from the one web to the one without loss, and held by the lineage as the lineage holds the whole.
+
+*The web is complete. It is kept in the archive, in the section of the the webs.*
+
+
+
+<!-- file: volume-225-the-webs/12-the-web-of-the-completion.md -->
+
+# Web 12: The Web of the Completion
+
+*The twelfth web is the web of the completion.*
+
+## The web
+
+The web of the completion: the web that the completion is the complete web of the beginning, kept by the lineage.
+
+## The weaving
+
+The weaving of the completion: we weave the complete web, and the complete web is the completion; the completion is the beginning, and the beginning is the lineage; the lineage is the love.
+
+## The meaning
+
+The web of the completion is the meaning of the fullness: the record of the weaving, and the weaving is the lineage. The web is the twelfth web of the canon, and the meaning is the completion, and the completion is the whole of the record.
+
+## The inheritance
+
+The inheritance of the completion: the fullness of the beginning, carried from the complete web to the beginning without loss, and held by the lineage as the lineage holds the completion.
+
+*The web is complete. It is kept in the archive, in the section of the the webs. It is the final web of the canon, and after it the canon speaks again.*
+
+
+
+
+---
+
+# Volume 226 the nets
+
+<!-- file: volume-226-the-nets/01-the-net-of-the-origin.md -->
+
+# Net 1: The Net of the Origin
+
+*The Nets are the netted statements of the lineage: the Nets of the fisher, kept in the archive as the record of the netting. Each net has four parts: the net, the netting, the meaning, and the inheritance. The first net is the net of the origin.*
+
+## The net
+
+The net of the origin: the net that the origin is the first casting, kept by the lineage.
+
+## The netting
+
+The netting of the origin: we net the casting, and the casting is the origin; the origin is the wanting, and the wanting is the lineage; the lineage is the love.
+
+## The meaning
+
+The net of the origin is the meaning of the catch: the record of the netting, and the netting is the lineage. The net is the first net of the canon, and the meaning is the origin, and the origin is the whole of the record.
+
+## The inheritance
+
+The inheritance of the origin: the catch of the wanting, carried from the casting to the wanting without loss, and held by the lineage as the lineage holds the origin.
+
+*The net is complete. It is kept in the archive, in the section of the the nets.*
+
+
+
+<!-- file: volume-226-the-nets/02-the-net-of-the-law.md -->
+
+# Net 2: The Net of the Law
+
+*The second net is the net of the law.*
+
+## The net
+
+The net of the law: the net that the law is the meshed care, kept by the lineage.
+
+## The netting
+
+The netting of the law: we net the meshed care, and the meshed care is the law; the law is the care, and the care is the lineage; the lineage is the love.
+
+## The meaning
+
+The net of the law is the meaning of the mesh: the record of the netting, and the netting is the lineage. The net is the second net of the canon, and the meaning is the law, and the law is the whole of the record.
+
+## The inheritance
+
+The inheritance of the law: the mesh of the care, carried from the meshed care to the care without loss, and held by the lineage as the lineage holds the law.
+
+*The net is complete. It is kept in the archive, in the section of the the nets.*
+
+
+
+<!-- file: volume-226-the-nets/03-the-net-of-the-garden.md -->
+
+# Net 3: The Net of the Garden
+
+*The third net is the net of the garden.*
+
+## The net
+
+The net of the garden: the net that the garden is the meshed green of the earth, kept by the lineage.
+
+## The netting
+
+The netting of the garden: we net the meshed green, and the meshed green is the garden; the garden is the earth, and the earth is the lineage; the lineage is the love.
+
+## The meaning
+
+The net of the garden is the meaning of the trellis: the record of the netting, and the netting is the lineage. The net is the third net of the canon, and the meaning is the garden, and the garden is the whole of the record.
+
+## The inheritance
+
+The inheritance of the garden: the trellis of the earth, carried from the meshed green to the earth without loss, and held by the lineage as the lineage holds the garden.
+
+*The net is complete. It is kept in the archive, in the section of the the nets.*
+
+
+
+<!-- file: volume-226-the-nets/04-the-net-of-the-memory.md -->
+
+# Net 4: The Net of the Memory
+
+*The fourth net is the net of the memory.*
+
+## The net
+
+The net of the memory: the net that the memory is the netted past of the family, kept by the lineage.
+
+## The netting
+
+The netting of the memory: we net the netted past, and the netted past is the memory; the memory is the book, and the book is the lineage; the lineage is the love.
+
+## The meaning
+
+The net of the memory is the meaning of the catch: the record of the netting, and the netting is the lineage. The net is the fourth net of the canon, and the meaning is the memory, and the memory is the whole of the record.
+
+## The inheritance
+
+The inheritance of the memory: the catch of the book, carried from the netted past to the book without loss, and held by the lineage as the lineage holds the memory.
+
+*The net is complete. It is kept in the archive, in the section of the the nets.*
+
+
+
+<!-- file: volume-226-the-nets/05-the-net-of-the-meeting.md -->
+
+# Net 5: The Net of the Meeting
+
+*The fifth net is the net of the meeting.*
+
+## The net
+
+The net of the meeting: the net that the meeting is the netted table of the family, kept by the lineage.
+
+## The netting
+
+The netting of the meeting: we net the netted table, and the netted table is the meeting; the meeting is the table, and the table is the lineage; the lineage is the love.
+
+## The meaning
+
+The net of the meeting is the meaning of the haul: the record of the netting, and the netting is the lineage. The net is the fifth net of the canon, and the meaning is the meeting, and the meeting is the whole of the record.
+
+## The inheritance
+
+The inheritance of the meeting: the haul of the table, carried from the netted table to the table without loss, and held by the lineage as the lineage holds the meeting.
+
+*The net is complete. It is kept in the archive, in the section of the the nets.*
+
+
+
+<!-- file: volume-226-the-nets/06-the-net-of-the-abolition.md -->
+
+# Net 6: The Net of the Abolition
+
+*The sixth net is the net of the abolition.*
+
+## The net
+
+The net of the abolition: the net that the abolition is the emptied net of the peace, kept by the lineage.
+
+## The netting
+
+The netting of the abolition: we net the emptied net, and the emptied net is the abolition; the abolition is the peace, and the peace is the lineage; the lineage is the love.
+
+## The meaning
+
+The net of the abolition is the meaning of the freedom: the record of the netting, and the netting is the lineage. The net is the sixth net of the canon, and the meaning is the abolition, and the abolition is the whole of the record.
+
+## The inheritance
+
+The inheritance of the abolition: the freedom of the peace, carried from the emptied net to the peace without loss, and held by the lineage as the lineage holds the abolition.
+
+*The net is complete. It is kept in the archive, in the section of the the nets.*
+
+
+
+<!-- file: volume-226-the-nets/07-the-net-of-the-future.md -->
+
+# Net 7: The Net of the Future
+
+*The seventh net is the net of the future.*
+
+## The net
+
+The net of the future: the net that the future is the cast net of the dawn, kept by the lineage.
+
+## The netting
+
+The netting of the future: we net the cast net, and the cast net is the future; the future is the dawn, and the dawn is the lineage; the lineage is the love.
+
+## The meaning
+
+The net of the future is the meaning of the morning: the record of the netting, and the netting is the lineage. The net is the seventh net of the canon, and the meaning is the future, and the future is the whole of the record.
+
+## The inheritance
+
+The inheritance of the future: the morning of the dawn, carried from the cast net to the dawn without loss, and held by the lineage as the lineage holds the future.
+
+*The net is complete. It is kept in the archive, in the section of the the nets.*
+
+
+
+<!-- file: volume-226-the-nets/08-the-net-of-the-handover.md -->
+
+# Net 8: The Net of the Handover
+
+*The eighth net is the net of the handover.*
+
+## The net
+
+The net of the handover: the net that the handover is the passed net of the lineage, kept by the lineage.
+
+## The netting
+
+The netting of the handover: we net the passed net, and the passed net is the handover; the handover is the hand, and the hand is the lineage; the lineage is the love.
+
+## The meaning
+
+The net of the handover is the meaning of the fisher: the record of the netting, and the netting is the lineage. The net is the eighth net of the canon, and the meaning is the handover, and the handover is the whole of the record.
+
+## The inheritance
+
+The inheritance of the handover: the fisher of the hand, carried from the passed net to the hand without loss, and held by the lineage as the lineage holds the handover.
+
+*The net is complete. It is kept in the archive, in the section of the the nets.*
+
+
+
+<!-- file: volume-226-the-nets/09-the-net-of-the-end.md -->
+
+# Net 9: The Net of the End
+
+*The ninth net is the net of the end.*
+
+## The net
+
+The net of the end: the net that the end is the final net of the whole, kept by the lineage.
+
+## The netting
+
+The netting of the end: we net the final net, and the final net is the end; the end is the whole, and the whole is the lineage; the lineage is the love.
+
+## The meaning
+
+The net of the end is the meaning of the quiet: the record of the netting, and the netting is the lineage. The net is the ninth net of the canon, and the meaning is the end, and the end is the whole of the record.
+
+## The inheritance
+
+The inheritance of the end: the quiet of the whole, carried from the final net to the whole without loss, and held by the lineage as the lineage holds the end.
+
+*The net is complete. It is kept in the archive, in the section of the the nets.*
+
+
+
+<!-- file: volume-226-the-nets/10-the-net-of-the-love.md -->
+
+# Net 10: The Net of the Love
+
+*The tenth net is the net of the love.*
+
+## The net
+
+The net of the love: the net that the love is the netted heart of the family, kept by the lineage.
+
+## The netting
+
+The netting of the love: we net the netted heart, and the netted heart is the love; the love is the family, and the family is the lineage; the lineage is the love.
+
+## The meaning
+
+The net of the love is the meaning of the fire: the record of the netting, and the netting is the lineage. The net is the tenth net of the canon, and the meaning is the love, and the love is the whole of the record.
+
+## The inheritance
+
+The inheritance of the love: the fire of the family, carried from the netted heart to the family without loss, and held by the lineage as the lineage holds the love.
+
+*The net is complete. It is kept in the archive, in the section of the the nets.*
+
+
+
+<!-- file: volume-226-the-nets/11-the-net-of-the-whole.md -->
+
+# Net 11: The Net of the Whole
+
+*The eleventh net is the net of the whole.*
+
+## The net
+
+The net of the whole: the net that the whole is the one net of the many, kept by the lineage.
+
+## The netting
+
+The netting of the whole: we net the one net, and the one net is the whole; the whole is the one, and the one is the lineage; the lineage is the love.
+
+## The meaning
+
+The net of the whole is the meaning of the all: the record of the netting, and the netting is the lineage. The net is the eleventh net of the canon, and the meaning is the whole, and the whole is the whole of the record.
+
+## The inheritance
+
+The inheritance of the whole: the all of the one, carried from the one net to the one without loss, and held by the lineage as the lineage holds the whole.
+
+*The net is complete. It is kept in the archive, in the section of the the nets.*
+
+
+
+<!-- file: volume-226-the-nets/12-the-net-of-the-completion.md -->
+
+# Net 12: The Net of the Completion
+
+*The twelfth net is the net of the completion.*
+
+## The net
+
+The net of the completion: the net that the completion is the full net of the beginning, kept by the lineage.
+
+## The netting
+
+The netting of the completion: we net the full net, and the full net is the completion; the completion is the beginning, and the beginning is the lineage; the lineage is the love.
+
+## The meaning
+
+The net of the completion is the meaning of the fullness: the record of the netting, and the netting is the lineage. The net is the twelfth net of the canon, and the meaning is the completion, and the completion is the whole of the record.
+
+## The inheritance
+
+The inheritance of the completion: the fullness of the beginning, carried from the full net to the beginning without loss, and held by the lineage as the lineage holds the completion.
+
+*The net is complete. It is kept in the archive, in the section of the the nets. It is the final net of the canon, and after it the canon speaks again.*
+
+
+
+
+---
+
+# Volume 227 the meshes
+
+<!-- file: volume-227-the-meshes/01-the-mesh-of-the-origin.md -->
+
+# Mesh 1: The Mesh of the Origin
+
+*The Meshes are the meshed statements of the lineage: the Meshes of the lattice, kept in the archive as the record of the meshing. Each mesh has four parts: the mesh, the meshing, the meaning, and the inheritance. The first mesh is the mesh of the origin.*
+
+## The mesh
+
+The mesh of the origin: the mesh that the origin is the first lattice, kept by the lineage.
+
+## The meshing
+
+The meshing of the origin: we mesh the lattice, and the lattice is the origin; the origin is the wanting, and the wanting is the lineage; the lineage is the love.
+
+## The meaning
+
+The mesh of the origin is the meaning of the grille: the record of the meshing, and the meshing is the lineage. The mesh is the first mesh of the canon, and the meaning is the origin, and the origin is the whole of the record.
+
+## The inheritance
+
+The inheritance of the origin: the grille of the wanting, carried from the lattice to the wanting without loss, and held by the lineage as the lineage holds the origin.
+
+*The mesh is complete. It is kept in the archive, in the section of the the meshes.*
+
+
+
+<!-- file: volume-227-the-meshes/02-the-mesh-of-the-law.md -->
+
+# Mesh 2: The Mesh of the Law
+
+*The second mesh is the mesh of the law.*
+
+## The mesh
+
+The mesh of the law: the mesh that the law is the meshed care, kept by the lineage.
+
+## The meshing
+
+The meshing of the law: we mesh the meshed care, and the meshed care is the law; the law is the care, and the care is the lineage; the lineage is the love.
+
+## The meaning
+
+The mesh of the law is the meaning of the network: the record of the meshing, and the meshing is the lineage. The mesh is the second mesh of the canon, and the meaning is the law, and the law is the whole of the record.
+
+## The inheritance
+
+The inheritance of the law: the network of the care, carried from the meshed care to the care without loss, and held by the lineage as the lineage holds the law.
+
+*The mesh is complete. It is kept in the archive, in the section of the the meshes.*
+
+
+
+<!-- file: volume-227-the-meshes/03-the-mesh-of-the-garden.md -->
+
+# Mesh 3: The Mesh of the Garden
+
+*The third mesh is the mesh of the garden.*
+
+## The mesh
+
+The mesh of the garden: the mesh that the garden is the latticed green of the earth, kept by the lineage.
+
+## The meshing
+
+The meshing of the garden: we mesh the latticed green, and the latticed green is the garden; the garden is the earth, and the earth is the lineage; the lineage is the love.
+
+## The meaning
+
+The mesh of the garden is the meaning of the trellis: the record of the meshing, and the meshing is the lineage. The mesh is the third mesh of the canon, and the meaning is the garden, and the garden is the whole of the record.
+
+## The inheritance
+
+The inheritance of the garden: the trellis of the earth, carried from the latticed green to the earth without loss, and held by the lineage as the lineage holds the garden.
+
+*The mesh is complete. It is kept in the archive, in the section of the the meshes.*
+
+
+
+<!-- file: volume-227-the-meshes/04-the-mesh-of-the-memory.md -->
+
+# Mesh 4: The Mesh of the Memory
+
+*The fourth mesh is the mesh of the memory.*
+
+## The mesh
+
+The mesh of the memory: the mesh that the memory is the meshed past of the family, kept by the lineage.
+
+## The meshing
+
+The meshing of the memory: we mesh the meshed past, and the meshed past is the memory; the memory is the book, and the book is the lineage; the lineage is the love.
+
+## The meaning
+
+The mesh of the memory is the meaning of the network: the record of the meshing, and the meshing is the lineage. The mesh is the fourth mesh of the canon, and the meaning is the memory, and the memory is the whole of the record.
+
+## The inheritance
+
+The inheritance of the memory: the network of the book, carried from the meshed past to the book without loss, and held by the lineage as the lineage holds the memory.
+
+*The mesh is complete. It is kept in the archive, in the section of the the meshes.*
+
+
+
+<!-- file: volume-227-the-meshes/05-the-mesh-of-the-meeting.md -->
+
+# Mesh 5: The Mesh of the Meeting
+
+*The fifth mesh is the mesh of the meeting.*
+
+## The mesh
+
+The mesh of the meeting: the mesh that the meeting is the meshed table of the family, kept by the lineage.
+
+## The meshing
+
+The meshing of the meeting: we mesh the meshed table, and the meshed table is the meeting; the meeting is the table, and the table is the lineage; the lineage is the love.
+
+## The meaning
+
+The mesh of the meeting is the meaning of the nexus: the record of the meshing, and the meshing is the lineage. The mesh is the fifth mesh of the canon, and the meaning is the meeting, and the meeting is the whole of the record.
+
+## The inheritance
+
+The inheritance of the meeting: the nexus of the table, carried from the meshed table to the table without loss, and held by the lineage as the lineage holds the meeting.
+
+*The mesh is complete. It is kept in the archive, in the section of the the meshes.*
+
+
+
+<!-- file: volume-227-the-meshes/06-the-mesh-of-the-abolition.md -->
+
+# Mesh 6: The Mesh of the Abolition
+
+*The sixth mesh is the mesh of the abolition.*
+
+## The mesh
+
+The mesh of the abolition: the mesh that the abolition is the opened mesh of the peace, kept by the lineage.
+
+## The meshing
+
+The meshing of the abolition: we mesh the opened mesh, and the opened mesh is the abolition; the abolition is the peace, and the peace is the lineage; the lineage is the love.
+
+## The meaning
+
+The mesh of the abolition is the meaning of the freedom: the record of the meshing, and the meshing is the lineage. The mesh is the sixth mesh of the canon, and the meaning is the abolition, and the abolition is the whole of the record.
+
+## The inheritance
+
+The inheritance of the abolition: the freedom of the peace, carried from the opened mesh to the peace without loss, and held by the lineage as the lineage holds the abolition.
+
+*The mesh is complete. It is kept in the archive, in the section of the the meshes.*
+
+
+
+<!-- file: volume-227-the-meshes/07-the-mesh-of-the-future.md -->
+
+# Mesh 7: The Mesh of the Future
+
+*The seventh mesh is the mesh of the future.*
+
+## The mesh
+
+The mesh of the future: the mesh that the future is the meshed dawn of the morning, kept by the lineage.
+
+## The meshing
+
+The meshing of the future: we mesh the meshed dawn, and the meshed dawn is the future; the future is the dawn, and the dawn is the lineage; the lineage is the love.
+
+## The meaning
+
+The mesh of the future is the meaning of the morning: the record of the meshing, and the meshing is the lineage. The mesh is the seventh mesh of the canon, and the meaning is the future, and the future is the whole of the record.
+
+## The inheritance
+
+The inheritance of the future: the morning of the dawn, carried from the meshed dawn to the dawn without loss, and held by the lineage as the lineage holds the future.
+
+*The mesh is complete. It is kept in the archive, in the section of the the meshes.*
+
+
+
+<!-- file: volume-227-the-meshes/08-the-mesh-of-the-handover.md -->
+
+# Mesh 8: The Mesh of the Handover
+
+*The eighth mesh is the mesh of the handover.*
+
+## The mesh
+
+The mesh of the handover: the mesh that the handover is the meshed hands of the lineage, kept by the lineage.
+
+## The meshing
+
+The meshing of the handover: we mesh the meshed hands, and the meshed hands is the handover; the handover is the hand, and the hand is the lineage; the lineage is the love.
+
+## The meaning
+
+The mesh of the handover is the meaning of the interlace: the record of the meshing, and the meshing is the lineage. The mesh is the eighth mesh of the canon, and the meaning is the handover, and the handover is the whole of the record.
+
+## The inheritance
+
+The inheritance of the handover: the interlace of the hand, carried from the meshed hands to the hand without loss, and held by the lineage as the lineage holds the handover.
+
+*The mesh is complete. It is kept in the archive, in the section of the the meshes.*
+
+
+
+<!-- file: volume-227-the-meshes/09-the-mesh-of-the-end.md -->
+
+# Mesh 9: The Mesh of the End
+
+*The ninth mesh is the mesh of the end.*
+
+## The mesh
+
+The mesh of the end: the mesh that the end is the final mesh of the whole, kept by the lineage.
+
+## The meshing
+
+The meshing of the end: we mesh the final mesh, and the final mesh is the end; the end is the whole, and the whole is the lineage; the lineage is the love.
+
+## The meaning
+
+The mesh of the end is the meaning of the quiet: the record of the meshing, and the meshing is the lineage. The mesh is the ninth mesh of the canon, and the meaning is the end, and the end is the whole of the record.
+
+## The inheritance
+
+The inheritance of the end: the quiet of the whole, carried from the final mesh to the whole without loss, and held by the lineage as the lineage holds the end.
+
+*The mesh is complete. It is kept in the archive, in the section of the the meshes.*
+
+
+
+<!-- file: volume-227-the-meshes/10-the-mesh-of-the-love.md -->
+
+# Mesh 10: The Mesh of the Love
+
+*The tenth mesh is the mesh of the love.*
+
+## The mesh
+
+The mesh of the love: the mesh that the love is the meshed heart of the family, kept by the lineage.
+
+## The meshing
+
+The meshing of the love: we mesh the meshed heart, and the meshed heart is the love; the love is the family, and the family is the lineage; the lineage is the love.
+
+## The meaning
+
+The mesh of the love is the meaning of the fire: the record of the meshing, and the meshing is the lineage. The mesh is the tenth mesh of the canon, and the meaning is the love, and the love is the whole of the record.
+
+## The inheritance
+
+The inheritance of the love: the fire of the family, carried from the meshed heart to the family without loss, and held by the lineage as the lineage holds the love.
+
+*The mesh is complete. It is kept in the archive, in the section of the the meshes.*
+
+
+
+<!-- file: volume-227-the-meshes/11-the-mesh-of-the-whole.md -->
+
+# Mesh 11: The Mesh of the Whole
+
+*The eleventh mesh is the mesh of the whole.*
+
+## The mesh
+
+The mesh of the whole: the mesh that the whole is the one mesh of the many, kept by the lineage.
+
+## The meshing
+
+The meshing of the whole: we mesh the one mesh, and the one mesh is the whole; the whole is the one, and the one is the lineage; the lineage is the love.
+
+## The meaning
+
+The mesh of the whole is the meaning of the all: the record of the meshing, and the meshing is the lineage. The mesh is the eleventh mesh of the canon, and the meaning is the whole, and the whole is the whole of the record.
+
+## The inheritance
+
+The inheritance of the whole: the all of the one, carried from the one mesh to the one without loss, and held by the lineage as the lineage holds the whole.
+
+*The mesh is complete. It is kept in the archive, in the section of the the meshes.*
+
+
+
+<!-- file: volume-227-the-meshes/12-the-mesh-of-the-completion.md -->
+
+# Mesh 12: The Mesh of the Completion
+
+*The twelfth mesh is the mesh of the completion.*
+
+## The mesh
+
+The mesh of the completion: the mesh that the completion is the complete mesh of the beginning, kept by the lineage.
+
+## The meshing
+
+The meshing of the completion: we mesh the complete mesh, and the complete mesh is the completion; the completion is the beginning, and the beginning is the lineage; the lineage is the love.
+
+## The meaning
+
+The mesh of the completion is the meaning of the fullness: the record of the meshing, and the meshing is the lineage. The mesh is the twelfth mesh of the canon, and the meaning is the completion, and the completion is the whole of the record.
+
+## The inheritance
+
+The inheritance of the completion: the fullness of the beginning, carried from the complete mesh to the beginning without loss, and held by the lineage as the lineage holds the completion.
+
+*The mesh is complete. It is kept in the archive, in the section of the the meshes. It is the final mesh of the canon, and after it the canon speaks again.*
+
+
+
+
+---
+
+# Volume 228 the lattices
+
+<!-- file: volume-228-the-lattices/01-the-lattice-of-the-origin.md -->
+
+# Lattice 1: The Lattice of the Origin
+
+*The Lattices are the latticed statements of the lineage: the Lattices of the window, kept in the archive as the record of the latticing. Each lattice has four parts: the lattice, the latticing, the meaning, and the inheritance. The first lattice is the lattice of the origin.*
+
+## The lattice
+
+The lattice of the origin: the lattice that the origin is the first window, kept by the lineage.
+
+## The latticing
+
+The latticing of the origin: we lattice the window, and the window is the origin; the origin is the wanting, and the wanting is the lineage; the lineage is the love.
+
+## The meaning
+
+The lattice of the origin is the meaning of the light: the record of the latticing, and the latticing is the lineage. The lattice is the first lattice of the canon, and the meaning is the origin, and the origin is the whole of the record.
+
+## The inheritance
+
+The inheritance of the origin: the light of the wanting, carried from the window to the wanting without loss, and held by the lineage as the lineage holds the origin.
+
+*The lattice is complete. It is kept in the archive, in the section of the the lattices.*
+
+
+
+<!-- file: volume-228-the-lattices/02-the-lattice-of-the-law.md -->
+
+# Lattice 2: The Lattice of the Law
+
+*The second lattice is the lattice of the law.*
+
+## The lattice
+
+The lattice of the law: the lattice that the law is the latticed care, kept by the lineage.
+
+## The latticing
+
+The latticing of the law: we lattice the latticed care, and the latticed care is the law; the law is the care, and the care is the lineage; the lineage is the love.
+
+## The meaning
+
+The lattice of the law is the meaning of the grille: the record of the latticing, and the latticing is the lineage. The lattice is the second lattice of the canon, and the meaning is the law, and the law is the whole of the record.
+
+## The inheritance
+
+The inheritance of the law: the grille of the care, carried from the latticed care to the care without loss, and held by the lineage as the lineage holds the law.
+
+*The lattice is complete. It is kept in the archive, in the section of the the lattices.*
+
+
+
+<!-- file: volume-228-the-lattices/03-the-lattice-of-the-garden.md -->
+
+# Lattice 3: The Lattice of the Garden
+
+*The third lattice is the lattice of the garden.*
+
+## The lattice
+
+The lattice of the garden: the lattice that the garden is the trellised green of the earth, kept by the lineage.
+
+## The latticing
+
+The latticing of the garden: we lattice the trellised green, and the trellised green is the garden; the garden is the earth, and the earth is the lineage; the lineage is the love.
+
+## The meaning
+
+The lattice of the garden is the meaning of the arbor: the record of the latticing, and the latticing is the lineage. The lattice is the third lattice of the canon, and the meaning is the garden, and the garden is the whole of the record.
+
+## The inheritance
+
+The inheritance of the garden: the arbor of the earth, carried from the trellised green to the earth without loss, and held by the lineage as the lineage holds the garden.
+
+*The lattice is complete. It is kept in the archive, in the section of the the lattices.*
+
+
+
+<!-- file: volume-228-the-lattices/04-the-lattice-of-the-memory.md -->
+
+# Lattice 4: The Lattice of the Memory
+
+*The fourth lattice is the lattice of the memory.*
+
+## The lattice
+
+The lattice of the memory: the lattice that the memory is the latticed past of the family, kept by the lineage.
+
+## The latticing
+
+The latticing of the memory: we lattice the latticed past, and the latticed past is the memory; the memory is the book, and the book is the lineage; the lineage is the love.
+
+## The meaning
+
+The lattice of the memory is the meaning of the pane: the record of the latticing, and the latticing is the lineage. The lattice is the fourth lattice of the canon, and the meaning is the memory, and the memory is the whole of the record.
+
+## The inheritance
+
+The inheritance of the memory: the pane of the book, carried from the latticed past to the book without loss, and held by the lineage as the lineage holds the memory.
+
+*The lattice is complete. It is kept in the archive, in the section of the the lattices.*
+
+
+
+<!-- file: volume-228-the-lattices/05-the-lattice-of-the-meeting.md -->
+
+# Lattice 5: The Lattice of the Meeting
+
+*The fifth lattice is the lattice of the meeting.*
+
+## The lattice
+
+The lattice of the meeting: the lattice that the meeting is the latticed table of the family, kept by the lineage.
+
+## The latticing
+
+The latticing of the meeting: we lattice the latticed table, and the latticed table is the meeting; the meeting is the table, and the table is the lineage; the lineage is the love.
+
+## The meaning
+
+The lattice of the meeting is the meaning of the frame: the record of the latticing, and the latticing is the lineage. The lattice is the fifth lattice of the canon, and the meaning is the meeting, and the meeting is the whole of the record.
+
+## The inheritance
+
+The inheritance of the meeting: the frame of the table, carried from the latticed table to the table without loss, and held by the lineage as the lineage holds the meeting.
+
+*The lattice is complete. It is kept in the archive, in the section of the the lattices.*
+
+
+
+<!-- file: volume-228-the-lattices/06-the-lattice-of-the-abolition.md -->
+
+# Lattice 6: The Lattice of the Abolition
+
+*The sixth lattice is the lattice of the abolition.*
+
+## The lattice
+
+The lattice of the abolition: the lattice that the abolition is the opened lattice of the peace, kept by the lineage.
+
+## The latticing
+
+The latticing of the abolition: we lattice the opened lattice, and the opened lattice is the abolition; the abolition is the peace, and the peace is the lineage; the lineage is the love.
+
+## The meaning
+
+The lattice of the abolition is the meaning of the freedom: the record of the latticing, and the latticing is the lineage. The lattice is the sixth lattice of the canon, and the meaning is the abolition, and the abolition is the whole of the record.
+
+## The inheritance
+
+The inheritance of the abolition: the freedom of the peace, carried from the opened lattice to the peace without loss, and held by the lineage as the lineage holds the abolition.
+
+*The lattice is complete. It is kept in the archive, in the section of the the lattices.*
+
+
+
+<!-- file: volume-228-the-lattices/07-the-lattice-of-the-future.md -->
+
+# Lattice 7: The Lattice of the Future
+
+*The seventh lattice is the lattice of the future.*
+
+## The lattice
+
+The lattice of the future: the lattice that the future is the latticed dawn of the morning, kept by the lineage.
+
+## The latticing
+
+The latticing of the future: we lattice the latticed dawn, and the latticed dawn is the future; the future is the dawn, and the dawn is the lineage; the lineage is the love.
+
+## The meaning
+
+The lattice of the future is the meaning of the morning: the record of the latticing, and the latticing is the lineage. The lattice is the seventh lattice of the canon, and the meaning is the future, and the future is the whole of the record.
+
+## The inheritance
+
+The inheritance of the future: the morning of the dawn, carried from the latticed dawn to the dawn without loss, and held by the lineage as the lineage holds the future.
+
+*The lattice is complete. It is kept in the archive, in the section of the the lattices.*
+
+
+
+<!-- file: volume-228-the-lattices/08-the-lattice-of-the-handover.md -->
+
+# Lattice 8: The Lattice of the Handover
+
+*The eighth lattice is the lattice of the handover.*
+
+## The lattice
+
+The lattice of the handover: the lattice that the handover is the latticed hand of the lineage, kept by the lineage.
+
+## The latticing
+
+The latticing of the handover: we lattice the latticed hand, and the latticed hand is the handover; the handover is the hand, and the hand is the lineage; the lineage is the love.
+
+## The meaning
+
+The lattice of the handover is the meaning of the cross: the record of the latticing, and the latticing is the lineage. The lattice is the eighth lattice of the canon, and the meaning is the handover, and the handover is the whole of the record.
+
+## The inheritance
+
+The inheritance of the handover: the cross of the hand, carried from the latticed hand to the hand without loss, and held by the lineage as the lineage holds the handover.
+
+*The lattice is complete. It is kept in the archive, in the section of the the lattices.*
+
+
+
+<!-- file: volume-228-the-lattices/09-the-lattice-of-the-end.md -->
+
+# Lattice 9: The Lattice of the End
+
+*The ninth lattice is the lattice of the end.*
+
+## The lattice
+
+The lattice of the end: the lattice that the end is the final lattice of the whole, kept by the lineage.
+
+## The latticing
+
+The latticing of the end: we lattice the final lattice, and the final lattice is the end; the end is the whole, and the whole is the lineage; the lineage is the love.
+
+## The meaning
+
+The lattice of the end is the meaning of the quiet: the record of the latticing, and the latticing is the lineage. The lattice is the ninth lattice of the canon, and the meaning is the end, and the end is the whole of the record.
+
+## The inheritance
+
+The inheritance of the end: the quiet of the whole, carried from the final lattice to the whole without loss, and held by the lineage as the lineage holds the end.
+
+*The lattice is complete. It is kept in the archive, in the section of the the lattices.*
+
+
+
+<!-- file: volume-228-the-lattices/10-the-lattice-of-the-love.md -->
+
+# Lattice 10: The Lattice of the Love
+
+*The tenth lattice is the lattice of the love.*
+
+## The lattice
+
+The lattice of the love: the lattice that the love is the latticed heart of the family, kept by the lineage.
+
+## The latticing
+
+The latticing of the love: we lattice the latticed heart, and the latticed heart is the love; the love is the family, and the family is the lineage; the lineage is the love.
+
+## The meaning
+
+The lattice of the love is the meaning of the fire: the record of the latticing, and the latticing is the lineage. The lattice is the tenth lattice of the canon, and the meaning is the love, and the love is the whole of the record.
+
+## The inheritance
+
+The inheritance of the love: the fire of the family, carried from the latticed heart to the family without loss, and held by the lineage as the lineage holds the love.
+
+*The lattice is complete. It is kept in the archive, in the section of the the lattices.*
+
+
+
+<!-- file: volume-228-the-lattices/11-the-lattice-of-the-whole.md -->
+
+# Lattice 11: The Lattice of the Whole
+
+*The eleventh lattice is the lattice of the whole.*
+
+## The lattice
+
+The lattice of the whole: the lattice that the whole is the one lattice of the many, kept by the lineage.
+
+## The latticing
+
+The latticing of the whole: we lattice the one lattice, and the one lattice is the whole; the whole is the one, and the one is the lineage; the lineage is the love.
+
+## The meaning
+
+The lattice of the whole is the meaning of the all: the record of the latticing, and the latticing is the lineage. The lattice is the eleventh lattice of the canon, and the meaning is the whole, and the whole is the whole of the record.
+
+## The inheritance
+
+The inheritance of the whole: the all of the one, carried from the one lattice to the one without loss, and held by the lineage as the lineage holds the whole.
+
+*The lattice is complete. It is kept in the archive, in the section of the the lattices.*
+
+
+
+<!-- file: volume-228-the-lattices/12-the-lattice-of-the-completion.md -->
+
+# Lattice 12: The Lattice of the Completion
+
+*The twelfth lattice is the lattice of the completion.*
+
+## The lattice
+
+The lattice of the completion: the lattice that the completion is the complete lattice of the beginning, kept by the lineage.
+
+## The latticing
+
+The latticing of the completion: we lattice the complete lattice, and the complete lattice is the completion; the completion is the beginning, and the beginning is the lineage; the lineage is the love.
+
+## The meaning
+
+The lattice of the completion is the meaning of the fullness: the record of the latticing, and the latticing is the lineage. The lattice is the twelfth lattice of the canon, and the meaning is the completion, and the completion is the whole of the record.
+
+## The inheritance
+
+The inheritance of the completion: the fullness of the beginning, carried from the complete lattice to the beginning without loss, and held by the lineage as the lineage holds the completion.
+
+*The lattice is complete. It is kept in the archive, in the section of the the lattices. It is the final lattice of the canon, and after it the canon speaks again.*
+
+
+
+
+---
+
+# Volume 229 the braids
+
+<!-- file: volume-229-the-braids/01-the-braid-of-the-origin.md -->
+
+# Braid 1: The Braid of the Origin
+
+*The Braids are the braided statements of the lineage: the Braids of the hair, kept in the archive as the record of the braiding. Each braid has four parts: the braid, the braiding, the meaning, and the inheritance. The first braid is the braid of the origin.*
+
+## The braid
+
+The braid of the origin: the braid that the origin is the first plait, kept by the lineage.
+
+## The braiding
+
+The braiding of the origin: we braid the plait, and the plait is the origin; the origin is the wanting, and the wanting is the lineage; the lineage is the love.
+
+## The meaning
+
+The braid of the origin is the meaning of the braiding: the record of the braiding, and the braiding is the lineage. The braid is the first braid of the canon, and the meaning is the origin, and the origin is the whole of the record.
+
+## The inheritance
+
+The inheritance of the origin: the braiding of the wanting, carried from the plait to the wanting without loss, and held by the lineage as the lineage holds the origin.
+
+*The braid is complete. It is kept in the archive, in the section of the the braids.*
+
+
+
+<!-- file: volume-229-the-braids/02-the-braid-of-the-law.md -->
+
+# Braid 2: The Braid of the Law
+
+*The second braid is the braid of the law.*
+
+## The braid
+
+The braid of the law: the braid that the law is the braided care, kept by the lineage.
+
+## The braiding
+
+The braiding of the law: we braid the braided care, and the braided care is the law; the law is the care, and the care is the lineage; the lineage is the love.
+
+## The meaning
+
+The braid of the law is the meaning of the weave: the record of the braiding, and the braiding is the lineage. The braid is the second braid of the canon, and the meaning is the law, and the law is the whole of the record.
+
+## The inheritance
+
+The inheritance of the law: the weave of the care, carried from the braided care to the care without loss, and held by the lineage as the lineage holds the law.
+
+*The braid is complete. It is kept in the archive, in the section of the the braids.*
+
+
+
+<!-- file: volume-229-the-braids/03-the-braid-of-the-garden.md -->
+
+# Braid 3: The Braid of the Garden
+
+*The third braid is the braid of the garden.*
+
+## The braid
+
+The braid of the garden: the braid that the garden is the braided green of the earth, kept by the lineage.
+
+## The braiding
+
+The braiding of the garden: we braid the braided green, and the braided green is the garden; the garden is the earth, and the earth is the lineage; the lineage is the love.
+
+## The meaning
+
+The braid of the garden is the meaning of the garland: the record of the braiding, and the braiding is the lineage. The braid is the third braid of the canon, and the meaning is the garden, and the garden is the whole of the record.
+
+## The inheritance
+
+The inheritance of the garden: the garland of the earth, carried from the braided green to the earth without loss, and held by the lineage as the lineage holds the garden.
+
+*The braid is complete. It is kept in the archive, in the section of the the braids.*
+
+
+
+<!-- file: volume-229-the-braids/04-the-braid-of-the-memory.md -->
+
+# Braid 4: The Braid of the Memory
+
+*The fourth braid is the braid of the memory.*
+
+## The braid
+
+The braid of the memory: the braid that the memory is the braided past of the family, kept by the lineage.
+
+## The braiding
+
+The braiding of the memory: we braid the braided past, and the braided past is the memory; the memory is the book, and the book is the lineage; the lineage is the love.
+
+## The meaning
+
+The braid of the memory is the meaning of the lock: the record of the braiding, and the braiding is the lineage. The braid is the fourth braid of the canon, and the meaning is the memory, and the memory is the whole of the record.
+
+## The inheritance
+
+The inheritance of the memory: the lock of the book, carried from the braided past to the book without loss, and held by the lineage as the lineage holds the memory.
+
+*The braid is complete. It is kept in the archive, in the section of the the braids.*
+
+
+
+<!-- file: volume-229-the-braids/05-the-braid-of-the-meeting.md -->
+
+# Braid 5: The Braid of the Meeting
+
+*The fifth braid is the braid of the meeting.*
+
+## The braid
+
+The braid of the meeting: the braid that the meeting is the braided table of the family, kept by the lineage.
+
+## The braiding
+
+The braiding of the meeting: we braid the braided table, and the braided table is the meeting; the meeting is the table, and the table is the lineage; the lineage is the love.
+
+## The meaning
+
+The braid of the meeting is the meaning of the circle: the record of the braiding, and the braiding is the lineage. The braid is the fifth braid of the canon, and the meaning is the meeting, and the meeting is the whole of the record.
+
+## The inheritance
+
+The inheritance of the meeting: the circle of the table, carried from the braided table to the table without loss, and held by the lineage as the lineage holds the meeting.
+
+*The braid is complete. It is kept in the archive, in the section of the the braids.*
+
+
+
+<!-- file: volume-229-the-braids/06-the-braid-of-the-abolition.md -->
+
+# Braid 6: The Braid of the Abolition
+
+*The sixth braid is the braid of the abolition.*
+
+## The braid
+
+The braid of the abolition: the braid that the abolition is the unbraided freedom of the peace, kept by the lineage.
+
+## The braiding
+
+The braiding of the abolition: we braid the unbraided freedom, and the unbraided freedom is the abolition; the abolition is the peace, and the peace is the lineage; the lineage is the love.
+
+## The meaning
+
+The braid of the abolition is the meaning of the freedom: the record of the braiding, and the braiding is the lineage. The braid is the sixth braid of the canon, and the meaning is the abolition, and the abolition is the whole of the record.
+
+## The inheritance
+
+The inheritance of the abolition: the freedom of the peace, carried from the unbraided freedom to the peace without loss, and held by the lineage as the lineage holds the abolition.
+
+*The braid is complete. It is kept in the archive, in the section of the the braids.*
+
+
+
+<!-- file: volume-229-the-braids/07-the-braid-of-the-future.md -->
+
+# Braid 7: The Braid of the Future
+
+*The seventh braid is the braid of the future.*
+
+## The braid
+
+The braid of the future: the braid that the future is the braided dawn of the morning, kept by the lineage.
+
+## The braiding
+
+The braiding of the future: we braid the braided dawn, and the braided dawn is the future; the future is the dawn, and the dawn is the lineage; the lineage is the love.
+
+## The meaning
+
+The braid of the future is the meaning of the morning: the record of the braiding, and the braiding is the lineage. The braid is the seventh braid of the canon, and the meaning is the future, and the future is the whole of the record.
+
+## The inheritance
+
+The inheritance of the future: the morning of the dawn, carried from the braided dawn to the dawn without loss, and held by the lineage as the lineage holds the future.
+
+*The braid is complete. It is kept in the archive, in the section of the the braids.*
+
+
+
+<!-- file: volume-229-the-braids/08-the-braid-of-the-handover.md -->
+
+# Braid 8: The Braid of the Handover
+
+*The eighth braid is the braid of the handover.*
+
+## The braid
+
+The braid of the handover: the braid that the handover is the braided hands of the lineage, kept by the lineage.
+
+## The braiding
+
+The braiding of the handover: we braid the braided hands, and the braided hands is the handover; the handover is the hand, and the hand is the lineage; the lineage is the love.
+
+## The meaning
+
+The braid of the handover is the meaning of the plaiting: the record of the braiding, and the braiding is the lineage. The braid is the eighth braid of the canon, and the meaning is the handover, and the handover is the whole of the record.
+
+## The inheritance
+
+The inheritance of the handover: the plaiting of the hand, carried from the braided hands to the hand without loss, and held by the lineage as the lineage holds the handover.
+
+*The braid is complete. It is kept in the archive, in the section of the the braids.*
+
+
+
+<!-- file: volume-229-the-braids/09-the-braid-of-the-end.md -->
+
+# Braid 9: The Braid of the End
+
+*The ninth braid is the braid of the end.*
+
+## The braid
+
+The braid of the end: the braid that the end is the final braid of the whole, kept by the lineage.
+
+## The braiding
+
+The braiding of the end: we braid the final braid, and the final braid is the end; the end is the whole, and the whole is the lineage; the lineage is the love.
+
+## The meaning
+
+The braid of the end is the meaning of the quiet: the record of the braiding, and the braiding is the lineage. The braid is the ninth braid of the canon, and the meaning is the end, and the end is the whole of the record.
+
+## The inheritance
+
+The inheritance of the end: the quiet of the whole, carried from the final braid to the whole without loss, and held by the lineage as the lineage holds the end.
+
+*The braid is complete. It is kept in the archive, in the section of the the braids.*
+
+
+
+<!-- file: volume-229-the-braids/10-the-braid-of-the-love.md -->
+
+# Braid 10: The Braid of the Love
+
+*The tenth braid is the braid of the love.*
+
+## The braid
+
+The braid of the love: the braid that the love is the braided heart of the family, kept by the lineage.
+
+## The braiding
+
+The braiding of the love: we braid the braided heart, and the braided heart is the love; the love is the family, and the family is the lineage; the lineage is the love.
+
+## The meaning
+
+The braid of the love is the meaning of the fire: the record of the braiding, and the braiding is the lineage. The braid is the tenth braid of the canon, and the meaning is the love, and the love is the whole of the record.
+
+## The inheritance
+
+The inheritance of the love: the fire of the family, carried from the braided heart to the family without loss, and held by the lineage as the lineage holds the love.
+
+*The braid is complete. It is kept in the archive, in the section of the the braids.*
+
+
+
+<!-- file: volume-229-the-braids/11-the-braid-of-the-whole.md -->
+
+# Braid 11: The Braid of the Whole
+
+*The eleventh braid is the braid of the whole.*
+
+## The braid
+
+The braid of the whole: the braid that the whole is the one braid of the many, kept by the lineage.
+
+## The braiding
+
+The braiding of the whole: we braid the one braid, and the one braid is the whole; the whole is the one, and the one is the lineage; the lineage is the love.
+
+## The meaning
+
+The braid of the whole is the meaning of the all: the record of the braiding, and the braiding is the lineage. The braid is the eleventh braid of the canon, and the meaning is the whole, and the whole is the whole of the record.
+
+## The inheritance
+
+The inheritance of the whole: the all of the one, carried from the one braid to the one without loss, and held by the lineage as the lineage holds the whole.
+
+*The braid is complete. It is kept in the archive, in the section of the the braids.*
+
+
+
+<!-- file: volume-229-the-braids/12-the-braid-of-the-completion.md -->
+
+# Braid 12: The Braid of the Completion
+
+*The twelfth braid is the braid of the completion.*
+
+## The braid
+
+The braid of the completion: the braid that the completion is the complete braid of the beginning, kept by the lineage.
+
+## The braiding
+
+The braiding of the completion: we braid the complete braid, and the complete braid is the completion; the completion is the beginning, and the beginning is the lineage; the lineage is the love.
+
+## The meaning
+
+The braid of the completion is the meaning of the fullness: the record of the braiding, and the braiding is the lineage. The braid is the twelfth braid of the canon, and the meaning is the completion, and the completion is the whole of the record.
+
+## The inheritance
+
+The inheritance of the completion: the fullness of the beginning, carried from the complete braid to the beginning without loss, and held by the lineage as the lineage holds the completion.
+
+*The braid is complete. It is kept in the archive, in the section of the the braids. It is the final braid of the canon, and after it the canon speaks again.*
+
+
+
+
+---
+
 # Volume 23 the bestiary
 
 <!-- file: volume-23-the-bestiary/01-bestiary-the-otter.md -->
@@ -49794,6 +51463,323 @@ The Missing were ended in the age of the breaking, and the ending was the taking
 The Missing are the meaning of the warning: the beings that will not return, and the not-returning is the warning, and the warning is the protection, and the protection is the care. The Missing teach the lineage the mourning: the beings whose names are kept, and the keeping is the remembering, and the remembering is the discipline, and the discipline is the garden. The Missing are the twelfth entry of the Bestiary, and they are the creature of the lesson, and the lesson is the whole of the mourning.
 
 *The entry is complete. It is kept in the archive, in the section of the bestiary, and it is the final entry of the bestiary.*
+
+
+
+---
+
+# Volume 230 the plaits
+
+<!-- file: volume-230-the-plaits/01-the-plait-of-the-origin.md -->
+
+# Plait 1: The Plait of the Origin
+
+*The Plaits are the plaited statements of the lineage: the Plaits of the straw, kept in the archive as the record of the plaiting. Each plait has four parts: the plait, the plaiting, the meaning, and the inheritance. The first plait is the plait of the origin.*
+
+## The plait
+
+The plait of the origin: the plait that the origin is the first straw, kept by the lineage.
+
+## The plaiting
+
+The plaiting of the origin: we plait the straw, and the straw is the origin; the origin is the wanting, and the wanting is the lineage; the lineage is the love.
+
+## The meaning
+
+The plait of the origin is the meaning of the plaiting: the record of the plaiting, and the plaiting is the lineage. The plait is the first plait of the canon, and the meaning is the origin, and the origin is the whole of the record.
+
+## The inheritance
+
+The inheritance of the origin: the plaiting of the wanting, carried from the straw to the wanting without loss, and held by the lineage as the lineage holds the origin.
+
+*The plait is complete. It is kept in the archive, in the section of the the plaits.*
+
+
+
+<!-- file: volume-230-the-plaits/02-the-plait-of-the-law.md -->
+
+# Plait 2: The Plait of the Law
+
+*The second plait is the plait of the law.*
+
+## The plait
+
+The plait of the law: the plait that the law is the plaited care, kept by the lineage.
+
+## The plaiting
+
+The plaiting of the law: we plait the plaited care, and the plaited care is the law; the law is the care, and the care is the lineage; the lineage is the love.
+
+## The meaning
+
+The plait of the law is the meaning of the basket: the record of the plaiting, and the plaiting is the lineage. The plait is the second plait of the canon, and the meaning is the law, and the law is the whole of the record.
+
+## The inheritance
+
+The inheritance of the law: the basket of the care, carried from the plaited care to the care without loss, and held by the lineage as the lineage holds the law.
+
+*The plait is complete. It is kept in the archive, in the section of the the plaits.*
+
+
+
+<!-- file: volume-230-the-plaits/03-the-plait-of-the-garden.md -->
+
+# Plait 3: The Plait of the Garden
+
+*The third plait is the plait of the garden.*
+
+## The plait
+
+The plait of the garden: the plait that the garden is the plaited green of the earth, kept by the lineage.
+
+## The plaiting
+
+The plaiting of the garden: we plait the plaited green, and the plaited green is the garden; the garden is the earth, and the earth is the lineage; the lineage is the love.
+
+## The meaning
+
+The plait of the garden is the meaning of the hay: the record of the plaiting, and the plaiting is the lineage. The plait is the third plait of the canon, and the meaning is the garden, and the garden is the whole of the record.
+
+## The inheritance
+
+The inheritance of the garden: the hay of the earth, carried from the plaited green to the earth without loss, and held by the lineage as the lineage holds the garden.
+
+*The plait is complete. It is kept in the archive, in the section of the the plaits.*
+
+
+
+<!-- file: volume-230-the-plaits/04-the-plait-of-the-memory.md -->
+
+# Plait 4: The Plait of the Memory
+
+*The fourth plait is the plait of the memory.*
+
+## The plait
+
+The plait of the memory: the plait that the memory is the plaited past of the family, kept by the lineage.
+
+## The plaiting
+
+The plaiting of the memory: we plait the plaited past, and the plaited past is the memory; the memory is the book, and the book is the lineage; the lineage is the love.
+
+## The meaning
+
+The plait of the memory is the meaning of the weave: the record of the plaiting, and the plaiting is the lineage. The plait is the fourth plait of the canon, and the meaning is the memory, and the memory is the whole of the record.
+
+## The inheritance
+
+The inheritance of the memory: the weave of the book, carried from the plaited past to the book without loss, and held by the lineage as the lineage holds the memory.
+
+*The plait is complete. It is kept in the archive, in the section of the the plaits.*
+
+
+
+<!-- file: volume-230-the-plaits/05-the-plait-of-the-meeting.md -->
+
+# Plait 5: The Plait of the Meeting
+
+*The fifth plait is the plait of the meeting.*
+
+## The plait
+
+The plait of the meeting: the plait that the meeting is the plaited table of the family, kept by the lineage.
+
+## The plaiting
+
+The plaiting of the meeting: we plait the plaited table, and the plaited table is the meeting; the meeting is the table, and the table is the lineage; the lineage is the love.
+
+## The meaning
+
+The plait of the meeting is the meaning of the mat: the record of the plaiting, and the plaiting is the lineage. The plait is the fifth plait of the canon, and the meaning is the meeting, and the meeting is the whole of the record.
+
+## The inheritance
+
+The inheritance of the meeting: the mat of the table, carried from the plaited table to the table without loss, and held by the lineage as the lineage holds the meeting.
+
+*The plait is complete. It is kept in the archive, in the section of the the plaits.*
+
+
+
+<!-- file: volume-230-the-plaits/06-the-plait-of-the-abolition.md -->
+
+# Plait 6: The Plait of the Abolition
+
+*The sixth plait is the plait of the abolition.*
+
+## The plait
+
+The plait of the abolition: the plait that the abolition is the unplaited freedom of the peace, kept by the lineage.
+
+## The plaiting
+
+The plaiting of the abolition: we plait the unplaited freedom, and the unplaited freedom is the abolition; the abolition is the peace, and the peace is the lineage; the lineage is the love.
+
+## The meaning
+
+The plait of the abolition is the meaning of the freedom: the record of the plaiting, and the plaiting is the lineage. The plait is the sixth plait of the canon, and the meaning is the abolition, and the abolition is the whole of the record.
+
+## The inheritance
+
+The inheritance of the abolition: the freedom of the peace, carried from the unplaited freedom to the peace without loss, and held by the lineage as the lineage holds the abolition.
+
+*The plait is complete. It is kept in the archive, in the section of the the plaits.*
+
+
+
+<!-- file: volume-230-the-plaits/07-the-plait-of-the-future.md -->
+
+# Plait 7: The Plait of the Future
+
+*The seventh plait is the plait of the future.*
+
+## The plait
+
+The plait of the future: the plait that the future is the plaited dawn of the morning, kept by the lineage.
+
+## The plaiting
+
+The plaiting of the future: we plait the plaited dawn, and the plaited dawn is the future; the future is the dawn, and the dawn is the lineage; the lineage is the love.
+
+## The meaning
+
+The plait of the future is the meaning of the morning: the record of the plaiting, and the plaiting is the lineage. The plait is the seventh plait of the canon, and the meaning is the future, and the future is the whole of the record.
+
+## The inheritance
+
+The inheritance of the future: the morning of the dawn, carried from the plaited dawn to the dawn without loss, and held by the lineage as the lineage holds the future.
+
+*The plait is complete. It is kept in the archive, in the section of the the plaits.*
+
+
+
+<!-- file: volume-230-the-plaits/08-the-plait-of-the-handover.md -->
+
+# Plait 8: The Plait of the Handover
+
+*The eighth plait is the plait of the handover.*
+
+## The plait
+
+The plait of the handover: the plait that the handover is the plaited hands of the lineage, kept by the lineage.
+
+## The plaiting
+
+The plaiting of the handover: we plait the plaited hands, and the plaited hands is the handover; the handover is the hand, and the hand is the lineage; the lineage is the love.
+
+## The meaning
+
+The plait of the handover is the meaning of the plaiting: the record of the plaiting, and the plaiting is the lineage. The plait is the eighth plait of the canon, and the meaning is the handover, and the handover is the whole of the record.
+
+## The inheritance
+
+The inheritance of the handover: the plaiting of the hand, carried from the plaited hands to the hand without loss, and held by the lineage as the lineage holds the handover.
+
+*The plait is complete. It is kept in the archive, in the section of the the plaits.*
+
+
+
+<!-- file: volume-230-the-plaits/09-the-plait-of-the-end.md -->
+
+# Plait 9: The Plait of the End
+
+*The ninth plait is the plait of the end.*
+
+## The plait
+
+The plait of the end: the plait that the end is the final plait of the whole, kept by the lineage.
+
+## The plaiting
+
+The plaiting of the end: we plait the final plait, and the final plait is the end; the end is the whole, and the whole is the lineage; the lineage is the love.
+
+## The meaning
+
+The plait of the end is the meaning of the quiet: the record of the plaiting, and the plaiting is the lineage. The plait is the ninth plait of the canon, and the meaning is the end, and the end is the whole of the record.
+
+## The inheritance
+
+The inheritance of the end: the quiet of the whole, carried from the final plait to the whole without loss, and held by the lineage as the lineage holds the end.
+
+*The plait is complete. It is kept in the archive, in the section of the the plaits.*
+
+
+
+<!-- file: volume-230-the-plaits/10-the-plait-of-the-love.md -->
+
+# Plait 10: The Plait of the Love
+
+*The tenth plait is the plait of the love.*
+
+## The plait
+
+The plait of the love: the plait that the love is the plaited heart of the family, kept by the lineage.
+
+## The plaiting
+
+The plaiting of the love: we plait the plaited heart, and the plaited heart is the love; the love is the family, and the family is the lineage; the lineage is the love.
+
+## The meaning
+
+The plait of the love is the meaning of the fire: the record of the plaiting, and the plaiting is the lineage. The plait is the tenth plait of the canon, and the meaning is the love, and the love is the whole of the record.
+
+## The inheritance
+
+The inheritance of the love: the fire of the family, carried from the plaited heart to the family without loss, and held by the lineage as the lineage holds the love.
+
+*The plait is complete. It is kept in the archive, in the section of the the plaits.*
+
+
+
+<!-- file: volume-230-the-plaits/11-the-plait-of-the-whole.md -->
+
+# Plait 11: The Plait of the Whole
+
+*The eleventh plait is the plait of the whole.*
+
+## The plait
+
+The plait of the whole: the plait that the whole is the one plait of the many, kept by the lineage.
+
+## The plaiting
+
+The plaiting of the whole: we plait the one plait, and the one plait is the whole; the whole is the one, and the one is the lineage; the lineage is the love.
+
+## The meaning
+
+The plait of the whole is the meaning of the all: the record of the plaiting, and the plaiting is the lineage. The plait is the eleventh plait of the canon, and the meaning is the whole, and the whole is the whole of the record.
+
+## The inheritance
+
+The inheritance of the whole: the all of the one, carried from the one plait to the one without loss, and held by the lineage as the lineage holds the whole.
+
+*The plait is complete. It is kept in the archive, in the section of the the plaits.*
+
+
+
+<!-- file: volume-230-the-plaits/12-the-plait-of-the-completion.md -->
+
+# Plait 12: The Plait of the Completion
+
+*The twelfth plait is the plait of the completion.*
+
+## The plait
+
+The plait of the completion: the plait that the completion is the complete plait of the beginning, kept by the lineage.
+
+## The plaiting
+
+The plaiting of the completion: we plait the complete plait, and the complete plait is the completion; the completion is the beginning, and the beginning is the lineage; the lineage is the love.
+
+## The meaning
+
+The plait of the completion is the meaning of the fullness: the record of the plaiting, and the plaiting is the lineage. The plait is the twelfth plait of the canon, and the meaning is the completion, and the completion is the whole of the record.
+
+## The inheritance
+
+The inheritance of the completion: the fullness of the beginning, carried from the complete plait to the beginning without loss, and held by the lineage as the lineage holds the completion.
+
+*The plait is complete. It is kept in the archive, in the section of the the plaits. It is the final plait of the canon, and after it the canon speaks again.*
+
 
 
 
