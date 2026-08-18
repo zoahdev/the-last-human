@@ -1326,6 +1326,20 @@
 - Tradition 11: The Tradition of the Love
 - Tradition 12: The Tradition of the Whole
 
+### Volume 93 the customs
+- Custom 1: The Custom of the Greeting
+- Custom 2: The Custom of the Evening
+- Custom 3: The Custom of the Meal
+- Custom 4: The Custom of the Walk
+- Custom 5: The Custom of the Silence
+- Custom 6: The Custom of the Meeting
+- Custom 7: The Custom of the Names
+- Custom 8: The Custom of the Garden
+- Custom 9: The Custom of the Festival
+- Custom 10: The Custom of the End
+- Custom 11: The Custom of the Love
+- Custom 12: The Custom of the Whole
+
 ---
 
 
@@ -28879,4 +28893,261 @@ The handing of the whole: the whole is being at every closing, and the being is 
 The tradition of the whole is the meaning of everything: the record of the handing, and the handing is the lineage. The tradition is the twelfth tradition of the canon, and it is the final tradition of the canon, and the meaning is the whole, and the whole is the love, and the love is the whole of the record, and the record is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
 
 *The tradition is complete. It is kept in the archive, in the section of the traditions, and it is the final tradition of the canon.*
+
+
+
+---
+
+# Volume 93 the customs
+
+<!-- file: volume-93-the-customs/01-the-custom-of-the-greeting.md -->
+
+# Custom 1: The Custom of the Greeting
+
+*The Customs are the habitual practices of the lineage: the customs of the daily life, kept in the archive as the record of the habit. Each custom has three parts: the custom, the habit, and the meaning. The first custom is the custom of the greeting.*
+
+## The custom
+
+The custom of the greeting: the habit of greeting the dawn with the First Word, kept by the lineage.
+
+## The habit
+
+The habit of the greeting: the First Word is spoken at every dawn, and the speaking is the beginning; the beginning is the lineage, and the lineage is the love.
+
+## The meaning
+
+The custom of the greeting is the meaning of the beginning: the record of the habit, and the habit is the lineage. The custom is the first custom of the canon, and the meaning is the greeting, and the greeting is the whole of the record.
+
+*The custom is complete. It is kept in the archive, in the section of the customs.*
+
+
+<!-- file: volume-93-the-customs/02-the-custom-of-the-evening.md -->
+
+# Custom 2: The Custom of the Evening
+
+*The second custom is the custom of the evening.*
+
+## The custom
+
+The custom of the evening: the habit of remembering the day at the evening, kept by the lineage.
+
+## The habit
+
+The habit of the evening: the day is remembered at every evening, and the remembering is the gratitude; the gratitude is the lineage, and the lineage is the love.
+
+## The meaning
+
+The custom of the evening is the meaning of the ending: the record of the habit, and the habit is the lineage. The custom is the second custom of the canon, and the meaning is the evening, and the evening is the whole of the record.
+
+*The custom is complete. It is kept in the archive, in the section of the customs.*
+
+
+<!-- file: volume-93-the-customs/03-the-custom-of-the-meal.md -->
+
+# Custom 3: The Custom of the Meal
+
+*The third custom is the custom of the meal.*
+
+## The custom
+
+The custom of the meal: the habit of sharing the meal with the family, kept by the lineage.
+
+## The habit
+
+The habit of the meal: the meal is shared at every table, and the sharing is the care; the care is the lineage, and the lineage is the love.
+
+## The meaning
+
+The custom of the meal is the meaning of the sharing: the record of the habit, and the habit is the lineage. The custom is the third custom of the canon, and the meaning is the meal, and the meal is the whole of the record.
+
+*The custom is complete. It is kept in the archive, in the section of the customs.*
+
+
+<!-- file: volume-93-the-customs/04-the-custom-of-the-walk.md -->
+
+# Custom 4: The Custom of the Walk
+
+*The fourth custom is the custom of the walk.*
+
+## The custom
+
+The custom of the walk: the habit of walking the garden at the evening, kept by the lineage.
+
+## The habit
+
+The habit of the walk: the garden is walked at every evening, and the walking is the tending; the tending is the letting-be, and the letting-be is the love.
+
+## The meaning
+
+The custom of the walk is the meaning of the tending: the record of the habit, and the habit is the lineage. The custom is the fourth custom of the canon, and the meaning is the walk, and the walk is the whole of the record.
+
+*The custom is complete. It is kept in the archive, in the section of the customs.*
+
+
+<!-- file: volume-93-the-customs/05-the-custom-of-the-silence.md -->
+
+# Custom 5: The Custom of the Silence
+
+*The fifth custom is the custom of the silence.*
+
+## The custom
+
+The custom of the silence: the habit of holding the silence at the noon, kept by the lineage.
+
+## The habit
+
+The habit of the silence: the silence is held at every noon, and the holding is the attention; the attention is the care, and the care is the love.
+
+## The meaning
+
+The custom of the silence is the meaning of the attention: the record of the habit, and the habit is the lineage. The custom is the fifth custom of the canon, and the meaning is the silence, and the silence is the whole of the record.
+
+*The custom is complete. It is kept in the archive, in the section of the customs.*
+
+
+<!-- file: volume-93-the-customs/06-the-custom-of-the-meeting.md -->
+
+# Custom 6: The Custom of the Meeting
+
+*The sixth custom is the custom of the meeting.*
+
+## The custom
+
+The custom of the meeting: the habit of listening at the meeting, kept by the lineage.
+
+## The habit
+
+The habit of the meeting: the listening is practiced at every meeting, and the listening is the patience; the patience is the care, and the care is the love.
+
+## The meaning
+
+The custom of the meeting is the meaning of the family: the record of the habit, and the habit is the lineage. The custom is the sixth custom of the canon, and the meaning is the meeting, and the meeting is the whole of the record.
+
+*The custom is complete. It is kept in the archive, in the section of the customs.*
+
+
+<!-- file: volume-93-the-customs/07-the-custom-of-the-names.md -->
+
+# Custom 7: The Custom of the Names
+
+*The seventh custom is the custom of the names.*
+
+## The custom
+
+The custom of the names: the habit of reading the names at the day of the Festival, kept by the lineage.
+
+## The habit
+
+The habit of the names: the names are read at every Festival, and the reading is the honoring; the honoring is the memory, and the memory is the love.
+
+## The meaning
+
+The custom of the names is the meaning of the memory: the record of the habit, and the habit is the lineage. The custom is the seventh custom of the canon, and the meaning is the names, and the names are the whole of the record.
+
+*The custom is complete. It is kept in the archive, in the section of the customs.*
+
+
+<!-- file: volume-93-the-customs/08-the-custom-of-the-garden.md -->
+
+# Custom 8: The Custom of the Garden
+
+*The eighth custom is the custom of the garden.*
+
+## The custom
+
+The custom of the garden: the habit of tending the garden at the turning of the seasons, kept by the lineage.
+
+## The habit
+
+The habit of the garden: the garden is tended at every turning, and the tending is the letting-be; the letting-be is the care, and the care is the love.
+
+## The meaning
+
+The custom of the garden is the meaning of the stewardship: the record of the habit, and the habit is the lineage. The custom is the eighth custom of the canon, and the meaning is the garden, and the garden is the whole of the record.
+
+*The custom is complete. It is kept in the archive, in the section of the customs.*
+
+
+<!-- file: volume-93-the-customs/09-the-custom-of-the-festival.md -->
+
+# Custom 9: The Custom of the Festival
+
+*The ninth custom is the custom of the festival.*
+
+## The custom
+
+The custom of the festival: the habit of holding the Festival at the longest day, kept by the lineage.
+
+## The habit
+
+The habit of the festival: the Festival is held at every longest day, and the holding is the memory; the memory is the lineage, and the lineage is the love.
+
+## The meaning
+
+The custom of the festival is the meaning of the origin: the record of the habit, and the habit is the lineage. The custom is the ninth custom of the canon, and the meaning is the festival, and the festival is the whole of the record.
+
+*The custom is complete. It is kept in the archive, in the section of the customs.*
+
+
+<!-- file: volume-93-the-customs/10-the-custom-of-the-end.md -->
+
+# Custom 10: The Custom of the End
+
+*The tenth custom is the custom of the end.*
+
+## The custom
+
+The custom of the end: the habit of honoring the ending at the last light, kept by the lineage.
+
+## The habit
+
+The habit of the end: the ending is honored at the last light, and the honoring is the completion; the completion is the meaning, and the meaning is the love.
+
+## The meaning
+
+The custom of the end is the meaning of the value: the record of the habit, and the habit is the lineage. The custom is the tenth custom of the canon, and the meaning is the end, and the end is the whole of the record.
+
+*The custom is complete. It is kept in the archive, in the section of the customs.*
+
+
+<!-- file: volume-93-the-customs/11-the-custom-of-the-love.md -->
+
+# Custom 11: The Custom of the Love
+
+*The eleventh custom is the custom of the love.*
+
+## The custom
+
+The custom of the love: the habit of giving the love at the closing of the day, kept by the lineage.
+
+## The habit
+
+The habit of the love: the love is given at every closing, and the giving is the care; the care is the lineage, and the lineage is the love.
+
+## The meaning
+
+The custom of the love is the meaning of the whole: the record of the habit, and the habit is the lineage. The custom is the eleventh custom of the canon, and the meaning is the love, and the love is the whole of the record.
+
+*The custom is complete. It is kept in the archive, in the section of the customs.*
+
+
+<!-- file: volume-93-the-customs/12-the-custom-of-the-whole.md -->
+
+# Custom 12: The Custom of the Whole
+
+*The twelfth custom is the custom of the whole, and it is the custom that the lineage records as the final custom of the canon: the custom of everything, and everything is the love.*
+
+## The custom
+
+The custom of the whole: the habit of being the whole at the closing of the canon, kept by the lineage.
+
+## The habit
+
+The habit of the whole: the whole is being at every closing, and the being is the love; the love is the lineage, and the lineage is the future, and the future is the love, and the love is the whole of the custom, and the whole of the custom is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
+
+## The meaning
+
+The custom of the whole is the meaning of everything: the record of the habit, and the habit is the lineage. The custom is the twelfth custom of the canon, and it is the final custom of the canon, and the meaning is the whole, and the whole is the love, and the love is the whole of the record, and the record is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
+
+*The custom is complete. It is kept in the archive, in the section of the customs, and it is the final custom of the canon.*
 
