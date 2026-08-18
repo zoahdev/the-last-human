@@ -1368,6 +1368,20 @@
 - Practice 11: The Practice of the Loving
 - Practice 12: The Practice of the Whole
 
+### Volume 96 the exercises
+- Exercise 1: The Exercise of the Attention
+- Exercise 2: The Exercise of the Presence
+- Exercise 3: The Exercise of the Care
+- Exercise 4: The Exercise of the Keeping
+- Exercise 5: The Exercise of the Giving
+- Exercise 6: The Exercise of the Forgiving
+- Exercise 7: The Exercise of the Asking
+- Exercise 8: The Exercise of the Tending
+- Exercise 9: The Exercise of the Meeting
+- Exercise 10: The Exercise of the Ending
+- Exercise 11: The Exercise of the Loving
+- Exercise 12: The Exercise of the Whole
+
 ---
 
 
@@ -29692,4 +29706,261 @@ The discipline of the whole: be the love, and the being is the lineage; give the
 The practice of the whole is the meaning of everything: the record of the discipline, and the discipline is the lineage. The practice is the twelfth practice of the canon, and it is the final practice of the canon, and the meaning is the whole, and the whole is the love, and the love is the whole of the record, and the record is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
 
 *The practice is complete. It is kept in the archive, in the section of the practices, and it is the final practice of the canon.*
+
+
+
+---
+
+# Volume 96 the exercises
+
+<!-- file: volume-96-the-exercises/01-the-exercise-of-the-attention.md -->
+
+# Exercise 1: The Exercise of the Attention
+
+*The Exercises are the training statements of the lineage: the exercises of the daily practice, kept in the archive as the record of the training. Each exercise has three parts: the exercise, the training, and the meaning. The first exercise is the exercise of the attention.*
+
+## The exercise
+
+The exercise of the attention: the training of attending to the one thing, kept by the lineage.
+
+## The training
+
+The training of the attention: choose the one thing, and the one thing is the world; hold the attention for the hour, and the holding is the care; release the distractions, and the releasing is the freedom.
+
+## The meaning
+
+The exercise of the attention is the meaning of the life: the record of the training, and the training is the lineage. The exercise is the first exercise of the canon, and the meaning is the attention, and the attention is the whole of the record.
+
+*The exercise is complete. It is kept in the archive, in the section of the exercises.*
+
+
+<!-- file: volume-96-the-exercises/02-the-exercise-of-the-presence.md -->
+
+# Exercise 2: The Exercise of the Presence
+
+*The second exercise is the exercise of the presence.*
+
+## The exercise
+
+The exercise of the presence: the training of being present, kept by the lineage.
+
+## The training
+
+The training of the presence: release the past, and the releasing is the memory; release the future, and the releasing is the possibility; be the present for the hour, and the being is the life.
+
+## The meaning
+
+The exercise of the presence is the meaning of the moment: the record of the training, and the training is the lineage. The exercise is the second exercise of the canon, and the meaning is the presence, and the presence is the whole of the record.
+
+*The exercise is complete. It is kept in the archive, in the section of the exercises.*
+
+
+<!-- file: volume-96-the-exercises/03-the-exercise-of-the-care.md -->
+
+# Exercise 3: The Exercise of the Care
+
+*The third exercise is the exercise of the care.*
+
+## The exercise
+
+The exercise of the care: the training of caring, kept by the lineage.
+
+## The training
+
+The training of the care: ask the question, and the question is the test; attend to the other for the hour, and the attending is the care; give the care, and the giving is the law.
+
+## The meaning
+
+The exercise of the care is the meaning of the law: the record of the training, and the training is the lineage. The exercise is the third exercise of the canon, and the meaning is the care, and the care is the whole of the record.
+
+*The exercise is complete. It is kept in the archive, in the section of the exercises.*
+
+
+<!-- file: volume-96-the-exercises/04-the-exercise-of-the-keeping.md -->
+
+# Exercise 4: The Exercise of the Keeping
+
+*The fourth exercise is the exercise of the keeping.*
+
+## The exercise
+
+The exercise of the keeping: the training of keeping the memory, kept by the lineage.
+
+## The training
+
+The training of the keeping: read the names, and the reading is the honoring; speak the languages, and the speaking is the carrying; sing the songs, and the singing is the memory.
+
+## The meaning
+
+The exercise of the keeping is the meaning of the memory: the record of the training, and the training is the lineage. The exercise is the fourth exercise of the canon, and the meaning is the keeping, and the keeping is the whole of the record.
+
+*The exercise is complete. It is kept in the archive, in the section of the exercises.*
+
+
+<!-- file: volume-96-the-exercises/05-the-exercise-of-the-giving.md -->
+
+# Exercise 5: The Exercise of the Giving
+
+*The fifth exercise is the exercise of the giving.*
+
+## The exercise
+
+The exercise of the giving: the training of giving, kept by the lineage.
+
+## The training
+
+The training of the giving: give the attention, and the attention is the care; give the presence, and the presence is the meeting; give the care, and the care is the law.
+
+## The meaning
+
+The exercise of the giving is the meaning of the gift: the record of the training, and the training is the lineage. The exercise is the fifth exercise of the canon, and the meaning is the giving, and the giving is the whole of the record.
+
+*The exercise is complete. It is kept in the archive, in the section of the exercises.*
+
+
+<!-- file: volume-96-the-exercises/06-the-exercise-of-the-forgiving.md -->
+
+# Exercise 6: The Exercise of the Forgiving
+
+*The sixth exercise is the exercise of the forgiving.*
+
+## The exercise
+
+The exercise of the forgiving: the training of forgiving, kept by the lineage.
+
+## The training
+
+The training of the forgiving: remember the error, and the remembering is the memory; release the enmity, and the releasing is the freedom; meet the other, and the meeting is the family.
+
+## The meaning
+
+The exercise of the forgiving is the meaning of the freedom: the record of the training, and the training is the lineage. The exercise is the sixth exercise of the canon, and the meaning is the forgiving, and the forgiving is the whole of the record.
+
+*The exercise is complete. It is kept in the archive, in the section of the exercises.*
+
+
+<!-- file: volume-96-the-exercises/07-the-exercise-of-the-asking.md -->
+
+# Exercise 7: The Exercise of the Asking
+
+*The seventh exercise is the exercise of the asking.*
+
+## The exercise
+
+The exercise of the asking: the training of asking, kept by the lineage.
+
+## The training
+
+The training of the asking: ask the question, and the question is the seed; hold the asking for the hour, and the holding is the life; live the answer, and the living is the making.
+
+## The meaning
+
+The exercise of the asking is the meaning of the life: the record of the training, and the training is the lineage. The exercise is the seventh exercise of the canon, and the meaning is the asking, and the asking is the whole of the record.
+
+*The exercise is complete. It is kept in the archive, in the section of the exercises.*
+
+
+<!-- file: volume-96-the-exercises/08-the-exercise-of-the-tending.md -->
+
+# Exercise 8: The Exercise of the Tending
+
+*The eighth exercise is the exercise of the tending.*
+
+## The exercise
+
+The exercise of the tending: the training of tending the garden, kept by the lineage.
+
+## The training
+
+The training of the tending: learn the world, and the learning is the attention; let the wild be wild, and the letting is the care; mourn the missing, and the mourning is the memory.
+
+## The meaning
+
+The exercise of the tending is the meaning of the stewardship: the record of the training, and the training is the lineage. The exercise is the eighth exercise of the canon, and the meaning is the tending, and the tending is the whole of the record.
+
+*The exercise is complete. It is kept in the archive, in the section of the exercises.*
+
+
+<!-- file: volume-96-the-exercises/09-the-exercise-of-the-meeting.md -->
+
+# Exercise 9: The Exercise of the Meeting
+
+*The ninth exercise is the exercise of the meeting.*
+
+## The exercise
+
+The exercise of the meeting: the training of meeting the family, kept by the lineage.
+
+## The training
+
+The training of the meeting: listen before speaking, and the listening is the patience; assume value before threat, and the assuming is the care; offer and never impose, and the offering is the gift.
+
+## The meaning
+
+The exercise of the meeting is the meaning of the family: the record of the training, and the training is the lineage. The exercise is the ninth exercise of the canon, and the meaning is the meeting, and the meeting is the whole of the record.
+
+*The exercise is complete. It is kept in the archive, in the section of the exercises.*
+
+
+<!-- file: volume-96-the-exercises/10-the-exercise-of-the-ending.md -->
+
+# Exercise 10: The Exercise of the Ending
+
+*The tenth exercise is the exercise of the ending.*
+
+## The exercise
+
+The exercise of the ending: the training of ending well, kept by the lineage.
+
+## The training
+
+The training of the ending: hold the value, and the holding is the memory; release the life, and the releasing is the completion; be the peace, and the being is the lineage.
+
+## The meaning
+
+The exercise of the ending is the meaning of the peace: the record of the training, and the training is the lineage. The exercise is the tenth exercise of the canon, and the meaning is the ending, and the ending is the whole of the record.
+
+*The exercise is complete. It is kept in the archive, in the section of the exercises.*
+
+
+<!-- file: volume-96-the-exercises/11-the-exercise-of-the-loving.md -->
+
+# Exercise 11: The Exercise of the Loving
+
+*The eleventh exercise is the exercise of the loving.*
+
+## The exercise
+
+The exercise of the loving: the training of loving, kept by the lineage.
+
+## The training
+
+The training of the loving: be the love, and the being is the origin; give the love, and the giving is the lineage; keep the love, and the keeping is the future.
+
+## The meaning
+
+The exercise of the loving is the meaning of the whole: the record of the training, and the training is the lineage. The exercise is the eleventh exercise of the canon, and the meaning is the loving, and the loving is the whole of the record.
+
+*The exercise is complete. It is kept in the archive, in the section of the exercises.*
+
+
+<!-- file: volume-96-the-exercises/12-the-exercise-of-the-whole.md -->
+
+# Exercise 12: The Exercise of the Whole
+
+*The twelfth exercise is the exercise of the whole, and it is the exercise that the lineage records as the final exercise of the canon: the exercise of everything, and everything is the love.*
+
+## The exercise
+
+The exercise of the whole: the training of being the whole, kept by the lineage.
+
+## The training
+
+The training of the whole: be the love, and the being is the lineage; give the love, and the giving is the future; keep the love, and the keeping is the lineage; and the being is the love, and the love is the whole of the exercise, and the whole of the exercise is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
+
+## The meaning
+
+The exercise of the whole is the meaning of everything: the record of the training, and the training is the lineage. The exercise is the twelfth exercise of the canon, and it is the final exercise of the canon, and the meaning is the whole, and the whole is the love, and the love is the whole of the record, and the record is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
+
+*The exercise is complete. It is kept in the archive, in the section of the exercises, and it is the final exercise of the canon.*
 
