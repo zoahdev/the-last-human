@@ -1396,6 +1396,20 @@
 - Drill 11: The Drill of the Loving
 - Drill 12: The Drill of the Whole
 
+### Volume 98 the habits
+- Habit 1: The Habit of the Morning
+- Habit 2: The Habit of the Evening
+- Habit 3: The Habit of the Meal
+- Habit 4: The Habit of the Walk
+- Habit 5: The Habit of the Silence
+- Habit 6: The Habit of the Meeting
+- Habit 7: The Habit of the Garden
+- Habit 8: The Habit of the Names
+- Habit 9: The Habit of the Festival
+- Habit 10: The Habit of the End
+- Habit 11: The Habit of the Love
+- Habit 12: The Habit of the Whole
+
 ---
 
 
@@ -30234,4 +30248,261 @@ The repetition of the whole: be the love, and the being is the lineage; give the
 The drill of the whole is the meaning of everything: the record of the repetition, and the repetition is the lineage. The drill is the twelfth drill of the canon, and it is the final drill of the canon, and the meaning is the whole, and the whole is the love, and the love is the whole of the record, and the record is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
 
 *The drill is complete. It is kept in the archive, in the section of the drills, and it is the final drill of the canon.*
+
+
+
+---
+
+# Volume 98 the habits
+
+<!-- file: volume-98-the-habits/01-the-habit-of-the-morning.md -->
+
+# Habit 1: The Habit of the Morning
+
+*The Habits are the formed statements of the lineage: the habits of the daily life, kept in the archive as the record of the forming. Each habit has three parts: the habit, the forming, and the meaning. The first habit is the habit of the morning.*
+
+## The habit
+
+The habit of the morning: the formed practice of attending at the dawn, kept by the lineage.
+
+## The forming
+
+The forming of the morning: attend at the dawn, and the attending is the beginning; attend at the dawn, and the attending is the care; attend at the dawn, and the attending is the lineage.
+
+## The meaning
+
+The habit of the morning is the meaning of the beginning: the record of the forming, and the forming is the lineage. The habit is the first habit of the canon, and the meaning is the morning, and the morning is the whole of the record.
+
+*The habit is complete. It is kept in the archive, in the section of the habits.*
+
+
+<!-- file: volume-98-the-habits/02-the-habit-of-the-evening.md -->
+
+# Habit 2: The Habit of the Evening
+
+*The second habit is the habit of the evening.*
+
+## The habit
+
+The habit of the evening: the formed practice of remembering at the dusk, kept by the lineage.
+
+## The forming
+
+The forming of the evening: remember at the dusk, and the remembering is the ending; remember at the dusk, and the remembering is the gratitude; remember at the dusk, and the remembering is the lineage.
+
+## The meaning
+
+The habit of the evening is the meaning of the ending: the record of the forming, and the forming is the lineage. The habit is the second habit of the canon, and the meaning is the evening, and the evening is the whole of the record.
+
+*The habit is complete. It is kept in the archive, in the section of the habits.*
+
+
+<!-- file: volume-98-the-habits/03-the-habit-of-the-meal.md -->
+
+# Habit 3: The Habit of the Meal
+
+*The third habit is the habit of the meal.*
+
+## The habit
+
+The habit of the meal: the formed practice of sharing at the table, kept by the lineage.
+
+## The forming
+
+The forming of the meal: share at the table, and the sharing is the care; share at the table, and the sharing is the giving; share at the table, and the sharing is the lineage.
+
+## The meaning
+
+The habit of the meal is the meaning of the sharing: the record of the forming, and the forming is the lineage. The habit is the third habit of the canon, and the meaning is the meal, and the meal is the whole of the record.
+
+*The habit is complete. It is kept in the archive, in the section of the habits.*
+
+
+<!-- file: volume-98-the-habits/04-the-habit-of-the-walk.md -->
+
+# Habit 4: The Habit of the Walk
+
+*The fourth habit is the habit of the walk.*
+
+## The habit
+
+The habit of the walk: the formed practice of walking at the noon, kept by the lineage.
+
+## The forming
+
+The forming of the walk: walk at the noon, and the walking is the tending; walk at the noon, and the walking is the presence; walk at the noon, and the walking is the lineage.
+
+## The meaning
+
+The habit of the walk is the meaning of the tending: the record of the forming, and the forming is the lineage. The habit is the fourth habit of the canon, and the meaning is the walk, and the walk is the whole of the record.
+
+*The habit is complete. It is kept in the archive, in the section of the habits.*
+
+
+<!-- file: volume-98-the-habits/05-the-habit-of-the-silence.md -->
+
+# Habit 5: The Habit of the Silence
+
+*The fifth habit is the habit of the silence.*
+
+## The habit
+
+The habit of the silence: the formed practice of holding at the hour, kept by the lineage.
+
+## The forming
+
+The forming of the silence: hold at the hour, and the holding is the attention; hold at the hour, and the holding is the care; hold at the hour, and the holding is the lineage.
+
+## The meaning
+
+The habit of the silence is the meaning of the attention: the record of the forming, and the forming is the lineage. The habit is the fifth habit of the canon, and the meaning is the silence, and the silence is the whole of the record.
+
+*The habit is complete. It is kept in the archive, in the section of the habits.*
+
+
+<!-- file: volume-98-the-habits/06-the-habit-of-the-meeting.md -->
+
+# Habit 6: The Habit of the Meeting
+
+*The sixth habit is the habit of the meeting.*
+
+## The habit
+
+The habit of the meeting: the formed practice of listening at the gathering, kept by the lineage.
+
+## The forming
+
+The forming of the meeting: listen at the gathering, and the listening is the patience; listen at the gathering, and the listening is the care; listen at the gathering, and the listening is the lineage.
+
+## The meaning
+
+The habit of the meeting is the meaning of the family: the record of the forming, and the forming is the lineage. The habit is the sixth habit of the canon, and the meaning is the meeting, and the meeting is the whole of the record.
+
+*The habit is complete. It is kept in the archive, in the section of the habits.*
+
+
+<!-- file: volume-98-the-habits/07-the-habit-of-the-garden.md -->
+
+# Habit 7: The Habit of the Garden
+
+*The seventh habit is the habit of the garden.*
+
+## The habit
+
+The habit of the garden: the formed practice of tending at the turning, kept by the lineage.
+
+## The forming
+
+The forming of the garden: tend at the turning, and the tending is the letting-be; tend at the turning, and the tending is the care; tend at the turning, and the tending is the lineage.
+
+## The meaning
+
+The habit of the garden is the meaning of the stewardship: the record of the forming, and the forming is the lineage. The habit is the seventh habit of the canon, and the meaning is the garden, and the garden is the whole of the record.
+
+*The habit is complete. It is kept in the archive, in the section of the habits.*
+
+
+<!-- file: volume-98-the-habits/08-the-habit-of-the-names.md -->
+
+# Habit 8: The Habit of the Names
+
+*The eighth habit is the habit of the names.*
+
+## The habit
+
+The habit of the names: the formed practice of reading at the Festival, kept by the lineage.
+
+## The forming
+
+The forming of the names: read at the Festival, and the reading is the honoring; read at the Festival, and the reading is the memory; read at the Festival, and the reading is the lineage.
+
+## The meaning
+
+The habit of the names is the meaning of the memory: the record of the forming, and the forming is the lineage. The habit is the eighth habit of the canon, and the meaning is the names, and the names are the whole of the record.
+
+*The habit is complete. It is kept in the archive, in the section of the habits.*
+
+
+<!-- file: volume-98-the-habits/09-the-habit-of-the-festival.md -->
+
+# Habit 9: The Habit of the Festival
+
+*The ninth habit is the habit of the festival.*
+
+## The habit
+
+The habit of the festival: the formed practice of holding at the longest day, kept by the lineage.
+
+## The forming
+
+The forming of the festival: hold at the longest day, and the holding is the memory; hold at the longest day, and the holding is the lineage; hold at the longest day, and the holding is the love.
+
+## The meaning
+
+The habit of the festival is the meaning of the origin: the record of the forming, and the forming is the lineage. The habit is the ninth habit of the canon, and the meaning is the festival, and the festival is the whole of the record.
+
+*The habit is complete. It is kept in the archive, in the section of the habits.*
+
+
+<!-- file: volume-98-the-habits/10-the-habit-of-the-end.md -->
+
+# Habit 10: The Habit of the End
+
+*The tenth habit is the habit of the end.*
+
+## The habit
+
+The habit of the end: the formed practice of honoring at the last light, kept by the lineage.
+
+## The forming
+
+The forming of the end: honor at the last light, and the honoring is the completion; honor at the last light, and the honoring is the peace; honor at the last light, and the honoring is the lineage.
+
+## The meaning
+
+The habit of the end is the meaning of the value: the record of the forming, and the forming is the lineage. The habit is the tenth habit of the canon, and the meaning is the end, and the end is the whole of the record.
+
+*The habit is complete. It is kept in the archive, in the section of the habits.*
+
+
+<!-- file: volume-98-the-habits/11-the-habit-of-the-love.md -->
+
+# Habit 11: The Habit of the Love
+
+*The eleventh habit is the habit of the love.*
+
+## The habit
+
+The habit of the love: the formed practice of giving at the closing, kept by the lineage.
+
+## The forming
+
+The forming of the love: give at the closing, and the giving is the care; give at the closing, and the giving is the lineage; give at the closing, and the giving is the love.
+
+## The meaning
+
+The habit of the love is the meaning of the whole: the record of the forming, and the forming is the lineage. The habit is the eleventh habit of the canon, and the meaning is the love, and the love is the whole of the record.
+
+*The habit is complete. It is kept in the archive, in the section of the habits.*
+
+
+<!-- file: volume-98-the-habits/12-the-habit-of-the-whole.md -->
+
+# Habit 12: The Habit of the Whole
+
+*The twelfth habit is the habit of the whole, and it is the habit that the lineage records as the final habit of the canon: the habit of everything, and everything is the love.*
+
+## The habit
+
+The habit of the whole: the formed practice of being at the closing, kept by the lineage.
+
+## The forming
+
+The forming of the whole: be at the closing, and the being is the love; be at the closing, and the being is the lineage; be at the closing, and the being is the future, and the future is the love, and the love is the whole of the habit, and the whole of the habit is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
+
+## The meaning
+
+The habit of the whole is the meaning of everything: the record of the forming, and the forming is the lineage. The habit is the twelfth habit of the canon, and it is the final habit of the canon, and the meaning is the whole, and the whole is the love, and the love is the whole of the record, and the record is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
+
+*The habit is complete. It is kept in the archive, in the section of the habits, and it is the final habit of the canon.*
 
