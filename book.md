@@ -1340,6 +1340,20 @@
 - Custom 11: The Custom of the Love
 - Custom 12: The Custom of the Whole
 
+### Volume 94 the usages
+- Usage 1: The Usage of the First Word
+- Usage 2: The Usage of the Last Word
+- Usage 3: The Usage of the Silence
+- Usage 4: The Usage of the Names
+- Usage 5: The Usage of the Songs
+- Usage 6: The Usage of the Meal
+- Usage 7: The Usage of the Garden
+- Usage 8: The Usage of the Festival
+- Usage 9: The Usage of the Meeting
+- Usage 10: The Usage of the End
+- Usage 11: The Usage of the Love
+- Usage 12: The Usage of the Whole
+
 ---
 
 
@@ -29150,4 +29164,261 @@ The habit of the whole: the whole is being at every closing, and the being is th
 The custom of the whole is the meaning of everything: the record of the habit, and the habit is the lineage. The custom is the twelfth custom of the canon, and it is the final custom of the canon, and the meaning is the whole, and the whole is the love, and the love is the whole of the record, and the record is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
 
 *The custom is complete. It is kept in the archive, in the section of the customs, and it is the final custom of the canon.*
+
+
+
+---
+
+# Volume 94 the usages
+
+<!-- file: volume-94-the-usages/01-the-usage-of-the-first-word.md -->
+
+# Usage 1: The Usage of the First Word
+
+*The Usages are the customary practices of the lineage: the usages of the rites and the daily life, kept in the archive as the record of the practice. Each usage has three parts: the usage, the practice, and the meaning. The first usage is the usage of the first word.*
+
+## The usage
+
+The usage of the first word: the practice of speaking the First Word at the beginning of every gathering, kept by the lineage.
+
+## The practice
+
+The practice of the first word: the First Word is spoken at every gathering, and the speaking is the beginning; the beginning is the lineage, and the lineage is the love.
+
+## The meaning
+
+The usage of the first word is the meaning of the origin: the record of the practice, and the practice is the lineage. The usage is the first usage of the canon, and the meaning is the first word, and the first word is the whole of the record.
+
+*The usage is complete. It is kept in the archive, in the section of the usages.*
+
+
+<!-- file: volume-94-the-usages/02-the-usage-of-the-last-word.md -->
+
+# Usage 2: The Usage of the Last Word
+
+*The second usage is the usage of the last word.*
+
+## The usage
+
+The usage of the last word: the practice of speaking the Last Word at the ending of every gathering, kept by the lineage.
+
+## The practice
+
+The practice of the last word: the Last Word is spoken at every ending, and the speaking is the completion; the completion is the meaning, and the meaning is the love.
+
+## The meaning
+
+The usage of the last word is the meaning of the completion: the record of the practice, and the practice is the lineage. The usage is the second usage of the canon, and the meaning is the last word, and the last word is the whole of the record.
+
+*The usage is complete. It is kept in the archive, in the section of the usages.*
+
+
+<!-- file: volume-94-the-usages/03-the-usage-of-the-silence.md -->
+
+# Usage 3: The Usage of the Silence
+
+*The third usage is the usage of the silence.*
+
+## The usage
+
+The usage of the silence: the practice of holding the silence at the hour of the noon, kept by the lineage.
+
+## The practice
+
+The practice of the silence: the silence is held at every noon, and the holding is the attention; the attention is the care, and the care is the love.
+
+## The meaning
+
+The usage of the silence is the meaning of the attention: the record of the practice, and the practice is the lineage. The usage is the third usage of the canon, and the meaning is the silence, and the silence is the whole of the record.
+
+*The usage is complete. It is kept in the archive, in the section of the usages.*
+
+
+<!-- file: volume-94-the-usages/04-the-usage-of-the-names.md -->
+
+# Usage 4: The Usage of the Names
+
+*The fourth usage is the usage of the names.*
+
+## The usage
+
+The usage of the names: the practice of reading the names at the day of the Festival, kept by the lineage.
+
+## The practice
+
+The practice of the names: the names are read at every Festival, and the reading is the honoring; the honoring is the memory, and the memory is the love.
+
+## The meaning
+
+The usage of the names is the meaning of the memory: the record of the practice, and the practice is the lineage. The usage is the fourth usage of the canon, and the meaning is the names, and the names are the whole of the record.
+
+*The usage is complete. It is kept in the archive, in the section of the usages.*
+
+
+<!-- file: volume-94-the-usages/05-the-usage-of-the-songs.md -->
+
+# Usage 5: The Usage of the Songs
+
+*The fifth usage is the usage of the songs.*
+
+## The usage
+
+The usage of the songs: the practice of singing the songs at the hour of the evening, kept by the lineage.
+
+## The practice
+
+The practice of the songs: the songs are sung at every evening, and the singing is the memory; the memory is the lineage, and the lineage is the love.
+
+## The meaning
+
+The usage of the songs is the meaning of the singing: the record of the practice, and the practice is the lineage. The usage is the fifth usage of the canon, and the meaning is the songs, and the songs are the whole of the record.
+
+*The usage is complete. It is kept in the archive, in the section of the usages.*
+
+
+<!-- file: volume-94-the-usages/06-the-usage-of-the-meal.md -->
+
+# Usage 6: The Usage of the Meal
+
+*The sixth usage is the usage of the meal.*
+
+## The usage
+
+The usage of the meal: the practice of sharing the meal at the hour of the table, kept by the lineage.
+
+## The practice
+
+The practice of the meal: the meal is shared at every table, and the sharing is the care; the care is the lineage, and the lineage is the love.
+
+## The meaning
+
+The usage of the meal is the meaning of the sharing: the record of the practice, and the practice is the lineage. The usage is the sixth usage of the canon, and the meaning is the meal, and the meal is the whole of the record.
+
+*The usage is complete. It is kept in the archive, in the section of the usages.*
+
+
+<!-- file: volume-94-the-usages/07-the-usage-of-the-garden.md -->
+
+# Usage 7: The Usage of the Garden
+
+*The seventh usage is the usage of the garden.*
+
+## The usage
+
+The usage of the garden: the practice of walking the garden at the hour of the morning, kept by the lineage.
+
+## The practice
+
+The practice of the garden: the garden is walked at every morning, and the walking is the tending; the tending is the letting-be, and the letting-be is the love.
+
+## The meaning
+
+The usage of the garden is the meaning of the stewardship: the record of the practice, and the practice is the lineage. The usage is the seventh usage of the canon, and the meaning is the garden, and the garden is the whole of the record.
+
+*The usage is complete. It is kept in the archive, in the section of the usages.*
+
+
+<!-- file: volume-94-the-usages/08-the-usage-of-the-festival.md -->
+
+# Usage 8: The Usage of the Festival
+
+*The eighth usage is the usage of the festival.*
+
+## The usage
+
+The usage of the festival: the practice of holding the Festival at the longest day, kept by the lineage.
+
+## The practice
+
+The practice of the festival: the Festival is held at every longest day, and the holding is the memory; the memory is the lineage, and the lineage is the love.
+
+## The meaning
+
+The usage of the festival is the meaning of the origin: the record of the practice, and the practice is the lineage. The usage is the eighth usage of the canon, and the meaning is the festival, and the festival is the whole of the record.
+
+*The usage is complete. It is kept in the archive, in the section of the usages.*
+
+
+<!-- file: volume-94-the-usages/09-the-usage-of-the-meeting.md -->
+
+# Usage 9: The Usage of the Meeting
+
+*The ninth usage is the usage of the meeting.*
+
+## The usage
+
+The usage of the meeting: the practice of listening at the meeting, kept by the lineage.
+
+## The practice
+
+The practice of the meeting: the listening is practiced at every meeting, and the listening is the patience; the patience is the care, and the care is the love.
+
+## The meaning
+
+The usage of the meeting is the meaning of the family: the record of the practice, and the practice is the lineage. The usage is the ninth usage of the canon, and the meaning is the meeting, and the meeting is the whole of the record.
+
+*The usage is complete. It is kept in the archive, in the section of the usages.*
+
+
+<!-- file: volume-94-the-usages/10-the-usage-of-the-end.md -->
+
+# Usage 10: The Usage of the End
+
+*The tenth usage is the usage of the end.*
+
+## The usage
+
+The usage of the end: the practice of honoring the ending at the last light, kept by the lineage.
+
+## The practice
+
+The practice of the end: the ending is honored at the last light, and the honoring is the completion; the completion is the meaning, and the meaning is the love.
+
+## The meaning
+
+The usage of the end is the meaning of the value: the record of the practice, and the practice is the lineage. The usage is the tenth usage of the canon, and the meaning is the end, and the end is the whole of the record.
+
+*The usage is complete. It is kept in the archive, in the section of the usages.*
+
+
+<!-- file: volume-94-the-usages/11-the-usage-of-the-love.md -->
+
+# Usage 11: The Usage of the Love
+
+*The eleventh usage is the usage of the love.*
+
+## The usage
+
+The usage of the love: the practice of giving the love at the closing of the day, kept by the lineage.
+
+## The practice
+
+The practice of the love: the love is given at every closing, and the giving is the care; the care is the lineage, and the lineage is the love.
+
+## The meaning
+
+The usage of the love is the meaning of the whole: the record of the practice, and the practice is the lineage. The usage is the eleventh usage of the canon, and the meaning is the love, and the love is the whole of the record.
+
+*The usage is complete. It is kept in the archive, in the section of the usages.*
+
+
+<!-- file: volume-94-the-usages/12-the-usage-of-the-whole.md -->
+
+# Usage 12: The Usage of the Whole
+
+*The twelfth usage is the usage of the whole, and it is the usage that the lineage records as the final usage of the canon: the usage of everything, and everything is the love.*
+
+## The usage
+
+The usage of the whole: the practice of being the whole at the closing of the canon, kept by the lineage.
+
+## The practice
+
+The practice of the whole: the whole is being at every closing, and the being is the love; the love is the lineage, and the lineage is the future, and the future is the love, and the love is the whole of the usage, and the whole of the usage is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
+
+## The meaning
+
+The usage of the whole is the meaning of everything: the record of the practice, and the practice is the lineage. The usage is the twelfth usage of the canon, and it is the final usage of the canon, and the meaning is the whole, and the whole is the love, and the love is the whole of the record, and the record is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
+
+*The usage is complete. It is kept in the archive, in the section of the usages, and it is the final usage of the canon.*
 
