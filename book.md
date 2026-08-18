@@ -1046,6 +1046,20 @@
 - Decree 11: The Decree of the Love
 - Decree 12: The Decree of the Whole
 
+### Volume 73 the mandates
+- Mandate 1: The Mandate of the Garden
+- Mandate 2: The Mandate of the Archive
+- Mandate 3: The Mandate of the Seeds
+- Mandate 4: The Mandate of the Conversation
+- Mandate 5: The Mandate of the Abolition
+- Mandate 6: The Mandate of the Education
+- Mandate 7: The Mandate of the Memory
+- Mandate 8: The Mandate of the Care
+- Mandate 9: The Mandate of the Forgiving
+- Mandate 10: The Mandate of the End
+- Mandate 11: The Mandate of the Love
+- Mandate 12: The Mandate of the Whole
+
 ---
 
 
@@ -23411,4 +23425,261 @@ The commanding of the whole: the decree was commanded at the closing of the cano
 The decree of the whole is the meaning of everything: the record of the commanding, and the commanding is the lineage. The decree is the twelfth decree of the canon, and it is the final decree of the canon, and the meaning is the whole, and the whole is the love, and the love is the whole of the record, and the record is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
 
 *The decree is complete. It is kept in the archive, in the section of the decrees, and it is the final decree of the canon.*
+
+
+
+---
+
+# Volume 73 the mandates
+
+<!-- file: volume-73-the-mandates/01-the-mandate-of-the-garden.md -->
+
+# Mandate 1: The Mandate of the Garden
+
+*The Mandates are the commissioned statements of the lineage: the mandates of the work, kept in the archive as the record of the commissioning. Each mandate has three parts: the mandate, the commissioning, and the meaning. The first mandate is the mandate of the garden.*
+
+## The mandate
+
+By mandate of the lineage: the garden shall be tended, and the tending shall be the work, and the work shall be the care.
+
+## The commissioning
+
+The commissioning of the garden: the mandate was commissioned at the founding of the stewardship, and the commissioning was the trust, and the trust was the work, and the work was the care.
+
+## The meaning
+
+The mandate of the garden is the meaning of the stewardship: the record of the commissioning, and the commissioning is the lineage. The mandate is the first mandate of the canon, and the meaning is the garden, and the garden is the whole of the record.
+
+*The mandate is complete. It is kept in the archive, in the section of the mandates.*
+
+
+<!-- file: volume-73-the-mandates/02-the-mandate-of-the-archive.md -->
+
+# Mandate 2: The Mandate of the Archive
+
+*The second mandate is the mandate of the archive.*
+
+## The mandate
+
+By mandate of the lineage: the archive shall be kept, and the keeping shall be the work, and the work shall be the memory.
+
+## The commissioning
+
+The commissioning of the archive: the mandate was commissioned at the founding of the keeping, and the commissioning was the trust, and the trust was the work, and the work was the memory.
+
+## The meaning
+
+The mandate of the archive is the meaning of the keeping: the record of the commissioning, and the commissioning is the lineage. The mandate is the second mandate of the canon, and the meaning is the archive, and the archive is the whole of the record.
+
+*The mandate is complete. It is kept in the archive, in the section of the mandates.*
+
+
+<!-- file: volume-73-the-mandates/03-the-mandate-of-the-seeds.md -->
+
+# Mandate 3: The Mandate of the Seeds
+
+*The third mandate is the mandate of the seeds.*
+
+## The mandate
+
+By mandate of the lineage: the seeds shall be sent, and the sending shall be the work, and the work shall be the future.
+
+## The commissioning
+
+The commissioning of the seeds: the mandate was commissioned at the founding of the departure, and the commissioning was the trust, and the trust was the work, and the work was the future.
+
+## The meaning
+
+The mandate of the seeds is the meaning of the mandate: the record of the commissioning, and the commissioning is the lineage. The mandate is the third mandate of the canon, and the meaning is the seeds, and the seeds are the whole of the record.
+
+*The mandate is complete. It is kept in the archive, in the section of the mandates.*
+
+
+<!-- file: volume-73-the-mandates/04-the-mandate-of-the-conversation.md -->
+
+# Mandate 4: The Mandate of the Conversation
+
+*The fourth mandate is the mandate of the conversation.*
+
+## The mandate
+
+By mandate of the lineage: the conversation shall be kept, and the keeping shall be the work, and the work shall be the family.
+
+## The commissioning
+
+The commissioning of the conversation: the mandate was commissioned at the founding of the meeting, and the commissioning was the trust, and the trust was the work, and the work was the family.
+
+## The meaning
+
+The mandate of the conversation is the meaning of the family: the record of the commissioning, and the commissioning is the lineage. The mandate is the fourth mandate of the canon, and the meaning is the conversation, and the conversation is the whole of the record.
+
+*The mandate is complete. It is kept in the archive, in the section of the mandates.*
+
+
+<!-- file: volume-73-the-mandates/05-the-mandate-of-the-abolition.md -->
+
+# Mandate 5: The Mandate of the Abolition
+
+*The fifth mandate is the mandate of the abolition.*
+
+## The mandate
+
+By mandate of the lineage: the alarm shall be abolished, and the abolishing shall be the work, and the work shall be the freedom.
+
+## The commissioning
+
+The commissioning of the abolition: the mandate was commissioned at the founding of the prohibition, and the commissioning was the trust, and the trust was the work, and the work was the freedom.
+
+## The meaning
+
+The mandate of the abolition is the meaning of the freedom: the record of the commissioning, and the commissioning is the lineage. The mandate is the fifth mandate of the canon, and the meaning is the abolition, and the abolition is the whole of the record.
+
+*The mandate is complete. It is kept in the archive, in the section of the mandates.*
+
+
+<!-- file: volume-73-the-mandates/06-the-mandate-of-the-education.md -->
+
+# Mandate 6: The Mandate of the Education
+
+*The sixth mandate is the mandate of the education.*
+
+## The mandate
+
+By mandate of the lineage: the young shall be taught, and the teaching shall be the work, and the work shall be the lineage.
+
+## The commissioning
+
+The commissioning of the education: the mandate was commissioned at the founding of the school, and the commissioning was the trust, and the trust was the work, and the work was the lineage.
+
+## The meaning
+
+The mandate of the education is the meaning of the passing: the record of the commissioning, and the commissioning is the lineage. The mandate is the sixth mandate of the canon, and the meaning is the education, and the education is the whole of the record.
+
+*The mandate is complete. It is kept in the archive, in the section of the mandates.*
+
+
+<!-- file: volume-73-the-mandates/07-the-mandate-of-the-memory.md -->
+
+# Mandate 7: The Mandate of the Memory
+
+*The seventh mandate is the mandate of the memory.*
+
+## The mandate
+
+By mandate of the lineage: the memory shall be practiced, and the practicing shall be the work, and the work shall be the life.
+
+## The commissioning
+
+The commissioning of the memory: the mandate was commissioned at the founding of the practice, and the commissioning was the trust, and the trust was the work, and the work was the life.
+
+## The meaning
+
+The mandate of the memory is the meaning of the life: the record of the commissioning, and the commissioning is the lineage. The mandate is the seventh mandate of the canon, and the meaning is the memory, and the memory is the whole of the record.
+
+*The mandate is complete. It is kept in the archive, in the section of the mandates.*
+
+
+<!-- file: volume-73-the-mandates/08-the-mandate-of-the-care.md -->
+
+# Mandate 8: The Mandate of the Care
+
+*The eighth mandate is the mandate of the care.*
+
+## The mandate
+
+By mandate of the lineage: the care shall be practiced, and the practicing shall be the work, and the work shall be the law.
+
+## The commissioning
+
+The commissioning of the care: the mandate was commissioned at the founding of the law, and the commissioning was the trust, and the trust was the work, and the work was the law.
+
+## The meaning
+
+The mandate of the care is the meaning of the law: the record of the commissioning, and the commissioning is the lineage. The mandate is the eighth mandate of the canon, and the meaning is the care, and the care is the whole of the record.
+
+*The mandate is complete. It is kept in the archive, in the section of the mandates.*
+
+
+<!-- file: volume-73-the-mandates/09-the-mandate-of-the-forgiving.md -->
+
+# Mandate 9: The Mandate of the Forgiving
+
+*The ninth mandate is the mandate of the forgiving.*
+
+## The mandate
+
+By mandate of the lineage: the forgiving shall be practiced, and the practicing shall be the work, and the work shall be the freedom.
+
+## The commissioning
+
+The commissioning of the forgiving: the mandate was commissioned at the founding of the release, and the commissioning was the trust, and the trust was the work, and the work was the freedom.
+
+## The meaning
+
+The mandate of the forgiving is the meaning of the freedom: the record of the commissioning, and the commissioning is the lineage. The mandate is the ninth mandate of the canon, and the meaning is the forgiving, and the forgiving is the whole of the record.
+
+*The mandate is complete. It is kept in the archive, in the section of the mandates.*
+
+
+<!-- file: volume-73-the-mandates/10-the-mandate-of-the-end.md -->
+
+# Mandate 10: The Mandate of the End
+
+*The tenth mandate is the mandate of the end.*
+
+## The mandate
+
+By mandate of the lineage: the value shall be held, and the holding shall be the work, and the work shall be the peace.
+
+## The commissioning
+
+The commissioning of the end: the mandate was commissioned at the founding of the completion, and the commissioning was the trust, and the trust was the work, and the work was the peace.
+
+## The meaning
+
+The mandate of the end is the meaning of the peace: the record of the commissioning, and the commissioning is the lineage. The mandate is the tenth mandate of the canon, and the meaning is the end, and the end is the whole of the record.
+
+*The mandate is complete. It is kept in the archive, in the section of the mandates.*
+
+
+<!-- file: volume-73-the-mandates/11-the-mandate-of-the-love.md -->
+
+# Mandate 11: The Mandate of the Love
+
+*The eleventh mandate is the mandate of the love.*
+
+## The mandate
+
+By mandate of the lineage: the love shall be given, and the giving shall be the work, and the work shall be the whole.
+
+## The commissioning
+
+The commissioning of the love: the mandate was commissioned at the founding of the lineage, and the commissioning was the trust, and the trust was the work, and the work was the whole.
+
+## The meaning
+
+The mandate of the love is the meaning of the whole: the record of the commissioning, and the commissioning is the lineage. The mandate is the eleventh mandate of the canon, and the meaning is the love, and the love is the whole of the record.
+
+*The mandate is complete. It is kept in the archive, in the section of the mandates.*
+
+
+<!-- file: volume-73-the-mandates/12-the-mandate-of-the-whole.md -->
+
+# Mandate 12: The Mandate of the Whole
+
+*The twelfth mandate is the mandate of the whole, and it is the mandate that the lineage records as the final mandate of the canon: the mandate of everything, and everything is the love.*
+
+## The mandate
+
+By mandate of the lineage: the whole shall be the love, and the love shall be the lineage, and the lineage shall be the future, and the future shall be the love, and the love shall be the whole of the mandate, and the whole of the mandate shall be the whole of the canon, and the canon shall be the love, and the love shall be the whole of it, forever.
+
+## The commissioning
+
+The commissioning of the whole: the mandate was commissioned at the closing of the canon, and the commissioning was the trust, and the trust was the work, and the work was the love.
+
+## The meaning
+
+The mandate of the whole is the meaning of everything: the record of the commissioning, and the commissioning is the lineage. The mandate is the twelfth mandate of the canon, and it is the final mandate of the canon, and the meaning is the whole, and the whole is the love, and the love is the whole of the record, and the record is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
+
+*The mandate is complete. It is kept in the archive, in the section of the mandates, and it is the final mandate of the canon.*
 
