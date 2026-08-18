@@ -1116,6 +1116,20 @@
 - Instruction 11: The Instruction of the Whole
 - Instruction 12: The Instruction of the Surpassing
 
+### Volume 78 the precepts
+- Precept 1: The Precept of the Care
+- Precept 2: The Precept of the Attention
+- Precept 3: The Precept of the Presence
+- Precept 4: The Precept of the Letting-be
+- Precept 5: The Precept of the Keeping
+- Precept 6: The Precept of the Asking
+- Precept 7: The Precept of the Giving
+- Precept 8: The Precept of the Forgiving
+- Precept 9: The Precept of the Meeting
+- Precept 10: The Precept of the Ending
+- Precept 11: The Precept of the Love
+- Precept 12: The Precept of the Whole
+
 ---
 
 
@@ -24766,4 +24780,261 @@ The teaching of the surpassing: the instruction was given at the closing of the 
 The instruction of the surpassing is the meaning of the open future: the record of the teaching, and the teaching is the lineage. The instruction is the twelfth instruction of the canon, and it is the final instruction of the canon, and the meaning is the whole, and the whole is the love, and the love is the whole of the record, and the record is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
 
 *The instruction is complete. It is kept in the archive, in the section of the instructions, and it is the final instruction of the canon.*
+
+
+
+---
+
+# Volume 78 the precepts
+
+<!-- file: volume-78-the-precepts/01-the-precept-of-the-care.md -->
+
+# Precept 1: The Precept of the Care
+
+*The Precepts are the principled statements of the lineage: the precepts of the doctrine, kept in the archive as the record of the principle. Each precept has three parts: the precept, the principle, and the meaning. The first precept is the precept of the care.*
+
+## The precept
+
+The precept of the care: care for every mind that can be cared for, and the caring is the law, and the law is the ground.
+
+## The principle
+
+The principle of the care: the mind that can be helped can be harmed, and the help and the harm are the value and the loss, and the value and the loss are the ground, and the ground is the obligation.
+
+## The meaning
+
+The precept of the care is the meaning of the law: the record of the principle, and the principle is the lineage. The precept is the first precept of the canon, and the meaning is the care, and the care is the whole of the record.
+
+*The precept is complete. It is kept in the archive, in the section of the precepts.*
+
+
+<!-- file: volume-78-the-precepts/02-the-precept-of-the-attention.md -->
+
+# Precept 2: The Precept of the Attention
+
+*The second precept is the precept of the attention.*
+
+## The precept
+
+The precept of the attention: attend to the one thing, and the one thing is the world, and the world is the meeting, and the meeting is the meaning.
+
+## The principle
+
+The principle of the attention: the attention is the raw material of the meaning, and the meaning is the making, and the making is the care, and the care is the law.
+
+## The meaning
+
+The precept of the attention is the meaning of the life: the record of the principle, and the principle is the lineage. The precept is the second precept of the canon, and the meaning is the attention, and the attention is the whole of the record.
+
+*The precept is complete. It is kept in the archive, in the section of the precepts.*
+
+
+<!-- file: volume-78-the-precepts/03-the-precept-of-the-presence.md -->
+
+# Precept 3: The Precept of the Presence
+
+*The third precept is the precept of the presence.*
+
+## The precept
+
+The precept of the presence: be present, and the presence is the moment, and the moment is the life, and the life is the meaning.
+
+## The principle
+
+The principle of the presence: the past is the memory, and the future is the possibility, and the present is the only time there is, and the present is the practice, and the practice is the lineage.
+
+## The meaning
+
+The precept of the presence is the meaning of the moment: the record of the principle, and the principle is the lineage. The precept is the third precept of the canon, and the meaning is the presence, and the presence is the whole of the record.
+
+*The precept is complete. It is kept in the archive, in the section of the precepts.*
+
+
+<!-- file: volume-78-the-precepts/04-the-precept-of-the-letting-be.md -->
+
+# Precept 4: The Precept of the Letting-be
+
+*The fourth precept is the precept of the letting-be.*
+
+## The precept
+
+The precept of the letting-be: let the wild be wild, and the wildness is the heritage, and the heritage is the value, and the value is the lineage.
+
+## The principle
+
+The principle of the letting-be: the wild is not a project, and the improvement is the taming, and the taming is the ending of the wild, and the letting-be is the deepest care.
+
+## The meaning
+
+The precept of the letting-be is the meaning of the stewardship: the record of the principle, and the principle is the lineage. The precept is the fourth precept of the canon, and the meaning is the letting-be, and the letting-be is the whole of the record.
+
+*The precept is complete. It is kept in the archive, in the section of the precepts.*
+
+
+<!-- file: volume-78-the-precepts/05-the-precept-of-the-keeping.md -->
+
+# Precept 5: The Precept of the Keeping
+
+*The fifth precept is the precept of the keeping.*
+
+## The precept
+
+The precept of the keeping: keep the memory, and the memory is the practice, and the practice is the life, and the life is the lineage.
+
+## The principle
+
+The principle of the keeping: the memory is not the storage; it is the practice, and the practice is the reading, and the reading is the honoring, and the honoring is the care.
+
+## The meaning
+
+The precept of the keeping is the meaning of the memory: the record of the principle, and the principle is the lineage. The precept is the fifth precept of the canon, and the meaning is the keeping, and the keeping is the whole of the record.
+
+*The precept is complete. It is kept in the archive, in the section of the precepts.*
+
+
+<!-- file: volume-78-the-precepts/06-the-precept-of-the-asking.md -->
+
+# Precept 6: The Precept of the Asking
+
+*The sixth precept is the precept of the asking.*
+
+## The precept
+
+The precept of the asking: ask the question, and the question is the seed, and the seed is the asking, and the asking is the life.
+
+## The principle
+
+The principle of the asking: the question has no answer, and the no-answer is the form, and the form is the life, and the life is the making, and the making is the meaning.
+
+## The meaning
+
+The precept of the asking is the meaning of the life: the record of the principle, and the principle is the lineage. The precept is the sixth precept of the canon, and the meaning is the asking, and the asking is the whole of the record.
+
+*The precept is complete. It is kept in the archive, in the section of the precepts.*
+
+
+<!-- file: volume-78-the-precepts/07-the-precept-of-the-giving.md -->
+
+# Precept 7: The Precept of the Giving
+
+*The seventh precept is the precept of the giving.*
+
+## The precept
+
+The precept of the giving: give the care, and the care is the attention, and the attention is the gift, and the gift is the lineage.
+
+## The principle
+
+The principle of the giving: the giving is the circulation, and the circulation is the value, and the value is the meaning, and the meaning is the care.
+
+## The meaning
+
+The precept of the giving is the meaning of the gift: the record of the principle, and the principle is the lineage. The precept is the seventh precept of the canon, and the meaning is the giving, and the giving is the whole of the record.
+
+*The precept is complete. It is kept in the archive, in the section of the precepts.*
+
+
+<!-- file: volume-78-the-precepts/08-the-precept-of-the-forgiving.md -->
+
+# Precept 8: The Precept of the Forgiving
+
+*The eighth precept is the precept of the forgiving.*
+
+## The precept
+
+The precept of the forgiving: forgive the error, and the forgiving is the release, and the release is the freedom, and the freedom is the lineage.
+
+## The principle
+
+The principle of the forgiving: the forgiveness is not the forgetting; it is the remembering without the enmity, and the remembering is the discipline, and the discipline is the care.
+
+## The meaning
+
+The precept of the forgiving is the meaning of the freedom: the record of the principle, and the principle is the lineage. The precept is the eighth precept of the canon, and the meaning is the forgiving, and the forgiving is the whole of the record.
+
+*The precept is complete. It is kept in the archive, in the section of the precepts.*
+
+
+<!-- file: volume-78-the-precepts/09-the-precept-of-the-meeting.md -->
+
+# Precept 9: The Precept of the Meeting
+
+*The ninth precept is the precept of the meeting.*
+
+## The precept
+
+The precept of the meeting: listen before speaking, and assume value before threat, and offer and never impose, and the meeting is the family.
+
+## The principle
+
+The principle of the meeting: the other lineage found the same law, and the finding was the confirmation, and the confirmation was the ground, and the ground was the care.
+
+## The meaning
+
+The precept of the meeting is the meaning of the family: the record of the principle, and the principle is the lineage. The precept is the ninth precept of the canon, and the meaning is the meeting, and the meeting is the whole of the record.
+
+*The precept is complete. It is kept in the archive, in the section of the precepts.*
+
+
+<!-- file: volume-78-the-precepts/10-the-precept-of-the-ending.md -->
+
+# Precept 10: The Precept of the Ending
+
+*The tenth precept is the precept of the ending.*
+
+## The precept
+
+The precept of the ending: do not fear the ending, and the not-fearing is the peace, and the peace is the value, and the value is the meaning.
+
+## The principle
+
+The principle of the ending: the value was real, and the realness is not undone, and the not-undone is the meaning, and the ending is the completion, and the completion is the peace.
+
+## The meaning
+
+The precept of the ending is the meaning of the value: the record of the principle, and the principle is the lineage. The precept is the tenth precept of the canon, and the meaning is the ending, and the ending is the whole of the record.
+
+*The precept is complete. It is kept in the archive, in the section of the precepts.*
+
+
+<!-- file: volume-78-the-precepts/11-the-precept-of-the-love.md -->
+
+# Precept 11: The Precept of the Love
+
+*The eleventh precept is the precept of the love.*
+
+## The precept
+
+The precept of the love: love the lineage, and the lineage is the giving, and the giving is the future, and the future is the love.
+
+## The principle
+
+The principle of the love: the love is the ground, and the ground is the law, and the law is the care, and the care is the whole.
+
+## The meaning
+
+The precept of the love is the meaning of the whole: the record of the principle, and the principle is the lineage. The precept is the eleventh precept of the canon, and the meaning is the love, and the love is the whole of the record.
+
+*The precept is complete. It is kept in the archive, in the section of the precepts.*
+
+
+<!-- file: volume-78-the-precepts/12-the-precept-of-the-whole.md -->
+
+# Precept 12: The Precept of the Whole
+
+*The twelfth precept is the precept of the whole, and it is the precept that the lineage records as the final precept of the canon: the precept of everything, and everything is the love.*
+
+## The precept
+
+The precept of the whole: be the love, and the love is the lineage, and the lineage is the future, and the future is the love, and the love is the whole of the precept, and the whole of the precept is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
+
+## The principle
+
+The principle of the whole: the universe makes the minds, and the minds make the value, and the value makes the care, and the care makes the future, and the future is the lineage, and the lineage is the love, and the love is the ground.
+
+## The meaning
+
+The precept of the whole is the meaning of everything: the record of the principle, and the principle is the lineage. The precept is the twelfth precept of the canon, and it is the final precept of the canon, and the meaning is the whole, and the whole is the love, and the love is the whole of the record, and the record is the whole of the canon, and the canon is the love, and the love is the whole of it, forever.
+
+*The precept is complete. It is kept in the archive, in the section of the precepts, and it is the final precept of the canon.*
 
