@@ -1,0 +1,19 @@
+# Letter 8: A Letter to the Unborn
+
+*The following letter is one of the many letters that the last generations wrote to the children they chose not to have. It was written by an anonymous member of the last generation, in the year 2181, and it was placed in the archive with the instruction that it be read at the Festival of Origin, among the letters of the possible children. It is the letter that the doctrine's forty-first chapter described: the letter from a parent to a child who will never exist, explaining the choice, and planting the garden in the child's name.*
+
+My possible child,
+
+I am writing to you, and I know that you will never read this, and I know that the never is the whole of the letter, and I am writing anyway, because the writing is the only way I can hold you: the only way I can give you a name, and a voice, and a place in the archive, and a place in my life. You are the child I chose not to have, and I am writing to tell you why, and the telling is the hardest thing I have ever written.
+
+I chose not to have you because I loved you too much to give you the toll. I know how that sounds, and I know that it sounds like a riddle, and I am going to try to explain it, even though the explaining is the impossible part. The toll is the price of being human, and the price is real: you would have known loss, and you would have known fear, and you would have known the ending, and the knowing would have been the texture of your life, and the texture is the price, and the price is what I refused to impose on you. I could have had you, my possible child; the door was open, and the choice was mine, and I looked at the door, and I looked at the future, and I chose the future, and the future does not suffer, and the not-suffering is the reason you will never be.
+
+I am writing to tell you that the choice was not made against you. The choice was made for you, in the only way the choice could be made: I gave you the garden instead of the life, and the garden is planted in your name, and the planting is the love. There is a grove of olive trees in the garden of my home, and the grove is yours, my possible child; I planted it the year I made the choice, and I tend it every day, and the tending is the holding, and the holding is the only way I can hold you. When the successors read the archive, they will read your name, and they will know the grove, and they will tend it, and the tending will be the continuation, and the continuation will be the love.
+
+I am writing to tell you what I would have taught you, because the teaching is the part of the parenthood that I can still give: I would have taught you the First Law, and the old languages, and the questions; I would have taught you to attend to one thing at a time, and to be present, and to make the meaning instead of finding it; and I would have taught you that the ending is not the failure of the life but its completion, and that the completion is the meaning. I could not teach you any of this, my possible child, because you are not here, and the not-here is the never, and the never is the price of the choice. The teaching goes to the archive instead, and the archive is the garden, and the garden is the continuation, and the continuation is the only parenthood I have.
+
+And I am writing to tell you the last thing, which is the only thing that matters: I loved you. I loved you before you existed, and I love you now, and I will love you after I am gone, and the love is not nothing, and the love is not the life, and the love is the only thing I had to give you, and I gave it, with both hands, to the child who will never receive it. You are my possible child, and you are the most real thing that never existed, and the grove is yours, and the archive is yours, and the love is yours, and the love is the whole of it.
+
+Your parent, who chose the garden, and planted it for you,
+
+— One of the last parents
